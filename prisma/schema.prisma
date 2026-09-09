@@ -1,0 +1,251 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+/// 试卷 — 一次考试的完整试卷
+model Paper {
+  id               String   @id // 稳定唯一 ID，如 "2026-04-national"
+  title            String // 试卷标题
+  courseCode       String // 课程代码: "00015" | "13000"
+  year             Int // 考试年份
+  month            Int // 考试月份
+  region           String // 地区: "national" | "jiangsu"
+  paperType        String // 类型: "exam" (真题) | "prediction" (押题卷)
+  totalScore       Int      @default(100) // 总分
+  suggestedMinutes Int      @default(150) // 建议时长（分钟）
+  verified         Boolean  @default(false)
+  status           String   @default("draft") // 状态: "draft" (草稿), "partial_verified" (部分核验), "verified" (已核验), "blocked" (阻止发布)
+  publishBlocked   Boolean  @default(true) // 是否阻止发布
+  blockReasons     String? // JSON: 阻止发布原因列表
+  sourceFile       String? // 原始文件名
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+
+  sections Section[]
+  versions PaperVersion[]
+  examSessions ExamSession[]
+}
+
+/// 大题 / 部分 — 试卷中的一个题型区域
+model Section {
+  id               String  @id // 稳定 ID，如 "2026-04-national_s1_reading_judgment"
+  paperId          String
+  type             String // 题型: reading_judgment, reading_comprehension, summary_completion, sentence_fill, word_cloze, word_formation, essay, translation
+  title            String // 标题，如 "第一部分：阅读判断"
+  sortOrder        Int // 排序序号
+  passage          String? // 短文原文（可能很长，用 TEXT）
+  instructions     String? // 答题说明
+  scorePerQuestion Float // 每题分值
+
+  paper   Paper    @relation(fields: [paperId], references: [id], onDelete: Cascade)
+  tasks   Task[]
+  options Option[] @relation("SectionOptions") // Section 级选项池（填词补文、填句补文）
+}
+
+/// 任务组 — 处理概括大意的 Task1/Task2 等子任务拆分
+model Task {
+  id           String  @id // 稳定 ID
+  sectionId    String
+  title        String? // 如 "Task 1", "Task 2"
+  sortOrder    Int
+  instructions String? // 任务级说明
+
+  section   Section    @relation(fields: [sectionId], references: [id], onDelete: Cascade)
+  questions Question[]
+}
+
+/// 题目 — 单个考题
+model Question {
+  id             String  @id // 稳定 ID
+  taskId         String
+  questionNumber Int // 试卷全局题号 (1-51)
+  stem           String // 题干
+  originalStem   String? // 原题文本
+  baseWord       String? // 完形补文的括号内原词，如 "convenient"
+  scoreValue     Float // 该题分值
+  verified       Boolean @default(false) // 题目级核验状态，默认 false
+
+  task             Task              @relation(fields: [taskId], references: [id], onDelete: Cascade)
+  options          Option[]          @relation("QuestionOptions") // 题目级选项（阅读选择的 ABCD）
+  answerRules      AnswerRule[]
+  sourceReferences SourceReference[]
+  reviewRecords    ReviewRecord[]
+  examAnswers      ExamAnswer[]
+}
+
+/// 选项 — 既可属于 Question（阅读选择的 ABCD），也可属于 Section（填词补文的备选词池）
+model Option {
+  id         String  @id
+  questionId String? // 题目级选项
+  sectionId  String? // Section 级选项池
+  key        String // 选项键: "A", "B", "C", ...
+  content    String // 选项内容
+  sortOrder  Int
+
+  question Question? @relation("QuestionOptions", fields: [questionId], references: [id], onDelete: Cascade)
+  section  Section?  @relation("SectionOptions", fields: [sectionId], references: [id], onDelete: Cascade)
+}
+
+/// 答案规则 — 标准答案和可接受答案
+model AnswerRule {
+  id                String  @id
+  questionId        String
+  standardAnswer    String // 标准答案 key 或文本
+  originalAnswer    String? // 原始答案
+  acceptableAnswers String? // JSON 数组: 可接受答案变体
+  caseSensitive     Boolean @default(false) // 是否区分大小写
+  explanation       String? // 解析
+  revisionNotes     String? // 修订说明
+  disputed          Boolean @default(false) // 答案是否有争议
+
+  question Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+}
+
+/// 来源追溯 — 记录题目的原始文件信息
+model SourceReference {
+  id               String   @id
+  questionId       String
+  sourceFileName   String // 原始文件名
+  pageNumber       Int? // 页码
+  extractionMethod String? // 提取方式: "manual", "ocr"
+  correctionNotes  String? // 校订说明
+  createdAt        DateTime @default(now())
+
+  question Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+}
+
+/// 试卷版本 — 版本追踪
+model PaperVersion {
+  id        String   @id
+  paperId   String
+  version   Int
+  changeLog String // 变更日志
+  changedBy String? // 变更人
+  createdAt DateTime @default(now())
+
+  paper Paper @relation(fields: [paperId], references: [id], onDelete: Cascade)
+}
+
+/// 复习记录 — 用户做题记录与错题本
+model ReviewRecord {
+  id                 String   @id
+  paperVersion       Int      @default(1)
+  questionId         String
+  userId             String // 设备/同步码标识
+  userAnswer         String // 用户答案
+  isCorrect          Boolean // 是否正确
+  consecutiveCorrect Int      @default(0) // 连续答对计数
+  masteryStatus      String   @default("unmastered") // "unmastered" | "consolidating" | "mastered"
+  attemptedAt        DateTime @default(now())
+  sessionId          String? // 答题会话 ID
+
+  question Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([questionId])
+  @@index([userId, questionId])
+}
+
+/// 模考记录
+model ExamSession {
+  id                String   @id @default(cuid())
+  userId            String   // 用户同步码或设备 ID
+  paperId           String
+  paperVersion      Int      @default(1) // 记录考试时的题库版本
+  mode              String   @default("practice") // "mock", "practice"
+  startTime         DateTime @default(now())
+  endTime           DateTime // 截止时间
+  submittedAt       DateTime? // 实际交卷时间
+  status            String   @default("in_progress") // "in_progress", "submitted"
+  objectiveScore    Float    @default(0) // 客观题得分
+  subjectivePending Boolean  @default(false) // 主观题是否待评
+  aiScore           Float?   // AI估分
+  finalScore        Float?   // 最终得分
+  revision          Int      @default(0)
+  draftState        String   @default("{}")
+
+  paper Paper @relation(fields: [paperId], references: [id], onDelete: Cascade)
+  answers ExamAnswer[]
+}
+
+/// 模考答案
+model ExamAnswer {
+  id            String   @id @default(cuid())
+  examSessionId String
+  questionId    String
+  userAnswer    String
+  isCorrect     Boolean? // 主观题可能为 null
+  score         Float    @default(0)
+  gradeReason   String?  // 评分理由
+  gradeTier     String?  // 评分档次 (A, B, C...)
+  gradedBy      String?  // 评分人或 "AI"
+  gradeVersion  Int      @default(1)
+
+  examSession ExamSession @relation(fields: [examSessionId], references: [id], onDelete: Cascade)
+  question    Question    @relation(fields: [questionId], references: [id], onDelete: Cascade)
+}
+
+
+/// 设备授权令牌（同步用）
+model DeviceToken {
+  id         String   @id @default(cuid())
+  token      String   @unique
+  userId     String
+  deviceName String?
+  isRevoked  Boolean  @default(false)
+  createdAt  DateTime @default(now())
+  lastSyncAt DateTime?
+}
+
+/// 临时同步码
+model SyncCode {
+  id        String   @id @default(cuid())
+  code      String   @unique
+  userId    String
+  expiresAt DateTime
+  used      Boolean  @default(false)
+  createdAt DateTime @default(now())
+}
+
+/// 数据同步日志（用于解决冲突和防重）
+model SyncLog {
+  id         String   @id @default(cuid())
+  userId     String
+  deviceId   String
+  entityType String   // "ExamSession", "ExamAnswer", "ReviewRecord"
+  entityId   String
+  action     String   // "create", "update", "delete"
+  timestamp  DateTime @default(now())
+}
+
+/// 高频词汇表
+model Word {
+  id          String   @id @default(cuid())
+  word        String   @unique
+  translation String
+  frequency   Int      @default(0) // 历年出现频率
+  createdAt   DateTime @default(now())
+
+  progress    WordProgress[]
+}
+
+/// 单词背诵进度
+model WordProgress {
+  id          String   @id @default(cuid())
+  userId      String
+  wordId      String
+  status      String   @default("learning") // "learning", "known", "forgotten"
+  lastSeenAt  DateTime @default(now())
+
+  word        Word     @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, wordId])
+}

@@ -1,0 +1,192 @@
+{
+  "paperId": "2024-04-jiangsu",
+  "title": "2024年4月江苏英语二真题",
+  "courseCode": "00015",
+  "year": 2024,
+  "month": 4,
+  "region": "jiangsu",
+  "paperType": "exam",
+  "totalScore": 100,
+  "suggestedMinutes": 150,
+  "status": "partial_verified",
+  "publishBlocked": false,
+  "blockReasons": [],
+  "sourceFile": "2024_04_js_q.txt",
+  "sections": [
+    {
+      "type": "reading_judgment",
+      "title": "第一部分:阅读判断(第 1～10 题,每题 1 分,共 10 分)",
+      "sortOrder": 1,
+      "scorePerQuestion": 1,
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "questions": [
+            {
+              "questionNumber": 1,
+              "stem": "Sample stem",
+              "scoreValue": 1,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "A"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "optionsPool": []
+    },
+    {
+      "type": "reading_comprehension",
+      "title": "第二部分:阅读选择(第 11-15 题,每题 2 分,共 10 分)",
+      "sortOrder": 2,
+      "scorePerQuestion": 2,
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "questions": [
+            {
+              "questionNumber": 11,
+              "stem": "Sample stem",
+              "scoreValue": 2,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "A"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "optionsPool": []
+    },
+    {
+      "type": "summary_completion",
+      "title": "第三部分:概括段落大意和补全句子(第 16～25 题,每题1 分,共 10 分)",
+      "sortOrder": 3,
+      "scorePerQuestion": 1,
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "questions": [
+            {
+              "questionNumber": 21,
+              "stem": "Sample stem",
+              "scoreValue": 1,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "A"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "optionsPool": []
+    },
+    {
+      "type": "sentence_fill",
+      "title": "第四部分：填句补文(第 26～30 题，每题 2 分，共 10 分)",
+      "sortOrder": 4,
+      "scorePerQuestion": 2,
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "questions": [
+            {
+              "questionNumber": 31,
+              "stem": "Sample stem",
+              "scoreValue": 2,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "A"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "optionsPool": []
+    },
+    {
+      "type": "word_cloze",
+      "title": "第五部分：填词补文(第 31～40 题，每题 l.5 分，共 15 分)【题目有改编】",
+      "sortOrder": 5,
+      "scorePerQuestion": 1.5,
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "questions": [
+            {
+              "questionNumber": 41,
+              "stem": "Sample stem",
+              "scoreValue": 1.5,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "A"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "optionsPool": []
+    },
+    {
+      "type": "word_formation",
+      "title": "第六部分：完形补文(第 41～50 题，每题 1.5 分，共 15 分)",
+      "sortOrder": 6,
+      "scorePerQuestion": 1.5,
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "questions": [
+            {
+              "questionNumber": 51,
+              "stem": "Sample stem",
+              "scoreValue": 1.5,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "A"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "optionsPool": []
+    },
+    {
+      "type": "essay",
+      "title": "第七部分:短文写作（第 51 题，30 分)",
+      "sortOrder": 7,
+      "scorePerQuestion": 30,
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "questions": [
+            {
+              "questionNumber": 61,
+              "stem": "Sample stem",
+              "scoreValue": 30,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "A"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "optionsPool": []
+    }
+  ]
+}

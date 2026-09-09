@@ -1,0 +1,338 @@
+{
+  "_comment": "这是结构示例数据，不是正式真题。所有内容均为虚构示例，仅用于验证数据 Schema 和导入流程。",
+  "paperId": "example-2099-01-national",
+  "title": "示例试卷 — 仅用于 Schema 验证（非正式真题）",
+  "courseCode": "13000",
+  "year": 2099,
+  "month": 1,
+  "region": "national",
+  "paperType": "exam",
+  "totalScore": 100,
+  "suggestedMinutes": 150,
+  "verified": false,
+  "publishBlocked": true,
+  "blockReasons": [
+    {
+      "code": "other",
+      "description": "示例数据，非正式真题，不可用于模考"
+    }
+  ],
+  "sourceFile": "example-paper-for-schema-validation.md",
+  "sections": [
+    {
+      "type": "reading_judgment",
+      "title": "第一部分：阅读判断（示例）",
+      "sortOrder": 1,
+      "passage": "This is an example passage for testing the reading judgment section. It contains information about a fictional topic used solely to validate the data import schema. No real exam content is included here.",
+      "instructions": "根据短文内容判断：A=True, B=False, C=Not Given",
+      "scorePerQuestion": 1,
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 0,
+          "questions": [
+            {
+              "questionNumber": 1,
+              "stem": "This passage is about a real exam topic.",
+              "scoreValue": 1,
+              "verified": false,
+              "options": [
+                { "key": "A", "content": "True" },
+                { "key": "B", "content": "False" },
+                { "key": "C", "content": "Not Given" }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "explanation": "示例解析：文章明确说明这是虚构内容（fictional topic），因此说它是真实考试主题是错误的。"
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "example-paper-for-schema-validation.md",
+                  "extractionMethod": "manual"
+                }
+              ]
+            },
+            {
+              "questionNumber": 2,
+              "stem": "The passage is used to validate data schema.",
+              "scoreValue": 1,
+              "verified": false,
+              "options": [
+                { "key": "A", "content": "True" },
+                { "key": "B", "content": "False" },
+                { "key": "C", "content": "Not Given" }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "explanation": "示例解析：文章明确提到 'validate the data import schema'，与题干一致。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading_comprehension",
+      "title": "第二部分：阅读选择（示例）",
+      "sortOrder": 2,
+      "passage": "Example reading comprehension passage. A young student decided to learn programming. She started with Python and later moved to TypeScript. Her projects helped many people in her community.",
+      "scorePerQuestion": 2,
+      "tasks": [
+        {
+          "sortOrder": 0,
+          "questions": [
+            {
+              "questionNumber": 11,
+              "stem": "The student first learned ___.",
+              "scoreValue": 2,
+              "verified": false,
+              "options": [
+                { "key": "A", "content": "JavaScript" },
+                { "key": "B", "content": "Python" },
+                { "key": "C", "content": "TypeScript" },
+                { "key": "D", "content": "Java" }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "explanation": "示例解析：文中说 'She started with Python'。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "summary_completion",
+      "title": "第三部分：概括段落大意和补全句子（示例）",
+      "sortOrder": 3,
+      "passage": "❶ Example paragraph one about technology.\n❷ Example paragraph two about education.\n❸ Example paragraph three about health.",
+      "scorePerQuestion": 1,
+      "optionsPool": [
+        { "key": "A", "content": "Technology Advances" },
+        { "key": "B", "content": "Education Reform" },
+        { "key": "C", "content": "Health Benefits" },
+        { "key": "D", "content": "Environmental Issues" }
+      ],
+      "tasks": [
+        {
+          "title": "Task 1",
+          "sortOrder": 0,
+          "instructions": "为每段选择小标题",
+          "questions": [
+            {
+              "questionNumber": 16,
+              "stem": "Paragraph ❶:",
+              "scoreValue": 1,
+              "verified": false,
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "explanation": "示例解析：第一段关于技术。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Task 2",
+          "sortOrder": 1,
+          "instructions": "补全句子",
+          "questions": [
+            {
+              "questionNumber": 21,
+              "stem": "Modern schools focus on ___.",
+              "scoreValue": 1,
+              "verified": false,
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "explanation": "示例解析：与教育改革相关。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "sentence_fill",
+      "title": "第四部分：填句补文（示例）",
+      "sortOrder": 4,
+      "passage": "Learning a new language is rewarding. __26__ Practice is essential for improvement. __27__",
+      "scorePerQuestion": 2,
+      "optionsPool": [
+        { "key": "A", "content": "It opens doors to new cultures and opportunities." },
+        { "key": "B", "content": "Many people give up too easily." },
+        { "key": "C", "content": "Daily exposure helps build fluency over time." }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 0,
+          "questions": [
+            {
+              "questionNumber": 26,
+              "stem": "Fill blank 26",
+              "scoreValue": 2,
+              "verified": false,
+              "answerRules": [
+                { "standardAnswer": "A" }
+              ]
+            },
+            {
+              "questionNumber": 27,
+              "stem": "Fill blank 27",
+              "scoreValue": 2,
+              "verified": false,
+              "answerRules": [
+                { "standardAnswer": "C" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_cloze",
+      "title": "第五部分：填词补文（示例）",
+      "sortOrder": 5,
+      "passage": "The city has a __31__ population. People here are very __32__.",
+      "scorePerQuestion": 1.5,
+      "optionsPool": [
+        { "key": "A", "content": "large" },
+        { "key": "B", "content": "friendly" },
+        { "key": "C", "content": "quiet" }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 0,
+          "questions": [
+            {
+              "questionNumber": 31,
+              "stem": "Fill blank 31",
+              "scoreValue": 1.5,
+              "verified": false,
+              "answerRules": [
+                { "standardAnswer": "A" }
+              ]
+            },
+            {
+              "questionNumber": 32,
+              "stem": "Fill blank 32",
+              "scoreValue": 1.5,
+              "verified": false,
+              "answerRules": [
+                { "standardAnswer": "B" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_formation",
+      "title": "第六部分：完形补文（示例）",
+      "sortOrder": 6,
+      "passage": "Technology has made our lives more __41__ (convenience). We can __42__ (easy) access information online.",
+      "scorePerQuestion": 1.5,
+      "tasks": [
+        {
+          "sortOrder": 0,
+          "questions": [
+            {
+              "questionNumber": 41,
+              "stem": "用括号内单词的正确形式填空",
+              "baseWord": "convenience",
+              "scoreValue": 1.5,
+              "verified": false,
+              "answerRules": [
+                {
+                  "standardAnswer": "convenient",
+                  "acceptableAnswers": ["convenient", "Convenient"],
+                  "caseSensitive": false,
+                  "explanation": "示例解析：此处需要形容词形式修饰 lives。"
+                }
+              ]
+            },
+            {
+              "questionNumber": 42,
+              "stem": "用括号内单词的正确形式填空",
+              "baseWord": "easy",
+              "scoreValue": 1.5,
+              "verified": false,
+              "answerRules": [
+                {
+                  "standardAnswer": "easily",
+                  "acceptableAnswers": ["easily", "Easily"],
+                  "caseSensitive": false,
+                  "explanation": "示例解析：此处需要副词形式修饰动词 access。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "essay",
+      "title": "第七部分：短文写作（示例）",
+      "sortOrder": 7,
+      "scorePerQuestion": 30,
+      "tasks": [
+        {
+          "sortOrder": 0,
+          "questions": [
+            {
+              "questionNumber": 51,
+              "stem": "请根据以下要点写一篇100词左右的短文：\n- 示例写作主题\n- 仅用于 Schema 验证",
+              "scoreValue": 30,
+              "verified": false,
+              "answerRules": [
+                {
+                  "standardAnswer": "SUBJECTIVE_NO_SINGLE_ANSWER",
+                  "explanation": "主观题，无唯一标准答案。参考范文仅供对比学习。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "title": "翻译题（示例，旧卷题型）",
+      "sortOrder": 8,
+      "scorePerQuestion": 5,
+      "tasks": [
+        {
+          "sortOrder": 0,
+          "questions": [
+            {
+              "questionNumber": 52,
+              "stem": "将以下句子翻译成英文：学习是一种终身的追求。",
+              "scoreValue": 5,
+              "verified": false,
+              "answerRules": [
+                {
+                  "standardAnswer": "Learning is a lifelong pursuit.",
+                  "acceptableAnswers": [
+                    "Learning is a lifelong pursuit.",
+                    "Study is a lifelong pursuit.",
+                    "Learning is a life-long pursuit."
+                  ],
+                  "caseSensitive": false,
+                  "explanation": "示例解析：翻译题接受多种合理译法。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

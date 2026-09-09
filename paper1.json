@@ -1,0 +1,1074 @@
+{
+  "paperId": "2024-prediction-1",
+  "title": "押题库考前试卷（1）",
+  "courseCode": "00015",
+  "year": 2024,
+  "month": 4,
+  "region": "national",
+  "paperType": "prediction",
+  "totalScore": 100,
+  "suggestedMinutes": 150,
+  "status": "draft",
+  "publishBlocked": true,
+  "blockReasons": [
+    {
+      "code": "missing_answer",
+      "description": "Missing answer for q35"
+    }
+  ],
+  "sourceFile": "q1.txt",
+  "sections": [
+    {
+      "type": "reading_judgment",
+      "title": "第一部分:阅读判断(第 1-10 题，每题 1 分，共 10 分)",
+      "sortOrder": 1,
+      "scorePerQuestion": 1,
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "questions": [
+            {
+              "questionNumber": 1,
+              "stem": "Young people may be more concerned about leisure time when applying for jobs.",
+              "scoreValue": 1,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "explanation": "文章第一段中提到了应聘者提出的几个问题:What are my...my hobbies, 由此可以\n看出他们关注的更多是公司给予的“假期”待遇,而非工作本身带来的经历、价值和成长空间\n等。所以题干的说法是正确的。"
+                }
+              ]
+            },
+            {
+              "questionNumber": 2,
+              "stem": "Good work attitudes, habits, and skills are learned at school.",
+              "scoreValue": 1,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "explanation": "第二段第一句就说到 Good work... work experience, 即好的工作态度、习惯和技\n术来自工作经历而非在学校可以学到。所以题干说法是错误的。"
+                }
+              ]
+            },
+            {
+              "questionNumber": 3,
+              "stem": "Before going to school, the author had to milk all the cows in the morning.",
+              "scoreValue": 1,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "explanation": "第二段第三行讲到  would enter our barnyard... the milking barn, 即需要给 \n10 至 12 只奶牛挤奶，至于说是不是一共有 12 头牛，或父母会帮忙给余下的其他奶牛挤奶,文\n章并未提及。"
+                }
+              ]
+            },
+            {
+              "questionNumber": 4,
+              "stem": "Unlike his parents, the young boy seemed not to be glad to see the cows every \nmorning.",
+              "scoreValue": 1,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "explanation": "第二段最后讲到父母每天早晨都会对奶牛问好,Good morning. It's good to see  \nyou! 然后后面提到I didn't feel quite the same way, 这说明作者和父母的感受不同，不\n愿意清早起床挤牛奶。"
+                }
+              ]
+            },
+            {
+              "questionNumber": 5,
+              "stem": "After each cow was milked, the author would carry the milk to the market.",
+              "scoreValue": 1,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "explanation": "第三段最后一句提到 It made me...to the road, 所以作者是将牛奶桶提到路边等\n待牛奶厂的人来接货，并没提到运到集市去卖。"
+                }
+              ]
+            },
+            {
+              "questionNumber": 6,
+              "stem": "The author always milked the cows alone in the barnyard.",
+              "scoreValue": 1,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "explanation": "第四段首句提到 My father and mother...helped me with milking the cows, 即\n我的父母经常帮我一起挤牛奶， 所以题干中说“我经常独自一人挤牛奶”是错误的。"
+                }
+              ]
+            },
+            {
+              "questionNumber": 7,
+              "stem": "To his father, milking cows was a complicated job.",
+              "scoreValue": 1,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "explanation": "第四段倒数第二句指出 To my father...as it may seem, 即对于父亲来说，挤牛\n奶看上去并没有那么复杂。 unsophisticated 意为不复杂的、简单的,与 complicated(复杂\n的)语义相反。因此题干说法是错误的。"
+                }
+              ]
+            },
+            {
+              "questionNumber": 8,
+              "stem": "The author's father milked the cows because they needed to be milked.",
+              "scoreValue": 1,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "explanation": "第四段第二行指出 But Father...needed to be milked, 意为奶牛也需要被挤奶，\n和题干含义吻合。"
+                }
+              ]
+            },
+            {
+              "questionNumber": 9,
+              "stem": "The author came to like the job of milking and took pride in it.",
+              "scoreValue": 1,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "详见解析",
+                  "explanation": "通过第四段讲到父亲对待日常很重复性的挤牛奶的工作的态度， 不认为那是一种负担，\n认为那不仅仅是一项工作，也是一项服务。父亲的哲学态度感染了作者，因此第五段讲到了作\n者对生活和工作的态度的转变 :认识到每种工作都有其意义所在（ all honest work is  \nhonorable )。所以题干的说法虽然文中并没有直接显示出，但是通过内容可以推测出来。答\n案为 A。"
+                }
+              ]
+            },
+            {
+              "questionNumber": 10,
+              "stem": "Self-confidence and empowerment acquired at work will benefit people throughout \ntheir lives.",
+              "scoreValue": 1,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "详见解析",
+                  "explanation": "第五段最后一句给出了答案，Self-confidence and empowerment can serve us \nwell,即 Self-confidence 和 empowerment 会在我们的工作中和生活中帮助我们。因此题干\n的说法是正确的。答案为 Α。 \n \n第二部分:阅读选择"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "optionsPool": [],
+      "passage": "下面的短文后列出了 10 个句子，请根据短文的内容对每个句子作出判断:如果该句 提供的是\n正确信息，选择A;如果该句提供的是错误信息，选择B;如果该句的信息文中 没有提及，选择\nC。 \nWork Is a Service \nYoung people may ask themselves questions like this when they apply for \nemployment: “What are my working hours? What are my extra benefits besides wages? \nWhat holidays will I have of ? Will I have enough time to hang out with my friends \nor pursue my hobbies?” With questions like these, however, when we focus on our \nleisure hours instead of our working hours, we may be prevented from seeing a much \ngreater opportunity. \n    Good work attitudes, habits, and skills are learned through successful work \nexperiences. Let me illustrate. On the ranch( 牧场) where I grew up, the cows had \nto be milked before dawn every day. When I was just 10 years old, I would enter \nour barnyard where there were about 10 to 12 cows waiting for me to let them into \nthe milking barn. My mother and father used to say out loud to  the cows,“ Good \nmorning. It's good to see you!” I have to confess that as a young boy I didn’t \nfeel quite the same way toward the cows. \n    After each cow was milked, I poured the milk from the pail into a 10 -gallon \ncan. Each can weighed about 80 pounds when full. It made me stretch my young muscles \nas I carried them to the road for the dairy to pick up. \n    My father and mother quite frequently helped me with milking the cows. I \nremember my father and mother continued to milk until they were in their late 80s. \nBut Father didn’t milk the cows because he had to; he milked them because they \nneeded to be milk ed. There is a difference.To him, these animals were not just \ncows  they were Big Blackie and Bossie and Sally and Betsy. He wanted them to be \ncontent. He always said that contented cows give good milk. To my father, milking \ncows — as unsophisticated as it may seem -- was not an extra burden; it was an \nopportunity. Milking was not a job for him; it was a service. \n    This philosophy is something that helped me as I grew up. It helped me to fnd \nout that all honest work is honorable. Within a few years I realized that routinely \nperforming these chores actually began to give me a sense of confidence and \nempowerment. I took pride in my work. We control our own attitudes towards work. \nSelf-confidence and empowerment can serve us well in the classroom or on Wall \nStreet. \n Instead of thinking of our daily work as an extra burden, we should think of \nit as an opportunity. That's just the way my father taught me to feel about the \ncows. Those teachings have remained with me all my life, and I continue to visit \nthe ranch and its memories as often as possible."
+    },
+    {
+      "type": "reading_comprehension",
+      "title": "第二部分:阅读选择(第 11-15 题，每题 2 分，共 10 分)",
+      "sortOrder": 2,
+      "scorePerQuestion": 2,
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "questions": [
+            {
+              "questionNumber": 11,
+              "stem": "What happened to Avremel and Ed during the September 11th terrorist attacks?",
+              "scoreValue": 2,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "[图片或空白选项]"
+                },
+                {
+                  "key": "B",
+                  "content": "[图片或空白选项]"
+                },
+                {
+                  "key": "C",
+                  "content": "[图片或空白选项]"
+                },
+                {
+                  "key": "D",
+                  "content": "[图片或空白选项]"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "explanation": "第一段讲了 9·1l1 事故中， Avremel 冒着生命危险，在所有人都逃离大厦的时\n候，陪伴着自己瘫痪的朋友兼同事 Ed Beyea, 结果两人都失去了生命（ Both men lost \ntheirlives)。"
+                }
+              ]
+            },
+            {
+              "questionNumber": 12,
+              "stem": "Avremel and Ed were similar in that __________ .",
+              "scoreValue": 2,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "both of them were in their 50s"
+                },
+                {
+                  "key": "B",
+                  "content": "both of them loved books and music"
+                },
+                {
+                  "key": "C",
+                  "content": "both of them were disabled"
+                },
+                {
+                  "key": "D",
+                  "content": "both lived with their brothers' families"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "Β",
+                  "explanation": "第四段提到 They both loved books and music,即两人都喜欢书籍和音乐，与 B 项\n内容吻合。"
+                }
+              ]
+            },
+            {
+              "questionNumber": 13,
+              "stem": "Which of the following statements is true according to the passage?",
+              "scoreValue": 2,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "[图片或空白选项]"
+                },
+                {
+                  "key": "B",
+                  "content": "[图片或空白选项]"
+                },
+                {
+                  "key": "C",
+                  "content": "Ed became disabled after a driving accident."
+                },
+                {
+                  "key": "D",
+                  "content": "Ed was not able to get down stairs himself."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "explanation": "第三段开头提到 Ed became disabled after a diving accident, 即 Ed 是在跳水\n中出了事故，而并非 driving(驾驶） ，所以C 项是错误的。B 项意为 Avremel 年轻的时候喜\n欢跳水,文中无相关信息。A 项意为 Avremel 在工作后照顾 Ed 的生活，文中也无相关信息。D\n项意为 Εd 无法独自下楼,文中提到 Ed 四肢瘫痪，所以肯定是无法独自下楼，此项可由文中\n内容推测出。"
+                }
+              ]
+            },
+            {
+              "questionNumber": 14,
+              "stem": "Why did Avremel choose to stay when others were fleeing?",
+              "scoreValue": 2,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "[图片或空白选项]"
+                },
+                {
+                  "key": "B",
+                  "content": "[图片或空白选项]"
+                },
+                {
+                  "key": "C",
+                  "content": "[图片或空白选项]"
+                },
+                {
+                  "key": "D",
+                  "content": "[图片或空白选项]"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "explanation": "第五段讲到 Ed 想等到救援人员来将其安全救出， 因为任何人如果想带着四肢残疾的\n他逃命都会很危险。Avremel 不想他的朋友独自等待，所以留下来陪伴。综合考虑，只有C 项\n最符合。"
+                }
+              ]
+            },
+            {
+              "questionNumber": 15,
+              "stem": "The word “address” in the last paragraph means________",
+              "scoreValue": 2,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "speech"
+                },
+                {
+                  "key": "B",
+                  "content": "solution"
+                },
+                {
+                  "key": "C",
+                  "content": "information"
+                },
+                {
+                  "key": "D",
+                  "content": "title"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "详见解析",
+                  "explanation": "9·11 事件之后，布什进行了国家祈祷的演讲。address 可表示演讲、演说。因此只\n有 Α 项符合。答案为A。 \n \n第三部分:概括段落大意和补全句子"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "optionsPool": [],
+      "passage": "阅读下面短文，请从短文后所给各题的 4 个选项(A、B、C、D)中选出 1 个最佳选项 \nFriendship and Loyalty \nWhen the terrorist attack on September 1lth caused people to flee the building, \nAvremel Zelmanowitz risked his own chance of escape by staying behind with his \nfriend and colleague, Ed Beyea, who was confined to a wheelchair due to a paralysis \nknown as quadriplegia ( 四肢截 瘫).Both men lost their lives, but the story of  \nAvremel's love and devotion to his friend conveys a life-giving message to all. \nAvremel never married, and he shared a house with his brother and his family. \nHe was a loving uncle to his brother's children, and he was devoted to caring for \nhis aging parents. He was a “family man' in every sense of the word. At the same \ntime, he had his own life, his Torah classes, his varied interests, and a job and \nfriends to which he was characteristically devoted. \nWhen the tragedy occurred, Avremel was age 55, and his friend, Ed Beyea, was \nage 42.Ed became disabled after a diving accident at age 22, but he managed to \nwork 14 years at Blue Cross Blue Shield since his injury. Both he and Avremel were \nprogram analysts who worked on the 27th floor of the World Trade Center Avremel \nhad joined the office two years after Ed was hired, and the two became very close \nfriends. They both loved books and music - often trading books and tapes, and they \nboth served as the special u ncle of their respective families. Like Avremel, Ed \nhad no children of his own, but he was a father figure to his two nephews after \ntheir father died. Both friends had a great sense of humor, although Ed was strong \nand outgoing, while Avremel was the more quiet of the pair. \nOn the morning of September 1lth, Ed wanted to wait until he could be securely \ncarried down by several rescue workers, as it was dangerous for someone with his \ndisability to be moved. \nAvremel wouldn't allow his friend to wait alone when everyone else was fleeing \nthe building, and he stayed with him. \n In the days that followed, the media learned about Avremel's selfless act, and \nthe story began to spread. President Bush, in his national prayer address to the \nAmerican people, referred to Avremel's act as one of the many“eloquent (有说服力\n的) acts of sacrifce” that were demonstrated by Americans during this crisis."
+    },
+    {
+      "type": "summary_completion",
+      "title": "第三部分:概括段落大意和补全句子(第 16-25 题，每题 1 分，共 10 分)",
+      "sortOrder": 3,
+      "scorePerQuestion": 1,
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "questions": [
+            {
+              "questionNumber": 16,
+              "stem": "[见短文原文]",
+              "scoreValue": 1,
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "explanation": "第一段首句给出了我们相关的信息 , Mistakes have a way of focusing our \nattention and...in our face,即错误会给我们一种集中精力和直面关键问题的方法。综合来\n看，只有 E 项中出现了关键词 focus our attention。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 17,
+              "stem": "[见短文原文]",
+              "scoreValue": 1,
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "explanation": "第二段通过事例讲到人应该不惧怕犯错误,才能改正错误,让自己进步。A 项中的关\n键词 encourage taking risks 符合本段语境。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 18,
+              "stem": "[见短文原文]",
+              "scoreValue": 1,
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "explanation": "第三段通过在公司工作的情况，展现出没有正确与错误标准的公司不会有任何的进\n步和进展。所以结尾总结出只有在人们推动事情有所进展的时候，错误才会出现。与F 项中含\n义相符。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 19,
+              "stem": "[见短文原文]",
+              "scoreValue": 1,
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "explanation": "第四段是对“错误”的意义的论述，承认错误可以让我们知道自己真正所想，可以\n给我们机会来说出真相。这样的话我们就会得到诚恳和坦率,自身知识的提高和改变的能力。\n又讲到了说出错误的种种好处。因此Β 项中的关键词 telling truth符合本段主旨。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 20,
+              "stem": "[见短文原文]",
+              "scoreValue": 1,
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "explanation": "第五段通过 mistake 与 success 的比较，阐述出错误的教育意义,因此 С 项较符\n合。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 21,
+              "stem": "[见短文原文]",
+              "scoreValue": 1,
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "explanation": "第一段最后指出当我们完全供认自己的错误的时候，我们才会清楚地知道到底哪里\n出了问题以及如何来弥补(When we own up...to fix it)。所以Β 项最符合本空。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 22,
+              "stem": "[见短文原文]",
+              "scoreValue": 1,
+              "answerRules": [
+                {
+                  "standardAnswer": "详见解析",
+                  "explanation": "第二段第二句指出一个从来不写作的作家，永远不用担心得到负面的评论 (The \nwriter who never...negative reviews). criticized 与 negative reviews 语义一致。答\n案为 Ε。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 23,
+              "stem": "[见短文原文]",
+              "scoreValue": 1,
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "explanation": "第二段最后两句讲到有效率的人从来不制定有错误的目标，相反，他们接受在达到\n目标时出现错误的风险(Effective people don't set...the risk of error)。因此 D 项符合\n本空含义。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 24,
+              "stem": "[见短文原文]",
+              "scoreValue": 1,
+              "answerRules": [
+                {
+                  "standardAnswer": "C/F",
+                  "explanation": "第三段最后一句指出只有人们在真正投入到工作中让事情有所进展的时候，错误オ\n会发生(Mistakes can happen only when...making things work) 。 （本题有误，C 和 F项一\n样，因此本题两个答案均符合)"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 25,
+              "stem": "[见短文原文]",
+              "scoreValue": 1,
+              "answerRules": [
+                {
+                  "standardAnswer": "详见解析",
+                  "explanation": "最后一段第二句指出我们从错误中得到的教训会伴随我们终生 (The lessons we  \nlearn...for a lifetime)。因此只有 Α 项符合。答案为 A。 \n \n第四部分:填句补文"
+                }
+              ],
+              "options": []
+            }
+          ]
+        }
+      ],
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "Mistakes encourage taking risks"
+        },
+        {
+          "key": "B",
+          "content": "Mistakes practice telling truth"
+        },
+        {
+          "key": "C",
+          "content": "Mistakes make powerful teachers"
+        },
+        {
+          "key": "D",
+          "content": "Mistakes are as important as successes"
+        },
+        {
+          "key": "E",
+          "content": "Mistakes focus our attention"
+        },
+        {
+          "key": "F",
+          "content": "Mistakes make things work"
+        },
+        {
+          "key": "A",
+          "content": "stick with us for a lifetime"
+        },
+        {
+          "key": "B",
+          "content": "what we can do to fix it"
+        },
+        {
+          "key": "C",
+          "content": "committed to making things work"
+        },
+        {
+          "key": "D",
+          "content": "accepting the risk of error"
+        },
+        {
+          "key": "E",
+          "content": "worry about being criticized"
+        },
+        {
+          "key": "F",
+          "content": "committed to making things work"
+        }
+      ],
+      "passage": "阅读下面短文， 请完成短文后的2项测试任务:(1)从第 16-20 题后所给的 6个选项 中为第①-\n五段每段选择 1 个正确的小标题;(2)从第 21-25 题后所给的 6 个选项中选择 5 个正确选项，\n分别完成每个句子。 \nFive Reasons to Celebrate Mistakes \n① Mistakes have a way of focusing our attention and putting crucial problems right \nin our face. Mistakes light a path for us. When we own up to our mistakes, we often \nknow exactly what's not working and what we can do to fix it. \n②There is one sure way to avoid mistakes and that's to avoid life. The writer who \nnever finishes a book will never have to worry about getting negative reviews. The \ncomedian who never performs in front of an audience is sure to avoid telling jokes \nthat fall flat. When we are comfortable with making mistakes, we're more likely to \ntake risks and tackle projects.  Celebrating mistakes involves wisdom. Effective \npeople don't set goals with the idea of making mistakes. Instead, they aim to reach \nthose goals while accepting the risk of error. \n③ Imagine working at a company that has no standards --where mistakes are not \ndistinguished from successes and no one is held accountable for errors. We could \nturn in the most careless and the crudest pieces of work we'd ever done, and they \nwould get treated the same as our best work. We'd never be able to count on having \nthe supplies we needed because no one would complain when vendors failed to deliver. \nProjects could go permanently unfinished and no one would say anything. In an \natmosphere where there's no  difference between failure and success, the word \n“mistake?” would be without meaning. Mistakes can happen only when people are \ntruly committed to making things work. \n④ The word “mistake” derives meaning only by  comparison to what we desire. \nNoticing and admitting our mistakes reminds us of what we really want to have, do, \nand be. Mistakes offer us an opportunity to practice truth telling. With this act \ncome the rewards of honesty and frankness, including self -knowledge and the \ncapacity for change. As we tell the truth about our mistakes, we can benef it by \nreleasing shame and blame. Fixing mistakes and preventing them from happening again \nare key goals. \n⑤ Mistakes are usually more instructive than successes — and often far more \ninteresting. The lessons we learn from making mistakes often stick with us for a \nlifetime. We can translate those lessons into new values and behaviors that make \na profound difference. With all these potential benefits from mistakes, we have \nplenty of reasons to celebrate them. \n \nTask 1  \nl6. Paragraph 1: \n17. Paragraph 2: \n18. Paragraph 3: \n19. Paragraph 4: \n20. Paragraph 5:"
+    },
+    {
+      "type": "sentence_fill",
+      "title": "第四部分:填句补文(第 26-30 题，每题 2 分，共 10 分)",
+      "sortOrder": 4,
+      "scorePerQuestion": 2,
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "questions": [
+            {
+              "questionNumber": 26,
+              "stem": "[见短文原文]",
+              "scoreValue": 2,
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "explanation": "第二段第二句中的关键词 develop 可以给我们一些提示。只有 F 项中出现了这个\n单词，F 项意为提高自信是一件很困难的事情，尤其是在你没有自信或只有很少自信的时候。\n与后文的“这会花费很长的时间，但是……”语义衔接。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 27,
+              "stem": "[见短文原文]",
+              "scoreValue": 2,
+              "answerRules": [
+                {
+                  "standardAnswer": "Α",
+                  "explanation": "第三段开始讲到几个需要自信可以成功的事例。下面的三段分别列举了如何变得自\n信的方法，所以 Α 项的关键词 a few basic tips 符合了本段承上启下的作用。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 28,
+              "stem": "[见短文原文]",
+              "scoreValue": 2,
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "explanation": "本空后面句子的主语为 they,谓语为 deal with, 可知本空的主语应为表示人的第\n三人称复数的形式,由此可在剩下的 Β 至 E 项中排除 Β 项(主语为单数)、C 项(主语为物和 E\n项(主语为第一人称)。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 29,
+              "stem": "[见短文原文]",
+              "scoreValue": 2,
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "explanation": "本空后面为一个祈使句,意为不要害怕失败。 因此前面的句子也可以是一个祈使句来\n构成前后平行。С 项符合祈使句的形式,意为“尝试可以刺激你的新鲜事物”。在语义上与前\n后一致。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 30,
+              "stem": "[见短文原文]",
+              "scoreValue": 2,
+              "answerRules": [
+                {
+                  "standardAnswer": "详见解析",
+                  "explanation": "最后一段中说到使用催眠方法来提高自信的方法，只有 Β 项中出现了关键词\nHypnosis(催眠） ，由此可以判断只有B 项符合。答案为 B。 \n \n第五部分填词补文"
+                }
+              ],
+              "options": []
+            }
+          ]
+        }
+      ],
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "There are a few basic tips to help make you into a self-confident human being."
+        },
+        {
+          "key": "B",
+          "content": "One method that can help to improve self -confidence is through the use of"
+        },
+        {
+          "key": "C",
+          "content": "Try new things that excite you."
+        },
+        {
+          "key": "D",
+          "content": "[图片或空白选项]"
+        },
+        {
+          "key": "E",
+          "content": "We aim to help people become more self-confident in life."
+        },
+        {
+          "key": "F",
+          "content": "[图片或空白选项]"
+        }
+      ],
+      "passage": "下面的短文有 5 处空白，短文后有 6 个句子，其中 5 个取自短文，请根据短文内容将其分别\n放回原有位置，以恢复文章原貌。 \nHow to Improve Self-Confidence \nImproving your self-confidence can be a difficult task. Most people associate \nhaving a high level of confidence with being successful. In some way this is true, \nsince most successful people have high levels of self -confidence and are able to \ntake on any challenges in their path. \n26._________  It can take a long time to develop, but it certainly can have a  \nmassive positive impact on the rest of your life. \n Self-confidence can be the route to achieving many of your other goals, whether \nit be asking certain person out to dinner, becoming successful in business or even \nwith your weight loss goals. 27._________ \nFace what you fear. Most of the time, what you fear will not really be as bad \nas it seems. Whether it is being too embarrassed to go to a new fitness class since \nyou think you will stick out like a sore thumb, or going for that promotion at \nwork, you will find in time that everyone is  fearful or has insecurities about \nsomething. 28._________ They just deal with them in a different and positive way. \n Improve your self-confidence by finding out what you really want from life.  \n29._________ Don't be afraid of failing, since life is one big learning curve. I \nbet the  most successful people you've met failed over and over again before they \nhit it big. \n 30._________By utilizing the techniques used in hypnosis（催眠), you can gain \naccess to your subconscious mind, allowing you to plant positive thoughts that can \ngreatly help you with your progress of becoming a more self-confident person."
+    },
+    {
+      "type": "word_cloze",
+      "title": "第五部分:填词补文(第 31-40 题，每题 1.5 分，共 15 分)",
+      "sortOrder": 5,
+      "scorePerQuestion": 1.5,
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "questions": [
+            {
+              "questionNumber": 31,
+              "stem": "[见短文原文]",
+              "scoreValue": 1.5,
+              "answerRules": [
+                {
+                  "standardAnswer": "详见解析",
+                  "explanation": "此处需填入一个形容词修饰名词 word。给出的选项中只有 successful 和 single,\n综合语境应选择 single(单个的） 。本句意为:我注意到一个单词就可以挑起他们的情绪。答案\n为 H。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 32,
+              "stem": "[见短文原文]",
+              "scoreValue": 1.5,
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "explanation": "本空缺少谓语动词, begin with 是指以……开头，符合句意。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 33,
+              "stem": "[见短文原文]",
+              "scoreValue": 1.5,
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "explanation": "本空缺少谓语动词,come from 意为源于、来自 于，符合题意。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 34,
+              "stem": "[见短文原文]",
+              "scoreValue": 1.5,
+              "answerRules": [
+                {
+                  "standardAnswer": "K",
+                  "explanation": "本空缺少宾语，应选择名词形式。根据语境，应选择 wonders(奇迹)。本句意为:极\n力赞扬的话语可以让自我受到伤害的孩子或伴侣有奇迹产生。答案为 Α。 \n35.[解析 ]本空位于介词  of 后面，应为名词或动名词形式。后面紧跟了两个名词  \nappreciation(欣赏、感谢）和 gratitude(感激） ，均为褒义色彩的名词，所以可选用备选项\n中的 praise35赞扬） ，符合语境。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 35,
+              "stem": "[见短文原文]",
+              "scoreValue": 1.5,
+              "answerRules": [
+                {
+                  "standardAnswer": "TBD"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 36,
+              "stem": "[见短文原文]",
+              "scoreValue": 1.5,
+              "answerRules": [
+                {
+                  "standardAnswer": "L",
+                  "explanation": "本空缺少动词。offer opportunities 意为提供机会或机遇，为常见搭配，也符合\n本题语境。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 37,
+              "stem": "[见短文原文]",
+              "scoreValue": 1.5,
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "explanation": "本空可与 how 搭配，意为多么……,因此也应为形容词与 strong 并列。备选项中\n可选用 successful(成功的)，符合句意。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 38,
+              "stem": "[见短文原文]",
+              "scoreValue": 1.5,
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "explanation": "本空需要一个副词修饰动词 praises,可选用 always（经常、通常） 。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 39,
+              "stem": "[见短文原文]",
+              "scoreValue": 1.5,
+              "answerRules": [
+                {
+                  "standardAnswer": "J",
+                  "explanation": "本空缺少谓语动词，根据前半句的含义:但是我们都喜爱他并愿意见到他，可知后面\n应选择 treasure(作动词时意为珍重、重视） 。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 40,
+              "stem": "[见短文原文]",
+              "scoreValue": 1.5,
+              "answerRules": [
+                {
+                  "standardAnswer": "详见解析",
+                  "explanation": "本空缺少宾语，剩余项中可选择 doubt,其后跟 that 从句，引导“怀疑”的内容，\n且符合句意。答案为 B。 \n \n第六部分:完形补文"
+                }
+              ],
+              "options": []
+            }
+          ]
+        }
+      ],
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "wonders"
+        },
+        {
+          "key": "B",
+          "content": "doubt"
+        },
+        {
+          "key": "C",
+          "content": "come"
+        },
+        {
+          "key": "D",
+          "content": "begins"
+        },
+        {
+          "key": "E",
+          "content": "always"
+        },
+        {
+          "key": "F",
+          "content": "successful"
+        },
+        {
+          "key": "G",
+          "content": "careful"
+        },
+        {
+          "key": "H",
+          "content": "single"
+        },
+        {
+          "key": "I",
+          "content": "already"
+        },
+        {
+          "key": "J",
+          "content": "treasure"
+        },
+        {
+          "key": "K",
+          "content": "praise"
+        },
+        {
+          "key": "L",
+          "content": "offers"
+        }
+      ],
+      "passage": "下面的短文有 10 处空白，短文后列出 12 个词，其中 10 个取自短文，请根据短文内容将其分\n别放回原有位置，以恢复文章原貌。 \nThe Power of Positive Words in the Family \nAs a writer and psychotherapist (心理医师), I have been using words carefully \nmost of my life. While counseling a husband and wife, I notice that a (31)________ \nword can stir their emotions and take their conversation to a dark place that they \nboth know is negative. \n World peace (32)  ________  with peace in the family. As a therapist, I've \nheard many adults recite hurtful words they heard decades ago from a parent or a \nbrother or sister. Care in speaking to children requires a degree of self-possession, \nthe ability to see past the blind emotion of the moment to the needs of the child. \nGood words (33) ________ from that greater vision. \nFor example, words of extreme praise can do (34) ________ for the injured ego \n(自我) of a child or spouse. Sometimes it's helpful to give words to what is \nusually left unspoken. “ I appreciate what you did for me. I'm happy that you're \nwith me.” Simple, direct and heart-felt words of (35) ________  appreciation and \ngratitude often go unsaid, when they could be a handy means of healing. Words hurt \nand words heal. \n Every day (36)  ________ opportunities to say words of encouragement and \nrecognition. No matter how strong or (37) ________  we are, we all need such words. \nBut often they may seem unnecessary. My rule is: if the thought occurs to me to \nsay something supportive, I say it. You can never speak too often in praise and \nappreciation. You can also receive that praise, when it comes, gracefully -- with \nwords. “ Thank you for saying that. I need to hear that.” \nA friend of our family, an intelligent, progressive Catholic priest, (38) \n________ praises our children to the skies. He is very extreme in his language, \nand everyone knows he overdoes it with his praise. But we all love to see him, and \nwe (39) ________ his friendship. We don't need realism and moderation (适度) from \nsuch a friend. \n Everywhere today, marriage partners and children are in distress. I have no \n(40) ________ that one simple solution would be to offer them words of support. \nWhen used with care, language can be therapeutic. Even, and maybe especially, when \na person is being difficult and aggressive, words of understanding and affirmation, \nrealistic and felt, can often help."
+    },
+    {
+      "type": "word_formation",
+      "title": "第六部分:完形补文(第 41-50 题，每题 1.5 分，共 15 分)",
+      "sortOrder": 6,
+      "scorePerQuestion": 1.5,
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "questions": [
+            {
+              "questionNumber": 41,
+              "stem": "[见短文原文]",
+              "scoreValue": 1.5,
+              "answerRules": [
+                {
+                  "standardAnswer": "encourage",
+                  "explanation": "help do sth.意为帮助做某事,help 后面可跟动词原形。courage 是名词形式,意为\n勇气。其动词形式为加前缀 en-,变为 encourage(鼓励)。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 42,
+              "stem": "[见短文原文]",
+              "scoreValue": 1.5,
+              "answerRules": [
+                {
+                  "standardAnswer": "详见解析",
+                  "explanation": "be 动词后可选用形容词，因为本句不涉及被动语态和进行时。 care 是动词，意为\n小心、注意，其形容词形式为加后缀-ful 变为 careful,意为小心的、仔细的，符合题意。答\n案为 careful."
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 43,
+              "stem": "[见短文原文]",
+              "scoreValue": 1.5,
+              "answerRules": [
+                {
+                  "standardAnswer": "particularly",
+                  "explanation": "本空修饰形容词 careful,因此应用 particular 的副词形式 particularly,意为\n尤其是。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 44,
+              "stem": "[见短文原文]",
+              "scoreValue": 1.5,
+              "answerRules": [
+                {
+                  "standardAnswer": "implications",
+                  "explanation": "介词 of 后为名词形式 , implicate 为动词，其名词形式需加后缀 -ion,变为 \nimplication,意为言外之意、含意。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 45,
+              "stem": "[见短文原文]",
+              "scoreValue": 1.5,
+              "answerRules": [
+                {
+                  "standardAnswer": "trained",
+                  "explanation": "此处需要形容词修饰名词 spokesman. train 为动词形式,其形容词为 trained,意\n为经过训练的、受训的。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 46,
+              "stem": "[见短文原文]",
+              "scoreValue": 1.5,
+              "answerRules": [
+                {
+                  "standardAnswer": "impression",
+                  "explanation": "此处需填入名词形式。impress 加后缀-ion 之后变为 impression,意为印象、形\n象，符合题意。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 47,
+              "stem": "[见短文原文]",
+              "scoreValue": 1.5,
+              "answerRules": [
+                {
+                  "standardAnswer": "communication",
+                  "explanation": "此处需要形容词修饰名词 materials,因此应填入动词 communicate 的名词形式\ncommunication 来作定语。communication materials 意为沟通材料。同时本段第三行也出现\n了此短语。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 48,
+              "stem": "[见短文原文]",
+              "scoreValue": 1.5,
+              "answerRules": [
+                {
+                  "standardAnswer": "respectful",
+                  "explanation": "be 动词后需填入形容词。动词 respect 的形容词形式有两种:respectful(意为恭\n敬的、有礼貌的)和 respectable(令人尊敬的)。 be respectful of 为固定搭配，意为尊敬。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 49,
+              "stem": "[见短文原文]",
+              "scoreValue": 1.5,
+              "answerRules": [
+                {
+                  "standardAnswer": "designer",
+                  "explanation": "此处应在名词 design 后面加-er,变为表示身份特征的名词 designer(设计者） ，\n与 photographer(摄影师)形式并列。"
+                }
+              ],
+              "options": []
+            },
+            {
+              "questionNumber": 50,
+              "stem": "[见短文原文]",
+              "scoreValue": 1.5,
+              "answerRules": [
+                {
+                  "standardAnswer": "详见解析",
+                  "explanation": "此处应填入形容词修饰名词 way。名词 logic(逻辑)的形容词为 logical(富有逻辑\n性的)，符合题意。答案为 logical。 \n \n第七部分:短文写作"
+                }
+              ],
+              "options": []
+            }
+          ]
+        }
+      ],
+      "optionsPool": [],
+      "passage": "下面的短文有 10 处空白，每处空白后的括号内有一个词，请根据短文内容将其正确 的形式\n填入文中，以恢复文章原貌。 \nCareful Use of Words \nWords are powerful and can be very (O)damaging (damage) when used carelessly. \nThey have the power to evoke potent emotions and they can help inspire, (41) \n________ (courage) and motivate people. They can transform the world that we live \nin and in a crisis they can be your strongest ally or your most damaging opponent. \nOne should always be very (42)  ________ (care) when using words, but this is \nespecially so in the midst of a crisis. Who can forget when, during the middle of \nthe largest oil spill in US history, the Chief Executive of BP, Tony Hayward, said \n“I’d like my life back”? When a crisis breaks, a company needs to be (43)  \n________ (particular) careful in framing its response. While attempting to assert \ncontrol it also needs to be aware of the (44) ________  (implicate) of the response \nand what it may mean in the future. Framed properly, a (45)  ________  (train) \nspokesperson can use their language to calm nerves impress) that the during a very \nanxious time and can give the public an (46) ________(impress) that the company is \nin control and working hard to resolve the crisis . \nThe language in all crisis (47)  ________ (communicate) materials should be \ncarefully managed and reviewed. Have all professional expressions and academic \nlanguage been removed and adapted? The language should be simple and self -\nexplanatory. Are the communication materials (48)  ________ (respect) of all \naudiences including stakeholders, employees, media and the general public  ? Are \nwords the best method to explain what happened? It may be useful to have a graphic \n(49) ________ (design)/photographer available to allow you to communicate clearly \nwhat happened in a simple and (50 ) ________ logic way. Can your press release be \nconverted into 140 characters or less for Twitter? It's unlikel y prepare \nalternative strategies to allow you to engage via social media channels. \nA serious crisis can destroy companies and/or individuals. However, proper \npreparation combined with an appropriate response can actually help improve the \nreputation of both. Language is a powerful weapon and should be treated as such in \nall communications."
+    },
+    {
+      "type": "essay",
+      "title": "第七部分:短文写作(第 51 题，30 分)",
+      "sortOrder": 7,
+      "scorePerQuestion": 30,
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "questions": [
+            {
+              "questionNumber": 51,
+              "stem": "短文写作",
+              "scoreValue": 30,
+              "answerRules": [
+                {
+                  "standardAnswer": "略"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "optionsPool": [],
+      "passage": "请根据所提供材料中的要求撰写一篇 150 词左右的英语短文。 \nCongratulations! \nWe're glad to announce that you've won the first place in the English Speech Contest \nTomorrow afternoon we're going to hold a press conference for you. \nPlease be prepared for everything that might be asked by the reporters concerning \nyour success in English learning. \nIt would be best if you listed possible questions and proper responses."
+    }
+  ]
+}

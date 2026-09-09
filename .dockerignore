@@ -1,0 +1,9 @@
+node_modules
+.next*
+.env
+prisma/*.db*
+acceptance-report
+playwright-report
+test-results
+acceptance-evidence
+cache
