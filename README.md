@@ -40,7 +40,7 @@ npm run lint
 npm run build
 ```
 
-端到端验收使用独立测试数据库，配置见 `playwright.acceptance.config.ts` 和 `acceptance/`。勿在个人学习数据库上创建验收数据。
+端到端验收会自动在临时目录创建独立数据库、播种合成数据并启动生产服务，配置见 `playwright.acceptance.config.ts` 和 `acceptance/`。默认不覆盖验收截图；仅在需要更新证据时设置 `UPDATE_ACCEPTANCE_EVIDENCE=1`。
 
 本项目需要运行服务端 API，不能直接部署到 GitHub Pages。个人使用推荐单实例 Node.js、持久磁盘和 HTTPS。部署步骤及备份要求见 [DEPLOYMENT.md](DEPLOYMENT.md)。
 

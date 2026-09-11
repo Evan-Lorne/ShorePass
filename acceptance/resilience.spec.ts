@@ -1,5 +1,6 @@
 import { test, expect } from '@playwright/test';
 const paperId = 'acceptance-fixture';
+const captureEvidence = process.env.UPDATE_ACCEPTANCE_EVIDENCE === '1';
 
 test('offline reload, practice pause, failed submission and restart', async ({ page }) => {
   test.setTimeout(90000);
@@ -47,5 +48,5 @@ test('320px layout and sync dialog keyboard behavior', async ({ page }, info) =>
   await expect(page.getByRole('dialog')).toBeVisible();
   await page.keyboard.press('Escape');
   await expect(page.getByRole('dialog')).not.toBeVisible();
-  await page.screenshot({ path: `acceptance-evidence/${info.project.name}-320px.png`, fullPage: true });
+  if (captureEvidence) await page.screenshot({ path: `acceptance-evidence/${info.project.name}-320px.png`, fullPage: true });
 });

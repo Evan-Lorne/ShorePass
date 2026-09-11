@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 import { PrismaClient } from '@prisma/client';
-const db = new PrismaClient({ datasources: { db: { url: 'file:/tmp/shorepass-acceptance-20260910.db' } } });
+const db = new PrismaClient({ datasources: { db: { url: process.env.DATABASE_URL } } });
 test.afterAll(() => db.$disconnect());
 
 test('mock deadline is enforced and expired sessions are graded, not discarded', async ({ request }) => {
