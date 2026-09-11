@@ -1,0 +1,1944 @@
+{
+  "paperId": "2019-10-national",
+  "title": "2019年10月全国高等教育自学考试英语二真题",
+  "courseCode": "00015",
+  "year": 2019,
+  "month": 10,
+  "region": "national",
+  "paperType": "exam",
+  "totalScore": 100,
+  "suggestedMinutes": 150,
+  "verified": false,
+  "status": "draft",
+  "publishBlocked": true,
+  "blockReasons": [
+    {
+      "code": "ocr_unverified",
+      "description": "全量批量导入草稿，待逐题人工核对"
+    }
+  ],
+  "sourceFile": "2019年10月真题.md",
+  "sections": [
+    {
+      "type": "reading_judgment",
+      "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
+      "sortOrder": 1,
+      "scorePerQuestion": 1.0,
+      "passage": "To Lease or Not to Lease**\n\nPlanning to lease a car because you don't think you can afford to buy? Think again. Leasing can end up being just as expensive as buying.\n\nMost people think about leasing because they believe it will cost them less money. They're right—it is cheaper, but only in the short term. For example, if you were to lease a new Subaru Forester, you might pay $300 per month for the car. If you were to buy the same car, you would pay about $400 per month. Over a three-year period, you would save $3,600—a big savings. But after your lease is over, you have to give the car back.\n\nMany people want to lease because they can drive a more expensive car than they might otherwise be able to afford. For example, if you spend $300 monthly on a car, you might be able to lease a new Ford Explorer. For the same price, you might have to buy a used Explorer, or buy a new but much less expensive model. A lease, therefore, allows you to drive the latest models of more expensive cars. However, whatever car you can afford to buy you get to keep it, and it will always have a resell or trade-in (以旧换新) value if you want to upgrade to a new car later.\n\nFurthermore, people who lease cars are often shocked by how much they must pay when the lease is over. Most leases limit you to a certain number of miles. If you go over that, you must pay for each mile. As a result, you may end up paying thousands of dollars in mileage (里程) fees. In addition, when you lease, you have to pay for regular maintenance and repairs to the vehicle. Since you must return the car finally, you are paying to repair someone else's car.\n\nBy now, the benefits of buying over leasing should be clear. Remember: whatever model you can afford to buy, it is yours after you make the payments. There's no giving back, and that makes all the difference.\n\n### 题目",
+      "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "阅读判断",
+          "questions": [
+            {
+              "questionNumber": 1,
+              "stem": "People usually think leasing a car can save money.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 2,
+              "stem": "Leasing a car costs less in the long term.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 3,
+              "stem": "More people like to lease cars than before.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 4,
+              "stem": "People can lease a car they cannot afford.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 5,
+              "stem": "Young people prefer to lease the latest models of cars.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 6,
+              "stem": "Ford Explorer is the most popular model in the leasing market.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 7,
+              "stem": "People often pay more than they expect for a lease.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 8,
+              "stem": "People need to pay for each mile they drive during the lease.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 9,
+              "stem": "Leasing companies pay for repairs to the leased cars.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 10,
+              "stem": "The author advises people to buy an affordable car.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading_comprehension",
+      "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
+      "sortOrder": 2,
+      "scorePerQuestion": 2.0,
+      "passage": "### 短文原文\n**Mental Illness Hits Small Business Owners Hard**\n\nWhile there is a growing focus on mental health in the workplace, there are fewer resources and support available to those running small businesses.\n\nThere are many reasons people choose to have their own business: being their own boss, working on something they love, being able to set their own hours, or having some control over whom they work with. Yet the reality many small business owners face is far less attractive—financial stress, long working hours and unclear boundaries between work and family life. And all of these factors can have a huge impact on their mental health.\n\nLeanne Fawkner is a business owner of an award-winning skin-care range (系列产品). She knows very well the impact that a small business can have on the mental health of its owner. When her successful business struggled due to the global financial crisis, she suffered a lot mentally. \"As business slowed, I was more and more affected,\" she says. \"I couldn't separate myself from my business. It was the worst experience of my life. I could no longer go to work and was crying all day.\"\n\nFawkner was diagnosed with depression. She had to take several months off work. Fortunately, her husband was able to keep things going while Fawkner was recovering. She saw a counselor (咨询师) for help and took part in a workplace mental health promotion program. This program was designed for small to medium business owners.\n\n\"The stories on the DVD in the program were so helpful. I was crying because I didn't feel so alone.\" For Fawkner, small business owners are overlooked. While employees in larger organizations often have access to employee assistance programs, small business owners are struggling on their own.\n\n### 题目",
+      "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "阅读选择",
+          "questions": [
+            {
+              "questionNumber": 11,
+              "stem": "One reason to have one's own business is that one can have more __________.\n- A. flexible working hours\n- B. support from others\n- C. available resources\n- D. life experience",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "flexible working hours"
+                },
+                {
+                  "key": "B",
+                  "content": "support from others"
+                },
+                {
+                  "key": "C",
+                  "content": "available resources"
+                },
+                {
+                  "key": "D",
+                  "content": "life experience"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 12,
+              "stem": "A small business owner usually has __________.\n- A. a more colorful life\n- B. a bigger profit\n- C. less stress from work\n- D. longer working time",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "a more colorful life"
+                },
+                {
+                  "key": "B",
+                  "content": "a bigger profit"
+                },
+                {
+                  "key": "C",
+                  "content": "less stress from work"
+                },
+                {
+                  "key": "D",
+                  "content": "longer working time"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 13,
+              "stem": "Fawkner's business ran into trouble because __________.\n- A. it was taken over by her husband\n- B. she had a serious mental problem\n- C. it was hit by the financial crisis\n- D. she started a mental health program",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "it was taken over by her husband"
+                },
+                {
+                  "key": "B",
+                  "content": "she had a serious mental problem"
+                },
+                {
+                  "key": "C",
+                  "content": "it was hit by the financial crisis"
+                },
+                {
+                  "key": "D",
+                  "content": "she started a mental health program"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 14,
+              "stem": "Fawkner didn't feel so alone because __________.\n- A. she had her family around\n- B. she could watch DVD at work\n- C. others had similar experiences\n- D. the counselor was helpful to her",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "she had her family around"
+                },
+                {
+                  "key": "B",
+                  "content": "she could watch DVD at work"
+                },
+                {
+                  "key": "C",
+                  "content": "others had similar experiences"
+                },
+                {
+                  "key": "D",
+                  "content": "the counselor was helpful to her"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 15,
+              "stem": "According to Fawkner, small business owners need more __________.\n- A. financial aid\n- B. technical knowledge\n- C. management skills\n- D. mental health assistance",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "financial aid"
+                },
+                {
+                  "key": "B",
+                  "content": "technical knowledge"
+                },
+                {
+                  "key": "C",
+                  "content": "management skills"
+                },
+                {
+                  "key": "D",
+                  "content": "mental health assistance"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "summary_completion",
+      "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
+      "sortOrder": 3,
+      "scorePerQuestion": 1.0,
+      "passage": "阅读下面短文，请完成短文后的2项测试任务：(1)从第16～20题后所给的6个选项中为第①～⑤段每段选择1个正确的小标题；(2)从第21～25题后所给的6个选项中选择5个正确选项，分别完成每个句子。在答题卡相应位置上将答案选项涂黑。\n\n### 短文原文\n**Secrets for a Happier You**\n\nSome people are naturally blessed with a cheerful character. They spread warmth and sunshine wherever they go. They attract people like bees to honey. So what is it that makes these people so different from others?\n\n① The most important secret to happiness is to be grateful for the good things in your life—whatever may be your financial position. Instead of appreciating material wealth, be thankful for the loved ones in your life and enjoy the little pleasures of life that come your way.\n\n② The next important secret is to develop relationships. Increasing social contacts helps boost brain power. Therefore, work towards improving your relationships and take time off to get in touch with friends. This will lift some burden off your shoulders, especially when you share your thoughts and feelings. Socializing can give you an added boost to your moods.\n\n③ Thirdly, do not hold a grudge (怨恨) against anyone. Instead, learn to be kind, generous, and forgiving towards others, even to the person who hurt you. Be sympathetic and understanding, and try not to criticize others. Focus on the positives of a person instead of the negatives, for none of us is born perfect. It will keep your heart and mind free and peaceful.\n\n④ Besides, involve yourself in some creative process, be it dancing, writing or drawing. This can bring out the hidden talent in you to achieve magical happiness. Or pick up new skills and feel the great sense of satisfaction by carrying out certain tasks which you otherwise would never have felt.\n\n⑤ Finally, follow a daily regular sleep-wake cycle to keep you energetic and happy. Exercise regularly or practice relaxation techniques like deep breathing and yoga (瑜伽). Ensure you get eight to nine hours of sleep every day and have a well-balanced diet.",
+      "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "Task 1: 概括段落大意",
+          "questions": [
+            {
+              "questionNumber": 16,
+              "stem": "Paragraph ①:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Help people in need"
+                },
+                {
+                  "key": "B",
+                  "content": "Have a healthy lifestyle"
+                },
+                {
+                  "key": "C",
+                  "content": "Do something creative"
+                },
+                {
+                  "key": "D",
+                  "content": "Better your social relationships"
+                },
+                {
+                  "key": "E",
+                  "content": "Be thankful for what you have"
+                },
+                {
+                  "key": "F",
+                  "content": "Learn to understand and forgive"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 17,
+              "stem": "Paragraph ②:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Help people in need"
+                },
+                {
+                  "key": "B",
+                  "content": "Have a healthy lifestyle"
+                },
+                {
+                  "key": "C",
+                  "content": "Do something creative"
+                },
+                {
+                  "key": "D",
+                  "content": "Better your social relationships"
+                },
+                {
+                  "key": "E",
+                  "content": "Be thankful for what you have"
+                },
+                {
+                  "key": "F",
+                  "content": "Learn to understand and forgive"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 18,
+              "stem": "Paragraph ③:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Help people in need"
+                },
+                {
+                  "key": "B",
+                  "content": "Have a healthy lifestyle"
+                },
+                {
+                  "key": "C",
+                  "content": "Do something creative"
+                },
+                {
+                  "key": "D",
+                  "content": "Better your social relationships"
+                },
+                {
+                  "key": "E",
+                  "content": "Be thankful for what you have"
+                },
+                {
+                  "key": "F",
+                  "content": "Learn to understand and forgive"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 19,
+              "stem": "Paragraph ④:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Help people in need"
+                },
+                {
+                  "key": "B",
+                  "content": "Have a healthy lifestyle"
+                },
+                {
+                  "key": "C",
+                  "content": "Do something creative"
+                },
+                {
+                  "key": "D",
+                  "content": "Better your social relationships"
+                },
+                {
+                  "key": "E",
+                  "content": "Be thankful for what you have"
+                },
+                {
+                  "key": "F",
+                  "content": "Learn to understand and forgive"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 20,
+              "stem": "Paragraph ⑤:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Help people in need"
+                },
+                {
+                  "key": "B",
+                  "content": "Have a healthy lifestyle"
+                },
+                {
+                  "key": "C",
+                  "content": "Do something creative"
+                },
+                {
+                  "key": "D",
+                  "content": "Better your social relationships"
+                },
+                {
+                  "key": "E",
+                  "content": "Be thankful for what you have"
+                },
+                {
+                  "key": "F",
+                  "content": "Learn to understand and forgive"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sortOrder": 2,
+          "title": "Task 2: 补全句子",
+          "questions": [
+            {
+              "questionNumber": 21,
+              "stem": "A cheerful character makes you __________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "more intelligent"
+                },
+                {
+                  "key": "B",
+                  "content": "even if you are poor"
+                },
+                {
+                  "key": "C",
+                  "content": "different from others"
+                },
+                {
+                  "key": "D",
+                  "content": "even when you are hurt"
+                },
+                {
+                  "key": "E",
+                  "content": "to develop your potential"
+                },
+                {
+                  "key": "F",
+                  "content": "to gain more material wealth"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 22,
+              "stem": "Enjoy the pleasures of life __________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "more intelligent"
+                },
+                {
+                  "key": "B",
+                  "content": "even if you are poor"
+                },
+                {
+                  "key": "C",
+                  "content": "different from others"
+                },
+                {
+                  "key": "D",
+                  "content": "even when you are hurt"
+                },
+                {
+                  "key": "E",
+                  "content": "to develop your potential"
+                },
+                {
+                  "key": "F",
+                  "content": "to gain more material wealth"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 23,
+              "stem": "Socializing can make you __________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "more intelligent"
+                },
+                {
+                  "key": "B",
+                  "content": "even if you are poor"
+                },
+                {
+                  "key": "C",
+                  "content": "different from others"
+                },
+                {
+                  "key": "D",
+                  "content": "even when you are hurt"
+                },
+                {
+                  "key": "E",
+                  "content": "to develop your potential"
+                },
+                {
+                  "key": "F",
+                  "content": "to gain more material wealth"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 24,
+              "stem": "Try to forgive __________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "more intelligent"
+                },
+                {
+                  "key": "B",
+                  "content": "even if you are poor"
+                },
+                {
+                  "key": "C",
+                  "content": "different from others"
+                },
+                {
+                  "key": "D",
+                  "content": "even when you are hurt"
+                },
+                {
+                  "key": "E",
+                  "content": "to develop your potential"
+                },
+                {
+                  "key": "F",
+                  "content": "to gain more material wealth"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 25,
+              "stem": "Creative activities enable you __________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "more intelligent"
+                },
+                {
+                  "key": "B",
+                  "content": "even if you are poor"
+                },
+                {
+                  "key": "C",
+                  "content": "different from others"
+                },
+                {
+                  "key": "D",
+                  "content": "even when you are hurt"
+                },
+                {
+                  "key": "E",
+                  "content": "to develop your potential"
+                },
+                {
+                  "key": "F",
+                  "content": "to gain more material wealth"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "sentence_fill",
+      "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
+      "sortOrder": 4,
+      "scorePerQuestion": 2.0,
+      "passage": "### 短文原文\n**Cultural Differences in England and France**\n\nCultural differences can take many forms. I have noticed many differences in French culture compared to English culture, from the way people dress, to their attitudes towards food, to what they do for fun. One thing that has struck me in particular in France is personal interactions with each other. __[26]\n\nFirstly, it's the kissing. Everyone kisses each other on the cheek. It's a greeting, instead of saying \"hi\" or \"hello\". __[27] Everyone participates in the kissing ritual, the young, the old, male, female, strangers and friends. I kiss my friends. I kiss the teachers at the school. And even if I'm in a hurry, I am still expected to make time to give acquaintances a quick kiss on the cheek as I rush past. I don't mind it. __[28] It quickly turns strangers into acquaintances, and acquaintances into friends.\n\nAnother thing that I've noticed is that people in France are much more open with people they don't know. __[29] In France, however, on long train journeys people have often started a conversation with me for no reason. They have a chat simply to pass the time. And I really enjoy being able to share a part of my life and my story with someone else.\n\nWhatever impressions you may have about French people, I have found that they are, for the most part, open and at ease talking to strangers. __[30]\n\n### 备选句子\n\n**标准答案**:\n26: B  \n27: C  \n28: A  \n29: F  \n30: D  \n\n**校订解析**: 第26空承接法国人际交往方式与英国的差异，应选 B；第30空总结与陌生人交谈使作者也更自在，应选 D。所附参考答案将这两项对调，本库依据衔接关系纠正。\n\n---",
+      "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "In fact, I quite like it."
+        },
+        {
+          "key": "B",
+          "content": "They differ a lot from those in the UK."
+        },
+        {
+          "key": "C",
+          "content": "Often the kiss is a substitute for words."
+        },
+        {
+          "key": "D",
+          "content": "This makes me more comfortable with them too."
+        },
+        {
+          "key": "E",
+          "content": "Britons often greet each other with hugs and kisses."
+        },
+        {
+          "key": "F",
+          "content": "In England, you talk to a stranger only if completely necessary."
+        }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "填句补文",
+          "questions": [
+            {
+              "questionNumber": 26,
+              "stem": "填入原文第 [26] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "In fact, I quite like it."
+                },
+                {
+                  "key": "B",
+                  "content": "They differ a lot from those in the UK."
+                },
+                {
+                  "key": "C",
+                  "content": "Often the kiss is a substitute for words."
+                },
+                {
+                  "key": "D",
+                  "content": "This makes me more comfortable with them too."
+                },
+                {
+                  "key": "E",
+                  "content": "Britons often greet each other with hugs and kisses."
+                },
+                {
+                  "key": "F",
+                  "content": "In England, you talk to a stranger only if completely necessary."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 27,
+              "stem": "填入原文第 [27] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "In fact, I quite like it."
+                },
+                {
+                  "key": "B",
+                  "content": "They differ a lot from those in the UK."
+                },
+                {
+                  "key": "C",
+                  "content": "Often the kiss is a substitute for words."
+                },
+                {
+                  "key": "D",
+                  "content": "This makes me more comfortable with them too."
+                },
+                {
+                  "key": "E",
+                  "content": "Britons often greet each other with hugs and kisses."
+                },
+                {
+                  "key": "F",
+                  "content": "In England, you talk to a stranger only if completely necessary."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 28,
+              "stem": "填入原文第 [28] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "In fact, I quite like it."
+                },
+                {
+                  "key": "B",
+                  "content": "They differ a lot from those in the UK."
+                },
+                {
+                  "key": "C",
+                  "content": "Often the kiss is a substitute for words."
+                },
+                {
+                  "key": "D",
+                  "content": "This makes me more comfortable with them too."
+                },
+                {
+                  "key": "E",
+                  "content": "Britons often greet each other with hugs and kisses."
+                },
+                {
+                  "key": "F",
+                  "content": "In England, you talk to a stranger only if completely necessary."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 29,
+              "stem": "填入原文第 [29] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "In fact, I quite like it."
+                },
+                {
+                  "key": "B",
+                  "content": "They differ a lot from those in the UK."
+                },
+                {
+                  "key": "C",
+                  "content": "Often the kiss is a substitute for words."
+                },
+                {
+                  "key": "D",
+                  "content": "This makes me more comfortable with them too."
+                },
+                {
+                  "key": "E",
+                  "content": "Britons often greet each other with hugs and kisses."
+                },
+                {
+                  "key": "F",
+                  "content": "In England, you talk to a stranger only if completely necessary."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 30,
+              "stem": "填入原文第 [30] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "In fact, I quite like it."
+                },
+                {
+                  "key": "B",
+                  "content": "They differ a lot from those in the UK."
+                },
+                {
+                  "key": "C",
+                  "content": "Often the kiss is a substitute for words."
+                },
+                {
+                  "key": "D",
+                  "content": "This makes me more comfortable with them too."
+                },
+                {
+                  "key": "E",
+                  "content": "Britons often greet each other with hugs and kisses."
+                },
+                {
+                  "key": "F",
+                  "content": "In England, you talk to a stranger only if completely necessary."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_cloze",
+      "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
+      "sortOrder": 5,
+      "scorePerQuestion": 1.5,
+      "passage": "**Success for 99 Cents**\n\nHow do you sell things in a time when the economy is down and people just don't want to [31]? Try the 99 cent approach.\n\nSteve Jobs, former [32] of Apple Computers, tried it and [33] saved the music industry. He [34] a standard price of 99 cents for each song that he wanted to sell on iTunes and built a successful music download company.\n\nIn the 1960s, Dave Gold [35] a store that sold alcoholic drinks in southern California. He sold wine in three [36] categories: $0.79, $0.99 and $1.49. When he saw that the 99 cent wine did best, he started selling the other two at the same price and sales went up. In 1982, he started [37] 99 cent stores across the US. Today the company is [38] almost 500 million dollars and has 280 shops.\n\nWhy does a 99 cent price tag (标签) make so much success? Researchers have found out that the price ending with .99 shows a [39] price for consumers. It looks less and consumers [40] feel that they can get something back.",
+      "instructions": "从备选词汇池中选择最佳单词填入空白处。",
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "owned"
+        },
+        {
+          "key": "B",
+          "content": "market"
+        },
+        {
+          "key": "C",
+          "content": "set"
+        },
+        {
+          "key": "D",
+          "content": "worth"
+        },
+        {
+          "key": "E",
+          "content": "finally"
+        },
+        {
+          "key": "F",
+          "content": "several"
+        },
+        {
+          "key": "G",
+          "content": "buy"
+        },
+        {
+          "key": "H",
+          "content": "usually"
+        },
+        {
+          "key": "I",
+          "content": "boss"
+        },
+        {
+          "key": "J",
+          "content": "sell"
+        },
+        {
+          "key": "K",
+          "content": "lower"
+        },
+        {
+          "key": "L",
+          "content": "price"
+        }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "填词补文",
+          "questions": [
+            {
+              "questionNumber": 31,
+              "stem": "填入原文第 [31] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "G",
+                  "originalAnswer": "G",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 32,
+              "stem": "填入原文第 [32] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "I",
+                  "originalAnswer": "I",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 33,
+              "stem": "填入原文第 [33] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 34,
+              "stem": "填入原文第 [34] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 35,
+              "stem": "填入原文第 [35] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 36,
+              "stem": "填入原文第 [36] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "L",
+                  "originalAnswer": "L",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 37,
+              "stem": "填入原文第 [37] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 38,
+              "stem": "填入原文第 [38] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 39,
+              "stem": "填入原文第 [39] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "K",
+                  "originalAnswer": "K",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 40,
+              "stem": "填入原文第 [40] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "H",
+                  "originalAnswer": "H",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_formation",
+      "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
+      "sortOrder": 6,
+      "scorePerQuestion": 1.5,
+      "passage": "### 短文原文\n**Learning From Mistakes**\n\nLots of people dare not make _mistakes_ (mistake). They fear they will be laughed at or __[41] (blame) by others. They fear they will lose their money and __[42] (belonging) or be under heavy stress. But risks are __[43] (possible) to avoid and they do pave the way towards success. Have you ever __[44] (hear) of anyone who achieves success without making any mistakes?\n\nSo it is only __[45] (nature) that making mistakes should be considered a must. You shouldn't worry about that as you __[46] (probable) get lots of advantages out of your mistakes. By making mistakes, you can at least distinguish between the correct and the __[47] (correct) parts of what you did. Robert Stevenson once said: \"Our business in life is not to be __[48] (success), but to continue to fail in good spirits.\"\n\nYou needn't worry about anything as long as you keep on going by __[49] (wise) learning from your mistakes and __[50] (try) even harder.",
+      "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "完形补文",
+          "questions": [
+            {
+              "questionNumber": 41,
+              "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
+              "baseWord": "blame",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "blamed",
+                  "originalAnswer": "blamed",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 42,
+              "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
+              "baseWord": "belonging",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "belongings",
+                  "originalAnswer": "belongings",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 43,
+              "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
+              "baseWord": "possible",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "impossible",
+                  "originalAnswer": "impossible",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 44,
+              "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
+              "baseWord": "hear",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "heard",
+                  "originalAnswer": "heard",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 45,
+              "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
+              "baseWord": "nature",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "natural",
+                  "originalAnswer": "natural",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 46,
+              "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
+              "baseWord": "probable",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "probably",
+                  "originalAnswer": "probably",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 47,
+              "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
+              "baseWord": "correct",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "incorrect",
+                  "originalAnswer": "incorrect",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 48,
+              "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
+              "baseWord": "success",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "successful",
+                  "originalAnswer": "successful",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 49,
+              "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
+              "baseWord": "wise",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "wisely",
+                  "originalAnswer": "wisely",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 50,
+              "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
+              "baseWord": "try",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "trying",
+                  "originalAnswer": "trying",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "essay",
+      "title": "第七部分：短文写作（第51题，30分）",
+      "sortOrder": 7,
+      "scorePerQuestion": 30.0,
+      "passage": "请根据所提供材料中的要求完成一篇120词左右的英文写作任务。将你的答案写在答题卡相应的位置上。\n\n### 题目\n**51.**\n某英文报社正在举办题为“Green Transportation”的征文活动，请你根据下述写作要点提交一篇英文短文应征。\n- 你怎样理解绿色出行\n- 你会选择哪种绿色方式\n- 给出理由",
+      "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "短文写作",
+          "questions": [
+            {
+              "questionNumber": 51,
+              "stem": "短文写作",
+              "scoreValue": 30.0,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "略",
+                  "explanation": "**参考范文（本次校订示例，非官方标准答案）**:\n\nGreen transportation means choosing ways of travelling that use less energy and cause less pollution. Walking, cycling and taking public transport are good examples. These choices can also reduce traffic jams and make our cities more pleasant.\n\nFor short journeys, I would choose to walk or ride a bicycle. Both are inexpensive and give me a chance to exercise. When I need to travel farther, I would take a bus or the subway instead of driving alone. Sharing public transport with others helps save energy.\n\nProtecting the environment starts with everyday decisions. By choosing green transportation whenever possible, we can save resources, improve our health and help create a cleaner world.",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2019年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

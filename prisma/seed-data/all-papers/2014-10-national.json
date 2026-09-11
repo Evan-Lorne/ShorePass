@@ -1,0 +1,1944 @@
+{
+  "paperId": "2014-10-national",
+  "title": "2014年10月全国高等教育自学考试英语二真题",
+  "courseCode": "00015",
+  "year": 2014,
+  "month": 10,
+  "region": "national",
+  "paperType": "exam",
+  "totalScore": 100,
+  "suggestedMinutes": 150,
+  "verified": false,
+  "status": "draft",
+  "publishBlocked": true,
+  "blockReasons": [
+    {
+      "code": "ocr_unverified",
+      "description": "全量批量导入草稿，待逐题人工核对"
+    }
+  ],
+  "sourceFile": "2014年10月真题.md",
+  "sections": [
+    {
+      "type": "reading_judgment",
+      "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
+      "sortOrder": 1,
+      "scorePerQuestion": 1.0,
+      "passage": "A；如果该句提供的是错误信息，选择 B；如\n果该句的信息文中没有提及，选择 C。\nThe Stranger Who Changed My Life\nIt was a sunny morning in the spring of 1966. I was driving a taxi, looking for a\ncustomer. While passing New York Hospital, I found a man running down the hospital\nsteps, waving at me.\nI stopped. The man reached the taxi and jumped in. \"The Airport, please,\" he said.\nAs always, I wondered about my passenger. Was th is man a talker? After a few\nmoments, he started saying, “How do you like driving a taxi?\"\n“It's 0K,\" I said. “I make a living and meet interesting people sometimes.\"\n“What do you do? “I asked.\n“I am a doctor at New York Hospital\"\nMany times during long rides, I'd developed a good relationship with my\npassengers and received very good advice from them. This time I decided to ask for\nhis help.\n\"Could I ask a favor of you?\" He didn't answer. “I have a son, 15, a good kid. He\nwants a job this su mmer. Is it possible that you get one for him?\"\nHe still wasn't talking, and I was starting to feel foolish. Finally, he said,“Well,\nmy students have a summer research project. Maybe he could join in. Have him send\nme his school record.\"\nHe left his address and paid me. It was the last time I ever saw him.\nRobbie sent off his grades the next morning. And gradually this incident was\nforgotten. Two weeks later, when I arrived home from work, Robbie handed me a\nletter. He was informed to call Dr. Plum for an interview.\nRobbie got the job. The following summer, Robbie worked at the hospital again,\nbut this time, he was given more responsibility. Then, he worked at the hospital for a\nthird summer and gradually developed a love of medical profession.\nNear graduating from college, Robbie applied to and was admitted to New York\nMedical College. After g ettin g his medical degree, Robbie, the son of a taxi driver,\nbecame a doctor at Columbia Medical Center.",
+      "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "阅读判断",
+          "questions": [
+            {
+              "questionNumber": 1,
+              "stem": "The doctor shouted at the taxi driver for a ride.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 2,
+              "stem": "The doctor wanted to go to the railway station by taxi.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 3,
+              "stem": "The taxi driver liked talking with his customers.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 4,
+              "stem": "The taxi driver had two children.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 5,
+              "stem": "The taxi driver became Dr. Plum's friend.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 6,
+              "stem": "The doctor wrote a recommendation letter for Robbie.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 7,
+              "stem": "Robbie joined in a summer research project.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 8,
+              "stem": "Robbie gradually got interested in medicine.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 9,
+              "stem": "Robbie finally became a doctor at New York Hospital.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 10,
+              "stem": "Big opportunities can come out of ordinary meetings.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading_comprehension",
+      "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
+      "sortOrder": 2,
+      "scorePerQuestion": 2.0,
+      "passage": "个最佳选项。\nTalk to Y our Kids about Their Eating Habits Carefully\nWeight is never an easy subject. It can be risky for parents to raise the issue of\neating habits and weight with their kids.\n“No kid ever lost weight because his mother told him he was fat,\" a friend told me\nwhen I was worried about my son's weight.\nIt turns out she was right, according to a new study. The study was directed by Dr.\nBerge at Uni versity o f Minnesota. She found that kids whose parents discussed eating\nin a healthy way were less likely to have eating problems. But 64% of the kids whose\nparents focused on their weight turned to unhealthy eating behaviors. Some kids went\non extreme diets, and others even ate no food. So eating disorders were caused.\nThings were worse when fathers joined in the discussions with their daughters and\nfocused on weight. “Fathers should never comment on their daughters' weig ht, \" says\nBerge. Instead, she suggests, fathers should focus on their daughters' interests. That\ncan help them feel loved and confident enough to work on their weight issues.\nHow should parents talk to kids about eating behaviors? According to Berge,\nthey should avoid focusing on how much their kids weigh they should talk to them\nabout being healthy. Don't compare them with others. Ideally, both parents should\nshare the responsibility. If that's not possible, choose the p aren t whose words cause\nthe least amount of stress and who demonstrates healthy eating.",
+      "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "阅读选择",
+          "questions": [
+            {
+              "questionNumber": 11,
+              "stem": "The writer's friend advised her not to___.",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "worry about her son's weight"
+                },
+                {
+                  "key": "B",
+                  "content": "take the risk of gaining weight"
+                },
+                {
+                  "key": "C",
+                  "content": "change her own eating habits"
+                },
+                {
+                  "key": "D",
+                  "content": "talk to her son about his weight"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 12,
+              "stem": "The study found that some kids had fewer eating problems because they ___.",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "learned to eat healthily"
+                },
+                {
+                  "key": "B",
+                  "content": "took part in the study"
+                },
+                {
+                  "key": "C",
+                  "content": "focused on their weight"
+                },
+                {
+                  "key": "D",
+                  "content": "believed the scientists"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 13,
+              "stem": "When told about their fatness, some kids___.",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "felt helpless"
+                },
+                {
+                  "key": "B",
+                  "content": "became angry"
+                },
+                {
+                  "key": "C",
+                  "content": "began to eat no food"
+                },
+                {
+                  "key": "D",
+                  "content": "refused to take any advice"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 14,
+              "stem": "If a father focuses on his daughter's interests, she will feel___.",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "amused"
+                },
+                {
+                  "key": "B",
+                  "content": "encouraged"
+                },
+                {
+                  "key": "C",
+                  "content": "surprised"
+                },
+                {
+                  "key": "D",
+                  "content": "challenged"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 15,
+              "stem": "When talking to their kids about eating behaviors, parents should___.",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "focus on being healthy"
+                },
+                {
+                  "key": "B",
+                  "content": "use short and simple words"
+                },
+                {
+                  "key": "C",
+                  "content": "respect their kids' views"
+                },
+                {
+                  "key": "D",
+                  "content": "compare their kids with others"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "summary_completion",
+      "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
+      "sortOrder": 3,
+      "scorePerQuestion": 1.0,
+      "passage": "阅读下面短文，请完成短文后的 2 项测试任务： （1）从第 16-20 题后所给\n的 6 个选项中为第①-⑤段每段选择 1 个正确的段落大意； （2）从第 21~25 题后\n所给的 6 个选项中选择 5 个正确选项，分别完成每个句子。\nPlagiarism (剽窃)\n① You just found some good stuff on the Web for your science report. You copy a\nparagraph and paste it into your report. Then you continue your research. But you just\nmade a big mistake. You committed plagiarism is when you use someone else's words\nor ideas and pretend that they are yours. It's not allowed in school, college, or beyon d.\n② The word “plagiarism\" comes from Latin. It means stealing a person's ideas. But\nit's not always easy to tell what plagiarism is and what is not. Sometimes, it's\naccidental. You really intended to do your own work, yet ended up with some\nsentences that sound just like something you’ve read.\n③ Though plagiarism can be accidental; it's sometimes done on purpose. That's just\nbeing lazy. By copying whole paragraphs from different places, you don't have to\nspend the time th in king about the subject, gathering your own thoughts about it, and\nthen putting them into original words. Cut, paste, and you're done.\n④ Most schools are pretty strict about plagiarism. If you're caught, your graduation\nwill be delayed or worse. At the very least, you're probably going to fail the\nassignment. When you're older and in college, some schools will kick out students\nwho plagiarize. When you're kicked out of one college, it can be hard to get into\nanother.\n⑤To be on the safe side, always make it clear where the information comes from you\nneed to write references. That's a list of the sources you u sed for a project or report.\nTo do that, you'll need to know the author, the title, and the date it was published. If\nyou write something really great, maybe someday someone will quote you in a report.",
+      "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "Task 1: 概括段落大意",
+          "questions": [
+            {
+              "questionNumber": 16,
+              "stem": "Paragraph①:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Purposeful plagiarism"
+                },
+                {
+                  "key": "B",
+                  "content": "The cost of plagiarism"
+                },
+                {
+                  "key": "C",
+                  "content": "The definition of plagiarism"
+                },
+                {
+                  "key": "D",
+                  "content": "Accidental plagiarism"
+                },
+                {
+                  "key": "E",
+                  "content": "Detecting plagiarism"
+                },
+                {
+                  "key": "F",
+                  "content": "Avoiding plagiarism"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 17,
+              "stem": "Paragraph②:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Purposeful plagiarism"
+                },
+                {
+                  "key": "B",
+                  "content": "The cost of plagiarism"
+                },
+                {
+                  "key": "C",
+                  "content": "The definition of plagiarism"
+                },
+                {
+                  "key": "D",
+                  "content": "Accidental plagiarism"
+                },
+                {
+                  "key": "E",
+                  "content": "Detecting plagiarism"
+                },
+                {
+                  "key": "F",
+                  "content": "Avoiding plagiarism"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 18,
+              "stem": "Paragraph③:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Purposeful plagiarism"
+                },
+                {
+                  "key": "B",
+                  "content": "The cost of plagiarism"
+                },
+                {
+                  "key": "C",
+                  "content": "The definition of plagiarism"
+                },
+                {
+                  "key": "D",
+                  "content": "Accidental plagiarism"
+                },
+                {
+                  "key": "E",
+                  "content": "Detecting plagiarism"
+                },
+                {
+                  "key": "F",
+                  "content": "Avoiding plagiarism"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 19,
+              "stem": "Paragraph④:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Purposeful plagiarism"
+                },
+                {
+                  "key": "B",
+                  "content": "The cost of plagiarism"
+                },
+                {
+                  "key": "C",
+                  "content": "The definition of plagiarism"
+                },
+                {
+                  "key": "D",
+                  "content": "Accidental plagiarism"
+                },
+                {
+                  "key": "E",
+                  "content": "Detecting plagiarism"
+                },
+                {
+                  "key": "F",
+                  "content": "Avoiding plagiarism"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 20,
+              "stem": "Paragraph⑤:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Purposeful plagiarism"
+                },
+                {
+                  "key": "B",
+                  "content": "The cost of plagiarism"
+                },
+                {
+                  "key": "C",
+                  "content": "The definition of plagiarism"
+                },
+                {
+                  "key": "D",
+                  "content": "Accidental plagiarism"
+                },
+                {
+                  "key": "E",
+                  "content": "Detecting plagiarism"
+                },
+                {
+                  "key": "F",
+                  "content": "Avoiding plagiarism"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sortOrder": 2,
+          "title": "Task 2: 补全句子",
+          "questions": [
+            {
+              "questionNumber": 21,
+              "stem": "You commit plagiarism wh en you_____.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "you will be punished"
+                },
+                {
+                  "key": "B",
+                  "content": "you have great ideas"
+                },
+                {
+                  "key": "C",
+                  "content": "quote you in their reports"
+                },
+                {
+                  "key": "D",
+                  "content": "take others' ideas as yours"
+                },
+                {
+                  "key": "E",
+                  "content": "save you much time"
+                },
+                {
+                  "key": "F",
+                  "content": "you plagiarize or not"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 22,
+              "stem": "Sometimes it is hard to tell whether_____.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "you will be punished"
+                },
+                {
+                  "key": "B",
+                  "content": "you have great ideas"
+                },
+                {
+                  "key": "C",
+                  "content": "quote you in their reports"
+                },
+                {
+                  "key": "D",
+                  "content": "take others' ideas as yours"
+                },
+                {
+                  "key": "E",
+                  "content": "save you much time"
+                },
+                {
+                  "key": "F",
+                  "content": "you plagiarize or not"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 23,
+              "stem": "Copying whole paragraphs can_____.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "you will be punished"
+                },
+                {
+                  "key": "B",
+                  "content": "you have great ideas"
+                },
+                {
+                  "key": "C",
+                  "content": "quote you in their reports"
+                },
+                {
+                  "key": "D",
+                  "content": "take others' ideas as yours"
+                },
+                {
+                  "key": "E",
+                  "content": "save you much time"
+                },
+                {
+                  "key": "F",
+                  "content": "you plagiarize or not"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 24,
+              "stem": "Once caught for plagiarism, _____.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "you will be punished"
+                },
+                {
+                  "key": "B",
+                  "content": "you have great ideas"
+                },
+                {
+                  "key": "C",
+                  "content": "quote you in their reports"
+                },
+                {
+                  "key": "D",
+                  "content": "take others' ideas as yours"
+                },
+                {
+                  "key": "E",
+                  "content": "save you much time"
+                },
+                {
+                  "key": "F",
+                  "content": "you plagiarize or not"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 25,
+              "stem": "If you publish something great, people may_____.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "you will be punished"
+                },
+                {
+                  "key": "B",
+                  "content": "you have great ideas"
+                },
+                {
+                  "key": "C",
+                  "content": "quote you in their reports"
+                },
+                {
+                  "key": "D",
+                  "content": "take others' ideas as yours"
+                },
+                {
+                  "key": "E",
+                  "content": "save you much time"
+                },
+                {
+                  "key": "F",
+                  "content": "you plagiarize or not"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "sentence_fill",
+      "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
+      "sortOrder": 4,
+      "scorePerQuestion": 2.0,
+      "passage": "Fruit\nImagine a world without fruit. We wouldn't be very healthy. We get a lot of important vitamins from eating fruit.\nWe think of fruit primarily as something to eat. [26] Fruit is part of a flowering plant and it carries the seeds. The purpose of fruit is to protect a plant's seeds and help them get spread about. Wind and water spread seeds. So do animals when they eat fruit and drop the seeds. [27]\nThere are two main types of fruit: fleshy and dry. Fleshy fruits are soft and juicy. Pears, bananas and apples are all fleshy fruits. [28] Grains like wheat and rice, or nuts like chestnuts (板栗), are dry fruits.\nBut wait: You've eaten oranges and grapes without seeds. How can they be fruits? It's because people have changed the way they grow fruit. They can now grow seedless fruit. Seedless fruit comes from special plants that are made by combining two varieties of a fruit to form a new variety. These special plants grow and produce seeds. [29] These plants cannot reproduce themselves. They can make fruit, but the fruit has no seeds.\nFruits are a source of substances that keep us alive and healthy. So people make use of fruits for many foods. We make juices from them. We make jams and sweets. [30] Beer comes from grains and wine comes from grapes, and some particular wines are made from apples, peaches, or other fruits.",
+      "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "Dry fruits are thin and hard."
+        },
+        {
+          "key": "B",
+          "content": "We even make alcohol from fruit."
+        },
+        {
+          "key": "C",
+          "content": "But fruit has a purpose quite apart from our needs."
+        },
+        {
+          "key": "D",
+          "content": "So these plants produce fleshy fruits."
+        },
+        {
+          "key": "E",
+          "content": "Then the seeds grow into new plants."
+        },
+        {
+          "key": "F",
+          "content": "But the plants grown from these seeds are seedless."
+        }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "填句补文",
+          "questions": [
+            {
+              "questionNumber": 26,
+              "stem": "填入原文第 [26] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Dry fruits are thin and hard."
+                },
+                {
+                  "key": "B",
+                  "content": "We even make alcohol from fruit."
+                },
+                {
+                  "key": "C",
+                  "content": "But fruit has a purpose quite apart from our needs."
+                },
+                {
+                  "key": "D",
+                  "content": "So these plants produce fleshy fruits."
+                },
+                {
+                  "key": "E",
+                  "content": "Then the seeds grow into new plants."
+                },
+                {
+                  "key": "F",
+                  "content": "But the plants grown from these seeds are seedless."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 27,
+              "stem": "填入原文第 [27] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Dry fruits are thin and hard."
+                },
+                {
+                  "key": "B",
+                  "content": "We even make alcohol from fruit."
+                },
+                {
+                  "key": "C",
+                  "content": "But fruit has a purpose quite apart from our needs."
+                },
+                {
+                  "key": "D",
+                  "content": "So these plants produce fleshy fruits."
+                },
+                {
+                  "key": "E",
+                  "content": "Then the seeds grow into new plants."
+                },
+                {
+                  "key": "F",
+                  "content": "But the plants grown from these seeds are seedless."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 28,
+              "stem": "填入原文第 [28] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Dry fruits are thin and hard."
+                },
+                {
+                  "key": "B",
+                  "content": "We even make alcohol from fruit."
+                },
+                {
+                  "key": "C",
+                  "content": "But fruit has a purpose quite apart from our needs."
+                },
+                {
+                  "key": "D",
+                  "content": "So these plants produce fleshy fruits."
+                },
+                {
+                  "key": "E",
+                  "content": "Then the seeds grow into new plants."
+                },
+                {
+                  "key": "F",
+                  "content": "But the plants grown from these seeds are seedless."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 29,
+              "stem": "填入原文第 [29] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Dry fruits are thin and hard."
+                },
+                {
+                  "key": "B",
+                  "content": "We even make alcohol from fruit."
+                },
+                {
+                  "key": "C",
+                  "content": "But fruit has a purpose quite apart from our needs."
+                },
+                {
+                  "key": "D",
+                  "content": "So these plants produce fleshy fruits."
+                },
+                {
+                  "key": "E",
+                  "content": "Then the seeds grow into new plants."
+                },
+                {
+                  "key": "F",
+                  "content": "But the plants grown from these seeds are seedless."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 30,
+              "stem": "填入原文第 [30] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Dry fruits are thin and hard."
+                },
+                {
+                  "key": "B",
+                  "content": "We even make alcohol from fruit."
+                },
+                {
+                  "key": "C",
+                  "content": "But fruit has a purpose quite apart from our needs."
+                },
+                {
+                  "key": "D",
+                  "content": "So these plants produce fleshy fruits."
+                },
+                {
+                  "key": "E",
+                  "content": "Then the seeds grow into new plants."
+                },
+                {
+                  "key": "F",
+                  "content": "But the plants grown from these seeds are seedless."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_cloze",
+      "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
+      "sortOrder": 5,
+      "scorePerQuestion": 1.5,
+      "passage": "Doing mental activities is helpful. A new [31] finds that people of any age can improve memory by reading and writing.\nThe study was carried out by some neurologists in the US. It [32] 294 people. They were given [33] on memory and thinking skills. They were tested once a year for six consecutive years. They were also asked to talk about their mental activities in childhood, youth, middle age and [34] age.\nSome of them did mental activities in both [35] and late life. Their memory declined at a much [36] rate. Others [37] did such activities. Their memory declined 48 percent [38].\nMental activities like reading and writing are great. They [39] do good. We shouldn't [40] their effects on our children, ourselves and our parents.",
+      "instructions": "从备选词汇池中选择最佳单词填入空白处。",
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "study"
+        },
+        {
+          "key": "B",
+          "content": "involved"
+        },
+        {
+          "key": "C",
+          "content": "tests"
+        },
+        {
+          "key": "D",
+          "content": "current"
+        },
+        {
+          "key": "E",
+          "content": "early"
+        },
+        {
+          "key": "F",
+          "content": "slower"
+        },
+        {
+          "key": "G",
+          "content": "rate"
+        },
+        {
+          "key": "H",
+          "content": "seldom"
+        },
+        {
+          "key": "I",
+          "content": "faster"
+        },
+        {
+          "key": "J",
+          "content": "really"
+        },
+        {
+          "key": "K",
+          "content": "neglect"
+        },
+        {
+          "key": "L",
+          "content": "active"
+        }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "填词补文",
+          "questions": [
+            {
+              "questionNumber": 31,
+              "stem": "填入原文第 [31] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 32,
+              "stem": "填入原文第 [32] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 33,
+              "stem": "填入原文第 [33] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 34,
+              "stem": "填入原文第 [34] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 35,
+              "stem": "填入原文第 [35] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 36,
+              "stem": "填入原文第 [36] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "G",
+                  "originalAnswer": "G",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 37,
+              "stem": "填入原文第 [37] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "H",
+                  "originalAnswer": "H",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 38,
+              "stem": "填入原文第 [38] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "I",
+                  "originalAnswer": "I",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 39,
+              "stem": "填入原文第 [39] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "J",
+                  "originalAnswer": "J",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 40,
+              "stem": "填入原文第 [40] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "K",
+                  "originalAnswer": "K",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_formation",
+      "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
+      "sortOrder": 6,
+      "scorePerQuestion": 1.5,
+      "passage": "The decline of the labor market is easy to be misunderstood. There are many reasons. In the 1970s, a large number of women and young adults [41] (bear) during the baby boom entered the labor market. This has [42] (result) in too many workers unable to find jobs and lower wages. This decline is also related to the explosive [43] (grow) of world trade since 1960. As [44] (manufacture) technology has become more mobile, production jobs have also [45] (move) from the US to lower-wage countries. In [46] (add), technology itself has contributed to the transformation of the job market. For example, [47] (few) American workers are needed to make steel than in the past because new [48] (machine) have made their work [49] (necessary). Finally, high [50] (employ) caused by these factors tends to push down wages further.",
+      "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "完形补文",
+          "questions": [
+            {
+              "questionNumber": 41,
+              "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
+              "baseWord": "bear",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "born",
+                  "originalAnswer": "born",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 42,
+              "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
+              "baseWord": "result",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "resulted",
+                  "originalAnswer": "resulted",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 43,
+              "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
+              "baseWord": "grow",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "growth",
+                  "originalAnswer": "growth",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 44,
+              "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
+              "baseWord": "manufacture",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "manufacturing",
+                  "originalAnswer": "manufacturing",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 45,
+              "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
+              "baseWord": "move",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "moved",
+                  "originalAnswer": "moved",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 46,
+              "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
+              "baseWord": "add",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "addition",
+                  "originalAnswer": "addition",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 47,
+              "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
+              "baseWord": "few",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "fewer",
+                  "originalAnswer": "fewer",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 48,
+              "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
+              "baseWord": "machine",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "machines",
+                  "originalAnswer": "machines",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 49,
+              "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
+              "baseWord": "necessary",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "unnecessary",
+                  "originalAnswer": "unnecessary",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 50,
+              "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
+              "baseWord": "employ",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "unemployment",
+                  "originalAnswer": "unemployment",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "essay",
+      "title": "第七部分：短文写作（第51题，30分）",
+      "sortOrder": 7,
+      "scorePerQuestion": 30.0,
+      "passage": "",
+      "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "短文写作",
+          "questions": [
+            {
+              "questionNumber": 51,
+              "stem": "短文写作",
+              "scoreValue": 30.0,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "略",
+                  "explanation": "短文写作属于主观题，需结合题目要点书写。",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2014年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

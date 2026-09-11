@@ -1,0 +1,1944 @@
+{
+  "paperId": "2024-prediction-3",
+  "title": "押题库考前自检试卷（3）",
+  "courseCode": "00015",
+  "year": 2024,
+  "month": 4,
+  "region": "national",
+  "paperType": "prediction",
+  "totalScore": 100,
+  "suggestedMinutes": 150,
+  "verified": false,
+  "status": "draft",
+  "publishBlocked": true,
+  "blockReasons": [
+    {
+      "code": "ocr_unverified",
+      "description": "全量批量导入草稿，待逐题人工核对"
+    }
+  ],
+  "sourceFile": "押题库考前试卷（3）.md",
+  "sections": [
+    {
+      "type": "reading_judgment",
+      "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
+      "sortOrder": 1,
+      "scorePerQuestion": 1.0,
+      "passage": "(第 1-10 题，每题 1 分，共 10 分)\n\n### 短文原文\nBooking Online and Saving the Environment\nWhen you are looking to book a holiday, it is unlikely that you will think\nabout how green your booking decision is, but it is definitely something that\nshould be taken into consideration. By “green”we are of course talking about the\nimpact on the environment. .\n When looking to book a holiday, you will probably find that you are faced with\ntwo main decisions. The first is to go into a travel agency, pick up a stack of\nbrochures half the size of a person, read through them and go back with just the\none and book with the travel agents directly or over the phone. The second is to\nmiss out the shops and brochures altogether and go onto the Internet.\n The Internet holds many advantages. over the high street travel agents, the\nmain one being convenience. You can go online to look at holidays at any time of\nthe day, whether it is in that 20 minutes before work starts in the morning, half\nan hour at your desk at lunchtime or even at home on your laptop in front of the\ntelevision at night. There are no time constraints to going online, while the\ntravel agents are usually massively busy at times when people can actually go, ie\nlunch hours or at the weeken d. You could use the telephone but you wouldn't be\nable to see the pictures or all the details of the holidays, so you would probably\nbe sent a brochure anyway.\n There are websites on the Internet that make shopping for holiday deals much\neasier. These websites are known as price comparison websites. Icelolly, Travel\nSupermarket and Deal Checker are examples of some of the best-known price comparison\nsites to look for cheap holiday deals, and they essentially search through lots of\ndifferent tour operators so that you don't have to. The results are then displayed\non one page from which you can book, meaning that you don't even need a lot of\ntime to do this.\nThe contrast with the travel agencies is that you probably have to take two\ntrips, with brochure reading in between, and this is where the green side of things\ncomes in. The piles and piles of brochures are definitely not green, and the amount\nof unnecessary paper used can’t be good for the environment. In the days of the\nInternet, smartphone, tablets and computers, there is really no need for such a\nlarge amount of paper to be wasted. So not only will it save yo u time and effort\nto book online, it will do a little bit towards saving the environment too !\n\n### 题目",
+      "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "阅读判断",
+          "questions": [
+            {
+              "questionNumber": 1,
+              "stem": "Green booking decisions should def initely  be a consideration in booking your holiday.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 2,
+              "stem": "Going onto the Internet is one major choice in booking a holiday.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 3,
+              "stem": "There are no time constraints to doing online booking.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 4,
+              "stem": "Travel agents are massively busy all the time.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 5,
+              "stem": "Price comparison websites make shopping for holiday deals much easier.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 6,
+              "stem": "Travel Supermarket is the best-known price comparison site in the world .\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 7,
+              "stem": "You have to spend a lot of time booking a holiday online.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 8,
+              "stem": "You have to read brochures before deciding to book a holiday.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 9,
+              "stem": "Travel agents provide you with a great variety of brochures.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 10,
+              "stem": "Booking online is“green”in that it saves a lot of unnecessary paper.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading_comprehension",
+      "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
+      "sortOrder": 2,
+      "scorePerQuestion": 2.0,
+      "passage": "(第 11-15 题，每题 2 分，共 10 分)\n\n### 短文原文\nWhy Lack of Sleep Could Be Making You Fatter Sleepless nights don't just ruin\nyour mood the next day — they could also damage your waistline. According to new\nresearch in the August issue of the American Journal of Clinical Nutrition, sleep\ndeprivation can cause people to pack on extra pounds.\nResearchers at the New York Obesity Nutrition Research Centre at St. Luke's -\nRoosevelt Hospital found that sleep-deprived people seem to burn' the same number\nof calories as the well- rested, but they consume about 300 more calories a day.\nGiven that it takes just 3,500 calories to add a pound to your body, those calories\ncan quickly turn into extra weight.\nBut there are several other reasons that sleep loss could lead to weight gain,\nsays sleep disorder specialist Michael Breus. When we get too little shut-eye, our\nmetabolism（新陈代谢) slows down to conserve energy. That slowdown triggers the\nrelease of the hormone cortisol ( 荷尔蒙皮质醇), which increases appetite. Your\nbody thinks it needs more energy, so it asks for more food.\n In a vicious cycle, sleep loss also causes our bodies to release more ghrelin,\nanother hormone that signals hunger, and less leptin, the hormone that tells your\nstomach that it's full With your hormones no longer working in the normal way,\nyour body wants more food and lacks the sensitivity to know when to stop eating.\nNot to mention that being awake more hours gives you more time to snack.\n “The later you're up at night, the greater the likelihood that you're going\nto eat, ” Breus says, and “you're more likely to eat high-fat, high-carb foods.”\nOne other contributing factor to such weight gain is that the body burns the\nmost calories during REM sleep, a deeply restful phase. Less sleep means less time\nin REM.\nFor optimal health, experts say you should try to get 7.5 hours of sleep a\nnight. If you have trouble sleeping, stick to a nightly routine, exercise during\nthe day, banish worries to a journal, and keep pre-bedtime activities relaxing.\n\n### 题目",
+      "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "阅读选择",
+          "questions": [
+            {
+              "questionNumber": 11,
+              "stem": "This passage is mainly about __________\n- A. the influence of sleep loss on weight\n- B. the effect of sleep deprivation on mood\n- C. the release of the hormone cortisol\n- D. the implications of a new research finding",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "the influence of sleep loss on weight"
+                },
+                {
+                  "key": "B",
+                  "content": "the effect of sleep deprivation on mood"
+                },
+                {
+                  "key": "C",
+                  "content": "the release of the hormone cortisol"
+                },
+                {
+                  "key": "D",
+                  "content": "the implications of a new research finding"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 12,
+              "stem": "Sleep-deprived people consume more calories. which will __________\n- A. make them energetic\n- B. turn into extra pounds\n- C. damage their mood\n- D. cause them to feel sleepy",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "make them energetic"
+                },
+                {
+                  "key": "B",
+                  "content": "turn into extra pounds"
+                },
+                {
+                  "key": "C",
+                  "content": "damage their mood"
+                },
+                {
+                  "key": "D",
+                  "content": "cause them to feel sleepy"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 13,
+              "stem": "According to Michael Breus, sleep loss can __________\n- A. decrease people’s appetite\n- B. slow down energy conservation\n- C. trigger the need for more food\n- D. lead to a vicious cycle",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "decrease people’s appetite"
+                },
+                {
+                  "key": "B",
+                  "content": "slow down energy conservation"
+                },
+                {
+                  "key": "C",
+                  "content": "trigger the need for more food"
+                },
+                {
+                  "key": "D",
+                  "content": "lead to a vicious cycle"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 14,
+              "stem": "The word optimal” in paragraph 7 is closest in meaning to __________\n- A. best\n- B. positive\n- C. optional\n- D. appropriate",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "best"
+                },
+                {
+                  "key": "B",
+                  "content": "positive"
+                },
+                {
+                  "key": "C",
+                  "content": "optional"
+                },
+                {
+                  "key": "D",
+                  "content": "appropriate"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 15,
+              "stem": "To attack sleep troubles, you can __________\n- A. exercise regularly at night\n- B. do more pre-bedtime activities\n- C. keep a journal at night\n- D. follow a set routine every night",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "exercise regularly at night"
+                },
+                {
+                  "key": "B",
+                  "content": "do more pre-bedtime activities"
+                },
+                {
+                  "key": "C",
+                  "content": "keep a journal at night"
+                },
+                {
+                  "key": "D",
+                  "content": "follow a set routine every night"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "summary_completion",
+      "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
+      "sortOrder": 3,
+      "scorePerQuestion": 1.0,
+      "passage": "(第 16-25 题，每题 1 分，共 10 分)\n\n### 短文原文\nTwitter's Most Influential Users\n①Twitter is today's most popular social networking site. What is it that drives\npeople to Twitter, drives the trending topics, and directs the discussions people\nare having on Twi tter? The most influential Twitter users! These are the people\nthat can get Twitter users tweeting and can get a large number of followers. These\nare the top categories of Twitter's most influential users.\n②Celebrities will always have a large influence on society. The inf luence they\nhave on twitter is incredible. Twitter is an easy way for fans to connect with\ntheir favorite celebrity and many celebrities are taking advantage of Twitter's\npopularity. Every celebrity tweet starts a f irestorm of retweets, replies, and\ndiscussions about what a celebrity just tweeted. A good example of this is that\nthe trending topics often revolve around a celebrity or something that a celebrity\nrecently tweeted. Celebrity tweets also become news in the world of celebrity news.\nCelebrities now use Twitter to communicate with the public instead of issuing\nstatements, and also use their accounts to dispel rumors, make announcements, and\npromote their movies, albu ms, or books. Moreover, because there are so many\ncelebrity tabloids(小报), simple tweets about their everyday lives will also become\nfront-page news.\n③News organizations do play a large role in getting news out to people through\nTwitter and influencing the discussions that take place on Twitter as we're all\naffected by the news of the day. Retweets by twitter users of important stories\nare an easy and po werful way to get the word out about a story they think is\nimportant. Twitter allows news organizations to let people know about an event\nvery quickly, and when a story is important or gains attention, it will quickly be\nretweeted by enough people to make it a trending topic or a top tweet. We. will\nalways have the need for news organizations to provide us with information on the\nworld's events. Twitter makes spreading those news stories quickly very easy.\n④ With more politicians creating Twitter accounts, Twitter has become a way for\nusers to spread the word about a politician they support and for politicians to\nget the word out to more people about upcoming events and their general message.\nFollowing and listing politicians gives users a simple way to stay connected with\nand informed about what those politicians want to communicate. Politicians will\nalways have an influence on our daily lives and they also have quite an influence\non Twitter .\n⑤Twitter's popularity blows out of proportion with millions of people joining,\nincluding celebrities and businesses. This will, in turn, prompt a good majority\nof the internet society to join and see what the whole fuss was about by joining,\ntweeting and using all the Twitter related serv1ces.\n\n### 备选词汇池",
+      "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "Task 1: 概括段落大意",
+          "questions": [
+            {
+              "questionNumber": 16,
+              "stem": "Paragraph 1",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "News organizations"
+                },
+                {
+                  "key": "B",
+                  "content": "The most influential users"
+                },
+                {
+                  "key": "C",
+                  "content": "Influences"
+                },
+                {
+                  "key": "D",
+                  "content": "Celebrities"
+                },
+                {
+                  "key": "E",
+                  "content": "Twitter's popularity"
+                },
+                {
+                  "key": "F",
+                  "content": "Politicians"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 17,
+              "stem": "Paragraph 2",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "News organizations"
+                },
+                {
+                  "key": "B",
+                  "content": "The most influential users"
+                },
+                {
+                  "key": "C",
+                  "content": "Influences"
+                },
+                {
+                  "key": "D",
+                  "content": "Celebrities"
+                },
+                {
+                  "key": "E",
+                  "content": "Twitter's popularity"
+                },
+                {
+                  "key": "F",
+                  "content": "Politicians"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 18,
+              "stem": "Paragraph 3",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "News organizations"
+                },
+                {
+                  "key": "B",
+                  "content": "The most influential users"
+                },
+                {
+                  "key": "C",
+                  "content": "Influences"
+                },
+                {
+                  "key": "D",
+                  "content": "Celebrities"
+                },
+                {
+                  "key": "E",
+                  "content": "Twitter's popularity"
+                },
+                {
+                  "key": "F",
+                  "content": "Politicians"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 19,
+              "stem": "Paragraph 4",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "News organizations"
+                },
+                {
+                  "key": "B",
+                  "content": "The most influential users"
+                },
+                {
+                  "key": "C",
+                  "content": "Influences"
+                },
+                {
+                  "key": "D",
+                  "content": "Celebrities"
+                },
+                {
+                  "key": "E",
+                  "content": "Twitter's popularity"
+                },
+                {
+                  "key": "F",
+                  "content": "Politicians"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 20,
+              "stem": "Paragraph 5",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "News organizations"
+                },
+                {
+                  "key": "B",
+                  "content": "The most influential users"
+                },
+                {
+                  "key": "C",
+                  "content": "Influences"
+                },
+                {
+                  "key": "D",
+                  "content": "Celebrities"
+                },
+                {
+                  "key": "E",
+                  "content": "Twitter's popularity"
+                },
+                {
+                  "key": "F",
+                  "content": "Politicians"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sortOrder": 2,
+          "title": "Task 2: 补全句子",
+          "questions": [
+            {
+              "questionNumber": 21,
+              "stem": "The most influential Twitter users can get __________",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "their upcoming events and general message"
+                },
+                {
+                  "key": "B",
+                  "content": "a large number of followers tweeting"
+                },
+                {
+                  "key": "C",
+                  "content": "spread quickly"
+                },
+                {
+                  "key": "D",
+                  "content": "influence Twitter incredibly"
+                },
+                {
+                  "key": "E",
+                  "content": "is becoming increasingly popular"
+                },
+                {
+                  "key": "F",
+                  "content": "great popularity"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 22,
+              "stem": "Celebrities __________",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "their upcoming events and general message"
+                },
+                {
+                  "key": "B",
+                  "content": "a large number of followers tweeting"
+                },
+                {
+                  "key": "C",
+                  "content": "spread quickly"
+                },
+                {
+                  "key": "D",
+                  "content": "influence Twitter incredibly"
+                },
+                {
+                  "key": "E",
+                  "content": "is becoming increasingly popular"
+                },
+                {
+                  "key": "F",
+                  "content": "great popularity"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 23,
+              "stem": "Twitter makes important news stories __________",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "their upcoming events and general message"
+                },
+                {
+                  "key": "B",
+                  "content": "a large number of followers tweeting"
+                },
+                {
+                  "key": "C",
+                  "content": "spread quickly"
+                },
+                {
+                  "key": "D",
+                  "content": "influence Twitter incredibly"
+                },
+                {
+                  "key": "E",
+                  "content": "is becoming increasingly popular"
+                },
+                {
+                  "key": "F",
+                  "content": "great popularity"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 24,
+              "stem": "Politicians' Twitter accounts help them get more people to know about __________",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "their upcoming events and general message"
+                },
+                {
+                  "key": "B",
+                  "content": "a large number of followers tweeting"
+                },
+                {
+                  "key": "C",
+                  "content": "spread quickly"
+                },
+                {
+                  "key": "D",
+                  "content": "influence Twitter incredibly"
+                },
+                {
+                  "key": "E",
+                  "content": "is becoming increasingly popular"
+                },
+                {
+                  "key": "F",
+                  "content": "great popularity"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 25,
+              "stem": "With millions of people joining, Twitter __________",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "their upcoming events and general message"
+                },
+                {
+                  "key": "B",
+                  "content": "a large number of followers tweeting"
+                },
+                {
+                  "key": "C",
+                  "content": "spread quickly"
+                },
+                {
+                  "key": "D",
+                  "content": "influence Twitter incredibly"
+                },
+                {
+                  "key": "E",
+                  "content": "is becoming increasingly popular"
+                },
+                {
+                  "key": "F",
+                  "content": "great popularity"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "sentence_fill",
+      "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
+      "sortOrder": 4,
+      "scorePerQuestion": 2.0,
+      "passage": "(第 26-30 题，每题 2 分，共 10 分)\n\n### 短文原文\nThe Rise of the Toilet Texter\n\nWe know where some of you are reading this.\nA recently released survey of the mobile phone habits of Americans, going where\nfew other surveys care to go, has found that 75 percent of the ordinary people has\nused their mobile devices while on the toilet. [26]\n The survey of 1,000 people by the marketing agency 1lmark found that private\ncontemplation has given way to toilet-time talking, texting, shopping, using apps,\nor just surfing the Web, by both sexes and most ages. [27]\nIt gets weirder. One-quarter of Americans say they will not go to the bathroom\nwithout their devices. While 63 percent have answered calls, 41 percent have called\nsomeone else while enthroned. Sixteen percent in the 28-to-35 group, the youngest\nsample surveyed, have made purchases there. A mere 8 percent of the oldest group\nhas felt such retail urgency. Understandably given their infrequent chances at\nprivacy, people with children are more likely to talk on the phone than are the\nchildless. [28]\nHope you are sitting down for this:20 percent of males have at one time joined\na conference call from the toilet. Thirteen percent of American women have\nparticipated in meetings from the toilet. [29] Be grateful that\nlocation-based tracking is not yet so prevalent. Be worried about the rise of video\non mobile devices. Ignore all background noises. Really.\n This is, in a sense, an evidence to our collective passion for communication\nand contact over all other needs, and a lesson in how quickly ideas of decorum(礼貌得体)adjust to the times. [30]If someone is making or taking calls\nwhile on the toilet, they are most likely using a BlackBer ry. Using an app or\nplaying on Facebook most often is done on an iPhone.In general, Android owners are\nmore likely than owners of other phones to use them on the toilet.\n\n### 备选词汇池\n\n### 题目\n**26.** [26]\n**标准答案**: F\n**精准解析**: 综合比较 5 个选项,只用 C 项和 F 项可能入选。根据常识可知，使用手机的大多为年轻人，所以这个统计数字应是面向年轻人的。由此可以判断 F 项最符合。答案为 F。\n\n**27.** [27]\n**标准答案**: C\n**精准解析**: 第三段还是在用一些研究数据表明在厕所使用手机的现象。最后指出这种现象存在于男女老幼之中。因此本空可以考虑选入 C 项,即老年中使用手机的还是占少数。答案为 C。\n\n**28.** [28]\n**标准答案**: E\n**精准解析**: 第四段最后提到有了孩子的家庭中，在打电话上花费的时间比没有孩子的要多。由此我们也可以判断出单身的人花在阅读上的时间更多些。答案为 E。\n\n**29.** [29]\n**标准答案**: B\n**精准解析**: 第五段前两句讲到 20%的男.....,13%的女人....所以本段的关键词是 male 和 female,由此可以看出B 项最符合。答案为 B。\n\n**30.** [30]\n**标准答案**: A\n**精准解析**: 最后一段中本空后面列举了人们在卫生间里利用蓝莓手机打电话,用苹果手机浏览网页,使用安卓的人还是最多的。这些信息与 A 项中的 decent read 和 habit 相关联。答案为 A。",
+      "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "It is also a decent read on brand-related habits."
+        },
+        {
+          "key": "B",
+          "content": "That is every fifth male co-worker, and every eighth female colleague."
+        },
+        {
+          "key": "C",
+          "content": "Among those 65 and older, however, only 47 percent have used their mobile devices on the toilet."
+        },
+        {
+          "key": "D",
+          "content": "Married people are far more likely than the single to text."
+        },
+        {
+          "key": "E",
+          "content": "Single people are far more likely than the mated to text."
+        },
+        {
+          "key": "F",
+          "content": "Among those aged 28 to 35, the figure is 91 percent."
+        }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "填句补文",
+          "questions": [
+            {
+              "questionNumber": 26,
+              "stem": "填入原文第 [26] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "It is also a decent read on brand-related habits."
+                },
+                {
+                  "key": "B",
+                  "content": "That is every fifth male co-worker, and every eighth female colleague."
+                },
+                {
+                  "key": "C",
+                  "content": "Among those 65 and older, however, only 47 percent have used their mobile devices on the toilet."
+                },
+                {
+                  "key": "D",
+                  "content": "Married people are far more likely than the single to text."
+                },
+                {
+                  "key": "E",
+                  "content": "Single people are far more likely than the mated to text."
+                },
+                {
+                  "key": "F",
+                  "content": "Among those aged 28 to 35, the figure is 91 percent."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 27,
+              "stem": "填入原文第 [27] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "It is also a decent read on brand-related habits."
+                },
+                {
+                  "key": "B",
+                  "content": "That is every fifth male co-worker, and every eighth female colleague."
+                },
+                {
+                  "key": "C",
+                  "content": "Among those 65 and older, however, only 47 percent have used their mobile devices on the toilet."
+                },
+                {
+                  "key": "D",
+                  "content": "Married people are far more likely than the single to text."
+                },
+                {
+                  "key": "E",
+                  "content": "Single people are far more likely than the mated to text."
+                },
+                {
+                  "key": "F",
+                  "content": "Among those aged 28 to 35, the figure is 91 percent."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 28,
+              "stem": "填入原文第 [28] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "It is also a decent read on brand-related habits."
+                },
+                {
+                  "key": "B",
+                  "content": "That is every fifth male co-worker, and every eighth female colleague."
+                },
+                {
+                  "key": "C",
+                  "content": "Among those 65 and older, however, only 47 percent have used their mobile devices on the toilet."
+                },
+                {
+                  "key": "D",
+                  "content": "Married people are far more likely than the single to text."
+                },
+                {
+                  "key": "E",
+                  "content": "Single people are far more likely than the mated to text."
+                },
+                {
+                  "key": "F",
+                  "content": "Among those aged 28 to 35, the figure is 91 percent."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 29,
+              "stem": "填入原文第 [29] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "It is also a decent read on brand-related habits."
+                },
+                {
+                  "key": "B",
+                  "content": "That is every fifth male co-worker, and every eighth female colleague."
+                },
+                {
+                  "key": "C",
+                  "content": "Among those 65 and older, however, only 47 percent have used their mobile devices on the toilet."
+                },
+                {
+                  "key": "D",
+                  "content": "Married people are far more likely than the single to text."
+                },
+                {
+                  "key": "E",
+                  "content": "Single people are far more likely than the mated to text."
+                },
+                {
+                  "key": "F",
+                  "content": "Among those aged 28 to 35, the figure is 91 percent."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 30,
+              "stem": "填入原文第 [30] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "It is also a decent read on brand-related habits."
+                },
+                {
+                  "key": "B",
+                  "content": "That is every fifth male co-worker, and every eighth female colleague."
+                },
+                {
+                  "key": "C",
+                  "content": "Among those 65 and older, however, only 47 percent have used their mobile devices on the toilet."
+                },
+                {
+                  "key": "D",
+                  "content": "Married people are far more likely than the single to text."
+                },
+                {
+                  "key": "E",
+                  "content": "Single people are far more likely than the mated to text."
+                },
+                {
+                  "key": "F",
+                  "content": "Among those aged 28 to 35, the figure is 91 percent."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_cloze",
+      "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
+      "sortOrder": 5,
+      "scorePerQuestion": 1.5,
+      "passage": "The Price of Progress\n“ We’ve become the [31] of our own success, ” Dr. Jackson said of\nthe public health mission that cleared cities of congested slums.“By living far\nfrom where we work, we reduced crowding and improved the [32] of our air\nand water, which drove down rates of infectious disease.” But as people have moved\nfarther and farther from where they work, shop and socialize, the rates of chronic\ndiseases have [33]\nPublic transportation has not kept pace with the [34] of suburbs and\nexurbs（远郊). Nor are there enough sidewalks, nearby parks and safe places to\nwalk, cycle. or play outdoors in many, if not most, towns. Parents spend hours in\ncars getting to and from work; children are bused or driven to and from school;\nand those who can't drive must depend on others to take them everywhere or risk\nbecoming [35] isolated.\nIn 1974, 66 percent of all children walked or biked to school. By 2000, that\nnumber had [36] to 13 percent. “Children who grow up in suburbia ( 郊区) can't meet their life needs without getting a ride somewhere, ” Dr. Jackson\nsaid. “The average teen in suburbia  says it's boring.”\nHis new book, “Designing Healthy Communities, ”a(n)[37] piece to\na coming public television series, says:  “When there is nearly nothing within\nwalking distance to interest a young person and it is near -lethal to bicycle, he\nor she must give up autonomy - a(n)[38]every creature must develop just\nas much as strength and endurance.”  The book was written with Stacy Sinclair,\ndirector of education at the Media Policy Centre in Santa Monica, Calif\n“We've engineered physical activity out of children's lives, ” Dr. Jackson\nsaid in a(n) [39] “Only a quarter of the children in California can\npass a basic fitness test, and two in seven volunteers for the military can't get\nin because they're not in good enough physical condition.”\nThe health consequences, he said, are [40] Not only are Americans\nof all ages fatter than ever, but also growing numbers of children are developing\ndiseases once seen only in adults: Type 2 diabetes ( 糖尿病), heart disease and\nfatty livers(脂肪肝).",
+      "instructions": "从备选词汇池中选择最佳单词填入空白处。",
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "socially"
+        },
+        {
+          "key": "B",
+          "content": "victims"
+        },
+        {
+          "key": "C",
+          "content": "approach"
+        },
+        {
+          "key": "D",
+          "content": "expansion"
+        },
+        {
+          "key": "E",
+          "content": "terrifying"
+        },
+        {
+          "key": "F",
+          "content": "quality"
+        },
+        {
+          "key": "G",
+          "content": "raised"
+        },
+        {
+          "key": "H",
+          "content": "soared"
+        },
+        {
+          "key": "I",
+          "content": "capacity"
+        },
+        {
+          "key": "J",
+          "content": "dropped"
+        },
+        {
+          "key": "K",
+          "content": "interview"
+        },
+        {
+          "key": "L",
+          "content": "companion"
+        }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "填词补文",
+          "questions": [
+            {
+              "questionNumber": 31,
+              "stem": "填入原文第 [31] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 32,
+              "stem": "填入原文第 [32] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 33,
+              "stem": "填入原文第 [33] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "H",
+                  "originalAnswer": "H",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 34,
+              "stem": "填入原文第 [34] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 35,
+              "stem": "填入原文第 [35] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 36,
+              "stem": "填入原文第 [36] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "J",
+                  "originalAnswer": "J",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 37,
+              "stem": "填入原文第 [37] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "L",
+                  "originalAnswer": "L",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 38,
+              "stem": "填入原文第 [38] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "I",
+                  "originalAnswer": "I",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 39,
+              "stem": "填入原文第 [39] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "K",
+                  "originalAnswer": "K",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 40,
+              "stem": "填入原文第 [40] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_formation",
+      "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
+      "sortOrder": 6,
+      "scorePerQuestion": 1.5,
+      "passage": "(第 41-50 题，每题 1.5 分，共 15 分)\n\n### 短文原文\nBody Image\nNowadays, a large number of people are (0) encouraged (courage) to be\ndissatisfied with their bodies by plastic surgeons, diet plans, and diet pills all\nof which foster that [41] (satisfaction) to make a profit. However, in\nmy opinion, to build a positive body image requires a [42] (balance)\ndiet and [43] (health) lifestyle.\nIn daily life, to eat more fruits and vegetable than meat will help us keep\nfit. The best way to keep ourselves in shape is to do some [44] (vigor)\nexercise every day.\nInstead of feeling self -conscious and [45] (shame), or believing\nyour body is a shame of personal [46] (fail) and that you are not as\nattractive as everyone else, you should have a real and clear [47]\n(perceive) of your body parts, appreciate your body for the way it is, and feel\n[48] (comfort) and confident.\nWhen we love ourselves rather than covet and pine for [49] (possible)\nstandards, we are happier, healthier and ultimately more [50] (fulfill).\n\n### 题目\n**41.** [41] (satisfaction)",
+      "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "完形补文",
+          "questions": [
+            {
+              "questionNumber": 41,
+              "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
+              "baseWord": "satisfaction",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "dissatisfaction",
+                  "originalAnswer": "dissatisfaction",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 42,
+              "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
+              "baseWord": "balance",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "balanced",
+                  "originalAnswer": "balanced",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 43,
+              "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
+              "baseWord": "health",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "healthy",
+                  "originalAnswer": "healthy",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 44,
+              "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
+              "baseWord": "vigor",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "vigorous",
+                  "originalAnswer": "vigorous",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 45,
+              "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
+              "baseWord": "shame",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "shameful",
+                  "originalAnswer": "shameful",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 46,
+              "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
+              "baseWord": "fail",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "failure",
+                  "originalAnswer": "failure",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 47,
+              "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
+              "baseWord": "perceive",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "perception",
+                  "originalAnswer": "perception",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 48,
+              "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
+              "baseWord": "comfort",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "comfortable",
+                  "originalAnswer": "comfortable",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 49,
+              "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
+              "baseWord": "possible",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "impossible",
+                  "originalAnswer": "impossible",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 50,
+              "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
+              "baseWord": "fulfill",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "fulfilled",
+                  "originalAnswer": "fulfilled",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "essay",
+      "title": "第七部分：短文写作（第51题，30分）",
+      "sortOrder": 7,
+      "scorePerQuestion": 30.0,
+      "passage": "(第 51 题，30 分)\n\n### 题目\n**51.** 因特网在为人们带来极大便利的同时，也带来了一系列问题。以“Is Internet a Blessing or a Curse?”为题写一篇 150 词左右的英语短文，谈谈你的看法。",
+      "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "短文写作",
+          "questions": [
+            {
+              "questionNumber": 51,
+              "stem": "短文写作",
+              "scoreValue": 30.0,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "略",
+                  "explanation": "**标准答案**: (参考写作思路进行写作)\n**精准解析**:\n[写作思路]\n列举了人们利用网络完成的事情:学习、发邮件、视频聊天、即时消息、玩游戏和购物。所以可以从优点和缺点两个方面来论证网络的作用,从而列出写作提纲。\n(1)引出话题:在人们的生活中、工作、学习中,网络的使用越来越频繁。网络给人们带来了一些帮助的同时，也存在一些弊端。Internet is more and more used in our lives, worksand studies. In many ways, the Internet has had a very positive effect. Yet,in some ways, it has negative effect.\n(2)列举网络的优点(advantage):\n1:网络可以帮助人们随时随地学习。Internet can help people to study everywhere and anytime.\n2:网络可以帮助人们快速收发电子邮件。Internet can help people to send and receive e mail quickly.\n3:网络可以帮助人们进行亲人、朋友间的视频聊天。Internet can help people to make Video chat.\n(3)列举网络的缺点(disadvantage):\n1:网络减少了亲人间的面对面沟通。 Internet reduce the chance to talk with other families face to face.\n2:网络使青少年沉迷于网络游戏，不利于学习成绩的提高。The young spend two much time on playing games that they can not study well.\n3:网络购物使部分家庭主妇购买了很多自己其实并不需要的物品，带来了巨大的浪费。 Some housewives buy a lot of things that they do not need, because it is too convenient to buy from the Internet.\n(4)总结，我们要扬长避短,积极利用网络的优点，尽量减少网络带来的害处,不能因为某种事物存在弊端就完全否定它。Although the Internet has some advantage, we should realize the advantage meanwhile and make use of them.",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（3）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -12,7 +12,7 @@ vi.mock('@/lib/prisma', () => ({
         section: { upsert: vi.fn() },
         task: { upsert: vi.fn() },
         question: { upsert: vi.fn() },
-        option: { upsert: vi.fn() },
+        option: { deleteMany: vi.fn(), upsert: vi.fn() },
         answerRule: { upsert: vi.fn() },
         sourceReference: { upsert: vi.fn() }
       };
@@ -47,6 +47,10 @@ describe('importPaper', () => {
           title: 'Section 1',
           sortOrder: 1,
           scorePerQuestion: 2,
+          optionsPool: [
+            { key: 'A', content: 'Section option A' },
+            { key: 'B', content: 'Section option B' }
+          ],
           tasks: [
             {
               sortOrder: 1,
@@ -55,6 +59,10 @@ describe('importPaper', () => {
                   questionNumber: 1,
                   stem: 'Q1',
                   scoreValue: 2,
+                  options: [
+                    { key: 'T', content: 'True' },
+                    { key: 'F', content: 'False' }
+                  ],
                   answerRules: [{ standardAnswer: 'T' }]
                 }
               ]
@@ -78,7 +86,35 @@ describe('importPaper', () => {
     
     // Check section upsert
     expect(mockTx.section.upsert).toHaveBeenCalled();
-    // Check question upsert
-    expect(mockTx.question.upsert).toHaveBeenCalled();
+    expect(mockTx.option.deleteMany.mock.calls).toEqual([
+      [{
+        where: {
+          sectionId: 'test-2024-04_s1_reading_judgment',
+          id: {
+            notIn: [
+              'test-2024-04_s1_reading_judgment_opt_A',
+              'test-2024-04_s1_reading_judgment_opt_B'
+            ]
+          }
+        }
+      }],
+      [{
+        where: {
+          questionId: 'test-2024-04_q1',
+          id: {
+            notIn: [
+              'test-2024-04_q1_opt_T',
+              'test-2024-04_q1_opt_F'
+            ]
+          }
+        }
+      }]
+    ]);
+    expect(mockTx.question.upsert).toHaveBeenCalledWith(expect.objectContaining({
+      where: { id: 'test-2024-04_q1' },
+      update: expect.objectContaining({
+        taskId: 'test-2024-04_s1_reading_judgment_t1'
+      })
+    }));
   });
 });

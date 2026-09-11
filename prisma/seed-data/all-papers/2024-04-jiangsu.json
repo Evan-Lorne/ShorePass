@@ -1,0 +1,1952 @@
+{
+  "paperId": "2024-04-jiangsu",
+  "title": "2024年4月江苏省自考英语二真题",
+  "courseCode": "00015",
+  "year": 2024,
+  "month": 4,
+  "region": "jiangsu",
+  "paperType": "exam",
+  "totalScore": 100,
+  "suggestedMinutes": 150,
+  "verified": false,
+  "status": "draft",
+  "publishBlocked": true,
+  "blockReasons": [
+    {
+      "code": "ocr_unverified",
+      "description": "全量批量导入草稿，待逐题人工核对"
+    }
+  ],
+  "sourceFile": "江苏2024年4月英语二真题.md",
+  "sections": [
+    {
+      "type": "reading_judgment",
+      "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
+      "sortOrder": 1,
+      "scorePerQuestion": 1.0,
+      "passage": "### 短文原文\nAnimals in the City\n\nRecently, there have been many reports in newspapers and on TV about big animals coming into towns and cities. What happens when big animals come into our cities? Is it a good thing or is it dangerous for us and the animals?\n\nWild animals usually come into cities to look for food. In Cape Town, South Africa baboons (狒狒) sometimes come into the suburbs. They eat fruit from gardens and go into people's kitchens! Baboons are strong animals and sometimes they scare children and fight with pet dogs. Many people do not like them, but the city can be dangerous for baboons too.Sometimes, baboons are hurt in car accidents. The city council in Cape Town has a team of Baboon Monitors. Their job is to find baboons in the city and take them back to the countryside. The problem is that a lot of baboons will come back to the city to find food again.\n\nIn Berlin, Germany, groups of wild pigs sometimes come into the city to look for food. They eat flowers and plants and dig in gardens and parks in the city. They also walk in the street and cause traffic accidents. Some city residents like the pigs and give them food. Bu the city council is worried about the traffic accidents. They have told people to stop giving the pigs food and have put up fences to stop the pigs from coming into the city.\n\nIn Moscow, Russia, there are 35,000 wild dogs. They live in parks, empty houses markets and train stations. Some of the dogs were pets that people did not want, so they left them on the streets. Others were born on the streets and have always lived there. A lot of people like them and are used to seeing them on the streets. They give the dogs food and water. They even build small huts for the dogs to live in during the very cold winter.\n\n### 题目",
+      "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "阅读判断",
+          "questions": [
+            {
+              "questionNumber": 1,
+              "stem": "Many news reports concern big animals in the city.\n- A. True\n- B. False\n- C. Not Giver",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 2,
+              "stem": "Wild animals often come into cities for the winter.\n- A. True\n- B. False\n- C. Not Giver",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 3,
+              "stem": "The food in kitchens can be bad for baboons.\n- A. True\n- B. False\n- C. Not Giver",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 4,
+              "stem": "Cape Town is a safe place for baboons.\n- A. True\n- B. False\n- C. Not Giver",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 5,
+              "stem": "Many baboons will return after being sent away from the city.\n- A. True\n- B. False\n- C. Not Giver",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 6,
+              "stem": "There are more wild pigs in Berlin now than in the past.\n- A. True\n- B. False\n- C. Not Giver",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 7,
+              "stem": "Wild pigs sometimes cause traffic problems in Berlin.\n- A. True\n- B. False\n- C. Not Giver",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 8,
+              "stem": "Wild pigs started to come into Berlin years ago.\n- A. True\n- B. False\n- C. Not Giver",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 9,
+              "stem": "No one knows the number of wild dogs in Moscow.\n- A. True\n- B. False\n- C. Not Giver",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 10,
+              "stem": "Some people help the wild dogs survive the cold winter.\n- A. True\n- B. False\n- C. Not Giver",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading_comprehension",
+      "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
+      "sortOrder": 2,
+      "scorePerQuestion": 2.0,
+      "passage": "### 短文原文\nUniversal Gestures\n\nGestures for victory, defeat and stress are almost the same in all countries.\n\nOn the front page of a newspaper we often see the picture of people holding their head in shock. People put their hands on their head or over their mouth when they look on a scene with shock or horror.\n\nChris Ulrich is an expert on body language. He said that covering your mouth or putting your hands on your head helps make you feel safer from a perceived threat. By covering part of your face you can feel hidden from the shocking event. Additionally these reactions can help a person comfort himself through touch. Ulrich said it is a self comforting gesture to help people in the moment.\n\nIn times of strong anxiety, people will twist their hands to calm themselves. Ulrich said it is a reaction people often have when they are in front of an audience or nervous. “It's a comfort for them that they'll get through it.” said Ulrich. He relates that gesture to a parent trying to calm a child.\n\nMost athletes react to victories or defeats with specific behaviors. A 2008 study examined pictures of judo (柔道) competitors during the 2008 Olympic Games. They were from different countries, but they showed similar behaviors when they won a match. The winners would throw their head back or raise their hands in triumph. Ulrich said these victory behaviors are a way winners “explode” out and take up more space.\n\nHowever, if an athlete suffers a loss, he will act in a way that makes him physically smaller, such as hanging his head.“When you lose, you want to disappear,” said Ulrich. The study also found that the judo competitors had the same behavior when they lost.\n\n### 题目",
+      "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "阅读选择",
+          "questions": [
+            {
+              "questionNumber": 11,
+              "stem": "People put their hands over their mouth to ________.\n- A. avoid a danger\n- B. gain self-comfort\n- C. hide their shock\n- D. show their anxiety",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "avoid a danger"
+                },
+                {
+                  "key": "B",
+                  "content": "gain self-comfort"
+                },
+                {
+                  "key": "C",
+                  "content": "hide their shock"
+                },
+                {
+                  "key": "D",
+                  "content": "show their anxiety"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 12,
+              "stem": "People tend to twist their hands when they are ________.\n- A. depressed\n- B. angry\n- C. shocked\n- D. nervous",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "depressed"
+                },
+                {
+                  "key": "B",
+                  "content": "angry"
+                },
+                {
+                  "key": "C",
+                  "content": "shocked"
+                },
+                {
+                  "key": "D",
+                  "content": "nervous"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 13,
+              "stem": "In Paragraph 4,“that gesture”refers to ________.\n- A. shaking one's hands\n- B. covering one's face\n- C. twisting one's hands\n- D. rubbing one's face",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "shaking one's hands"
+                },
+                {
+                  "key": "B",
+                  "content": "covering one's face"
+                },
+                {
+                  "key": "C",
+                  "content": "twisting one's hands"
+                },
+                {
+                  "key": "D",
+                  "content": "rubbing one's face"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 14,
+              "stem": "Judo winners often act in a way that makes them ________.\n- A. occupy more space\n- B. appear physically smaller\n- C. obtain more respect\n- D. become more competitive",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "occupy more space"
+                },
+                {
+                  "key": "B",
+                  "content": "appear physically smaller"
+                },
+                {
+                  "key": "C",
+                  "content": "obtain more respect"
+                },
+                {
+                  "key": "D",
+                  "content": "become more competitive"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 15,
+              "stem": "The judo losers would ________.\n- A. raise their arms\n- B. lower their heads\n- C. beat their chests\n- D. sit on their knee",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "raise their arms"
+                },
+                {
+                  "key": "B",
+                  "content": "lower their heads"
+                },
+                {
+                  "key": "C",
+                  "content": "beat their chests"
+                },
+                {
+                  "key": "D",
+                  "content": "sit on their knee"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "summary_completion",
+      "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
+      "sortOrder": 3,
+      "scorePerQuestion": 1.0,
+      "passage": "### 短文原文\nSurviving illness Away From Home\n\nBeing ill is a horrible thing at the best of times, but what is even worse is when you are il away from home. If you're living away from home or abroad, it's important to get better at your own pace in order to ensure you can enjoy the rest of your time away.\n\n①Pampering (娇惯) yourself is always a good start. If you feel so ill and tired that you can't even get out of bed, then don't! Make a trip to the kitchen and stock up on fluids and try to make yourself some hot food. The key to getting better is to drink lots of fluids. Water and hot drinks such as green tea and soup are usually the best things.\n\n②Try to distract yourself from feeling horrible. If you have a TV, watch one of your favorite films or TV series. If you don't have a TV, maybe put the radio on. If you have a headache and all the noise is too much to handle, try reading the book you've always wanted to read but never had the time to. Being ill doesn't have to be the worst day in the world.\n\n③Tell your friends and family that you are ill. Sometimes there is nothing better than hearing words of comfort from loved ones who feel sorry for you and want to cheer you up and make you happy. There is nothing wrong with a little attention from others when you're ill. Who knows, they might even be willing to travel and visit you with lots of \"Get Well\" presents like your favorite food, magazine or flowers.\n\n④When you do arrive at a new place where you will be staying for a few months, make sure you know exactly where the nearest drugstore is. If you are in a foreign country, it might be best to translate a few useful phrases before you start asking for a cure.\n\n### 备选词汇池",
+      "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "Task 1: 概括段落大意",
+          "questions": [
+            {
+              "questionNumber": 16,
+              "stem": "Paragraph ①:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Taking good care of yourself"
+                },
+                {
+                  "key": "B",
+                  "content": "Staying in bed for the entire day"
+                },
+                {
+                  "key": "C",
+                  "content": "Taking your attention away from illness"
+                },
+                {
+                  "key": "D",
+                  "content": "Knowing where and how to get medicine"
+                },
+                {
+                  "key": "E",
+                  "content": "Informing friends and family of your illness"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 17,
+              "stem": "Paragraph ②:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Taking good care of yourself"
+                },
+                {
+                  "key": "B",
+                  "content": "Staying in bed for the entire day"
+                },
+                {
+                  "key": "C",
+                  "content": "Taking your attention away from illness"
+                },
+                {
+                  "key": "D",
+                  "content": "Knowing where and how to get medicine"
+                },
+                {
+                  "key": "E",
+                  "content": "Informing friends and family of your illness"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 18,
+              "stem": "Paragraph ③:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Taking good care of yourself"
+                },
+                {
+                  "key": "B",
+                  "content": "Staying in bed for the entire day"
+                },
+                {
+                  "key": "C",
+                  "content": "Taking your attention away from illness"
+                },
+                {
+                  "key": "D",
+                  "content": "Knowing where and how to get medicine"
+                },
+                {
+                  "key": "E",
+                  "content": "Informing friends and family of your illness"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 19,
+              "stem": "Paragraph ④:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Taking good care of yourself"
+                },
+                {
+                  "key": "B",
+                  "content": "Staying in bed for the entire day"
+                },
+                {
+                  "key": "C",
+                  "content": "Taking your attention away from illness"
+                },
+                {
+                  "key": "D",
+                  "content": "Knowing where and how to get medicine"
+                },
+                {
+                  "key": "E",
+                  "content": "Informing friends and family of your illness"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sortOrder": 2,
+          "title": "Task 2: 补全句子",
+          "questions": [
+            {
+              "questionNumber": 20,
+              "stem": "Being sick away from home is _________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "ask for medicine"
+                },
+                {
+                  "key": "B",
+                  "content": "at your own pace"
+                },
+                {
+                  "key": "C",
+                  "content": "water and hot drinks"
+                },
+                {
+                  "key": "D",
+                  "content": "a terrible experience"
+                },
+                {
+                  "key": "E",
+                  "content": "at a nearby drugstore"
+                },
+                {
+                  "key": "F",
+                  "content": "read your favorite book"
+                },
+                {
+                  "key": "G",
+                  "content": "suffer from a cold"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 21,
+              "stem": "You are advised to recover _________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "ask for medicine"
+                },
+                {
+                  "key": "B",
+                  "content": "at your own pace"
+                },
+                {
+                  "key": "C",
+                  "content": "water and hot drinks"
+                },
+                {
+                  "key": "D",
+                  "content": "a terrible experience"
+                },
+                {
+                  "key": "E",
+                  "content": "at a nearby drugstore"
+                },
+                {
+                  "key": "F",
+                  "content": "read your favorite book"
+                },
+                {
+                  "key": "G",
+                  "content": "suffer from a cold"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 22,
+              "stem": "The best cure for illness is _________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "ask for medicine"
+                },
+                {
+                  "key": "B",
+                  "content": "at your own pace"
+                },
+                {
+                  "key": "C",
+                  "content": "water and hot drinks"
+                },
+                {
+                  "key": "D",
+                  "content": "a terrible experience"
+                },
+                {
+                  "key": "E",
+                  "content": "at a nearby drugstore"
+                },
+                {
+                  "key": "F",
+                  "content": "read your favorite book"
+                },
+                {
+                  "key": "G",
+                  "content": "suffer from a cold"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 23,
+              "stem": "If you cannot bear the noise from TV _________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "ask for medicine"
+                },
+                {
+                  "key": "B",
+                  "content": "at your own pace"
+                },
+                {
+                  "key": "C",
+                  "content": "water and hot drinks"
+                },
+                {
+                  "key": "D",
+                  "content": "a terrible experience"
+                },
+                {
+                  "key": "E",
+                  "content": "at a nearby drugstore"
+                },
+                {
+                  "key": "F",
+                  "content": "read your favorite book"
+                },
+                {
+                  "key": "G",
+                  "content": "suffer from a cold"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 24,
+              "stem": "A few useful translated phrases help you ________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "ask for medicine"
+                },
+                {
+                  "key": "B",
+                  "content": "at your own pace"
+                },
+                {
+                  "key": "C",
+                  "content": "water and hot drinks"
+                },
+                {
+                  "key": "D",
+                  "content": "a terrible experience"
+                },
+                {
+                  "key": "E",
+                  "content": "at a nearby drugstore"
+                },
+                {
+                  "key": "F",
+                  "content": "read your favorite book"
+                },
+                {
+                  "key": "G",
+                  "content": "suffer from a cold"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 25,
+              "stem": "You can buy medicine _________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "ask for medicine"
+                },
+                {
+                  "key": "B",
+                  "content": "at your own pace"
+                },
+                {
+                  "key": "C",
+                  "content": "water and hot drinks"
+                },
+                {
+                  "key": "D",
+                  "content": "a terrible experience"
+                },
+                {
+                  "key": "E",
+                  "content": "at a nearby drugstore"
+                },
+                {
+                  "key": "F",
+                  "content": "read your favorite book"
+                },
+                {
+                  "key": "G",
+                  "content": "suffer from a cold"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "sentence_fill",
+      "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
+      "sortOrder": 4,
+      "scorePerQuestion": 2.0,
+      "passage": "### 短文原文\nInsomnia (失眠)\n\nI just could not fall asleep the other night. I just didn’t feel sleepy. I can’t explain why, but it was really annoying.\nI got very bored lying in bed, so I decided to read a book. 26 But even when I finished reading , I still didn’t feel tired. So I listened to some peaceful music.That didn’t work, either. I have heard people say if you have a warm drink before bedtime, it will help you drift off to sleep. So I went downstairs and made myself a cup of tea. 27 Still, I couldn’t sleep. I was getting very frustrated by this point!\nIt felt strange to be awake while everyone else was asleep. 28 In fact, it was a little big frightening . When you go to sleep, it feels like one day ends and another begins. But if you stay up late, you realize that day and night are just a gentle transition ( 转变), a cycle while has no end and no beginning. At 4 a.m., I noticed a faint light coming through my curtains. The sun had started to rise!\nNormally, I’m a heavy sleeper. 29 So on this occasion, I consider myself lucky to see a beautiful sunrise. I knew I needed to get some rest, but it seemed the harder I tried to force myself asleep, the more difficult it was.\nEventually, I just let my mind go free. 30 I listened to the birdsong... and the next thing I knew it was 11 a.m.! I was happy that I had managed to get some sleep! I have never struggled with sleeping before, so this was my first experience of insomnia. Fortunately, I have been sleeping well since then.\n\n### 备选词汇池\n\n### 题目\n\n**26.** [填句]\n**标准答案**: E\n**精准解析**: 前一句说决定读书，因此该句应与读书有关，选择 E 选项。\n\n**27.** [填句]\n**标准答案**: C\n**精准解析**: 前一句提到了 tea 因此该句应与 tea 有关。选择 C 选项。\n\n**28.** [填句]\n**标准答案**: A\n**精准解析**: 后一句提到 In fact, it was a little big frightening,表明什么事情是很吓人的，需要在选项 中找到 it 指代的东西。A 选项符合题意，it 指代安舒的世界。\n\n**29.** [填句]\n**标准答案**: F\n**精准解析**: 后一句表述我认为自己很幸运能看到美丽的日 出。因此已经到了清晨时分，与此有关的只有 F 选项。\n\n**30.** [填句]\n**标准答案**: B\n**精准解析**: 前一句术后 Eventually, I just let my mind go free.最终，我让我的思想自由了。指的是我就随便了，爱怎样怎样了。选项中与之相匹配的只有 B 选项。",
+      "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "The world seemed so quiet."
+        },
+        {
+          "key": "B",
+          "content": "I stopped forcing myself to sleep."
+        },
+        {
+          "key": "C",
+          "content": "After my tea, I got back into bed."
+        },
+        {
+          "key": "D",
+          "content": "I didn’t want to wake up my family."
+        },
+        {
+          "key": "E",
+          "content": "I thought reading would help me get to sleep."
+        },
+        {
+          "key": "F",
+          "content": "I had never been awake at this time in the morning ."
+        }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "填句补文",
+          "questions": [
+            {
+              "questionNumber": 26,
+              "stem": "填入原文第 [26] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "The world seemed so quiet."
+                },
+                {
+                  "key": "B",
+                  "content": "I stopped forcing myself to sleep."
+                },
+                {
+                  "key": "C",
+                  "content": "After my tea, I got back into bed."
+                },
+                {
+                  "key": "D",
+                  "content": "I didn’t want to wake up my family."
+                },
+                {
+                  "key": "E",
+                  "content": "I thought reading would help me get to sleep."
+                },
+                {
+                  "key": "F",
+                  "content": "I had never been awake at this time in the morning ."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 27,
+              "stem": "填入原文第 [27] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "The world seemed so quiet."
+                },
+                {
+                  "key": "B",
+                  "content": "I stopped forcing myself to sleep."
+                },
+                {
+                  "key": "C",
+                  "content": "After my tea, I got back into bed."
+                },
+                {
+                  "key": "D",
+                  "content": "I didn’t want to wake up my family."
+                },
+                {
+                  "key": "E",
+                  "content": "I thought reading would help me get to sleep."
+                },
+                {
+                  "key": "F",
+                  "content": "I had never been awake at this time in the morning ."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 28,
+              "stem": "填入原文第 [28] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "The world seemed so quiet."
+                },
+                {
+                  "key": "B",
+                  "content": "I stopped forcing myself to sleep."
+                },
+                {
+                  "key": "C",
+                  "content": "After my tea, I got back into bed."
+                },
+                {
+                  "key": "D",
+                  "content": "I didn’t want to wake up my family."
+                },
+                {
+                  "key": "E",
+                  "content": "I thought reading would help me get to sleep."
+                },
+                {
+                  "key": "F",
+                  "content": "I had never been awake at this time in the morning ."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 29,
+              "stem": "填入原文第 [29] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "The world seemed so quiet."
+                },
+                {
+                  "key": "B",
+                  "content": "I stopped forcing myself to sleep."
+                },
+                {
+                  "key": "C",
+                  "content": "After my tea, I got back into bed."
+                },
+                {
+                  "key": "D",
+                  "content": "I didn’t want to wake up my family."
+                },
+                {
+                  "key": "E",
+                  "content": "I thought reading would help me get to sleep."
+                },
+                {
+                  "key": "F",
+                  "content": "I had never been awake at this time in the morning ."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 30,
+              "stem": "填入原文第 [30] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "The world seemed so quiet."
+                },
+                {
+                  "key": "B",
+                  "content": "I stopped forcing myself to sleep."
+                },
+                {
+                  "key": "C",
+                  "content": "After my tea, I got back into bed."
+                },
+                {
+                  "key": "D",
+                  "content": "I didn’t want to wake up my family."
+                },
+                {
+                  "key": "E",
+                  "content": "I thought reading would help me get to sleep."
+                },
+                {
+                  "key": "F",
+                  "content": "I had never been awake at this time in the morning ."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_cloze",
+      "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
+      "sortOrder": 5,
+      "scorePerQuestion": 1.5,
+      "passage": "Learning From Mistakes\n\nLots of people dare not make mistakes (mistake). They fear they will be laughed at or 31 by others. They fear they will lose their money and 32 or be under heavy stress. But risks are 33 to avoid and they do pave the way towards success. Have you ever 34 of anyone who achieves success without making any mistakes?\nSo it is only 35 that making mistakes should be considered a must. You shouldn't worry about that as you 36 get lots of advantages out of your mistakes. By making mistakes, you can at least distinguish between the correct and the 37 parts of what you did. Robert Stevenson once said: “Our business in life is not to be 38 , but to continue to fail in good spirits”\nYou needn't worry about anything as long as you keep on going by 39 learning from your mistakes and 40 even harder.",
+      "instructions": "从备选词汇池中选择最佳单词填入空白处。",
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "impossible"
+        },
+        {
+          "key": "B",
+          "content": "successful"
+        },
+        {
+          "key": "C",
+          "content": "probably"
+        },
+        {
+          "key": "D",
+          "content": "seem"
+        },
+        {
+          "key": "E",
+          "content": "blamed"
+        },
+        {
+          "key": "F",
+          "content": "place"
+        },
+        {
+          "key": "G",
+          "content": "incorrect"
+        },
+        {
+          "key": "H",
+          "content": "heard"
+        },
+        {
+          "key": "I",
+          "content": "belongings"
+        },
+        {
+          "key": "J",
+          "content": "natural"
+        },
+        {
+          "key": "K",
+          "content": "trying"
+        },
+        {
+          "key": "L",
+          "content": "wisely"
+        }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "填词补文",
+          "questions": [
+            {
+              "questionNumber": 31,
+              "stem": "填入原文第 [31] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 32,
+              "stem": "填入原文第 [32] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "I",
+                  "originalAnswer": "I",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 33,
+              "stem": "填入原文第 [33] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 34,
+              "stem": "填入原文第 [34] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "H",
+                  "originalAnswer": "H",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 35,
+              "stem": "填入原文第 [35] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "J",
+                  "originalAnswer": "J",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 36,
+              "stem": "填入原文第 [36] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 37,
+              "stem": "填入原文第 [37] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "G",
+                  "originalAnswer": "G",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 38,
+              "stem": "填入原文第 [38] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 39,
+              "stem": "填入原文第 [39] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "L",
+                  "originalAnswer": "L",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 40,
+              "stem": "填入原文第 [40] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "K",
+                  "originalAnswer": "K",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_formation",
+      "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
+      "sortOrder": 6,
+      "scorePerQuestion": 1.5,
+      "passage": "### 短文原文\nThe Importance of Friendship for School-age Children\n\nFriends are very important to school-age children’s healthy (health) development.\nResearch has 41 (show) that children who lack friends can suffer from emotional and mental difficulties later in life. They have also found that children with friends have a 42 (great) sense of happiness, better self-esteem and fewer problems as they grow up.\nFriendships provide children with more than just fun 43 (playmate). They help children develop emotionally and 44 (moral). In interacting with friends, children learn many 45 (society) skills, such as how to communicate, and how to cooperate. They practice 46 (control) their emotions and responding to the emotions of others. They develop their 47 (able) to think through and negotiate different situations in their relationships. Having friends 48 (affect) children in many ways, even their school 49 (perform). Children tend to have better attitudes about school and learning when they have friends there. In short, friendships are not just a luxury, they are a 50 (necessary) for children.\n\n### 题目\n\n**41.** (show)",
+      "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "完形补文",
+          "questions": [
+            {
+              "questionNumber": 41,
+              "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
+              "baseWord": "show",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "shown",
+                  "originalAnswer": "shown",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 42,
+              "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
+              "baseWord": "great",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "greater",
+                  "originalAnswer": "greater",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 43,
+              "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
+              "baseWord": "playmate",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "playmates",
+                  "originalAnswer": "playmates",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 44,
+              "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
+              "baseWord": "moral",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "morally",
+                  "originalAnswer": "morally",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 45,
+              "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
+              "baseWord": "society",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "social",
+                  "originalAnswer": "social",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 46,
+              "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
+              "baseWord": "control",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "controlling",
+                  "originalAnswer": "controlling",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 47,
+              "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
+              "baseWord": "able",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "ability",
+                  "originalAnswer": "ability",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 48,
+              "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
+              "baseWord": "affect",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "affects",
+                  "originalAnswer": "affects",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 49,
+              "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
+              "baseWord": "perform",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "performance",
+                  "originalAnswer": "performance",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 50,
+              "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
+              "baseWord": "necessary",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "necessity",
+                  "originalAnswer": "necessity",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "essay",
+      "title": "第七部分：短文写作（第51题，30分）",
+      "sortOrder": 7,
+      "scorePerQuestion": 30.0,
+      "passage": "**51.** 某英文报社正在举办题为 “An Unforgettable Holiday” 的征文活动。请就此题目写一篇英文短文应征，内容包括:\n·哪一个假期令你难忘\n·为什么令你难忘",
+      "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "短文写作",
+          "questions": [
+            {
+              "questionNumber": 51,
+              "stem": "短文写作",
+              "scoreValue": 30.0,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "略",
+                  "explanation": "**参考范文**:\nAn unforgettable holiday\n\nSpring Festival is the most important festival in China .It’s to celebrate the lunar calendar ‘s new year .In the evening before the Spring Festival ,families get together and have a big meal .In many places people like to set off firecrackers .Dumplings are the most traditional food .Children like the festival very much ,because they can have delicious food and wear new clothes .They can also get some money from their parents.This money is given to children for good luck .People put New Year scrolls on the wall for good fortune .\n\nThe Spring Festival lasts about 15 days long .People visit relatives and friends with the words “Have all your wishes”.People enjoy the Spring Festival ,during this time they can have a good rest .",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

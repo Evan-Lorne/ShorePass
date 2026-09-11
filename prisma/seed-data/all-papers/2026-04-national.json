@@ -1,0 +1,1934 @@
+{
+  "paperId": "2026-04-national",
+  "title": "2026年04月自考13000英语(专升本)全国卷真题",
+  "courseCode": "13000",
+  "year": 2026,
+  "month": 4,
+  "region": "national",
+  "paperType": "exam",
+  "totalScore": 100,
+  "suggestedMinutes": 150,
+  "verified": false,
+  "status": "draft",
+  "publishBlocked": true,
+  "blockReasons": [
+    {
+      "code": "ocr_unverified",
+      "description": "全量批量导入草稿，待逐题人工核对"
+    }
+  ],
+  "sourceFile": "2026年04月真题.md",
+  "sections": [
+    {
+      "type": "reading_judgment",
+      "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
+      "sortOrder": 1,
+      "scorePerQuestion": 1.0,
+      "passage": "Australia**\n\nAustralia was a country I always wanted to visit. This year I saved up some money and booked a flight to go travelling. I had some friends studying there, so it was a perfect opportunity to see friends and travel around.\n\nThe flight made me realize exactly how far away Australia is from home. I spent 10 hours flying from London to Hong Kong, then a further 8 hours to Sydney, my first stop in Australia. The flight went quite quickly though, since there were lots of films to keep me entertained.\n\nWhen I arrived, I felt strange. Everything was upside down over there. It was the start of winter in May! Fortunately, for me the weather was still warm and sunny. It also took me a while to get used to the time difference.\n\nAustralia is truly beautiful. It is full of views and wildlife you would not find anywhere else in the world. One of the highlights of my trip was visiting a koala (考拉) reserve in Brisbane. There were koalas everywhere sleeping in the trees. I even got a chance to hold one. I learnt lots of facts about koalas too. They can sleep for up to 22 hours a day to save energy!\n\nAt the reserve there was also a big lawn full of kangaroos (袋鼠). We were allowed to feed and touch them. They were really cute and friendly.\n\nI loved visiting Australia, from the mountains and waterfalls in the National Parks to the long white sandy beaches. It's an incredible country and worth visiting. I'm already dreaming of going back!\n\n### 题目",
+      "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "阅读判断",
+          "questions": [
+            {
+              "questionNumber": 1,
+              "stem": "I longed for a visit to Australia.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 2,
+              "stem": "I made some new friends during my visit in Australia.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 3,
+              "stem": "I spent over 20 hours on my flight to Australia.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 4,
+              "stem": "I watched films to kill the flight time.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 5,
+              "stem": "I felt very tired because of the time difference.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 6,
+              "stem": "Koalas can be found in many parts of the world.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 7,
+              "stem": "Koalas spend most of their time sleeping.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 8,
+              "stem": "Koalas feed chiefly on tree leaves.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 9,
+              "stem": "Visitors were asked to keep distance from kangaroos.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 10,
+              "stem": "I enjoyed the sandy beaches in Australia.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading_comprehension",
+      "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
+      "sortOrder": 2,
+      "scorePerQuestion": 2.0,
+      "passage": "### 短文原文\n**Veganism**\n\nVeganism. What does it mean? To some of you it might be a completely new word. And it's certainly a word I have only become familiar with in recent years. A vegan diet is one that contains no animal products. That means no meat, no milk, no eggs, etc.\n\nI became interested in the vegan lifestyle months ago. As I was surfing videos on the Internet, I came across a woman called Freelee. She claimed to regularly eat around fifty bananas a day to stay healthy. Fifty bananas! I quickly realised that this was not the diet for me. However, what she was saying about veganism did pique my interest. And I went on to watch many more vegan videos. Eventually, I switched to veganism about six months ago.\n\nMy diet at the moment is split roughly equally between fruit and grains such as rice and potatoes. In a typical day, I start off with a fruit drink made of bananas, berries and orange juice. For lunch I typically have potato fries with a sweet sauce. For dinner I normally have rice with a tomato sauce and some vegetables. I even make tasty vegan puddings. One of my favourites is coconut cream mixed with chocolate powder and sugar.\n\nWhile veganism is often associated with physical weakness, that is certainly not the case for me. I have discovered many delicious vegan products, which one might never consider as vegan.\n\nPersonally, eating this way has given me a much more positive outlook on life. Another vegan Kristina's story is even more amazing. Kristina was bitten by a deadly spider. She was not given the medicines required to survive the bite. Yet she made a full and speedy recovery. She attributes it to the magic power of a vegan lifestyle.\n\n### 题目",
+      "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "阅读选择",
+          "questions": [
+            {
+              "questionNumber": 11,
+              "stem": "According to Paragraph 1, a vegan diet is \\_\\_\\_\\_\\_\\_\\_.\n- A. advised by food experts\n- B. familiar to most people\n- C. followed by many people\n- D. free from animal products",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "advised by food experts"
+                },
+                {
+                  "key": "B",
+                  "content": "familiar to most people"
+                },
+                {
+                  "key": "C",
+                  "content": "followed by many people"
+                },
+                {
+                  "key": "D",
+                  "content": "free from animal products"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 12,
+              "stem": "The author knew the vegan lifestyle through \\_\\_\\_\\_\\_\\_\\_.\n- A. online videos\n- B. her friends\n- C. vegan books\n- D. TV programs",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "online videos"
+                },
+                {
+                  "key": "B",
+                  "content": "her friends"
+                },
+                {
+                  "key": "C",
+                  "content": "vegan books"
+                },
+                {
+                  "key": "D",
+                  "content": "TV programs"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 13,
+              "stem": "The word \"pique\" (Para. 2) probably means \"\\_\\_\\_\\_\\_\\_\\_\".\n- A. express\n- B. arouse\n- C. expand\n- D. protect",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "express"
+                },
+                {
+                  "key": "B",
+                  "content": "arouse"
+                },
+                {
+                  "key": "C",
+                  "content": "expand"
+                },
+                {
+                  "key": "D",
+                  "content": "protect"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 14,
+              "stem": "The author believes that her vegan diet is \\_\\_\\_\\_\\_\\_\\_.\n- A. healthy\n- B. cheap\n- C. sugar-free\n- D. low-salt",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "healthy"
+                },
+                {
+                  "key": "B",
+                  "content": "cheap"
+                },
+                {
+                  "key": "C",
+                  "content": "sugar-free"
+                },
+                {
+                  "key": "D",
+                  "content": "low-salt"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 15,
+              "stem": "Kristina is mentioned because she \\_\\_\\_\\_\\_\\_\\_.\n- A. attracted a lot of fans\n- B. had a positive attitude toward life\n- C. went on a special fruit-based diet\n- D. quickly recovered from a spider bite",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "attracted a lot of fans"
+                },
+                {
+                  "key": "B",
+                  "content": "had a positive attitude toward life"
+                },
+                {
+                  "key": "C",
+                  "content": "went on a special fruit-based diet"
+                },
+                {
+                  "key": "D",
+                  "content": "quickly recovered from a spider bite"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "summary_completion",
+      "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
+      "sortOrder": 3,
+      "scorePerQuestion": 1.0,
+      "passage": "阅读下面短文，请完成短文后的 2 项测试任务：（1）从第 16～20 题后所给的 6 个选项中为第❶～❺段每段选择 1 个正确的小标题；（2）从第 21～25 题后所给的 6 个选项中选择 5 个正确选项，分别完成每个句子。在答题纸相应位置上将答案选项涂黑。\n\n### 短文原文\n**Bottled Water**\n\n❶ Over the last 15 years, more and more people in the US have been drinking bottled water. There is no sign of slowing down. In fact, sales of bottled water are going up faster than any other kind of drink. It is true even in cities where it is safe to drink tap water. This has been a disaster for the environment and for our health.\n❷ Most bottled water comes from underground water. Much of this underground water could have flowed into rivers and lakes. Using this water can make droughts (干旱) more serious. Many companies use water from mountain glaciers (冰川), but this is not much better. When the glacier melts, the water usually flows to areas like rivers or wetlands. When companies take glacier water, they take it from areas that need it.\n❸ It takes about 1.6 liters of water to make one liter of bottled water. This wastes a lot of water. Also transporting the bottled water to stores burns fuel and creates pollution. The problems do not stop when the water reaches people who buy it. Water bottles are made from plastic which does not break down. Although it can be recycled, people usually do not put it in the recycle can.\n❹ Some may say that bottled water is safer and healthier than tap water. But that is not true. Sometimes chemicals or bacteria get into bottled water, and companies have to destroy them. Actually, tap water is often healthier than bottled water. Bottled water may lack fluoride (氟化物) which helps protect our teeth. Fluoride is found in tiny amounts in tap water.\n❺ Obviously, more people need to know that tap water is safer and healthier. Unfortunately, tap water cannot advertise itself. When a product that is cheaper and better does not win, that is bad news. When the product is water, we all lose.",
+      "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "Task 1: 概括段落大意",
+          "questions": [
+            {
+              "questionNumber": 16,
+              "stem": "Paragraph ❶: \\_\\_\\_\\_\\_\\_\\_",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Making droughts worse"
+                },
+                {
+                  "key": "B",
+                  "content": "Harmful elements in bottled water"
+                },
+                {
+                  "key": "C",
+                  "content": "Need for a better image of tap water"
+                },
+                {
+                  "key": "D",
+                  "content": "Growing attention to tap water"
+                },
+                {
+                  "key": "E",
+                  "content": "Causing waste and pollution"
+                },
+                {
+                  "key": "F",
+                  "content": "Increasing sales of bottled water"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 17,
+              "stem": "Paragraph ❷: \\_\\_\\_\\_\\_\\_\\_",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Making droughts worse"
+                },
+                {
+                  "key": "B",
+                  "content": "Harmful elements in bottled water"
+                },
+                {
+                  "key": "C",
+                  "content": "Need for a better image of tap water"
+                },
+                {
+                  "key": "D",
+                  "content": "Growing attention to tap water"
+                },
+                {
+                  "key": "E",
+                  "content": "Causing waste and pollution"
+                },
+                {
+                  "key": "F",
+                  "content": "Increasing sales of bottled water"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 18,
+              "stem": "Paragraph ❸: \\_\\_\\_\\_\\_\\_\\_",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Making droughts worse"
+                },
+                {
+                  "key": "B",
+                  "content": "Harmful elements in bottled water"
+                },
+                {
+                  "key": "C",
+                  "content": "Need for a better image of tap water"
+                },
+                {
+                  "key": "D",
+                  "content": "Growing attention to tap water"
+                },
+                {
+                  "key": "E",
+                  "content": "Causing waste and pollution"
+                },
+                {
+                  "key": "F",
+                  "content": "Increasing sales of bottled water"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 19,
+              "stem": "Paragraph ❹: \\_\\_\\_\\_\\_\\_\\_",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Making droughts worse"
+                },
+                {
+                  "key": "B",
+                  "content": "Harmful elements in bottled water"
+                },
+                {
+                  "key": "C",
+                  "content": "Need for a better image of tap water"
+                },
+                {
+                  "key": "D",
+                  "content": "Growing attention to tap water"
+                },
+                {
+                  "key": "E",
+                  "content": "Causing waste and pollution"
+                },
+                {
+                  "key": "F",
+                  "content": "Increasing sales of bottled water"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 20,
+              "stem": "Paragraph ❺: \\_\\_\\_\\_\\_\\_\\_",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Making droughts worse"
+                },
+                {
+                  "key": "B",
+                  "content": "Harmful elements in bottled water"
+                },
+                {
+                  "key": "C",
+                  "content": "Need for a better image of tap water"
+                },
+                {
+                  "key": "D",
+                  "content": "Growing attention to tap water"
+                },
+                {
+                  "key": "E",
+                  "content": "Causing waste and pollution"
+                },
+                {
+                  "key": "F",
+                  "content": "Increasing sales of bottled water"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sortOrder": 2,
+          "title": "Task 2: 补全句子",
+          "questions": [
+            {
+              "questionNumber": 21,
+              "stem": "City people prefer bottled water \\_\\_\\_\\_\\_\\_\\_.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "in tiny amounts"
+                },
+                {
+                  "key": "B",
+                  "content": "towards tap water"
+                },
+                {
+                  "key": "C",
+                  "content": "does harm to the environment"
+                },
+                {
+                  "key": "D",
+                  "content": "brings more health benefits"
+                },
+                {
+                  "key": "E",
+                  "content": "with the problem of drought"
+                },
+                {
+                  "key": "F",
+                  "content": "despite the safety of tap water"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 22,
+              "stem": "Taking water from glaciers helps little \\_\\_\\_\\_\\_\\_\\_.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "in tiny amounts"
+                },
+                {
+                  "key": "B",
+                  "content": "towards tap water"
+                },
+                {
+                  "key": "C",
+                  "content": "does harm to the environment"
+                },
+                {
+                  "key": "D",
+                  "content": "brings more health benefits"
+                },
+                {
+                  "key": "E",
+                  "content": "with the problem of drought"
+                },
+                {
+                  "key": "F",
+                  "content": "despite the safety of tap water"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 23,
+              "stem": "Transportation of bottled water \\_\\_\\_\\_\\_\\_\\_.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "in tiny amounts"
+                },
+                {
+                  "key": "B",
+                  "content": "towards tap water"
+                },
+                {
+                  "key": "C",
+                  "content": "does harm to the environment"
+                },
+                {
+                  "key": "D",
+                  "content": "brings more health benefits"
+                },
+                {
+                  "key": "E",
+                  "content": "with the problem of drought"
+                },
+                {
+                  "key": "F",
+                  "content": "despite the safety of tap water"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 24,
+              "stem": "Compared with bottled water, tap water \\_\\_\\_\\_\\_\\_\\_.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "in tiny amounts"
+                },
+                {
+                  "key": "B",
+                  "content": "towards tap water"
+                },
+                {
+                  "key": "C",
+                  "content": "does harm to the environment"
+                },
+                {
+                  "key": "D",
+                  "content": "brings more health benefits"
+                },
+                {
+                  "key": "E",
+                  "content": "with the problem of drought"
+                },
+                {
+                  "key": "F",
+                  "content": "despite the safety of tap water"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 25,
+              "stem": "People need to change their attitude \\_\\_\\_\\_\\_\\_\\_.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "in tiny amounts"
+                },
+                {
+                  "key": "B",
+                  "content": "towards tap water"
+                },
+                {
+                  "key": "C",
+                  "content": "does harm to the environment"
+                },
+                {
+                  "key": "D",
+                  "content": "brings more health benefits"
+                },
+                {
+                  "key": "E",
+                  "content": "with the problem of drought"
+                },
+                {
+                  "key": "F",
+                  "content": "despite the safety of tap water"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "sentence_fill",
+      "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
+      "sortOrder": 4,
+      "scorePerQuestion": 2.0,
+      "passage": "### 短文原文\n**Bird Maps and Compasses (罗盘)**\n\nEvery year hundreds of species of birds take long trips. \\_\\_26\\_\\_ In the fall, they fly to warmer climates where food is plentiful all winter. When spring comes, they fly back to raise their young where they were born. For a long time people wondered where the birds went and what routes they took.\n\nResearchers now know that migrating birds are guided by their own sorts of maps and compasses. But it has taken many decades to uncover the secrets of these navigation (导航) tools. In the 1800s, scientists started putting bands around birds' legs. \\_\\_27\\_\\_ When people found the banded birds, they contacted the person named on the band and told him where and when they had found the bird. In this simple way, scientists learned a lot about where birds traveled, where they stopped, and how fast they moved.\n\nToday scientists still put bands on birds' legs. They also use new ways of tracking birds such as airplanes, computers, and satellites. \\_\\_28\\_\\_\n\nBirds often migrate in groups. You may have seen Canada geese flying high in the sky in a V-form. Young birds follow their parents. \\_\\_29\\_\\_ They may follow a river and remember what it looks like. Also, birds use the position of the sun and stars as a compass to find their way.\n\n\\_\\_30\\_\\_ Chemicals in their brains allow them to sense the magnetic field and travel in the right direction. But scientists are still researching how this happens. They think some birds may actually be able to see the earth's magnetic field.\n\n### 备选句子\n\n### 题目\n**26.**\n**标准答案**: D\n\n**27.**\n**标准答案**: A\n\n**28.**\n**标准答案**: F\n\n**29.**\n**标准答案**: E\n\n**30.**\n**标准答案**: B",
+      "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "The bands contained a name and address."
+        },
+        {
+          "key": "B",
+          "content": "Birds use the earth's magnetic field to navigate too."
+        },
+        {
+          "key": "C",
+          "content": "A map and a compass are often helpful for long trips."
+        },
+        {
+          "key": "D",
+          "content": "They fly thousands of miles from one home to another."
+        },
+        {
+          "key": "E",
+          "content": "They learn the route that the older geese have traveled before."
+        },
+        {
+          "key": "F",
+          "content": "They have answered many questions about how birds navigate."
+        }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "填句补文",
+          "questions": [
+            {
+              "questionNumber": 26,
+              "stem": "填入原文第 [26] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "The bands contained a name and address."
+                },
+                {
+                  "key": "B",
+                  "content": "Birds use the earth's magnetic field to navigate too."
+                },
+                {
+                  "key": "C",
+                  "content": "A map and a compass are often helpful for long trips."
+                },
+                {
+                  "key": "D",
+                  "content": "They fly thousands of miles from one home to another."
+                },
+                {
+                  "key": "E",
+                  "content": "They learn the route that the older geese have traveled before."
+                },
+                {
+                  "key": "F",
+                  "content": "They have answered many questions about how birds navigate."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 27,
+              "stem": "填入原文第 [27] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "The bands contained a name and address."
+                },
+                {
+                  "key": "B",
+                  "content": "Birds use the earth's magnetic field to navigate too."
+                },
+                {
+                  "key": "C",
+                  "content": "A map and a compass are often helpful for long trips."
+                },
+                {
+                  "key": "D",
+                  "content": "They fly thousands of miles from one home to another."
+                },
+                {
+                  "key": "E",
+                  "content": "They learn the route that the older geese have traveled before."
+                },
+                {
+                  "key": "F",
+                  "content": "They have answered many questions about how birds navigate."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 28,
+              "stem": "填入原文第 [28] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "The bands contained a name and address."
+                },
+                {
+                  "key": "B",
+                  "content": "Birds use the earth's magnetic field to navigate too."
+                },
+                {
+                  "key": "C",
+                  "content": "A map and a compass are often helpful for long trips."
+                },
+                {
+                  "key": "D",
+                  "content": "They fly thousands of miles from one home to another."
+                },
+                {
+                  "key": "E",
+                  "content": "They learn the route that the older geese have traveled before."
+                },
+                {
+                  "key": "F",
+                  "content": "They have answered many questions about how birds navigate."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 29,
+              "stem": "填入原文第 [29] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "The bands contained a name and address."
+                },
+                {
+                  "key": "B",
+                  "content": "Birds use the earth's magnetic field to navigate too."
+                },
+                {
+                  "key": "C",
+                  "content": "A map and a compass are often helpful for long trips."
+                },
+                {
+                  "key": "D",
+                  "content": "They fly thousands of miles from one home to another."
+                },
+                {
+                  "key": "E",
+                  "content": "They learn the route that the older geese have traveled before."
+                },
+                {
+                  "key": "F",
+                  "content": "They have answered many questions about how birds navigate."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 30,
+              "stem": "填入原文第 [30] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "The bands contained a name and address."
+                },
+                {
+                  "key": "B",
+                  "content": "Birds use the earth's magnetic field to navigate too."
+                },
+                {
+                  "key": "C",
+                  "content": "A map and a compass are often helpful for long trips."
+                },
+                {
+                  "key": "D",
+                  "content": "They fly thousands of miles from one home to another."
+                },
+                {
+                  "key": "E",
+                  "content": "They learn the route that the older geese have traveled before."
+                },
+                {
+                  "key": "F",
+                  "content": "They have answered many questions about how birds navigate."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_cloze",
+      "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
+      "sortOrder": 5,
+      "scorePerQuestion": 1.5,
+      "passage": "**My Hometown and My College Town**\n\nMy hometown and my college town have several things in common. First, both are \\_\\_31\\_\\_ communities. My hometown, Gridlock, has a population of only about 10,000 people. Similarly, my college town, Subnormal, \\_\\_32\\_\\_ of about 11,000 local residents. This population rises to 15,000 people when the college students are \\_\\_33\\_\\_ classes. Second, both are located in rural areas. Gridlock is surrounded by farmland, which is devoted \\_\\_34\\_\\_ to growing corn and beans. Likewise, Subnormal lies in the \\_\\_35\\_\\_ of farmland that is used to \\_\\_36\\_\\_ pigs and cattle. Third, both contain college campuses. Gridlock is \\_\\_37\\_\\_ to Neutron College, which is famous for its Agricultural Economics program. In the same \\_\\_38\\_\\_, Subnormal boasts the \\_\\_39\\_\\_ campus of Quark College, which is well \\_\\_40\\_\\_ for its Agricultural Engineering Department.",
+      "instructions": "从备选词汇池中选择最佳单词填入空白处。",
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "consists"
+        },
+        {
+          "key": "B",
+          "content": "mainly"
+        },
+        {
+          "key": "C",
+          "content": "attending"
+        },
+        {
+          "key": "D",
+          "content": "clear"
+        },
+        {
+          "key": "E",
+          "content": "small"
+        },
+        {
+          "key": "F",
+          "content": "center"
+        },
+        {
+          "key": "G",
+          "content": "hardly"
+        },
+        {
+          "key": "H",
+          "content": "beautiful"
+        },
+        {
+          "key": "I",
+          "content": "raise"
+        },
+        {
+          "key": "J",
+          "content": "known"
+        },
+        {
+          "key": "K",
+          "content": "home"
+        },
+        {
+          "key": "L",
+          "content": "way"
+        }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "填词补文",
+          "questions": [
+            {
+              "questionNumber": 31,
+              "stem": "填入原文第 [31] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 32,
+              "stem": "填入原文第 [32] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 33,
+              "stem": "填入原文第 [33] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 34,
+              "stem": "填入原文第 [34] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 35,
+              "stem": "填入原文第 [35] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 36,
+              "stem": "填入原文第 [36] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "I",
+                  "originalAnswer": "I",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 37,
+              "stem": "填入原文第 [37] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "K",
+                  "originalAnswer": "K",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 38,
+              "stem": "填入原文第 [38] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "L",
+                  "originalAnswer": "L",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 39,
+              "stem": "填入原文第 [39] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "H",
+                  "originalAnswer": "H",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 40,
+              "stem": "填入原文第 [40] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "J",
+                  "originalAnswer": "J",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_formation",
+      "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
+      "sortOrder": 6,
+      "scorePerQuestion": 1.5,
+      "passage": "### 短文原文\n**Advertising with Digital Technology**\n\nTechnology has become an essential part of our *daily* (day) life. It \\_\\_41\\_\\_ (accompany) us everywhere we go. Digital technology, in the form of smart \\_\\_42\\_\\_ (phone), web-based TVs and computers, is \\_\\_43\\_\\_ (change) the world, especially for advertisers.\n\nConsumers today interact with ads in new ways. They can \\_\\_44\\_\\_ (easy) take part in surveys or just turn them off if they want to. They can also promote a brand by \\_\\_45\\_\\_ (suggest) how good a product is to other people. Social media networks also play an \\_\\_46\\_\\_ (importance) part in global advertising strategies. People also want relevant ads on their screens. While they browse the Internet, it would be \\_\\_47\\_\\_ (help) for such ads to show up. Internet \\_\\_48\\_\\_ (user) click on these ads more often if they look for relevant \\_\\_49\\_\\_ (inform).\n\nAdvertisers are now \\_\\_50\\_\\_ (face) with a great challenge: using new technology to form new relationships with customers and create new business models.\n\n### 题目\n**41.**",
+      "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "完形补文",
+          "questions": [
+            {
+              "questionNumber": 41,
+              "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "accompanies",
+                  "originalAnswer": "accompanies",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 42,
+              "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "phones",
+                  "originalAnswer": "phones",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 43,
+              "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "changing",
+                  "originalAnswer": "changing",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 44,
+              "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "easily",
+                  "originalAnswer": "easily",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 45,
+              "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "suggesting",
+                  "originalAnswer": "suggesting",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 46,
+              "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "important",
+                  "originalAnswer": "important",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 47,
+              "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "helpful",
+                  "originalAnswer": "helpful",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 48,
+              "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "users",
+                  "originalAnswer": "users",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 49,
+              "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "information",
+                  "originalAnswer": "information",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 50,
+              "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "faced",
+                  "originalAnswer": "faced",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "essay",
+      "title": "第七部分：短文写作（第51题，30分）",
+      "sortOrder": 7,
+      "scorePerQuestion": 30.0,
+      "passage": "请根据所提供材料中的要求完成一篇 100 词左右的英文写作任务。将你的答案写在答题纸相应的位置上。\n\n### 题目\n**51.**\n某英文报社正在举办题为“Safe Journey”的征文活动。请你根据下述写作要点提交一篇英文短文应征。\n- 旅途中安全的重要性\n- 旅途中应该特别注意的事项",
+      "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "短文写作",
+          "questions": [
+            {
+              "questionNumber": 51,
+              "stem": "短文写作",
+              "scoreValue": 30.0,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "略",
+                  "explanation": "**参考范文**:\n**Safe Journey**\n\nNowadays, safe travel plays an important role in our daily life. More and more people begin to realize its value. However, some people still don't pay enough attention to it, which brings a lot of troubles. Therefore, it is very necessary for us to care about safety during trips.\n\n如今，安全出行在我们的日常生活中扮演着重要角色。越来越多的人开始意识到它的价值。然而，仍有一些人对此不够重视，这带来了诸多麻烦。因此，我们非常有必要在旅途中关心安全问题。\n\nThere are many things we can do to stay safe on a journey. First of all, we should keep an eye on our bags and phones in crowded places. It can help us avoid losing our things. Secondly, it's a good idea to follow traffic rules, like wearing seatbelts on the bus or car. Besides, we can also tell our family or friends where we are going. What's more, we should encourage people around us to pay attention to travel safety too.\n\n我们可以做很多事来在旅途中保持安全。首先，我们应该在拥挤的地方看好自己的包和手机，这能帮助我们避免丢东西。其次，遵守交通规则，比如坐车时系好安全带，是个不错的办法。除此之外，我们还可以告诉家人或朋友我们要去哪里。而且，我们应该鼓励身边的人也关注出行安全。\n\nIn a word, safety is very important for everyone. Every small effort we make will make a big difference. Let's take action from now on and start with ourselves. Only in this way can we have a happy and safe journey every time.\n\n总之，安全对每个人都至关重要。我们付出的每一点微小努力，都能带来巨大的改变。让我们从现在行动起来，从自己做起。只有这样，我们才能每次都拥有一次愉快又安全的旅程。\n</试卷名称>",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2026年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

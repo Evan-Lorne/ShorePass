@@ -92,6 +92,15 @@ export async function importPaper(data: PaperImport): Promise<void> {
       });
 
       // Section-level options pool (e.g., word_cloze 12-word pool)
+      const sectionOptionIds = (section.optionsPool || []).map((option) =>
+        generateOptionId(sectionId, option.key),
+      );
+      await tx.option.deleteMany({
+        where: {
+          sectionId,
+          ...(sectionOptionIds.length > 0 ? { id: { notIn: sectionOptionIds } } : {}),
+        },
+      });
       for (let oi = 0; oi < (section.optionsPool || []).length; oi++) {
         const opt = section.optionsPool[oi];
         const optionId = generateOptionId(sectionId, opt.key);
@@ -138,6 +147,7 @@ export async function importPaper(data: PaperImport): Promise<void> {
           await tx.question.upsert({
             where: { id: questionId },
             update: {
+              taskId,
               questionNumber: question.questionNumber,
               stem: question.stem,
               originalStem: question.originalStem ?? null,
@@ -158,6 +168,17 @@ export async function importPaper(data: PaperImport): Promise<void> {
           });
 
           // Question-level options
+          const questionOptionIds = (question.options || []).map((option) =>
+            generateOptionId(questionId, option.key),
+          );
+          await tx.option.deleteMany({
+            where: {
+              questionId,
+              ...(questionOptionIds.length > 0
+                ? { id: { notIn: questionOptionIds } }
+                : {}),
+            },
+          });
           for (let oi = 0; oi < (question.options || []).length; oi++) {
             const opt = question.options[oi];
             const optionId = generateOptionId(questionId, opt.key);

@@ -1,0 +1,1944 @@
+{
+  "paperId": "2022-10-national",
+  "title": "2022年10月全国高等教育自学考试英语二真题",
+  "courseCode": "00015",
+  "year": 2022,
+  "month": 10,
+  "region": "national",
+  "paperType": "exam",
+  "totalScore": 100,
+  "suggestedMinutes": 150,
+  "verified": false,
+  "status": "draft",
+  "publishBlocked": true,
+  "blockReasons": [
+    {
+      "code": "ocr_unverified",
+      "description": "全量批量导入草稿，待逐题人工核对"
+    }
+  ],
+  "sourceFile": "2022年10月真题.md",
+  "sections": [
+    {
+      "type": "reading_judgment",
+      "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
+      "sortOrder": 1,
+      "scorePerQuestion": 1.0,
+      "passage": "Lacking in Self-Esteem (自尊)? Good for You!**\n\nAccording to psychological and educational theories, self-esteem is essential for a successful life. Generations of children, especially minority kids, have been educated according to the theory that they lack self-esteem, and that this deficiency is central to any problems they may have in making their way in the world.\n\nWell, guess what? A new research has found that self-esteem can be just as high among grade D students and drunk drivers as it is among Nobel Prize winners and former presidents. In fact, people with high self-esteem can engage in far more anti-social behavior than those with low self-esteem. \"We used to believe that high self-esteem would cause all sorts of positive consequences and that if we raised self-esteem, people would do better in life,\" a researcher said. \"Mostly, the data have failed to support that.\" Racists, street thugs (恶棍) and school bullies (恶霸) all have high scores on the self-esteem tests. And you can see why. If you think you're highly gifted, you're particularly offended if other people don't treat you that way. So you hit out or commit crimes to defend your pride. After all, who are they to suggest that you could be doing something wrong? What do they know?\n\nSelf-esteem can also be an educational concern. College teachers are constantly complaining about the high self-esteem of their students. When every grade in the school is assessed so as to make the kid feel good rather than to give an accurate measure of his work, the kid can develop self-esteem dangerously unrelated to the truth. When he's told he is getting a C grade in college, he can then get deeply offended or extremely angry. Weak professors give in to the pressure—hence, grade inflation, which results in their students' vague touch with reality.\n\n### 题目",
+      "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "阅读判断",
+          "questions": [
+            {
+              "questionNumber": 1,
+              "stem": "It is believed that minority kids often have self-esteem problems.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 2,
+              "stem": "A new research shows that high self-esteem is essential to success.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 3,
+              "stem": "Parents are responsible for their children's self-esteem.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 4,
+              "stem": "Anti-social behavior is related to low self-esteem.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 5,
+              "stem": "Racists have low self-esteem.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 6,
+              "stem": "People with high self-esteem are hurt more easily.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 7,
+              "stem": "College students are faced with high economic pressure.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 8,
+              "stem": "College teachers are often annoyed with students' high self-esteem.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 9,
+              "stem": "High grades help students know the truth of themselves.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 10,
+              "stem": "Some college students may find a C grade offending.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading_comprehension",
+      "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
+      "sortOrder": 2,
+      "scorePerQuestion": 2.0,
+      "passage": "### 短文原文\n**Organic Farming**\n\nDuring thousands of years of human civilization, the raising of animals and growing of plants have always been organic. Chemicals for farming first came up at the turn of the 20th century. Widespread use of chemicals began after World War II. In the 1950s and 60s farmers started using chemical fertilizers and pesticides (杀虫剂). Recently, however, more and more farmers have been returning to organic farming.\n\nIn organic farming, farm products are produced in more natural ways. Crops, meat and other food are produced without chemicals. Chemical fertilizers, pesticides, and growth hormones (激素) are forbidden. Farmers enrich the soil with natural fertilizers. They pull out weeds by hand. Hay and straw are put between the rows of plants to stop weeding. They rely on the natural enemies of pests to control pests. Animals are fed organically and can eat grass outdoors. Cows, for example, are kept in pastures (草场) and fields. Vegetables and fruit are also produced with organic methods.\n\nOrganic farming enjoys many advantages. For example, crop rotation can preserve the good qualities of soils. The growing of different crops can keep soils healthy and fertile. Organic farming is healthier for farm workers, and there are fewer remains of chemicals in food. In the long term, organic farms save energy and protect the environment. It can slow down global warming and reduce the pollution of ground water.\n\nMeanwhile, there are some disadvantages. Organic food is more expensive. Organic products may cost up to 40% more. Production costs are higher as farmers need more workers, and the land output is much less. Marketing and distribution is not efficient because organic food is produced in smaller amounts. Crop illness may happen very often. Besides, organic farming cannot produce enough food for the world's population to survive. This could lead to starvation in countries that can produce enough food today.\n\n### 题目",
+      "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "阅读选择",
+          "questions": [
+            {
+              "questionNumber": 11,
+              "stem": "Organic farming ________.\n- A. started in the 1950s\n- B. had a short history\n- C. has become popular in recent years\n- D. was promoted by World War II",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "started in the 1950s"
+                },
+                {
+                  "key": "B",
+                  "content": "had a short history"
+                },
+                {
+                  "key": "C",
+                  "content": "has become popular in recent years"
+                },
+                {
+                  "key": "D",
+                  "content": "was promoted by World War II"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 12,
+              "stem": "In organic farming, ________.\n- A. cows can move around in fields\n- B. natural enemies of pests are scarce\n- C. chemicals are used to kill pests\n- D. machines are used to pull out weeds",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "cows can move around in fields"
+                },
+                {
+                  "key": "B",
+                  "content": "natural enemies of pests are scarce"
+                },
+                {
+                  "key": "C",
+                  "content": "chemicals are used to kill pests"
+                },
+                {
+                  "key": "D",
+                  "content": "machines are used to pull out weeds"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 13,
+              "stem": "The phrase \"crop rotation\" (Para.3) probably means \"________\".\n- A. growing high-yielding crops\n- B. seasonal growing of crops\n- C. planting soil-enriching crops\n- D. regular changing of crops",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "growing high-yielding crops"
+                },
+                {
+                  "key": "B",
+                  "content": "seasonal growing of crops"
+                },
+                {
+                  "key": "C",
+                  "content": "planting soil-enriching crops"
+                },
+                {
+                  "key": "D",
+                  "content": "regular changing of crops"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 14,
+              "stem": "One advantage of organic farming is that it is ________.\n- A. water-saving\n- B. labor-saving\n- C. market-friendly\n- D. environment-friendly",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "water-saving"
+                },
+                {
+                  "key": "B",
+                  "content": "labor-saving"
+                },
+                {
+                  "key": "C",
+                  "content": "market-friendly"
+                },
+                {
+                  "key": "D",
+                  "content": "environment-friendly"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 15,
+              "stem": "The problem of organic farming is ________.\n- A. poor qualities of soils\n- B. high production costs\n- C. the use of too much land\n- D. the shortage of farm workers",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "poor qualities of soils"
+                },
+                {
+                  "key": "B",
+                  "content": "high production costs"
+                },
+                {
+                  "key": "C",
+                  "content": "the use of too much land"
+                },
+                {
+                  "key": "D",
+                  "content": "the shortage of farm workers"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "summary_completion",
+      "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
+      "sortOrder": 3,
+      "scorePerQuestion": 1.0,
+      "passage": "阅读下面短文，请完成短文后的2项测试任务：(1)从第16~20题后所给的6个选项中为第1~5段每段选择1个正确的小标题；(2)从第21~25题后所给的6个选项中选择5个正确选项，分别完成每个句子。\n\n### 短文原文\n**Health Benefits of Honey with Milk**\n\nHoney and milk get along well. Since ancient times this mix is known for its amazing health benefits.\n\n1. Take a glass of honey with milk before you set out for your day in the morning, and you are guaranteed enough energy to get through the morning rush. Milk provides you the proteins required while honey helps you get the energy by breaking down these proteins. No wonder this drink is meant for all ages alike.\n2. Milk is known for providing calcium (钙), which, in right levels, helps in preventing bone diseases as we age. Research has indicated that honey does a good job of carrying nutrients (营养成分) in the food through the blood to various parts of the body. In particular, honey helps in the absorption of calcium, the vital part of milk.\n3. If you ask doctors or your grandmother for a solution to your sleeplessness, you are bound to get the same answer—a glass of warm milk with honey. It is best known to induce sleep. So take it regularly if you have sleeping problems.\n4. Milk and honey not only help in preventing aging by keeping the skin glowing, but also improve your body as a whole as they contain antioxidants (抗氧化物). These help keep the body young and flexible. For a very long time, this has been an open secret in keeping your body look and feel young.\n5. Both milk and honey are known to ward off harmful bacteria in our body, but their combined strength is more effective in achieving this effect. Cough and cold can be prevented by taking this drink regularly. It also aids in digestion and treating bowel disorders.\n\n### 备选小标题 (",
+      "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "Task 1: 概括段落大意",
+          "questions": [
+            {
+              "questionNumber": 16,
+              "stem": "Paragraph 1:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Honey milk for digestion"
+                },
+                {
+                  "key": "B",
+                  "content": "Honey milk for a youthful glow"
+                },
+                {
+                  "key": "C",
+                  "content": "Honey milk for stronger bones"
+                },
+                {
+                  "key": "D",
+                  "content": "Honey milk for energy"
+                },
+                {
+                  "key": "E",
+                  "content": "Honey milk for a sound sleep"
+                },
+                {
+                  "key": "F",
+                  "content": "Honey milk for antibacterial benefits"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 17,
+              "stem": "Paragraph 2:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Honey milk for digestion"
+                },
+                {
+                  "key": "B",
+                  "content": "Honey milk for a youthful glow"
+                },
+                {
+                  "key": "C",
+                  "content": "Honey milk for stronger bones"
+                },
+                {
+                  "key": "D",
+                  "content": "Honey milk for energy"
+                },
+                {
+                  "key": "E",
+                  "content": "Honey milk for a sound sleep"
+                },
+                {
+                  "key": "F",
+                  "content": "Honey milk for antibacterial benefits"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 18,
+              "stem": "Paragraph 3:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Honey milk for digestion"
+                },
+                {
+                  "key": "B",
+                  "content": "Honey milk for a youthful glow"
+                },
+                {
+                  "key": "C",
+                  "content": "Honey milk for stronger bones"
+                },
+                {
+                  "key": "D",
+                  "content": "Honey milk for energy"
+                },
+                {
+                  "key": "E",
+                  "content": "Honey milk for a sound sleep"
+                },
+                {
+                  "key": "F",
+                  "content": "Honey milk for antibacterial benefits"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 19,
+              "stem": "Paragraph 4:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Honey milk for digestion"
+                },
+                {
+                  "key": "B",
+                  "content": "Honey milk for a youthful glow"
+                },
+                {
+                  "key": "C",
+                  "content": "Honey milk for stronger bones"
+                },
+                {
+                  "key": "D",
+                  "content": "Honey milk for energy"
+                },
+                {
+                  "key": "E",
+                  "content": "Honey milk for a sound sleep"
+                },
+                {
+                  "key": "F",
+                  "content": "Honey milk for antibacterial benefits"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 20,
+              "stem": "Paragraph 5:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Honey milk for digestion"
+                },
+                {
+                  "key": "B",
+                  "content": "Honey milk for a youthful glow"
+                },
+                {
+                  "key": "C",
+                  "content": "Honey milk for stronger bones"
+                },
+                {
+                  "key": "D",
+                  "content": "Honey milk for energy"
+                },
+                {
+                  "key": "E",
+                  "content": "Honey milk for a sound sleep"
+                },
+                {
+                  "key": "F",
+                  "content": "Honey milk for antibacterial benefits"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sortOrder": 2,
+          "title": "Task 2: 补全句子",
+          "questions": [
+            {
+              "questionNumber": 21,
+              "stem": "Milk is rich ________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "in proteins and calcium"
+                },
+                {
+                  "key": "B",
+                  "content": "fat and sugar"
+                },
+                {
+                  "key": "C",
+                  "content": "cough and cold"
+                },
+                {
+                  "key": "D",
+                  "content": "keep off harmful bacteria"
+                },
+                {
+                  "key": "E",
+                  "content": "drink milk with honey"
+                },
+                {
+                  "key": "F",
+                  "content": "of calcium in milk"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 22,
+              "stem": "Milk and honey help ________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "in proteins and calcium"
+                },
+                {
+                  "key": "B",
+                  "content": "fat and sugar"
+                },
+                {
+                  "key": "C",
+                  "content": "cough and cold"
+                },
+                {
+                  "key": "D",
+                  "content": "keep off harmful bacteria"
+                },
+                {
+                  "key": "E",
+                  "content": "drink milk with honey"
+                },
+                {
+                  "key": "F",
+                  "content": "of calcium in milk"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 23,
+              "stem": "Honey helps the absorption ________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "in proteins and calcium"
+                },
+                {
+                  "key": "B",
+                  "content": "fat and sugar"
+                },
+                {
+                  "key": "C",
+                  "content": "cough and cold"
+                },
+                {
+                  "key": "D",
+                  "content": "keep off harmful bacteria"
+                },
+                {
+                  "key": "E",
+                  "content": "drink milk with honey"
+                },
+                {
+                  "key": "F",
+                  "content": "of calcium in milk"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 24,
+              "stem": "Your body may bend or move easily if you ________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "in proteins and calcium"
+                },
+                {
+                  "key": "B",
+                  "content": "fat and sugar"
+                },
+                {
+                  "key": "C",
+                  "content": "cough and cold"
+                },
+                {
+                  "key": "D",
+                  "content": "keep off harmful bacteria"
+                },
+                {
+                  "key": "E",
+                  "content": "drink milk with honey"
+                },
+                {
+                  "key": "F",
+                  "content": "of calcium in milk"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 25,
+              "stem": "Drinking honey milk regularly can prevent ________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "in proteins and calcium"
+                },
+                {
+                  "key": "B",
+                  "content": "fat and sugar"
+                },
+                {
+                  "key": "C",
+                  "content": "cough and cold"
+                },
+                {
+                  "key": "D",
+                  "content": "keep off harmful bacteria"
+                },
+                {
+                  "key": "E",
+                  "content": "drink milk with honey"
+                },
+                {
+                  "key": "F",
+                  "content": "of calcium in milk"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "sentence_fill",
+      "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
+      "sortOrder": 4,
+      "scorePerQuestion": 2.0,
+      "passage": "### 短文原文\n**Insomnia (失眠)**\n\nI just could not fall asleep the other night. I just didn't feel sleepy. I can't explain why, but it was really annoying.\n\nI got very bored lying in bed, so I decided to read a book.  __[26]  But even when I finished reading, I still didn't feel tired. So I listened to some peaceful music. That didn't work, either. I have heard people say if you have a warm drink before bedtime it will help you drift off to sleep. So I went downstairs and made myself a cup of tea.  __[27]  Still, I couldn't sleep. I was getting very frustrated by this point!\n\nIt felt strange to be awake while everyone else was asleep.  __[28]  In fact, it was a little bit frightening. When you go to sleep, it feels like one day ends and another begins. But if you stay up late, you realize that day and night are just a gentle transition (转变), a cycle which has no end and no beginning. At 4 a.m., I noticed a faint light coming through my curtains. The sun had started to rise!\n\nNormally, I'm a very heavy sleeper.  __[29]  So on this occasion I considered myself lucky to see a beautiful sunrise. As the sun came up in the east, the birds started to sing their morning songs. I knew I needed to get some rest, but it seemed the harder I tried to force myself asleep, the more difficult it was.\n\nEventually, I just let my mind go free.  __[30]  I listened to the birdsong...and the next thing I knew it was 11 a.m.! I was happy that I had managed to get some sleep! I have never struggled with sleeping before, so this was my first experience of insomnia. Fortunately, I have been sleeping well since then.\n\n### 备选句子\n\n### 题目\n**26.** \n**标准答案**: E\n\n**27.** \n**标准答案**: C\n\n**28.** \n**标准答案**: A\n\n**29.** \n**标准答案**: F\n\n**30.** \n**标准答案**: B",
+      "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "The world seemed so quiet."
+        },
+        {
+          "key": "B",
+          "content": "I stopped forcing myself to sleep."
+        },
+        {
+          "key": "C",
+          "content": "After my tea, I got back into bed."
+        },
+        {
+          "key": "D",
+          "content": "I didn't want to wake up my family."
+        },
+        {
+          "key": "E",
+          "content": "I thought reading would help me get to sleep."
+        },
+        {
+          "key": "F",
+          "content": "I had never been awake at this time in the morning."
+        }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "填句补文",
+          "questions": [
+            {
+              "questionNumber": 26,
+              "stem": "填入原文第 [26] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "The world seemed so quiet."
+                },
+                {
+                  "key": "B",
+                  "content": "I stopped forcing myself to sleep."
+                },
+                {
+                  "key": "C",
+                  "content": "After my tea, I got back into bed."
+                },
+                {
+                  "key": "D",
+                  "content": "I didn't want to wake up my family."
+                },
+                {
+                  "key": "E",
+                  "content": "I thought reading would help me get to sleep."
+                },
+                {
+                  "key": "F",
+                  "content": "I had never been awake at this time in the morning."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 27,
+              "stem": "填入原文第 [27] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "The world seemed so quiet."
+                },
+                {
+                  "key": "B",
+                  "content": "I stopped forcing myself to sleep."
+                },
+                {
+                  "key": "C",
+                  "content": "After my tea, I got back into bed."
+                },
+                {
+                  "key": "D",
+                  "content": "I didn't want to wake up my family."
+                },
+                {
+                  "key": "E",
+                  "content": "I thought reading would help me get to sleep."
+                },
+                {
+                  "key": "F",
+                  "content": "I had never been awake at this time in the morning."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 28,
+              "stem": "填入原文第 [28] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "The world seemed so quiet."
+                },
+                {
+                  "key": "B",
+                  "content": "I stopped forcing myself to sleep."
+                },
+                {
+                  "key": "C",
+                  "content": "After my tea, I got back into bed."
+                },
+                {
+                  "key": "D",
+                  "content": "I didn't want to wake up my family."
+                },
+                {
+                  "key": "E",
+                  "content": "I thought reading would help me get to sleep."
+                },
+                {
+                  "key": "F",
+                  "content": "I had never been awake at this time in the morning."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 29,
+              "stem": "填入原文第 [29] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "The world seemed so quiet."
+                },
+                {
+                  "key": "B",
+                  "content": "I stopped forcing myself to sleep."
+                },
+                {
+                  "key": "C",
+                  "content": "After my tea, I got back into bed."
+                },
+                {
+                  "key": "D",
+                  "content": "I didn't want to wake up my family."
+                },
+                {
+                  "key": "E",
+                  "content": "I thought reading would help me get to sleep."
+                },
+                {
+                  "key": "F",
+                  "content": "I had never been awake at this time in the morning."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 30,
+              "stem": "填入原文第 [30] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "The world seemed so quiet."
+                },
+                {
+                  "key": "B",
+                  "content": "I stopped forcing myself to sleep."
+                },
+                {
+                  "key": "C",
+                  "content": "After my tea, I got back into bed."
+                },
+                {
+                  "key": "D",
+                  "content": "I didn't want to wake up my family."
+                },
+                {
+                  "key": "E",
+                  "content": "I thought reading would help me get to sleep."
+                },
+                {
+                  "key": "F",
+                  "content": "I had never been awake at this time in the morning."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_cloze",
+      "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
+      "sortOrder": 5,
+      "scorePerQuestion": 1.5,
+      "passage": "**Smiles**\n\nA smile costs nothing, but creates much. It enriches those who  [31] , without making those who give poor. It happens in a  [32]  and the memory of it sometimes lasts  [33] . None are so rich that they can get along without it, and none so  [34]  but are richer for its benefits. It creates  [35]  in the home, and fosters goodwill in a business. It is rest to the weary (疲劳的), daylight to the  [36]  and sunshine to the sad. Yet it cannot be bought, begged, borrowed, or stolen, for it is something that is no earthly good to anybody till it is given  [37] . And if in the last-minute rush of Christmas  [38] , some of our salespeople should be too  [39]  to give you a smile, may we  [40]  you to leave one of yours? For nobody needs a smile so much as those who have none left to give!",
+      "instructions": "从备选词汇池中选择最佳单词填入空白处。",
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "forever"
+        },
+        {
+          "key": "B",
+          "content": "away"
+        },
+        {
+          "key": "C",
+          "content": "happiness"
+        },
+        {
+          "key": "D",
+          "content": "satisfied"
+        },
+        {
+          "key": "E",
+          "content": "discouraged"
+        },
+        {
+          "key": "F",
+          "content": "flash"
+        },
+        {
+          "key": "G",
+          "content": "receive"
+        },
+        {
+          "key": "H",
+          "content": "tired"
+        },
+        {
+          "key": "I",
+          "content": "poor"
+        },
+        {
+          "key": "J",
+          "content": "enough"
+        },
+        {
+          "key": "K",
+          "content": "buying"
+        },
+        {
+          "key": "L",
+          "content": "ask"
+        }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "填词补文",
+          "questions": [
+            {
+              "questionNumber": 31,
+              "stem": "填入原文第 [31] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "G",
+                  "originalAnswer": "G (receive)",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 32,
+              "stem": "填入原文第 [32] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F (flash)",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 33,
+              "stem": "填入原文第 [33] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A (forever)",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 34,
+              "stem": "填入原文第 [34] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "I",
+                  "originalAnswer": "I (poor)",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 35,
+              "stem": "填入原文第 [35] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C (happiness)",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 36,
+              "stem": "填入原文第 [36] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E (discouraged)",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 37,
+              "stem": "填入原文第 [37] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B (away)",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 38,
+              "stem": "填入原文第 [38] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "K",
+                  "originalAnswer": "K (buying)",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 39,
+              "stem": "填入原文第 [39] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "H",
+                  "originalAnswer": "H (tired)",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 40,
+              "stem": "填入原文第 [40] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "L",
+                  "originalAnswer": "L (ask)",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_formation",
+      "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
+      "sortOrder": 6,
+      "scorePerQuestion": 1.5,
+      "passage": "### 短文原文\n**The Importance of Friendship for School-age Children**\n\nFriends are very important to school-age children's *healthy* (health) development. Research has  __[41]  (show) that children who lack friends can suffer from emotional and mental difficulties later in life. They have also found that children with friends have a  __[42]  (great) sense of happiness, better self-esteem and fewer problems as they grow up.\n\nFriendships provide children with more than just fun  __[43]  (playmate). They help children develop emotionally and  __[44]  (moral). In interacting with friends, children learn many  __[45]  (society) skills, such as how to communicate, and how to cooperate. They practice  __[46]  (control) their emotions and responding to the emotions of others. They develop the  __[47]  (able) to think through and negotiate different situations in their relationships. Having friends  __[48]  (affect) children in many ways, even their school  __[49]  (perform). Children tend to have better attitudes about school and learning when they have friends there. In short, friendships are not just a luxury; they are a  __[50]  (necessary) for children.\n\n### 题目\n**41.** (show)",
+      "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "完形补文",
+          "questions": [
+            {
+              "questionNumber": 41,
+              "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
+              "baseWord": "show",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "shown",
+                  "originalAnswer": "shown",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 42,
+              "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
+              "baseWord": "great",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "greater",
+                  "originalAnswer": "greater",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 43,
+              "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
+              "baseWord": "playmate",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "playmates",
+                  "originalAnswer": "playmates",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 44,
+              "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
+              "baseWord": "moral",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "morally",
+                  "originalAnswer": "morally",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 45,
+              "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
+              "baseWord": "society",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "social",
+                  "originalAnswer": "social",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 46,
+              "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
+              "baseWord": "control",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "controlling",
+                  "originalAnswer": "controlling",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 47,
+              "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
+              "baseWord": "able",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "ability",
+                  "originalAnswer": "ability",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 48,
+              "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
+              "baseWord": "affect",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "affects",
+                  "originalAnswer": "affects",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 49,
+              "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
+              "baseWord": "perform",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "performance",
+                  "originalAnswer": "performance",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 50,
+              "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
+              "baseWord": "necessary",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "necessity",
+                  "originalAnswer": "necessity",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "essay",
+      "title": "第七部分：短文写作（第51题，30分）",
+      "sortOrder": 7,
+      "scorePerQuestion": 30.0,
+      "passage": "请根据所提供材料中的要求完成一篇100词左右的英文写作任务。\n\n### 题目\n**51.**\n某英文报社正在举办题为“My Dream Trip”的征文活动。请你根据下述写作要点提交一篇英文短文应征。\n- 你最想去哪里旅游\n- 为什么你最想去那里",
+      "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "短文写作",
+          "questions": [
+            {
+              "questionNumber": 51,
+              "stem": "短文写作",
+              "scoreValue": 30.0,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "略",
+                  "explanation": "短文写作属于主观题，需结合题目要点书写。",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2022年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

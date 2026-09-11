@@ -13,7 +13,6 @@ export function grade(
 ) {
   if (subjective(type) || rule?.disputed) return null;
   if (!value.trim() || !rule) return false;
-  if (type !== "word_formation") return value.trim() === rule.standardAnswer;
   let variants: string[] = [];
   try {
     const parsed = JSON.parse(rule.acceptableAnswers || "[]");
@@ -21,7 +20,8 @@ export function grade(
   } catch {
     /* A malformed optional variant must not discard the standard answer. */
   }
-  const normalize = (s: string) => (rule.caseSensitive ? s.trim() : s.trim().toLowerCase());
+  const normalize = (s: string) =>
+    rule.caseSensitive ? s.trim() : s.trim().toLowerCase();
   return [rule.standardAnswer, ...variants].some((s) => normalize(s) === normalize(value));
 }
 export function mastery(previous: number, correct: boolean, sameVersion: boolean) {

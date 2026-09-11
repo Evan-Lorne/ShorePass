@@ -1,8 +1,8 @@
 import { prisma } from '../lib/prisma';
 
-// Repairs are transcribed from 整理后的试卷库/押题库考前试卷（1）.md.
-// This does not establish PDF-level verification or permission to publish.
-const evidence = '整理后的试卷库/押题库考前试卷（1）.md';
+// Repairs are checked against the original question PDF and answer PDF.
+const evidence =
+  '押题库考前试卷（1）.pdf 第7页；押题库考前试卷（1）答案详解.pdf 第3页';
 const firstPool = ['Mistakes encourage taking risks', 'Mistakes practice telling truth', 'Mistakes make powerful teachers', 'Mistakes are as important as successes', 'Mistakes focus our attention', 'Mistakes make things work'];
 const secondPool = ['stick with us for a lifetime', 'what we can do to fix it', 'committed to making things work', 'accepting the risk of error', 'worry about being criticized', 'committed to making things work'];
 const completions = ['We often know through mistakes what\'s going wrong and ________.', 'If a writer never finishes his book, he will never have to ________.', 'Effective people aim to reach their goals while ________.', 'People can make mistakes only when they are truly ________.', 'We can learn some lessons from making mistakes, which often ________.'];
@@ -38,11 +38,22 @@ async function main() {
           if (rule) await tx.answerRule.update({ where: { id: rule.id }, data: { originalAnswer: rule.standardAnswer, standardAnswer: repairedAnswers[n], revisionNotes: `2026-09-10 根据 ${evidence} 的解析修复结构化提取错误；尚待原始 PDF 人工核对。` } });
           else await tx.answerRule.create({ data: { id: `${q.id}_answer`, questionId: q.id, standardAnswer: repairedAnswers[n], explanation: '根据原解析：介词 of 后与 appreciation、gratitude 并列，应选 praise。', revisionNotes: `从 ${evidence} 补齐遗漏，待原 PDF 人工核对。` } });
         }
-        if (n === 24 && q.answerRules[0]) await tx.answerRule.update({ where: { id: q.answerRules[0].id }, data: { disputed: true, revisionNotes: '原资料明确说明 C/F 内容相同，保留争议，不参与自动判分。' } });
+        if (n === 24 && q.answerRules[0])
+          await tx.answerRule.update({
+            where: { id: q.answerRules[0].id },
+            data: {
+              standardAnswer: 'C',
+              originalAnswer: 'C/F',
+              acceptableAnswers: JSON.stringify(['C', 'F']),
+              disputed: false,
+              revisionNotes:
+                `2026-09-11 视觉核验：${evidence} 均确认 C/F 两项印刷内容相同且两个答案均符合；以 C 为标准答案，C、F 均参与自动判分。`,
+            },
+          });
       }
     }
     const previous = await tx.paperVersion.findFirst({ where: { paperId }, orderBy: { version: 'desc' } });
-    await tx.paperVersion.create({ data: { id: versionId, paperId, version: (previous?.version || 1) + 1, changeLog: `修复选项池、题干、空位标记和提取错误；保留第24题争议；依据 ${evidence}，verified 不变。` } });
+    await tx.paperVersion.create({ data: { id: versionId, paperId, version: (previous?.version || 1) + 1, changeLog: `修复选项池、题干、空位标记和提取错误；第24题按原卷接受 C/F 双答案；依据 ${evidence}。` } });
   }, { timeout: 20000 });
   console.log('Preview repaired; verification remains unchanged.');
 }

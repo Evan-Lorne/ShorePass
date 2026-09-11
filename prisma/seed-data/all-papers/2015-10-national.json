@@ -1,0 +1,1944 @@
+{
+  "paperId": "2015-10-national",
+  "title": "2015年10月全国高等教育自学考试英语二真题",
+  "courseCode": "00015",
+  "year": 2015,
+  "month": 10,
+  "region": "national",
+  "paperType": "exam",
+  "totalScore": 100,
+  "suggestedMinutes": 150,
+  "verified": false,
+  "status": "draft",
+  "publishBlocked": true,
+  "blockReasons": [
+    {
+      "code": "ocr_unverified",
+      "description": "全量批量导入草稿，待逐题人工核对"
+    }
+  ],
+  "sourceFile": "2015年10月真题.md",
+  "sections": [
+    {
+      "type": "reading_judgment",
+      "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
+      "sortOrder": 1,
+      "scorePerQuestion": 1.0,
+      "passage": "A；如果该句提供的是错误信息，选择 B；如\n果该句的信息文中没有提及，选择 C。\nBlack Friday\nEveryone likes to shop for gifts for the holiday season, but few people know the\nhistory of holiday shopping. While people have heard of Black Friday; most do not\nknow its origins. Black Friday is the day after Thanksgiving ( 感恩节).On this day most\nretail stores open their doors very early — some as early as 4 am. In addition, they\npro vide their customers with great discounts on products. With this in mind, it is clear\nto see why so many shoppers buy many of their Christmas gifts on Black Friday.\nBlack Friday is not as ok as many people think. In fact, it is believed that the first\nBlack Friday was held in the 1970s in the USA. It was a day when stores decided to\nmark the start of the holiday season. In order to draw more customers, they offered\ngreat discounts. All products sold very well. This large success resulted in the name\nBlack Friday, it was so named because the stores were \"in the black\". This financial\nterm means the stoics made a lot of money. However, it was not until around 2002\nthat Black Friday really started to gain in popularity. Today in the USA, countless\nadvertisers proudly announce their Black Friday sales. They hope to attract shoppers\ninto their stores.\nBlack Friday is a day when many shoppers in the USA go out and buy gifts, even\nthough Christmas Eve is still a more popular day to shop. Thanks to the Internet, it is\nnow possible to get some excellent Black Friday deals online. So if you don't want to\nget to the stores by 4 am, this is the perfect way to still get items at reduced prices.",
+      "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "阅读判断",
+          "questions": [
+            {
+              "questionNumber": 1,
+              "stem": "Many people know the history of Black Friday.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 2,
+              "stem": "Most stores open their doors for business very early on Black Friday.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 3,
+              "stem": "Customers get better service on Black Friday.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 4,
+              "stem": "Black Friday started in the USA.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 5,
+              "stem": "The holiday season ends on Black Friday.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 6,
+              "stem": "\"In the black\" is a financial term.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 7,
+              "stem": "Black Friday is no longer popular.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 8,
+              "stem": "People like to shop online on Christmas Eve.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 9,
+              "stem": "It is possible to get Black Friday discount online.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 10,
+              "stem": "Things are sold at their lowest prices at 4 am.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading_comprehension",
+      "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
+      "sortOrder": 2,
+      "scorePerQuestion": 2.0,
+      "passage": "个最佳选项。\nLiving in Brazil (巴西）and Switzerland\nMoving to a different city may seem difficult. You have to change schools and\nget used to your new home. But you can always go back to that city to visit. When\nyou move to another country, things are different. However, difficult as it may be, the\nexperience can be rewarding.\nMy dad, a Brazilian, is really funny and can make friends quickly. My mom, a\nSwiss, is usually quiet and a bit shy. She likes to be organized ， But my dad never\nmakes plans. She enjoys staying home, but my dad always wants to go out. Swiss and\nBrazilian 一 what a mix!\nAfter my parents got married, they moved to Switzerland. There they had my\nbrother and me. When I was two, we moved to Brazil. During my childhood we\nvisited Switzerland every year.\nMany people ask me where I prefer to live: Brazil or Switzerland. It's really hard\nto answer because I love both countries. Brazil is a big country with many states and\npeople. There are multiple dialects and many types of foods. People here have\nbeautiful smiles and are always happy, even if they are poor. In the south the climate\nis cool, but in the north It's hot and humid.\nSwitzerland, on the other hand, is small but beautiful and clean. There are four\nlanguages in that tiny country. People there are very different from Brazilians: they\nare wealthy, independent, and organized. The food is delicious, and of course, the\nfamous Swiss chocolate is great, and the climate is dry and cool.\nI love both countries. In Switzerland, it's pleasant, calm, and peaceful\neverywhere. I enjoyed my stay there very much. But now I am happy here in Brazil. I\nfeel excited and at home.",
+      "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "阅读选择",
+          "questions": [
+            {
+              "questionNumber": 11,
+              "stem": "The author's parents___.",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "share similar interests"
+                },
+                {
+                  "key": "B",
+                  "content": "have different jobs"
+                },
+                {
+                  "key": "C",
+                  "content": "have different personalities"
+                },
+                {
+                  "key": "D",
+                  "content": "enjoy reading books"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 12,
+              "stem": "When the author was a child, the family used to___.",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "have many good friends"
+                },
+                {
+                  "key": "B",
+                  "content": "move between the two countries"
+                },
+                {
+                  "key": "C",
+                  "content": "speak two dialects"
+                },
+                {
+                  "key": "D",
+                  "content": "visit Brazil from time to time"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 13,
+              "stem": "The author thinks Brazilians are___.",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "organized"
+                },
+                {
+                  "key": "B",
+                  "content": "independent"
+                },
+                {
+                  "key": "C",
+                  "content": "indifferent"
+                },
+                {
+                  "key": "D",
+                  "content": "optimistic"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 14,
+              "stem": "According to the text, Switzerland___.",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "is famous for its chocolate"
+                },
+                {
+                  "key": "B",
+                  "content": "has many big cities"
+                },
+                {
+                  "key": "C",
+                  "content": "has a lot in common with Brazil"
+                },
+                {
+                  "key": "D",
+                  "content": "is hot and humid"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 15,
+              "stem": "According to the author, living in two different cultures is a(n)___.",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "appealing idea"
+                },
+                {
+                  "key": "B",
+                  "content": "difficult decision"
+                },
+                {
+                  "key": "C",
+                  "content": "expensive choice"
+                },
+                {
+                  "key": "D",
+                  "content": "pleasant experience"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "summary_completion",
+      "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
+      "sortOrder": 3,
+      "scorePerQuestion": 1.0,
+      "passage": "阅读下面短文，请完成短文后的 2 项测试任务： （1）从第 16-20 题后所给\n的 6 个选项中为第①-⑤段每段选择 1 个正确的段落大意； （2）从第 21~25 题后\n所给的 6 个选项中选择 5 个正确选项，分别完成每个句子。\nMore Than One Kind of Intelligence\n① You may have heard people mention \"IQ'' when talking about how smart\nsomeone is. IQ stands for \"intelligence quotient ( 智商)\" It can help predict how well\nsomeone may do academically.\n②IQ is just one measure of our abilities. There are many other kinds of\nintelligence. For example, spatial ( 空间的） intelligence is the ability to think in 3D.\nMusical intelligence is the ability to recognize rhythm and tone. Abilities in sports and\narts are other types of intelligence.\n③Another important type of intelligence is emotional intelligence. Emotional\nintelligence (EQ for short) is the ability to understand, use, and manage our emotions.\nJust as a high IQ can predict top test scores, a high EQ can predict success in social\nand emotional situations. EQ helps us build strong relationships, make good decisions,\nand deal with difficult situations.\n④One way to think about EQ is that it is part of being people-smart.\nUnderstanding and getting along with people help us become successful in our lives.\nIn fact, some studies show that EQ is more important than IQ when it comes to doing\nwell in school or being successful at work.\n⑤Some people are born with good EQ skills; others need to work on them.\nEveryone can get better if they know what to do. Being able to notice and label\neveryday feelings is the most basic EQ skills. Being aware of emotions helps us\nmanage our own emotions. It also helps us understand how others feel.",
+      "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "Task 1: 概括段落大意",
+          "questions": [
+            {
+              "questionNumber": 16,
+              "stem": "Paragraph①",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Kinds of intelligence"
+                },
+                {
+                  "key": "B",
+                  "content": "Definition of IQ"
+                },
+                {
+                  "key": "C",
+                  "content": "Importance of EQ"
+                },
+                {
+                  "key": "D",
+                  "content": "Definition of EQ"
+                },
+                {
+                  "key": "E",
+                  "content": "Development of EQ studies"
+                },
+                {
+                  "key": "F",
+                  "content": "Ways to improve EQ skills"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 17,
+              "stem": "Paragraph②",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Kinds of intelligence"
+                },
+                {
+                  "key": "B",
+                  "content": "Definition of IQ"
+                },
+                {
+                  "key": "C",
+                  "content": "Importance of EQ"
+                },
+                {
+                  "key": "D",
+                  "content": "Definition of EQ"
+                },
+                {
+                  "key": "E",
+                  "content": "Development of EQ studies"
+                },
+                {
+                  "key": "F",
+                  "content": "Ways to improve EQ skills"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 18,
+              "stem": "Paragraph ③",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Kinds of intelligence"
+                },
+                {
+                  "key": "B",
+                  "content": "Definition of IQ"
+                },
+                {
+                  "key": "C",
+                  "content": "Importance of EQ"
+                },
+                {
+                  "key": "D",
+                  "content": "Definition of EQ"
+                },
+                {
+                  "key": "E",
+                  "content": "Development of EQ studies"
+                },
+                {
+                  "key": "F",
+                  "content": "Ways to improve EQ skills"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 19,
+              "stem": "Paragraph ④",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Kinds of intelligence"
+                },
+                {
+                  "key": "B",
+                  "content": "Definition of IQ"
+                },
+                {
+                  "key": "C",
+                  "content": "Importance of EQ"
+                },
+                {
+                  "key": "D",
+                  "content": "Definition of EQ"
+                },
+                {
+                  "key": "E",
+                  "content": "Development of EQ studies"
+                },
+                {
+                  "key": "F",
+                  "content": "Ways to improve EQ skills"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 20,
+              "stem": "Paragraph ⑤",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Kinds of intelligence"
+                },
+                {
+                  "key": "B",
+                  "content": "Definition of IQ"
+                },
+                {
+                  "key": "C",
+                  "content": "Importance of EQ"
+                },
+                {
+                  "key": "D",
+                  "content": "Definition of EQ"
+                },
+                {
+                  "key": "E",
+                  "content": "Development of EQ studies"
+                },
+                {
+                  "key": "F",
+                  "content": "Ways to improve EQ skills"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sortOrder": 2,
+          "title": "Task 2: 补全句子",
+          "questions": [
+            {
+              "questionNumber": 21,
+              "stem": "People often use IQ to___.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "in our work"
+                },
+                {
+                  "key": "B",
+                  "content": "recognize everyday feelings"
+                },
+                {
+                  "key": "C",
+                  "content": "talk about how smart a person is"
+                },
+                {
+                  "key": "D",
+                  "content": "a sign of high EQ"
+                },
+                {
+                  "key": "E",
+                  "content": "a high EQ"
+                },
+                {
+                  "key": "F",
+                  "content": "in a friendly way"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 22,
+              "stem": "Being able to face difficulties demands___.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "in our work"
+                },
+                {
+                  "key": "B",
+                  "content": "recognize everyday feelings"
+                },
+                {
+                  "key": "C",
+                  "content": "talk about how smart a person is"
+                },
+                {
+                  "key": "D",
+                  "content": "a sign of high EQ"
+                },
+                {
+                  "key": "E",
+                  "content": "a high EQ"
+                },
+                {
+                  "key": "F",
+                  "content": "in a friendly way"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 23,
+              "stem": "A high EQ helps us succeed___.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "in our work"
+                },
+                {
+                  "key": "B",
+                  "content": "recognize everyday feelings"
+                },
+                {
+                  "key": "C",
+                  "content": "talk about how smart a person is"
+                },
+                {
+                  "key": "D",
+                  "content": "a sign of high EQ"
+                },
+                {
+                  "key": "E",
+                  "content": "a high EQ"
+                },
+                {
+                  "key": "F",
+                  "content": "in a friendly way"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 24,
+              "stem": "Being able to get along with people is___.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "in our work"
+                },
+                {
+                  "key": "B",
+                  "content": "recognize everyday feelings"
+                },
+                {
+                  "key": "C",
+                  "content": "talk about how smart a person is"
+                },
+                {
+                  "key": "D",
+                  "content": "a sign of high EQ"
+                },
+                {
+                  "key": "E",
+                  "content": "a high EQ"
+                },
+                {
+                  "key": "F",
+                  "content": "in a friendly way"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 25,
+              "stem": "One of the most basic EQ skills is to___.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "in our work"
+                },
+                {
+                  "key": "B",
+                  "content": "recognize everyday feelings"
+                },
+                {
+                  "key": "C",
+                  "content": "talk about how smart a person is"
+                },
+                {
+                  "key": "D",
+                  "content": "a sign of high EQ"
+                },
+                {
+                  "key": "E",
+                  "content": "a high EQ"
+                },
+                {
+                  "key": "F",
+                  "content": "in a friendly way"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "sentence_fill",
+      "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
+      "sortOrder": 4,
+      "scorePerQuestion": 2.0,
+      "passage": "短文内容 将其分别放回原有位置，以恢复文章原貌。\nThe Princess Disease\nHave you ever heard of the princess disease? It is a terrible disease. __[26] It\nwastes away at one's social life and people's tolerance. People with this disease think\nthey are better than everyone else, without a real reason.\nJin is a girl who suffers from this disease. __[27] She thinks she is better looking\nthan her friends and most people she has met. It is, as far as she is concerned, a\nwell-known fact that she dresses better, sings better, and dances better than most\npeople in her school, too.\nSo is Jin justified in believing that she is better than everyone else? __[28] Of\ncourse, she thinks this is because the singing coach hates her, since the coach has bad\nskin and is jealous of her. She is good at sports, but she isn't the strongest, fastest, or\neven the best at any of their school's events. __[29] She again thinks it was because\nof the \"haters\". After losing, she pretended she'd just run for fun and it was no big deal,\nbut in fact it was a huge deal to her.\nJin definitely has the disease. The treatment is to stop being so mean and geta\nlittle modesty. __[30] She might even get rid of this disease if she tries hard enough.",
+      "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "She is too proud of herself."
+        },
+        {
+          "key": "B",
+          "content": "Jin is very popular."
+        },
+        {
+          "key": "C",
+          "content": "Then things might become better for her."
+        },
+        {
+          "key": "D",
+          "content": "She sings well, but not well enough to be a lead singer."
+        },
+        {
+          "key": "E",
+          "content": "It threatens to push one’s friends away."
+        },
+        {
+          "key": "F",
+          "content": "She ran for class president, but came in third"
+        }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "填句补文",
+          "questions": [
+            {
+              "questionNumber": 26,
+              "stem": "填入原文第 [26] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "She is too proud of herself."
+                },
+                {
+                  "key": "B",
+                  "content": "Jin is very popular."
+                },
+                {
+                  "key": "C",
+                  "content": "Then things might become better for her."
+                },
+                {
+                  "key": "D",
+                  "content": "She sings well, but not well enough to be a lead singer."
+                },
+                {
+                  "key": "E",
+                  "content": "It threatens to push one’s friends away."
+                },
+                {
+                  "key": "F",
+                  "content": "She ran for class president, but came in third"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 27,
+              "stem": "填入原文第 [27] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "She is too proud of herself."
+                },
+                {
+                  "key": "B",
+                  "content": "Jin is very popular."
+                },
+                {
+                  "key": "C",
+                  "content": "Then things might become better for her."
+                },
+                {
+                  "key": "D",
+                  "content": "She sings well, but not well enough to be a lead singer."
+                },
+                {
+                  "key": "E",
+                  "content": "It threatens to push one’s friends away."
+                },
+                {
+                  "key": "F",
+                  "content": "She ran for class president, but came in third"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 28,
+              "stem": "填入原文第 [28] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "She is too proud of herself."
+                },
+                {
+                  "key": "B",
+                  "content": "Jin is very popular."
+                },
+                {
+                  "key": "C",
+                  "content": "Then things might become better for her."
+                },
+                {
+                  "key": "D",
+                  "content": "She sings well, but not well enough to be a lead singer."
+                },
+                {
+                  "key": "E",
+                  "content": "It threatens to push one’s friends away."
+                },
+                {
+                  "key": "F",
+                  "content": "She ran for class president, but came in third"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 29,
+              "stem": "填入原文第 [29] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "She is too proud of herself."
+                },
+                {
+                  "key": "B",
+                  "content": "Jin is very popular."
+                },
+                {
+                  "key": "C",
+                  "content": "Then things might become better for her."
+                },
+                {
+                  "key": "D",
+                  "content": "She sings well, but not well enough to be a lead singer."
+                },
+                {
+                  "key": "E",
+                  "content": "It threatens to push one’s friends away."
+                },
+                {
+                  "key": "F",
+                  "content": "She ran for class president, but came in third"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 30,
+              "stem": "填入原文第 [30] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "She is too proud of herself."
+                },
+                {
+                  "key": "B",
+                  "content": "Jin is very popular."
+                },
+                {
+                  "key": "C",
+                  "content": "Then things might become better for her."
+                },
+                {
+                  "key": "D",
+                  "content": "She sings well, but not well enough to be a lead singer."
+                },
+                {
+                  "key": "E",
+                  "content": "It threatens to push one’s friends away."
+                },
+                {
+                  "key": "F",
+                  "content": "She ran for class president, but came in third"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_cloze",
+      "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
+      "sortOrder": 5,
+      "scorePerQuestion": 1.5,
+      "passage": "据短文内容将其分别放回原有位置，以恢复文章原貌。\nPeople Use Technology More, Sleep Less\nPeople in Britain now spend more time watching TV , gaming, and using their\nmobile phones and computers than sleeping. A study __[31] that British people use\ntechnology for 20 minutes longer than they spend sleeping. The average UK adult\nuses technology for eight hours and 41 minutes a day. They __[32] for an average of\neight hours and 21 minutes. One of the biggest __[33] for this is wi-fi. People can get\nonline almost __[34] . Many people make telephone calls or surf the web while\nwatching TV . TV is still the most __[35] activity.\nThe study looked at technology and __[36] age groups. It found that\nsix-year-olds understand how to use technology at the same __[37] as 45-year-olds.\nAnother__[38] was that people understand digital technology most when they are 14\nor 15. A doctor said technology is __[39] the way people communicate with each\nother. He said we are moving __[40] from face-to-face conversations because of\ntechnology.",
+      "instructions": "从备选词汇池中选择最佳单词填入空白处。",
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "changing"
+        },
+        {
+          "key": "B",
+          "content": "reasons"
+        },
+        {
+          "key": "C",
+          "content": "popular"
+        },
+        {
+          "key": "D",
+          "content": "found"
+        },
+        {
+          "key": "E",
+          "content": "anywhere"
+        },
+        {
+          "key": "F",
+          "content": "down"
+        },
+        {
+          "key": "G",
+          "content": "finding"
+        },
+        {
+          "key": "H",
+          "content": "level"
+        },
+        {
+          "key": "I",
+          "content": "different"
+        },
+        {
+          "key": "J",
+          "content": "away"
+        },
+        {
+          "key": "K",
+          "content": "outdoor"
+        },
+        {
+          "key": "L",
+          "content": "sleep"
+        }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "填词补文",
+          "questions": [
+            {
+              "questionNumber": 31,
+              "stem": "填入原文第 [31] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "found",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 32,
+              "stem": "填入原文第 [32] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "L",
+                  "originalAnswer": "sleep",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 33,
+              "stem": "填入原文第 [33] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "reasons",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 34,
+              "stem": "填入原文第 [34] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "anywhere",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 35,
+              "stem": "填入原文第 [35] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "popular",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 36,
+              "stem": "填入原文第 [36] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "I",
+                  "originalAnswer": "different",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 37,
+              "stem": "填入原文第 [37] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "H",
+                  "originalAnswer": "level",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 38,
+              "stem": "填入原文第 [38] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "G",
+                  "originalAnswer": "finding",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 39,
+              "stem": "填入原文第 [39] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "changing",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 40,
+              "stem": "填入原文第 [40] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "J",
+                  "originalAnswer": "away",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_formation",
+      "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
+      "sortOrder": 6,
+      "scorePerQuestion": 1.5,
+      "passage": "正确的形式填入文中，以恢复文章原貌。\nBe Grateful\nWhether you are a waiter (wait) or a doctor, your job is about serving others and\nmaking their life better, We have all __[41] (have) experiences where someone\n__[42](work) in their job has lifted us up and made a __[43](different) to our day or\nbrought us down and made our day worse. We have all met __[44] (real) wonderful\npeople cleaning floors. We have also met people who are not so wonderful but have\n__[45] (amaze) jobs. So whatever you do, be grateful. This doesn't mean you have to\nstay in a job you don't like, but it __[46] (help) you develop a more positive attitude.\nYou may not like your job, but you can enjoy being with your __[47] (colleague).\nThis is something to be __[48] (thank) for. When yon practice __[49] (grateful) it\nallows you to develop a more useful outlook and be __[50] (happy) at your work.",
+      "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "完形补文",
+          "questions": [
+            {
+              "questionNumber": 41,
+              "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
+              "baseWord": "have",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "had",
+                  "originalAnswer": "had",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 42,
+              "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
+              "baseWord": "work",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "working",
+                  "originalAnswer": "working",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 43,
+              "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
+              "baseWord": "different",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "difference",
+                  "originalAnswer": "difference",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 44,
+              "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
+              "baseWord": "real",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "really",
+                  "originalAnswer": "really",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 45,
+              "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
+              "baseWord": "amaze",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "amazing",
+                  "originalAnswer": "amazing",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 46,
+              "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
+              "baseWord": "help",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "helps",
+                  "originalAnswer": "helps",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 47,
+              "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
+              "baseWord": "colleague",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "colleagues",
+                  "originalAnswer": "colleagues",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 48,
+              "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
+              "baseWord": "thank",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "thankful",
+                  "originalAnswer": "thankful",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 49,
+              "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
+              "baseWord": "grateful",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "gratefulness",
+                  "originalAnswer": "gratefulness",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 50,
+              "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
+              "baseWord": "happy",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "happier",
+                  "originalAnswer": "happier",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "essay",
+      "title": "第七部分：短文写作（第51题，30分）",
+      "sortOrder": 7,
+      "scorePerQuestion": 30.0,
+      "passage": "请根据所提供材料中的要求完成一篇 100 词左右的英文写作任务。 将你的答案写\n在答題卡相应的位置上。\n51. 假设你的美国朋友 Mike要去你的家乡旅游，请给他写一封\n电子邮件，告诉他:\n1. 近期的天气情況；\n2. 雷要:主意的事咬；\n3. 你期待与他见面。\n请以 Like署名。",
+      "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "短文写作",
+          "questions": [
+            {
+              "questionNumber": 51,
+              "stem": "短文写作",
+              "scoreValue": 30.0,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "略",
+                  "explanation": "短文写作属于主观题，需结合题目要点书写。",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2015年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

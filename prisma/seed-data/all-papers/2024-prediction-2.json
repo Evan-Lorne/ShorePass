@@ -1,0 +1,1941 @@
+{
+  "paperId": "2024-prediction-2",
+  "title": "押题库考前自检试卷（2）",
+  "courseCode": "00015",
+  "year": 2024,
+  "month": 4,
+  "region": "national",
+  "paperType": "prediction",
+  "totalScore": 100,
+  "suggestedMinutes": 150,
+  "verified": false,
+  "status": "draft",
+  "publishBlocked": true,
+  "blockReasons": [
+    {
+      "code": "ocr_unverified",
+      "description": "全量批量导入草稿，待逐题人工核对"
+    }
+  ],
+  "sourceFile": "押题库考前试卷（2）.md",
+  "sections": [
+    {
+      "type": "reading_judgment",
+      "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
+      "sortOrder": 1,
+      "scorePerQuestion": 1.0,
+      "passage": "（第 1-10 题，每题 1 分，共 10 分) \n下面的短文后列出了 10 个句子，请根据短文的内容对每个句子作出判断:如果该句 提供\n的是正确信息， 选择A;如果该句提供的是错误信息， 选择B； 如果该句的信息文中 没有提及，\n选择 C 。 \nLucky’s Greatest Treasure \nMary and her husband Jim had a dog named “Lucky.” Lucky was a real character. \nWhenever Mary and Jim had company come for a weekend visit, they would warn their \nfriends not to leave their luggage open because Lucky would help himself to whatever \nstruck his fancy. Inevitably, someone would forget and something would come up \nmissing . \nMary or Jim would go to Lucky's toy box in the basement and there the treasure \nwould be, amid all of Lucky's other favourite toys. Lucky always stored his finds \nin his toy box. \n It happened that Mary found out she had breast cancer. Something told her she \nwas going to die of this disease. She scheduled a double mastectomy( 乳房切除术) \nfear riding her shoulders. \n The night before she was to go to the hospital, she hugged Lucky closely in \nher arms. A thought struck her — what would happen to Lucky? Although the three-\nyear-old dog liked Jim, he was Mary's dog through and through. “ If I die, Lucky \nwill be abandoned, ” Mary thought, “He won't understand that I didn't want to \nleave him.” The thought made her sadder than that of her own death. \n The double mastectomy was harder on Mary than her doctors had anticipated and \nMary was hospitalized for over two weeks. Jim faithfully took Lucky for his evening \nwalk, but the little dog just hung down, whining（哀鸣)and miserable. \n Finally the day came for Mary to leave the hospital. When she arrived home, \nMary was so exhausted that she couldn't even make it up the steps to her bedroom. \nJim made his wife comfortable on the couch and left her to nap. \n Lucky stood watching Mary but he didn't come to her when she called. It made \nMary sad, but sleep soon overcame her and she dozed. \n When Mary woke, for a second she couldn't understand what was wrong. She \ncouldn't move her head and her body felt heavy and hot. But panic soon gave way to \nlaughter when Mary realized the problem. She was covered, literally blanketed, \nwith every treasure Lucky owned! \n While she had slept, the sad dog had made trip after trip to the basement \nbringing his beloved mistress all his favourite things in life. He had covered her \nwith his love. \n Mary forgot about dying. Instead, she and Lucky began living again, walking \nfurther and further together every day. \n It’s been 12 years now and Mary is still cancer-free. Lucky? He still steals \ntreasures and stores them secretly in his toy box, but Mary remains his greatest \ntreasure.",
+      "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "阅读判断",
+          "questions": [
+            {
+              "questionNumber": 1,
+              "stem": "Lucky is Mary and her husband's pet dog.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 2,
+              "stem": "Whenever they had friends visit them, the couple would warn Lucky not to take \ntheir friends’ luggage away.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 3,
+              "stem": "Mary and her husband's friends knew Lucky well so their belongings never went \nmissing.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 4,
+              "stem": "Lucky’s toy box was placed in the basement.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 5,
+              "stem": "Mary's husband warned that he would abandon Lucky after her death.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 6,
+              "stem": "Mary stayed in the hospital for two months because the surgery was harder than \ndoctors had anticipated.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 7,
+              "stem": "When Mary arrived home from hospital, Jim made her lie in bed immediately.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 8,
+              "stem": "When Mary woke, she couldn't move a bit because she caught a cold and fell ill.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 9,
+              "stem": "Lucky covered Mary with love by placing all his treasures on her body.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 10,
+              "stem": "Mary has been cancer-free for 12 years, and remains Lucky's greatest treasure.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading_comprehension",
+      "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
+      "sortOrder": 2,
+      "scorePerQuestion": 2.0,
+      "passage": "(第 11-15 题，每题 2 分，共 10 分)（2019 年 4 月真题 完型补文 来源） \n阅读下面短文，请从短文后所给各题的4 个选项(A、 B、 C、 D) 中选出 1 个最佳选项。 \nStudent Loans \nFederal Student Aid is an office of the US Department of Education that provides \nstudent loans for education beyond high school. The US government clearly \nunderstands the importance of post-secondary education in positively impacting the \nnation. It therefore ensures that each eligible student in the United States is \nable to receive financial assistance for higher education. \nAlthough parents can opt for private funding through sources like banks and \nother financial institutions, the rates of interest can be prohibitively high in \nmost cases. On the other hand, the interest rates of federally funded student loans \nare much less in comparison. It is therefore imperative that parents take all steps \nnecessary to apply for student loans available through the federal government. \n Federal Student Aid is actively involved in educating students and their \nfamilies on the exact procedure.to obtain student loans. Once the applications are \nreceived, it processes them by the millions before the start of each academic year. \nIt also pays out billions of dollars through schools to fund the education of \nstudents who have applied for financial aid. \nThe first step in applying for financial aid is to fill and submit the FAFSA \nor Free Application for Federal Student Aid. The name of the student should be \nentered exactly the way it is written on the student' s social security card. The \nformat used is “first name”, “middle initial”and “last name”. Since the \nanalysis bureau will be linking up the FAFSA with the social security number, the \nnames should match precisely for the application to be approved. A mismatch in the \nnames could result in the application being sent back for correction. This would \ncause a delay and end up pushing the applicant to the back of the line. Since most \nfinancial aid is provided on a first -come-first-served basis, it is important to \nbe at the head of the line. Even a minor error on the FAFSA can result in a loss \nof thousands of dollars in financial aid. \nTherefore, it is important that families have all the proper income and tax \nrecords ready before applying for financial aid. This will help avoid submitting \ninconsistent, incomplete or mistaken information while filling out the FAFSA forms. \nThe CSS PROFILE is the FAFSA equivalent that is most often required for aid \nthrough private universities. It could be a little more complicated than filling \nout the FAFSA form. Going through the entire process with the help of a certified \ncollege planner would be a good idea. \nNo matter what their credit rating, parents should still submit their \napplications for financial aid. Learning about the different options available to \nthem is the first step in the process. Doing it right will enhance their chances \nof getting student loans for their children’s higher education.",
+      "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "阅读选择",
+          "questions": [
+            {
+              "questionNumber": 11,
+              "stem": "Federal Student Aid provides student loans for _____________",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "high school education"
+                },
+                {
+                  "key": "B",
+                  "content": "secondary education"
+                },
+                {
+                  "key": "C",
+                  "content": "higher education"
+                },
+                {
+                  "key": "D",
+                  "content": "pre-secondary education"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 12,
+              "stem": "Federally funded loans are preferred to private funding for  _____________",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "their easy accessibility"
+                },
+                {
+                  "key": "B",
+                  "content": "their high reliability"
+                },
+                {
+                  "key": "C",
+                  "content": "their lower interest rates"
+                },
+                {
+                  "key": "D",
+                  "content": "their wide availability"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 13,
+              "stem": "Federal Student Aid educates students on   _____________",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "how to apply to ideal universities"
+                },
+                {
+                  "key": "B",
+                  "content": "how to obtain student loans"
+                },
+                {
+                  "key": "C",
+                  "content": "how to process the applications"
+                },
+                {
+                  "key": "D",
+                  "content": "how to meet their financial needs"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 14,
+              "stem": "The first step in applying for financial aid is to   _____________",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "fill out and submit application forms"
+                },
+                {
+                  "key": "B",
+                  "content": "apply for a social security number"
+                },
+                {
+                  "key": "C",
+                  "content": "enter the applicant name in the right format"
+                },
+                {
+                  "key": "D",
+                  "content": "submit all the proper income and tax records"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 15,
+              "stem": "To succeed in applying for student loans, you are advised to  _____________",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "enhance academic performance"
+                },
+                {
+                  "key": "B",
+                  "content": "resort to a certified college planner"
+                },
+                {
+                  "key": "C",
+                  "content": "avoid submitting a CSS PROFILE"
+                },
+                {
+                  "key": "D",
+                  "content": "turn in income and tax records afterwards"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "summary_completion",
+      "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
+      "sortOrder": 3,
+      "scorePerQuestion": 1.0,
+      "passage": "(第 16-25 题，每题 1 分，共 10 分) \n阅读下面短文，请完成短文后的 2 项测试任务:(1)从第 16-20 题后所给的 6 个选项中为\n第①-⑤段每段选择 1个正确的小标题;(2)从第 21-25 题后所给的 6个选项中选择 5 个正确选\n项，分别完成每个句子。 \nIdentity Theft \n① College students have a lot to worry about: tests, quizzes, homework, \norganizations, and jobs. One thing they might not think they should worry about is \nidentity theft. Identity theft is actually a big problem on college campuses and \nstudents are easy targets. Knowing how to protect yourself against identity theft \nis the first thing you need to do for yourself. \n② One of the major reasons why students are targets is because they are naive. \nMany students don't know or don't realize the dangers of giving out their personal \ninformation unless they have already been through it or they are older. A majority \nof the time, students get sucked into getting free stuff just for applying for a \ncredit card. Students are one of the easiest targets for scammers (骗子).In order \nto protect yourself from having your identity stolen, you need to understand how \nscammers get your personal information . \n③ For students, being frugal is just about a must. One of the costs they may \nskimp on is paying for their own Internet. Instead, they will log on to someone \nelse’s WiFi or an unsecured network. While this may cut down on costs while you \nare in college, there is a chance that someone will be able to get your personal \ninformation. These unsecured networks may be full of people. who are simply sitting \nand waiting for you to log on to your bank accou nt, shop online, apply for a job \nonline, or apply for a credit card online. If you are going to shop online or do \nany of the previously mentioned activities, make sure you are on a secured network \nthat has the proper privacy settings. \n④ Something that students may not think about is shredding （撕碎) their documents. \nIt is very easy for anyone to have their identity stolen if they don't shred \nimportant documents, bills, or even credit card offers. You should always shred \nanything that has any type of personal information, especially those with account \nnumbers, your social security number, or even you birthday. If you get a credit \ncard offer saying you are pre-approved, so on and so forth, you need to shred it \nbefore throwing it away. Some people go through others” trash and take the pre - \napproved cards. They can then use it to open a credit card under your name, stealing \nyour identity . \n⑤ While you have many things to think about while in college, you should always \nthink about the information you are giving out. Remember never to give out your \nbank account information or PIN (personal identification number) , even to a friend. \nAlso, watch out for scams （骗局)like signing up for a credit card to get a free \nshirt; your identity may not be stolen right away, bu t that information could be \nused in the future. Shred any and all personal documentation before throwing it \naway. Moreover, when you do shred your documentation, make sure it can't be put \nback together.",
+      "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "Task 1: 概括段落大意",
+          "questions": [
+            {
+              "questionNumber": 16,
+              "stem": "Paragraph ①",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Being naive"
+                },
+                {
+                  "key": "B",
+                  "content": "Easy targets"
+                },
+                {
+                  "key": "C",
+                  "content": "Being frugal"
+                },
+                {
+                  "key": "D",
+                  "content": "Protecting information"
+                },
+                {
+                  "key": "E",
+                  "content": "Shredding documents"
+                },
+                {
+                  "key": "F",
+                  "content": "Seeking help"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 17,
+              "stem": "Paragraph ②",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Being naive"
+                },
+                {
+                  "key": "B",
+                  "content": "Easy targets"
+                },
+                {
+                  "key": "C",
+                  "content": "Being frugal"
+                },
+                {
+                  "key": "D",
+                  "content": "Protecting information"
+                },
+                {
+                  "key": "E",
+                  "content": "Shredding documents"
+                },
+                {
+                  "key": "F",
+                  "content": "Seeking help"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 18,
+              "stem": "Paragraph ③",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Being naive"
+                },
+                {
+                  "key": "B",
+                  "content": "Easy targets"
+                },
+                {
+                  "key": "C",
+                  "content": "Being frugal"
+                },
+                {
+                  "key": "D",
+                  "content": "Protecting information"
+                },
+                {
+                  "key": "E",
+                  "content": "Shredding documents"
+                },
+                {
+                  "key": "F",
+                  "content": "Seeking help"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "С",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 19,
+              "stem": "Paragraph ④",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Being naive"
+                },
+                {
+                  "key": "B",
+                  "content": "Easy targets"
+                },
+                {
+                  "key": "C",
+                  "content": "Being frugal"
+                },
+                {
+                  "key": "D",
+                  "content": "Protecting information"
+                },
+                {
+                  "key": "E",
+                  "content": "Shredding documents"
+                },
+                {
+                  "key": "F",
+                  "content": "Seeking help"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 20,
+              "stem": "Paragraph ⑤",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Being naive"
+                },
+                {
+                  "key": "B",
+                  "content": "Easy targets"
+                },
+                {
+                  "key": "C",
+                  "content": "Being frugal"
+                },
+                {
+                  "key": "D",
+                  "content": "Protecting information"
+                },
+                {
+                  "key": "E",
+                  "content": "Shredding documents"
+                },
+                {
+                  "key": "F",
+                  "content": "Seeking help"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sortOrder": 2,
+          "title": "Task 2: 补全句子",
+          "questions": [
+            {
+              "questionNumber": 21,
+              "stem": "What you need to do first for yourself is _____________",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "it can't be put back together"
+                },
+                {
+                  "key": "B",
+                  "content": "knowing how to protect yourself against identity theft"
+                },
+                {
+                  "key": "C",
+                  "content": "unless they have already been through it or they are older"
+                },
+                {
+                  "key": "D",
+                  "content": "because college students aren't experienced"
+                },
+                {
+                  "key": "E",
+                  "content": "shred it before throwing it away"
+                },
+                {
+                  "key": "F",
+                  "content": "while you log on to someone else's WiFi or an unsecured network"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 22,
+              "stem": "The dangers of releasing personal information are unknown to many students",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "it can't be put back together"
+                },
+                {
+                  "key": "B",
+                  "content": "knowing how to protect yourself against identity theft"
+                },
+                {
+                  "key": "C",
+                  "content": "unless they have already been through it or they are older"
+                },
+                {
+                  "key": "D",
+                  "content": "because college students aren't experienced"
+                },
+                {
+                  "key": "E",
+                  "content": "shred it before throwing it away"
+                },
+                {
+                  "key": "F",
+                  "content": "while you log on to someone else's WiFi or an unsecured network"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 23,
+              "stem": "A good chance stands that your personal information will be stole n",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "it can't be put back together"
+                },
+                {
+                  "key": "B",
+                  "content": "knowing how to protect yourself against identity theft"
+                },
+                {
+                  "key": "C",
+                  "content": "unless they have already been through it or they are older"
+                },
+                {
+                  "key": "D",
+                  "content": "because college students aren't experienced"
+                },
+                {
+                  "key": "E",
+                  "content": "shred it before throwing it away"
+                },
+                {
+                  "key": "F",
+                  "content": "while you log on to someone else's WiFi or an unsecured network"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 24,
+              "stem": "Ifa credit card offer is said to be pre-approved, you need to _____________",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "it can't be put back together"
+                },
+                {
+                  "key": "B",
+                  "content": "knowing how to protect yourself against identity theft"
+                },
+                {
+                  "key": "C",
+                  "content": "unless they have already been through it or they are older"
+                },
+                {
+                  "key": "D",
+                  "content": "because college students aren't experienced"
+                },
+                {
+                  "key": "E",
+                  "content": "shred it before throwing it away"
+                },
+                {
+                  "key": "F",
+                  "content": "while you log on to someone else's WiFi or an unsecured network"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 25,
+              "stem": "When you do shred your documentation, make sure _____________",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "it can't be put back together"
+                },
+                {
+                  "key": "B",
+                  "content": "knowing how to protect yourself against identity theft"
+                },
+                {
+                  "key": "C",
+                  "content": "unless they have already been through it or they are older"
+                },
+                {
+                  "key": "D",
+                  "content": "because college students aren't experienced"
+                },
+                {
+                  "key": "E",
+                  "content": "shred it before throwing it away"
+                },
+                {
+                  "key": "F",
+                  "content": "while you log on to someone else's WiFi or an unsecured network"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "sentence_fill",
+      "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
+      "sortOrder": 4,
+      "scorePerQuestion": 2.0,
+      "passage": "(第 26-30 题，每题 2 分，共 10 分)  \n下面的短文有 5 处空白，短文后有 6 个句子，其中 5 个取自短文，请根据短文内容将 其\n分别放回原有位置，以恢复文章原貌。 \nMistakes Are a Must on the Road to Success \nWhen Kamprad was a teenager, he became interested in a pro -Nazi group run by \na Swedish fascist activist by the name of Per Engdahl. He not only attended group \nmeetings but also raised funds and recruited members to the group between 1942 and \n1945. It is unknown when Kamprad This part of Kamprad's past remained hidden until \n1994, quit the group.[26]when Engdahl's personal letters were made \npublic after his death. \n“This is part of my life I bitterly regret,” said Kamprad. “After a couple \nof meetings in pure Nazi style, I quit.” In a letter he wrote to employees titled \n“The Greatest Mistake of My Life, Kamprad apologized to IKEA employees of Jewish \nheritage and asked  for their forgiveness. [27] Following its \npublication, Kamprad said in an interview, “Now I have told all I can. Can one \never get forgiveness for such stupidity?” \n [28] “That was the biggest blunder I've made in my entire life, \nand I regret it deeply,” he said“ I have said sorry, many times, but it has left \nan unremovable mark on my conscience that continually haunts me and perhaps it's \nbest this way.” Joining the Nazi group would be a mistake that he would be paying \nfor on a personal level for the rest of his li fe [29] He was \ncriticized and he was attacked in the media, but sales at IKEA continued to increase. \nHis popularity actually rose  following the incident because of the honesty with \nwhich he dealt with the after-effect.  \nExperience has taught Kamprad that not only could the business world be \nforgiving of his mistakes, but that it was those very mistakes that could end up \nmoving mountains. [30] Working in Almhult , Gillis Lundgren, a new \nemployee, had been standing beside a car with a colleague, trying to figure  out \nhow to get a bulky wooden table into the back of it. Finally, against company \npolicy, Lundgren said,“  Oh God, then, let’s pull off the legs and put them \nunderneath.” It was with that simple statemen t that IKEA would reorient itself \ntowards the flat design production for which it has become famous today. \n “IKEA is not completely perfect,” said Kamprad. “We are going the right way \nto becoming it, for sure, but we are not there yet.” \n \nyears. \nof IKEA.” \n    \n\n\n### 答案\n\n  \n26.[解析]根据本段最后一句的信息，直到 1994 年，由于 Engdahl 的私人信件被公开,Kam- \nprad 的那段过去才被发现。Engdahl 之前都没有提到过，可以推断填空处会对这个人有所介 \n绍。答案为 B。  \n27.[解析]根据填空处后边一句 following its publication,可看出，这里的 its 是对前一 \n句里某个词的替代;再根据句意，应该是有书被出版。答案为 F。  \n28.[解析]后边一句提到 that was the biggest blunder. ..可以看出这里的“that”是对 \n前一句的指代。根据文意，那个巨大的错误应该是指他青年时期对纳粹的同情。答案为 Α。 \n29.[解析]本段前半段讲 Kamprad 所犯错误和他的懊悔。而后半段讲宜家的销售成绩却因为 \n他的诚实应对不降反升。由此看出填空处应该是一句有转折意味、承上启下的句子。答案为 C。 \n30.[解析]本段追溯了宜家如何改变设计方向的历史。答案为 D。",
+      "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "Kamprad had made a crucial mistake in sympathizing with Nazis in his teenage"
+        },
+        {
+          "key": "B",
+          "content": "However, he remained friends with Engdahl well into the 1950s."
+        },
+        {
+          "key": "C",
+          "content": "However, professionally, Kamprad had been left relatively unharmed."
+        },
+        {
+          "key": "D",
+          "content": "Indeed, the success of IKEA can be traced back to a simple mistake in 1956."
+        },
+        {
+          "key": "E",
+          "content": "Kamprad was arrested soon after the war was ended."
+        },
+        {
+          "key": "F",
+          "content": "He also devoted two chapters to the incident in his 1998 book,“The History"
+        }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "填句补文",
+          "questions": [
+            {
+              "questionNumber": 26,
+              "stem": "填入原文第 [26] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Kamprad had made a crucial mistake in sympathizing with Nazis in his teenage"
+                },
+                {
+                  "key": "B",
+                  "content": "However, he remained friends with Engdahl well into the 1950s."
+                },
+                {
+                  "key": "C",
+                  "content": "However, professionally, Kamprad had been left relatively unharmed."
+                },
+                {
+                  "key": "D",
+                  "content": "Indeed, the success of IKEA can be traced back to a simple mistake in 1956."
+                },
+                {
+                  "key": "E",
+                  "content": "Kamprad was arrested soon after the war was ended."
+                },
+                {
+                  "key": "F",
+                  "content": "He also devoted two chapters to the incident in his 1998 book,“The History"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 27,
+              "stem": "填入原文第 [27] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Kamprad had made a crucial mistake in sympathizing with Nazis in his teenage"
+                },
+                {
+                  "key": "B",
+                  "content": "However, he remained friends with Engdahl well into the 1950s."
+                },
+                {
+                  "key": "C",
+                  "content": "However, professionally, Kamprad had been left relatively unharmed."
+                },
+                {
+                  "key": "D",
+                  "content": "Indeed, the success of IKEA can be traced back to a simple mistake in 1956."
+                },
+                {
+                  "key": "E",
+                  "content": "Kamprad was arrested soon after the war was ended."
+                },
+                {
+                  "key": "F",
+                  "content": "He also devoted two chapters to the incident in his 1998 book,“The History"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 28,
+              "stem": "填入原文第 [28] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Kamprad had made a crucial mistake in sympathizing with Nazis in his teenage"
+                },
+                {
+                  "key": "B",
+                  "content": "However, he remained friends with Engdahl well into the 1950s."
+                },
+                {
+                  "key": "C",
+                  "content": "However, professionally, Kamprad had been left relatively unharmed."
+                },
+                {
+                  "key": "D",
+                  "content": "Indeed, the success of IKEA can be traced back to a simple mistake in 1956."
+                },
+                {
+                  "key": "E",
+                  "content": "Kamprad was arrested soon after the war was ended."
+                },
+                {
+                  "key": "F",
+                  "content": "He also devoted two chapters to the incident in his 1998 book,“The History"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "Α",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 29,
+              "stem": "填入原文第 [29] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Kamprad had made a crucial mistake in sympathizing with Nazis in his teenage"
+                },
+                {
+                  "key": "B",
+                  "content": "However, he remained friends with Engdahl well into the 1950s."
+                },
+                {
+                  "key": "C",
+                  "content": "However, professionally, Kamprad had been left relatively unharmed."
+                },
+                {
+                  "key": "D",
+                  "content": "Indeed, the success of IKEA can be traced back to a simple mistake in 1956."
+                },
+                {
+                  "key": "E",
+                  "content": "Kamprad was arrested soon after the war was ended."
+                },
+                {
+                  "key": "F",
+                  "content": "He also devoted two chapters to the incident in his 1998 book,“The History"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 30,
+              "stem": "填入原文第 [30] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Kamprad had made a crucial mistake in sympathizing with Nazis in his teenage"
+                },
+                {
+                  "key": "B",
+                  "content": "However, he remained friends with Engdahl well into the 1950s."
+                },
+                {
+                  "key": "C",
+                  "content": "However, professionally, Kamprad had been left relatively unharmed."
+                },
+                {
+                  "key": "D",
+                  "content": "Indeed, the success of IKEA can be traced back to a simple mistake in 1956."
+                },
+                {
+                  "key": "E",
+                  "content": "Kamprad was arrested soon after the war was ended."
+                },
+                {
+                  "key": "F",
+                  "content": "He also devoted two chapters to the incident in his 1998 book,“The History"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_cloze",
+      "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
+      "sortOrder": 5,
+      "scorePerQuestion": 1.5,
+      "passage": "(第 31-40 题，每题 1.5 分，共 15 分)  \n下面的短文有 10 处空白，短文后列出 12 个词，其中 10 个取自短文，请根据短文内 容\n将其分别放回原有位置，以恢复文章原貌。 \nUnderstanding a Budget \nA budget is a foreign concept to kids (and, it should be said, to many adults). \nYounger children, especially, simply won't realize that mommy and daddy have a [31] amount of money to spend every month. But [32] what a \nbudget is, and why it's a good idea, is one of the central pillars of  financial \nliteracy. \nThe best way to teach kids how a budget works is (33) what a budget is, and why \nto show them.That's not to say that you should open your books up to your children \nand show them every penny coming in or out (although you may consider [34] some details with teenagers about things like your mortgage payment, \ncar payments, and so on). Instead, just give them a broad [35] of \nhow adults have to divide up their money each month One easy way to demonstrate \nthis concept is to take a stack of Monopoly money( 游戏钞票) and tell your child \nthat the stack represents how much money you [36]every month from \nwork. Then, divide up the [37] one at a time to show how much you \nspend on the house, how much you spend on food, how much you save, how much you \ngive to charitable [38] , and so forth. The denominations (面额)aren\n,\nt \nimportant. What’s important is showing your children that you have a [39]  plan for your money, and that you're on top of the family finances. \nEncourage your child to start a budget of his own: Part of his allowance should \ngo to savings, part to charity, and part of it is just for fun. Help your child \nidentify what he [40]  values, and budget his money accordingly  \n40.（）填写选项的【大写字母】 \n \n\n\n### 答案\n\n  \n31.[解析]limited, adj. 有限的。a limited amount of 也可看做固定搭配，指有限的一笔 \n（钱）。答案为 L。  \n32.[解析]本句话缺少一部分主语。另外根据句意，这里是学习……的意思。可以用 learn 的 \n \n \n动名词形式。答案为 Η。  \n33.[解析]这里需要一个副词修饰后边的 to show them. simply 副词，简单地、仅仅。答案 \n为 I。  \n34.[解析]share... with sb.固定搭配，与谁分享。这里动词 consider 后应接入 doing 形 \n式。答案为 B。  \n35.[解析]不定冠词 а 后少一个名词。a broad sense 可以理解为大的方面、广义。答案为 \nC。 \n36.[解析]根据句意，每月你从エ作中获得多少钱。这里缺少表示“得到、获得”的动词。\nmake money 意为挣钱，为固定搭配。答案为 E。  \n37.[解析]定冠词 the 后缺少名词。bill,n. 清单、账单。答案为 D。  \n38.[解析]charitable organization，慈善组织。答案为 J。  \n39.[解析]应填入一个形容词修饰后边的名词 plan。 conscious, adj. 有意识的。答案为 F\n。  \n40.[解析]本空修饰动词 value,因此应选用副词。 truly 意为真正地，符合题意。答案为 G。",
+      "instructions": "从备选词汇池中选择最佳单词填入空白处。",
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "aware"
+        },
+        {
+          "key": "B",
+          "content": "sharing"
+        },
+        {
+          "key": "C",
+          "content": "sense"
+        },
+        {
+          "key": "D",
+          "content": "bills"
+        },
+        {
+          "key": "E",
+          "content": "make"
+        },
+        {
+          "key": "F",
+          "content": "conscious"
+        },
+        {
+          "key": "G",
+          "content": "truly"
+        },
+        {
+          "key": "H",
+          "content": "learning"
+        },
+        {
+          "key": "I",
+          "content": "simply"
+        },
+        {
+          "key": "J",
+          "content": "organizations"
+        },
+        {
+          "key": "K",
+          "content": "feeling"
+        },
+        {
+          "key": "L",
+          "content": "limited"
+        }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "填词补文",
+          "questions": [
+            {
+              "questionNumber": 31,
+              "stem": "填入原文第 [31] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "L",
+                  "originalAnswer": "L",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 32,
+              "stem": "填入原文第 [32] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "H",
+                  "originalAnswer": "Η",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 33,
+              "stem": "填入原文第 [33] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "I",
+                  "originalAnswer": "I",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 34,
+              "stem": "填入原文第 [34] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 35,
+              "stem": "填入原文第 [35] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 36,
+              "stem": "填入原文第 [36] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 37,
+              "stem": "填入原文第 [37] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 38,
+              "stem": "填入原文第 [38] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "J",
+                  "originalAnswer": "J",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 39,
+              "stem": "填入原文第 [39] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 40,
+              "stem": "填入原文第 [40] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "G",
+                  "originalAnswer": "G",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_formation",
+      "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
+      "sortOrder": 6,
+      "scorePerQuestion": 1.5,
+      "passage": "(第 41-50 题，每题 1.5 分，共 15 分)  \n下面的短文有 10 处空白，每处空白后的括号内有一个词，请根据短文内容将其正确的形\n式填入文中，以恢复文章原貌。 \nCrude Oil \nAlthough crude oil is still (O) vastly (vast) available in the earth's crust, \nit is not a/an (finite) resource. At some point it will eventually be[42] \n(exhaust) The demand for crude oil has increased by gigantic proportions. However, \n[43]  (discovery) of new oil fields and investing in the oil industry have \nhelped keep up with the [44] (increase) demand for oil. The crucial question \nis, how long will the oil resources last? \n [45]  (advance) technology has made dril ling oil more [46]  \n(effect) and efficient. With the aid of new methods it is possible to draw almost \n65% of the oil as opposed to the old methods. Better infrastructure and more [47] (invest) have also made the drilling of oil wells more effective. Currently \nmost [48] (transport) is dependent on oil and many industries are born out \nof or lean on byproducts of petroleum. \nAlthough alternative sources of energy are now [49] (apply) like solar \nand wind energy, it is still a long way to be completely [50]  (dependent) \nof crude oil. \n     \n\n\n### 答案\n\n  \n41.[解析]finite, adj.有限的;infinite, adj.无限的。本句想表达的意思是,土地是一种有 \n限的资源。这里 not...infinite 双重否定表肯定。答案是 infinite。  \n42.[解析]exhaust, v. 用光、耗尽。will be done 一般将来时的被动语态，所以这里需要填 \n入其过去分词。答案为 exhausted.  \n43.[解析]discovery, n. 发现。本句有两个并列的主语，可根据 investing in the oil \nindustry 的形式判断出前面 discovery 也要用名词形式。答案为 discoveries. \n44.[解析]increase, v. 增加、增长。这里需要一个形容词对后边的 demand 进行修饰。in- \ncreasing demand 现在分词做形容词，指持续上涨的需求。答案为 increasing.  \n45.[解析]名词 technology 前需要形容词。advanced, adj.高等的、先进的。答案为 \nAdvanced.  \n \n \n46.[解析]这里 and 连接两个形容词的比较级。effect, v. & n.产生影响、效果;影响、效 \n果。effective, a. 有效的。答案为 effective。  \n47.[解析]and 连接两个并列的名词做句子主语。 invest, v.投资;investment, n.投资。答 \n案为 investments。  \n48.[解析]这里缺少名词做句子主语。 transport, v. 运输、运送;transportation, n.运输 \n业、运输系统。答案为 transportation.  \n49.[解析]apply, v. 应用。这里是被动语态，需要填入其过去分词。答案是 applied.  \n50.[解析] be independent of sth. 与…不相关。dependent, adj.依赖的。be completely \nindependent of crude oil 指完全取代原油。答案为 independent。",
+      "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "完形补文",
+          "questions": [
+            {
+              "questionNumber": 41,
+              "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "infinite",
+                  "originalAnswer": "infinite",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 42,
+              "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "exhausted",
+                  "originalAnswer": "exhausted.",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 43,
+              "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
+              "baseWord": "discovery",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "discoveries",
+                  "originalAnswer": "discoveries.",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 44,
+              "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
+              "baseWord": "increase",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "increasing",
+                  "originalAnswer": "increasing.",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 45,
+              "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
+              "baseWord": "advance",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "advanced",
+                  "originalAnswer": "Advanced.",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 46,
+              "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "effective",
+                  "originalAnswer": "effective",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 47,
+              "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
+              "baseWord": "invest",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "investments",
+                  "originalAnswer": "investments",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 48,
+              "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
+              "baseWord": "transport",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "transportation",
+                  "originalAnswer": "transportation.",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 49,
+              "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
+              "baseWord": "apply",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "applied",
+                  "originalAnswer": "applied.",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 50,
+              "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
+              "baseWord": "dependent",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "independent",
+                  "originalAnswer": "independent",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "essay",
+      "title": "第七部分：短文写作（第51题，30分）",
+      "sortOrder": 7,
+      "scorePerQuestion": 30.0,
+      "passage": "(第 51 题，30 分) \n请根据所提供材料中的要求撰写一篇 150 词左右的英语短文。 \nNews 1 \nWASHINGTON, Oct. 26—Tuition and fees at US public universities and colleges \nhave increased more than 8 percent in the 2011 -2012 academic year. According to \nthe report released by the non-profit College Board, out-of-state residents pay an \naverage of 20,770 dollars, up 5.7 percent from last academic year. \nNews 2  \nThe number of Chinese students studying abroad has rapidly increased in recent \nyears. According to statistics released by the Ministry of Education in the academic \nyear of 2011， about 285,000 people were educated abroad, up 24 percent from the \nprevious year. And the number of younger students has been growing dramatically . \n\n\n### 答案\n\n 51.[写作思路]  \n(1)分别分析 News 1 和 News 2。   \nNews 1 主要讲 2011 至 2012 年度，美国大学提高了学费，其中留学生的学费上涨得最多。 \nNews 2 主要讲自 2011 年，选择到海外留学的中国学生数量持续快速上涨。 得出结论：\nChinese students studying abroad, to some extent, have contributed  to the \nincreasing tuition in US universities.  \n（2)可以列举出留学的优势 the advantages of studying abroad:  \npractising another language, learning different ways of thinking of the west, \nenjoying the methods of western education, making friends from all over the \nworld...  \n (3)结论:There are more opportunities to enhance a student's knowledge and ability \nwhen he/she studies abroad.",
+      "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "短文写作",
+          "questions": [
+            {
+              "questionNumber": 51,
+              "stem": "短文写作",
+              "scoreValue": 30.0,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "略",
+                  "explanation": "短文写作属于主观题，需结合题目要点书写。",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（2）.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

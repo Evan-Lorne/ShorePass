@@ -1,0 +1,1944 @@
+{
+  "paperId": "2017-10-national",
+  "title": "2017年10月全国高等教育自学考试英语二真题",
+  "courseCode": "00015",
+  "year": 2017,
+  "month": 10,
+  "region": "national",
+  "paperType": "exam",
+  "totalScore": 100,
+  "suggestedMinutes": 150,
+  "verified": false,
+  "status": "draft",
+  "publishBlocked": true,
+  "blockReasons": [
+    {
+      "code": "ocr_unverified",
+      "description": "全量批量导入草稿，待逐题人工核对"
+    }
+  ],
+  "sourceFile": "2017年10月真题.md",
+  "sections": [
+    {
+      "type": "reading_judgment",
+      "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
+      "sortOrder": 1,
+      "scorePerQuestion": 1.0,
+      "passage": "### 短文原文\n**My Writing Teacher**\n\nEnglish writing was always easy for me, but that changed on the first day I walked into Mrs. Johnson's class. Before that, I'd heard rumors from former students. They said she was strict and her class was hard to pass. So I was very nervous.\n\nThe first time we met, Mrs. Johnson told us her class would be difficult, but she would give us new \"tools\" and guide us through. She explained that her grading system was different, and that we would not see high scores soon. \"Everything you do in class matters,\" she said. \"As writing is an art, it takes a long time to perfect.\"\n\nMrs. Johnson scared me. I was afraid of what she would say if I asked a question. So in class I kept silent most of the time and couldn't follow her. When I got my first essay back, my grade was terrible. I was annoyed with Mrs. Johnson. I disliked going to her class.\n\nThen I realized I needed to find out what I could do to improve my grade and how to use the \"tools\" in my writing. As I still didn't dare to talk to Mrs. Johnson in person, I e-mailed her. In this way, she and I worked together to improve my writing. By and by, I could talk to her both online and in person. She walked me through every step to understand how to write an essay. Together we saw improvement in my work.\n\nFrom this I discovered that asking for help could actually work. Behind everything Mrs. Johnson was saying, she actually cared about me and where I would be in the future. She knocked me down so that I could climb back stronger.\n\n### 题目",
+      "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "阅读判断",
+          "questions": [
+            {
+              "questionNumber": 1,
+              "stem": "I was worried when I was in Mrs. Johnson's first class.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 2,
+              "stem": "Mrs. Johnson used the same grading system as other teachers.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 3,
+              "stem": "Mrs. Johnson regards writing as an art.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 4,
+              "stem": "I was active in class in the beginning.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 5,
+              "stem": "Most students enjoyed Mrs. Johnson's class.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 6,
+              "stem": "I got a high score for my first essay.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 7,
+              "stem": "Mrs. Johnson preferred to email students.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 8,
+              "stem": "Mrs. Johnson let me improve my writing by myself.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 9,
+              "stem": "I finally became a top student in the writing class.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 10,
+              "stem": "Mrs. Johnson cared about my future.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading_comprehension",
+      "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
+      "sortOrder": 2,
+      "scorePerQuestion": 2.0,
+      "passage": "### 短文原文\n**The Kilt**\n\nWhenever people from Scotland live in foreign countries, they are always asked: \"Is Scotland that place where men wear skirts?\" The short answer is yes, but there is more about the myths of Scottish \"skirts.\"\n\nThe \"skirt\" that Scotsmen (苏格兰男子) sometimes wear is called a kilt. It is part of the traditional dress of Scotland. The kilt is clearly very famous across the world. It seems that everybody has heard of it, and that most people have seen a picture of a man wearing one.\n\nPeople's knowledge and ideas about Scotsmen wearing these funny kilts come from films and television. Every time people from other countries ask about the kilt, they mention Mel Gibson's film, *Braveheart*. In many countries, there are television programmes about Scotland. These programmes always include information or images of men in kilts.\n\nOf course, in Scotland, you will often see the kilt. The reality is, though, that you will most commonly see it in tourist areas. The main streets and tourist areas of Scotland always have a Scotsman wearing a kilt and all tourist shops in the country sell kilts in different colours.\n\nBut kilts are not something that Scottish people see every day. Kilts are for special occasions, such as weddings, funerals and other big and important events. Scotsmen do not put on their kilt just to buy a bottle of milk and a loaf of bread at the local supermarket.\n\nThe reason for this may be that kilts are very expensive. When a man wears a kilt, he normally wears it with a special shirt, jacket, socks and shoes. This is obviously not cheap. In fact, an average kilt outfit (全套服装) costs around £500.\n\n### 题目",
+      "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "阅读选择",
+          "questions": [
+            {
+              "questionNumber": 11,
+              "stem": "According to the text, Scotsmen ______.\n- A. like foreign culture\n- B. sometimes wear kilts\n- C. enjoy talking about kilts\n- D. often visit foreign countries",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "like foreign culture"
+                },
+                {
+                  "key": "B",
+                  "content": "sometimes wear kilts"
+                },
+                {
+                  "key": "C",
+                  "content": "enjoy talking about kilts"
+                },
+                {
+                  "key": "D",
+                  "content": "often visit foreign countries"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 12,
+              "stem": "Mel Gibson is probably a ______.\n- A. painter\n- B. musician\n- C. movie star\n- D. fashion designer",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "painter"
+                },
+                {
+                  "key": "B",
+                  "content": "musician"
+                },
+                {
+                  "key": "C",
+                  "content": "movie star"
+                },
+                {
+                  "key": "D",
+                  "content": "fashion designer"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 13,
+              "stem": "In Scotland, kilts are more often seen ______.\n- A. in tourist shops\n- B. in public schools\n- C. on the stage\n- D. at local markets",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "in tourist shops"
+                },
+                {
+                  "key": "B",
+                  "content": "in public schools"
+                },
+                {
+                  "key": "C",
+                  "content": "on the stage"
+                },
+                {
+                  "key": "D",
+                  "content": "at local markets"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 14,
+              "stem": "People do not wear kilts every day probably because of their ______.\n- A. funny designs\n- B. dull colours\n- C. poor quality\n- D. high prices",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "funny designs"
+                },
+                {
+                  "key": "B",
+                  "content": "dull colours"
+                },
+                {
+                  "key": "C",
+                  "content": "poor quality"
+                },
+                {
+                  "key": "D",
+                  "content": "high prices"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 15,
+              "stem": "This text is mainly about the ______.\n- A. history of kilts\n- B. production of kilts\n- C. myths of kilts\n- D. styles of kilts",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "history of kilts"
+                },
+                {
+                  "key": "B",
+                  "content": "production of kilts"
+                },
+                {
+                  "key": "C",
+                  "content": "myths of kilts"
+                },
+                {
+                  "key": "D",
+                  "content": "styles of kilts"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "summary_completion",
+      "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
+      "sortOrder": 3,
+      "scorePerQuestion": 1.0,
+      "passage": "### 短文原文\n**A Fighting Lady**\n\n❶ Deborah Sampson was born in 1760. There were many children in her family and they were poor. When Deborah was just a young girl, her father left and went off to sea. Being in poor health, her mother could not care for her children. So she sent them to live with different relatives, hoping these people would take care of her children.\n\n❷ Young Deborah, less than seven years old, had to work for a farmer. On the farm, she learned to ride and hunt. She did housework as well. Life was difficult, but Deborah worked hard and grew strong. The farmer had ten sons, and Deborah helped to take care of them. In the evening, she had the boys talk about their lessons with her. By this she learned what they learned. She also borrowed their school books to read every night. When she was 18, Deborah became a teacher.\n\n❸ Soon after she started her new career, the American Revolution began. She wanted to fight for her country, but women could not be soldiers at that time. Deborah had a plan. She was tall for a woman of that time. She made herself a man's suit and secretly practiced walking and talking like a man. Finally, she joined the army using the name Robert.\n\n❹ \"Robert\" was a brave soldier. He fought with courage in every battle, and other soldiers respected him. They never suspected that their fellow soldier was a woman. Once he caught a fever and had to go to the hospital. There a doctor found out that Robert was actually a woman. Deborah then had to leave the army, but she was not punished. Some people say she even met General George Washington before she left.\n\n❺ Later, Deborah married a farmer and had three children. She taught in school and gave lectures about her time in the army till retirement. Deborah died at the age of 66. She was a true American hero.\n\n### 备选词汇池",
+      "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "Task 1: 概括段落大意",
+          "questions": [
+            {
+              "questionNumber": 16,
+              "stem": "Paragraph ❶:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Deborah's marriage"
+                },
+                {
+                  "key": "B",
+                  "content": "Deborah's life on the farm"
+                },
+                {
+                  "key": "C",
+                  "content": "Deborah's life after leaving the army"
+                },
+                {
+                  "key": "D",
+                  "content": "Deborah's military life"
+                },
+                {
+                  "key": "E",
+                  "content": "Deborah's joining the army"
+                },
+                {
+                  "key": "F",
+                  "content": "Deborah's family background"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 17,
+              "stem": "Paragraph ❷:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Deborah's marriage"
+                },
+                {
+                  "key": "B",
+                  "content": "Deborah's life on the farm"
+                },
+                {
+                  "key": "C",
+                  "content": "Deborah's life after leaving the army"
+                },
+                {
+                  "key": "D",
+                  "content": "Deborah's military life"
+                },
+                {
+                  "key": "E",
+                  "content": "Deborah's joining the army"
+                },
+                {
+                  "key": "F",
+                  "content": "Deborah's family background"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 18,
+              "stem": "Paragraph ❸:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Deborah's marriage"
+                },
+                {
+                  "key": "B",
+                  "content": "Deborah's life on the farm"
+                },
+                {
+                  "key": "C",
+                  "content": "Deborah's life after leaving the army"
+                },
+                {
+                  "key": "D",
+                  "content": "Deborah's military life"
+                },
+                {
+                  "key": "E",
+                  "content": "Deborah's joining the army"
+                },
+                {
+                  "key": "F",
+                  "content": "Deborah's family background"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 19,
+              "stem": "Paragraph ❹:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Deborah's marriage"
+                },
+                {
+                  "key": "B",
+                  "content": "Deborah's life on the farm"
+                },
+                {
+                  "key": "C",
+                  "content": "Deborah's life after leaving the army"
+                },
+                {
+                  "key": "D",
+                  "content": "Deborah's military life"
+                },
+                {
+                  "key": "E",
+                  "content": "Deborah's joining the army"
+                },
+                {
+                  "key": "F",
+                  "content": "Deborah's family background"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 20,
+              "stem": "Paragraph ❺:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Deborah's marriage"
+                },
+                {
+                  "key": "B",
+                  "content": "Deborah's life on the farm"
+                },
+                {
+                  "key": "C",
+                  "content": "Deborah's life after leaving the army"
+                },
+                {
+                  "key": "D",
+                  "content": "Deborah's military life"
+                },
+                {
+                  "key": "E",
+                  "content": "Deborah's joining the army"
+                },
+                {
+                  "key": "F",
+                  "content": "Deborah's family background"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sortOrder": 2,
+          "title": "Task 2: 补全句子",
+          "questions": [
+            {
+              "questionNumber": 21,
+              "stem": "Deborah was sent to others' home because ______.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "teaching herself on the farm"
+                },
+                {
+                  "key": "B",
+                  "content": "for her unusual courage"
+                },
+                {
+                  "key": "C",
+                  "content": "a doctor discovered her secret"
+                },
+                {
+                  "key": "D",
+                  "content": "her family couldn't support her"
+                },
+                {
+                  "key": "E",
+                  "content": "dressing and behaving like a man"
+                },
+                {
+                  "key": "F",
+                  "content": "for her excellent teaching"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 22,
+              "stem": "Deborah became a teacher by ______.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "teaching herself on the farm"
+                },
+                {
+                  "key": "B",
+                  "content": "for her unusual courage"
+                },
+                {
+                  "key": "C",
+                  "content": "a doctor discovered her secret"
+                },
+                {
+                  "key": "D",
+                  "content": "her family couldn't support her"
+                },
+                {
+                  "key": "E",
+                  "content": "dressing and behaving like a man"
+                },
+                {
+                  "key": "F",
+                  "content": "for her excellent teaching"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 23,
+              "stem": "Deborah went into the army by ______.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "teaching herself on the farm"
+                },
+                {
+                  "key": "B",
+                  "content": "for her unusual courage"
+                },
+                {
+                  "key": "C",
+                  "content": "a doctor discovered her secret"
+                },
+                {
+                  "key": "D",
+                  "content": "her family couldn't support her"
+                },
+                {
+                  "key": "E",
+                  "content": "dressing and behaving like a man"
+                },
+                {
+                  "key": "F",
+                  "content": "for her excellent teaching"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 24,
+              "stem": "Deborah left the army after ______.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "teaching herself on the farm"
+                },
+                {
+                  "key": "B",
+                  "content": "for her unusual courage"
+                },
+                {
+                  "key": "C",
+                  "content": "a doctor discovered her secret"
+                },
+                {
+                  "key": "D",
+                  "content": "her family couldn't support her"
+                },
+                {
+                  "key": "E",
+                  "content": "dressing and behaving like a man"
+                },
+                {
+                  "key": "F",
+                  "content": "for her excellent teaching"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 25,
+              "stem": "Deborah was a hero ______.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "teaching herself on the farm"
+                },
+                {
+                  "key": "B",
+                  "content": "for her unusual courage"
+                },
+                {
+                  "key": "C",
+                  "content": "a doctor discovered her secret"
+                },
+                {
+                  "key": "D",
+                  "content": "her family couldn't support her"
+                },
+                {
+                  "key": "E",
+                  "content": "dressing and behaving like a man"
+                },
+                {
+                  "key": "F",
+                  "content": "for her excellent teaching"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "sentence_fill",
+      "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
+      "sortOrder": 4,
+      "scorePerQuestion": 2.0,
+      "passage": "### 短文原文\n**My Major Problem**\n\nDecision-making is something I struggle with. In fact, I'd rather have someone else make decisions for me.\n\nAs I sat in a crowded information session (咨询会) at a college last summer, I was again faced with the pressure of making a decision. 26. He then asked each of us to give our intended major. I looked at my mother with panic.\n\n\"A major?\" I said. \"I can't even decide what socks to wear to school!\"\n\nI wanted to say I was undecided. But as my turn to speak approached, my confidence decreased. 27. I watched the girl in front of me. She was searching for some obscure (鲜为人知的) major. I realized I couldn't just say undecided. So, when my turn came, I uneasily said, \"I want to major in business.\" I could feel \"liar\" written all over my face.\n\n28. I felt ashamed. \"Why couldn't I have said that?\" I thought. The admissions adviser even said that a lot of people are uncertain. That is why students do not have to decide until the end of the second year.\n\nI have no idea what I want to do with my life. All I know is that I don't want to do anything that involves blood. 29. This isn't really narrowing it down. I've been told many people start college with one major, and graduate with a degree in something totally different.\n\nAfter my experience at the information session, I've learned not to be afraid of saying I'm \"undecided.\" I know now that I am not the only one uncertain about future studies. I'm still experiencing a \"major\" problem. 30.\n\n### 备选词汇池\n\n### 题目\n**26.** 26\n**标准答案**: C\n\n**27.** 27\n**标准答案**: A\n\n**28.** 28\n**标准答案**: D\n\n**29.** 29\n**标准答案**: B\n\n**30.** 30\n**标准答案**: F",
+      "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "Everyone before me had declared a major."
+        },
+        {
+          "key": "B",
+          "content": "So I've narrowed my list down to anything but medicine."
+        },
+        {
+          "key": "C",
+          "content": "The admissions officer asked us to introduce ourselves briefly."
+        },
+        {
+          "key": "D",
+          "content": "In the end, only one brave person said she was undecided."
+        },
+        {
+          "key": "E",
+          "content": "Admissions advisors help you to make decisions."
+        },
+        {
+          "key": "F",
+          "content": "However, I'm confident I'll find a solution."
+        }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "填句补文",
+          "questions": [
+            {
+              "questionNumber": 26,
+              "stem": "填入原文第 [26] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Everyone before me had declared a major."
+                },
+                {
+                  "key": "B",
+                  "content": "So I've narrowed my list down to anything but medicine."
+                },
+                {
+                  "key": "C",
+                  "content": "The admissions officer asked us to introduce ourselves briefly."
+                },
+                {
+                  "key": "D",
+                  "content": "In the end, only one brave person said she was undecided."
+                },
+                {
+                  "key": "E",
+                  "content": "Admissions advisors help you to make decisions."
+                },
+                {
+                  "key": "F",
+                  "content": "However, I'm confident I'll find a solution."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 27,
+              "stem": "填入原文第 [27] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Everyone before me had declared a major."
+                },
+                {
+                  "key": "B",
+                  "content": "So I've narrowed my list down to anything but medicine."
+                },
+                {
+                  "key": "C",
+                  "content": "The admissions officer asked us to introduce ourselves briefly."
+                },
+                {
+                  "key": "D",
+                  "content": "In the end, only one brave person said she was undecided."
+                },
+                {
+                  "key": "E",
+                  "content": "Admissions advisors help you to make decisions."
+                },
+                {
+                  "key": "F",
+                  "content": "However, I'm confident I'll find a solution."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 28,
+              "stem": "填入原文第 [28] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Everyone before me had declared a major."
+                },
+                {
+                  "key": "B",
+                  "content": "So I've narrowed my list down to anything but medicine."
+                },
+                {
+                  "key": "C",
+                  "content": "The admissions officer asked us to introduce ourselves briefly."
+                },
+                {
+                  "key": "D",
+                  "content": "In the end, only one brave person said she was undecided."
+                },
+                {
+                  "key": "E",
+                  "content": "Admissions advisors help you to make decisions."
+                },
+                {
+                  "key": "F",
+                  "content": "However, I'm confident I'll find a solution."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 29,
+              "stem": "填入原文第 [29] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Everyone before me had declared a major."
+                },
+                {
+                  "key": "B",
+                  "content": "So I've narrowed my list down to anything but medicine."
+                },
+                {
+                  "key": "C",
+                  "content": "The admissions officer asked us to introduce ourselves briefly."
+                },
+                {
+                  "key": "D",
+                  "content": "In the end, only one brave person said she was undecided."
+                },
+                {
+                  "key": "E",
+                  "content": "Admissions advisors help you to make decisions."
+                },
+                {
+                  "key": "F",
+                  "content": "However, I'm confident I'll find a solution."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 30,
+              "stem": "填入原文第 [30] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Everyone before me had declared a major."
+                },
+                {
+                  "key": "B",
+                  "content": "So I've narrowed my list down to anything but medicine."
+                },
+                {
+                  "key": "C",
+                  "content": "The admissions officer asked us to introduce ourselves briefly."
+                },
+                {
+                  "key": "D",
+                  "content": "In the end, only one brave person said she was undecided."
+                },
+                {
+                  "key": "E",
+                  "content": "Admissions advisors help you to make decisions."
+                },
+                {
+                  "key": "F",
+                  "content": "However, I'm confident I'll find a solution."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_cloze",
+      "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
+      "sortOrder": 5,
+      "scorePerQuestion": 1.5,
+      "passage": "**Choosing Friends**\n\nIn our daily life, it's nice to have friends. While family is 31 important, friends are a different support system of your choosing. As the 32 goes, \"You can't choose your family, but you can choose your friends.\" Choosing them wisely can 33 your life more exciting and inspiring.\n\nDeciding whom you choose as your friends says as much about you as it does them. You may choose your friends 34 on similar interests. You may choose them because you're opposites of each other and find this interesting. Often, friends become \"friends\" because they are naturally attracted towards each other due to 35 personalities. Sometimes it's just circumstances that bring two individuals together who then become friends.\n\nWhatever prompts a friendship, developing one is a very 36 experience. This is especially true when, before you know it, a certain 37 turns into a unique lifelong close friendship. Again, it's been said that a person 38 has only a couple of very close friends in their life. Think of whom you 39 as truly close friends. These are those few individuals you can 40 and share deep thoughts and concerns with.",
+      "instructions": "从备选词汇池中选择最佳单词填入空白处。",
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "saying"
+        },
+        {
+          "key": "B",
+          "content": "make"
+        },
+        {
+          "key": "C",
+          "content": "normally"
+        },
+        {
+          "key": "D",
+          "content": "similar"
+        },
+        {
+          "key": "E",
+          "content": "trust"
+        },
+        {
+          "key": "F",
+          "content": "relied"
+        },
+        {
+          "key": "G",
+          "content": "consider"
+        },
+        {
+          "key": "H",
+          "content": "relationship"
+        },
+        {
+          "key": "I",
+          "content": "speech"
+        },
+        {
+          "key": "J",
+          "content": "rewarding"
+        },
+        {
+          "key": "K",
+          "content": "based"
+        },
+        {
+          "key": "L",
+          "content": "extremely"
+        }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "填词补文",
+          "questions": [
+            {
+              "questionNumber": 31,
+              "stem": "填入原文第 [31] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "L",
+                  "originalAnswer": "L",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 32,
+              "stem": "填入原文第 [32] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 33,
+              "stem": "填入原文第 [33] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 34,
+              "stem": "填入原文第 [34] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "K",
+                  "originalAnswer": "K",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 35,
+              "stem": "填入原文第 [35] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 36,
+              "stem": "填入原文第 [36] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "J",
+                  "originalAnswer": "J",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 37,
+              "stem": "填入原文第 [37] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "H",
+                  "originalAnswer": "H",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 38,
+              "stem": "填入原文第 [38] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 39,
+              "stem": "填入原文第 [39] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "G",
+                  "originalAnswer": "G",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 40,
+              "stem": "填入原文第 [40] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_formation",
+      "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
+      "sortOrder": 6,
+      "scorePerQuestion": 1.5,
+      "passage": "### 短文原文\n**Bats**\n\nMany people think bats look frightening (frighten). But research has 41 (show) us that bats are kind animals. The way they live 42 (provide) a great deal of help to humans and other 43 (live) things.\n\nBats are gentle and loving. Mother bats sleep with their wings around their 44 (baby) to protect them, and will move them to 45 (safe) if they seem to be 46 (threaten) in any way. Just like other animals, adult bats help their children find 47 (suit) food to eat.\n\nBats are 48 (help), too. Some bats eat insects. Just one brown bat can eat 49 (near) 600 insects in one hour! Besides, many species are even dependent on bats for their 50 (survive). Therefore, bats are really friendly animals!\n\n### 题目\n**41.** 41",
+      "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "完形补文",
+          "questions": [
+            {
+              "questionNumber": 41,
+              "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
+              "baseWord": "show",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "shown",
+                  "originalAnswer": "shown/showed",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 42,
+              "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
+              "baseWord": "provide",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "provides",
+                  "originalAnswer": "provides",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 43,
+              "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
+              "baseWord": "live",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "living",
+                  "originalAnswer": "living",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 44,
+              "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
+              "baseWord": "baby",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "babies",
+                  "originalAnswer": "babies",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 45,
+              "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
+              "baseWord": "safe",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "safety",
+                  "originalAnswer": "safety",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 46,
+              "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
+              "baseWord": "threaten",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "threatened",
+                  "originalAnswer": "threatened",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 47,
+              "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
+              "baseWord": "suit",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "suitable",
+                  "originalAnswer": "suitable",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 48,
+              "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
+              "baseWord": "help",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "helpful",
+                  "originalAnswer": "helpful",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 49,
+              "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
+              "baseWord": "near",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "nearly",
+                  "originalAnswer": "nearly",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 50,
+              "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
+              "baseWord": "survive",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "survival",
+                  "originalAnswer": "survival",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "essay",
+      "title": "第七部分：短文写作（第51题，30分）",
+      "sortOrder": 7,
+      "scorePerQuestion": 30.0,
+      "passage": "**51.** 某英文报社正在举办题为“Exercise Every Day”的征文活动。请就此题目写一篇英文短文应征，内容包括：\n- 坚持锻炼有哪些好处\n- 你能否坚持每天锻炼",
+      "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "短文写作",
+          "questions": [
+            {
+              "questionNumber": 51,
+              "stem": "短文写作",
+              "scoreValue": 30.0,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "略",
+                  "explanation": "**标准答案**: (略)\n</试卷名称>",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2017年10月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

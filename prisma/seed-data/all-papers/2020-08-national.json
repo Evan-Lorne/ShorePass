@@ -1,0 +1,1944 @@
+{
+  "paperId": "2020-08-national",
+  "title": "2020年08月全国高等教育自学考试英语二真题",
+  "courseCode": "00015",
+  "year": 2020,
+  "month": 8,
+  "region": "national",
+  "paperType": "exam",
+  "totalScore": 100,
+  "suggestedMinutes": 150,
+  "verified": false,
+  "status": "draft",
+  "publishBlocked": true,
+  "blockReasons": [
+    {
+      "code": "ocr_unverified",
+      "description": "全量批量导入草稿，待逐题人工核对"
+    }
+  ],
+  "sourceFile": "2020年08月真题.md",
+  "sections": [
+    {
+      "type": "reading_judgment",
+      "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
+      "sortOrder": 1,
+      "scorePerQuestion": 1.0,
+      "passage": "Bicycle Commuting**\n\nI may not be a movie star, best-selling author, or millionaire when I grow up, but one thing I will be known for, at least locally, is commuting by bicycle. It's sad to see how few people do even though many could. Lots of people eagerly campaign for the reduction of greenhouse gases, but by driving cars, they're still contributing to the problem.\n\nYou might be picturing me as an extreme environmentalist (环保主义者), but I'm not one of those teenagers who wear shirts that say \"Help save the world: Recycle.\" Actually, my interest in exercise, health, and fitness led me to cycling.\n\nCycling can help you lose weight, improve your health, and prevent many diseases. Cycling also carries a relatively low chance of injury.\n\nWhile being good for your body, bicycle commuting is also a great way to cut greenhouse gases. Many environmentalists recycle, plant trees, and drive hybrid cars (混合动力汽车), but bicycle commuting could be even more effective than all of those combined. You could cut down the amount of greenhouse gases just by commuting by bicycle a few times a week.\n\nBicycle commuting saves money too. When you buy your bicycle and the things that usually go with it, you might be shocked by the cost. But if you think about the increasingly high gas prices, you will know for sure that you can save a significant amount each year by not driving a car.\n\nYou might think that you don't have time for bicycle commuting. Actually, you probably do. You could cut back on your TV time and pick up this activity. It helps you care for the environment, save money, and most importantly get fit.\n\n### 题目",
+      "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "阅读判断",
+          "questions": [
+            {
+              "questionNumber": 1,
+              "stem": "I will write a best-selling book on cycling.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 2,
+              "stem": "Many local people commute by bicycle.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 3,
+              "stem": "I am devoted to environmental protection.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 4,
+              "stem": "I started cycling to improve my health.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 5,
+              "stem": "People are less likely to get injured while cycling.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 6,
+              "stem": "People drive to work for convenience.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 7,
+              "stem": "Bicycle commuting could be more effective in reducing greenhouse gases.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 8,
+              "stem": "People are in a good mood while cycling.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 9,
+              "stem": "Gas prices keep going up.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 10,
+              "stem": "Bikes are inexpensive to most people.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading_comprehension",
+      "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
+      "sortOrder": 2,
+      "scorePerQuestion": 2.0,
+      "passage": "### 短文原文\n**Spilt Milk**\n\nI recently heard a story about a famous scientist who had made several very important medical achievements. He was asked why he was so much more creative than the average person.\n\nHe responded that it all came from an experience when he was about two. He had been trying to remove a bottle of milk from the refrigerator when he lost his grip (紧握) and it fell, spilling the milk all over the floor.\n\nWhen his mother came into the kitchen, instead of yelling at him or punishing him, she said, \"Robert, what a wonderful mess you have made! Well, the damage has already been done. Would you like to play in the milk for a few minutes before we clean it up?\"\n\nIndeed, he did. After a few minutes, his mother said, \"Robert, whenever you make a mess like this, eventually you have to clean it up. So, how would you like to do that? We could use a sponge (海绵) or a towel. Which do you prefer?\" He chose the sponge and together they cleaned up the spilt milk.\n\nHis mother then said, \"You know, what we have here is a failed experiment in how to effectively carry a big milk bottle with two tiny hands. Let's go out in the back yard and fill the bottle with water and see if you can discover a way to carry it without dropping it.\" The little boy learned that if he grasped the bottle at the top near the lip with both hands, he could carry it without dropping it.\n\nThe scientist remarked that it was then that he knew he didn't need to be afraid to make mistakes. Instead, mistakes were just opportunities for learning something new, which is, after all, what scientific experiments are all about. Even if the experiment doesn't work, we usually learn something valuable from it.\n\n### 题目",
+      "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "阅读选择",
+          "questions": [
+            {
+              "questionNumber": 11,
+              "stem": "This story is about a scientist who __________.\n- A. was extraordinary when he was young\n- B. became well-known after an interview\n- C. was smarter than the average person\n- D. achieved great success in the medical field",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "was extraordinary when he was young"
+                },
+                {
+                  "key": "B",
+                  "content": "became well-known after an interview"
+                },
+                {
+                  "key": "C",
+                  "content": "was smarter than the average person"
+                },
+                {
+                  "key": "D",
+                  "content": "achieved great success in the medical field"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 12,
+              "stem": "He got the milk spilt all over the kitchen floor because he __________.\n- A. dropped the bottle\n- B. was naughty\n- C. slipped and fell\n- D. was weak",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "dropped the bottle"
+                },
+                {
+                  "key": "B",
+                  "content": "was naughty"
+                },
+                {
+                  "key": "C",
+                  "content": "slipped and fell"
+                },
+                {
+                  "key": "D",
+                  "content": "was weak"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 13,
+              "stem": "After seeing the spilt milk, his mother __________.\n- A. shouted at him\n- B. cleaned the floor herself\n- C. encouraged him to play in the milk\n- D. forced him to clean the kitchen",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "shouted at him"
+                },
+                {
+                  "key": "B",
+                  "content": "cleaned the floor herself"
+                },
+                {
+                  "key": "C",
+                  "content": "encouraged him to play in the milk"
+                },
+                {
+                  "key": "D",
+                  "content": "forced him to clean the kitchen"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 14,
+              "stem": "The mother and the son went out in the back yard to __________.\n- A. fill the bottle with milk\n- B. clean the bottle\n- C. find a way to carry the bottle\n- D. search for a new bottle",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "fill the bottle with milk"
+                },
+                {
+                  "key": "B",
+                  "content": "clean the bottle"
+                },
+                {
+                  "key": "C",
+                  "content": "find a way to carry the bottle"
+                },
+                {
+                  "key": "D",
+                  "content": "search for a new bottle"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 15,
+              "stem": "According to the text, mistakes give us chances to __________.\n- A. know the truth\n- B. learn something new\n- C. do some experiments\n- D. teach a child a lesson",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "know the truth"
+                },
+                {
+                  "key": "B",
+                  "content": "learn something new"
+                },
+                {
+                  "key": "C",
+                  "content": "do some experiments"
+                },
+                {
+                  "key": "D",
+                  "content": "teach a child a lesson"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "summary_completion",
+      "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
+      "sortOrder": 3,
+      "scorePerQuestion": 1.0,
+      "passage": "阅读下面短文，请完成短文后的2项测试任务：(1)从第16～20题后所给的6个选项中为第①～⑤段每段选择1个正确的小标题；(2)从第21～25题后所给的6个选项中选择5个正确选项，分别完成每个句子。在答题卡相应位置上将答案选项涂黑。\n\n### 短文原文\n**Volunteers**\n\n① Volunteers are people who work without being paid. They do the work because they want to. We need volunteers because there are many things that need to be done in society which the Government can't afford to pay for.\n\n② Volunteers are motivated by a desire to help others and to make the world a better place. Statistics suggest that more than one million people do voluntary work in New Zealand. Some volunteers do the kind of work that they are particularly interested in, but perhaps haven't had the chance to do during their working lives. Others make use of their professional skills and experience.\n\n③ Volunteers contribute to society in a number of ways. For example, some give their time to help preserve the natural environment. While there are government-run projects to maintain national parks and forests, the projects would not succeed without volunteers. Some environmental organizations rely solely on voluntary labor.\n\n④ \"Meals on Wheels\" is a voluntary organization run by the Red Cross. It delivers meals to elderly people who are unable to cook for themselves. Every year volunteer drivers deliver a million meals. This enables elderly people to remain in their own houses.\n\n⑤ Volunteer Service Abroad was started in 1962. It sends volunteers to poor countries. To be a volunteer you should be between the ages of 25 and 77, of good health and have a skill or ability that is requested by the country. Volunteers spend two years helping the local people improve their lives. Two years is a long time, but when they return, many volunteers say: It was the best two years of my life.",
+      "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "Task 1: 概括段落大意",
+          "questions": [
+            {
+              "questionNumber": 16,
+              "stem": "Paragraph ①:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Definition of volunteers"
+                },
+                {
+                  "key": "B",
+                  "content": "How volunteers are organized"
+                },
+                {
+                  "key": "C",
+                  "content": "How volunteers contribute to society"
+                },
+                {
+                  "key": "D",
+                  "content": "Why people want to be volunteers"
+                },
+                {
+                  "key": "E",
+                  "content": "An organization sending volunteers abroad"
+                },
+                {
+                  "key": "F",
+                  "content": "An organization delivering meals to the elderly"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 17,
+              "stem": "Paragraph ②:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Definition of volunteers"
+                },
+                {
+                  "key": "B",
+                  "content": "How volunteers are organized"
+                },
+                {
+                  "key": "C",
+                  "content": "How volunteers contribute to society"
+                },
+                {
+                  "key": "D",
+                  "content": "Why people want to be volunteers"
+                },
+                {
+                  "key": "E",
+                  "content": "An organization sending volunteers abroad"
+                },
+                {
+                  "key": "F",
+                  "content": "An organization delivering meals to the elderly"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 18,
+              "stem": "Paragraph ③:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Definition of volunteers"
+                },
+                {
+                  "key": "B",
+                  "content": "How volunteers are organized"
+                },
+                {
+                  "key": "C",
+                  "content": "How volunteers contribute to society"
+                },
+                {
+                  "key": "D",
+                  "content": "Why people want to be volunteers"
+                },
+                {
+                  "key": "E",
+                  "content": "An organization sending volunteers abroad"
+                },
+                {
+                  "key": "F",
+                  "content": "An organization delivering meals to the elderly"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 19,
+              "stem": "Paragraph ④:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Definition of volunteers"
+                },
+                {
+                  "key": "B",
+                  "content": "How volunteers are organized"
+                },
+                {
+                  "key": "C",
+                  "content": "How volunteers contribute to society"
+                },
+                {
+                  "key": "D",
+                  "content": "Why people want to be volunteers"
+                },
+                {
+                  "key": "E",
+                  "content": "An organization sending volunteers abroad"
+                },
+                {
+                  "key": "F",
+                  "content": "An organization delivering meals to the elderly"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 20,
+              "stem": "Paragraph ⑤:",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Definition of volunteers"
+                },
+                {
+                  "key": "B",
+                  "content": "How volunteers are organized"
+                },
+                {
+                  "key": "C",
+                  "content": "How volunteers contribute to society"
+                },
+                {
+                  "key": "D",
+                  "content": "Why people want to be volunteers"
+                },
+                {
+                  "key": "E",
+                  "content": "An organization sending volunteers abroad"
+                },
+                {
+                  "key": "F",
+                  "content": "An organization delivering meals to the elderly"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sortOrder": 2,
+          "title": "Task 2: 补全句子",
+          "questions": [
+            {
+              "questionNumber": 21,
+              "stem": "People do voluntary work because they want to __________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "help others"
+                },
+                {
+                  "key": "B",
+                  "content": "leaving their homes"
+                },
+                {
+                  "key": "C",
+                  "content": "cooking for the elderly"
+                },
+                {
+                  "key": "D",
+                  "content": "using their professional skills"
+                },
+                {
+                  "key": "E",
+                  "content": "find their experience rewarding"
+                },
+                {
+                  "key": "F",
+                  "content": "preserve the natural environment"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 22,
+              "stem": "Some volunteers help others by __________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "help others"
+                },
+                {
+                  "key": "B",
+                  "content": "leaving their homes"
+                },
+                {
+                  "key": "C",
+                  "content": "cooking for the elderly"
+                },
+                {
+                  "key": "D",
+                  "content": "using their professional skills"
+                },
+                {
+                  "key": "E",
+                  "content": "find their experience rewarding"
+                },
+                {
+                  "key": "F",
+                  "content": "preserve the natural environment"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 23,
+              "stem": "Some organizations rely on volunteers to help __________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "help others"
+                },
+                {
+                  "key": "B",
+                  "content": "leaving their homes"
+                },
+                {
+                  "key": "C",
+                  "content": "cooking for the elderly"
+                },
+                {
+                  "key": "D",
+                  "content": "using their professional skills"
+                },
+                {
+                  "key": "E",
+                  "content": "find their experience rewarding"
+                },
+                {
+                  "key": "F",
+                  "content": "preserve the natural environment"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 24,
+              "stem": "The elderly can have their meals delivered without __________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "help others"
+                },
+                {
+                  "key": "B",
+                  "content": "leaving their homes"
+                },
+                {
+                  "key": "C",
+                  "content": "cooking for the elderly"
+                },
+                {
+                  "key": "D",
+                  "content": "using their professional skills"
+                },
+                {
+                  "key": "E",
+                  "content": "find their experience rewarding"
+                },
+                {
+                  "key": "F",
+                  "content": "preserve the natural environment"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 25,
+              "stem": "Many volunteers returning from poor countries __________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "help others"
+                },
+                {
+                  "key": "B",
+                  "content": "leaving their homes"
+                },
+                {
+                  "key": "C",
+                  "content": "cooking for the elderly"
+                },
+                {
+                  "key": "D",
+                  "content": "using their professional skills"
+                },
+                {
+                  "key": "E",
+                  "content": "find their experience rewarding"
+                },
+                {
+                  "key": "F",
+                  "content": "preserve the natural environment"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "sentence_fill",
+      "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
+      "sortOrder": 4,
+      "scorePerQuestion": 2.0,
+      "passage": "### 短文原文\n**How to Talk to a Doctor**\n\nIt's one of the saddest situations in modern medicine: the average doctor's appointment lasts 15 minutes or less. __[26] That doesn't leave much time for chatting about the weather or your mood.\n\nWhat you don't realize but what I see very clearly as a doctor is that what the patient says is more important than ever. __[27] They can also make it much harder for me to figure out what's wrong with you.\n\nMedical schools teach a specific way to conduct an office visit. Part one is the complaint. __[28] Part two is the physical exam. And part three is when the doctor gives you a diagnosis and prescribes tests or a treatment. Chances are, you focus on part three, but the patients who receive the best care are those who master part one. The key is to describe in detail what you've been feeling, not just \"bad,\" but what kind of bad, for how long, and after what kind of activity.\n\n__[29] Even though I've been a doctor for many years, I tend to be a little nervous when I'm the one sitting on the exam table. If I haven't prepared, I lose track of the details I intended to share. __[30] When the doctor asks you questions, you can be more specific, and the diagnosis and treatment will be more accurate. And there may be a few minutes leftover for a little pleasant conversation!\n\n### 备选句子\n\n**标准答案**:\n26: A  \n27: F  \n28: D  \n29: B  \n30: E  \n\n---",
+      "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "No wonder you feel rushed."
+        },
+        {
+          "key": "B",
+          "content": "Of course, that's easier said than done."
+        },
+        {
+          "key": "C",
+          "content": "It is wise to see a doctor with your friend."
+        },
+        {
+          "key": "D",
+          "content": "It is also called the description of your problem."
+        },
+        {
+          "key": "E",
+          "content": "So I take a few minutes to write down some crucial details."
+        },
+        {
+          "key": "F",
+          "content": "In fact, your descriptions can help me give you great care."
+        }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "填句补文",
+          "questions": [
+            {
+              "questionNumber": 26,
+              "stem": "填入原文第 [26] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "No wonder you feel rushed."
+                },
+                {
+                  "key": "B",
+                  "content": "Of course, that's easier said than done."
+                },
+                {
+                  "key": "C",
+                  "content": "It is wise to see a doctor with your friend."
+                },
+                {
+                  "key": "D",
+                  "content": "It is also called the description of your problem."
+                },
+                {
+                  "key": "E",
+                  "content": "So I take a few minutes to write down some crucial details."
+                },
+                {
+                  "key": "F",
+                  "content": "In fact, your descriptions can help me give you great care."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 27,
+              "stem": "填入原文第 [27] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "No wonder you feel rushed."
+                },
+                {
+                  "key": "B",
+                  "content": "Of course, that's easier said than done."
+                },
+                {
+                  "key": "C",
+                  "content": "It is wise to see a doctor with your friend."
+                },
+                {
+                  "key": "D",
+                  "content": "It is also called the description of your problem."
+                },
+                {
+                  "key": "E",
+                  "content": "So I take a few minutes to write down some crucial details."
+                },
+                {
+                  "key": "F",
+                  "content": "In fact, your descriptions can help me give you great care."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 28,
+              "stem": "填入原文第 [28] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "No wonder you feel rushed."
+                },
+                {
+                  "key": "B",
+                  "content": "Of course, that's easier said than done."
+                },
+                {
+                  "key": "C",
+                  "content": "It is wise to see a doctor with your friend."
+                },
+                {
+                  "key": "D",
+                  "content": "It is also called the description of your problem."
+                },
+                {
+                  "key": "E",
+                  "content": "So I take a few minutes to write down some crucial details."
+                },
+                {
+                  "key": "F",
+                  "content": "In fact, your descriptions can help me give you great care."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 29,
+              "stem": "填入原文第 [29] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "No wonder you feel rushed."
+                },
+                {
+                  "key": "B",
+                  "content": "Of course, that's easier said than done."
+                },
+                {
+                  "key": "C",
+                  "content": "It is wise to see a doctor with your friend."
+                },
+                {
+                  "key": "D",
+                  "content": "It is also called the description of your problem."
+                },
+                {
+                  "key": "E",
+                  "content": "So I take a few minutes to write down some crucial details."
+                },
+                {
+                  "key": "F",
+                  "content": "In fact, your descriptions can help me give you great care."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 30,
+              "stem": "填入原文第 [30] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "No wonder you feel rushed."
+                },
+                {
+                  "key": "B",
+                  "content": "Of course, that's easier said than done."
+                },
+                {
+                  "key": "C",
+                  "content": "It is wise to see a doctor with your friend."
+                },
+                {
+                  "key": "D",
+                  "content": "It is also called the description of your problem."
+                },
+                {
+                  "key": "E",
+                  "content": "So I take a few minutes to write down some crucial details."
+                },
+                {
+                  "key": "F",
+                  "content": "In fact, your descriptions can help me give you great care."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_cloze",
+      "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
+      "sortOrder": 5,
+      "scorePerQuestion": 1.5,
+      "passage": "**Planting a Garden**\n\nPlanting a garden is a lot like having a family. Both require a great deal of work, [31] as they grow and as the seasons [32]. As summer days lengthen, your plants become [33] on you, much like your children depend on you for food and drink. Like a [34] child asking for a drink of water, your plants do the same. Their bent body issues a demand much the way your child requests milk or juice. Getting enough water, they would thrive soon.\n\nYou might also find you have to [35] the space around your plants, much like you pick up toys and clothes that have been thrown in your kid's room. Similarly, roses need to be pruned (修剪), and weeds need to be pulled. To keep children healthy, parents protect their children against disease with [36], and gardeners do the same with insect repellent (驱虫剂). To nourish (滋养) them, parents [37] children vitamins, and gardeners use fertilizer, as both promote healthy growth.\n\nAs children grow up, they need less care. However, here's where the similarity ends. While plants die or become [38] during winter, children [39] maintain an important role in the family, and parents will find their [40] does not come to an end.",
+      "instructions": "从备选词汇池中选择最佳单词填入空白处。",
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "help"
+        },
+        {
+          "key": "B",
+          "content": "clean"
+        },
+        {
+          "key": "C",
+          "content": "change"
+        },
+        {
+          "key": "D",
+          "content": "inactive"
+        },
+        {
+          "key": "E",
+          "content": "dependent"
+        },
+        {
+          "key": "F",
+          "content": "still"
+        },
+        {
+          "key": "G",
+          "content": "strong"
+        },
+        {
+          "key": "H",
+          "content": "give"
+        },
+        {
+          "key": "I",
+          "content": "responsibility"
+        },
+        {
+          "key": "J",
+          "content": "thirsty"
+        },
+        {
+          "key": "K",
+          "content": "medicine"
+        },
+        {
+          "key": "L",
+          "content": "especially"
+        }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "填词补文",
+          "questions": [
+            {
+              "questionNumber": 31,
+              "stem": "填入原文第 [31] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "L",
+                  "originalAnswer": "L",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 32,
+              "stem": "填入原文第 [32] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 33,
+              "stem": "填入原文第 [33] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 34,
+              "stem": "填入原文第 [34] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "J",
+                  "originalAnswer": "J",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 35,
+              "stem": "填入原文第 [35] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 36,
+              "stem": "填入原文第 [36] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "K",
+                  "originalAnswer": "K",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 37,
+              "stem": "填入原文第 [37] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "H",
+                  "originalAnswer": "H",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 38,
+              "stem": "填入原文第 [38] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 39,
+              "stem": "填入原文第 [39] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 40,
+              "stem": "填入原文第 [40] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "I",
+                  "originalAnswer": "I",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_formation",
+      "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
+      "sortOrder": 6,
+      "scorePerQuestion": 1.5,
+      "passage": "### 短文原文\n**What Makes Us Different**\n\nThe reason Earth _differs_ (differ) from all the other __[41] (planet) in the universe is because of you and me. At first, we were living in caves, then came the ice age, then the meltdown, and __[42] (final) what we are today. We and Earth as a whole have changed so much. The only thing that hasn't changed is our greed and __[43] (jealous).\n\nWhile we were in caves, we fought for food. While we were living on the ice, we fought for __[44] (warm), clothing, and food. Now, we are __[45] (fight) over land. Why do we fight for land that was never in our __[46] (possess)? Wars, big or small, take place every day. Earth is a single nation. All the land masses on it belong to the planet, not to us. Everyone is the same, regardless of race, gender, or religion. We all deserve to be __[47] (treat) equally. We are all also unique, but that doesn't make us any __[48] (little) human than the next person.\n\nIf we can start by __[49] (pay) a compliment (赞美) to a different person each day, our world will be __[50] (friendly) to live in. If we at least help one person in need and let room for love to grow in our hearts, the world will be a better place.",
+      "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "完形补文",
+          "questions": [
+            {
+              "questionNumber": 41,
+              "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
+              "baseWord": "planet",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "planets",
+                  "originalAnswer": "planets",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 42,
+              "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
+              "baseWord": "final",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "finally",
+                  "originalAnswer": "finally",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 43,
+              "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
+              "baseWord": "jealous",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "jealousy",
+                  "originalAnswer": "jealousy",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 44,
+              "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
+              "baseWord": "warm",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "warmth",
+                  "originalAnswer": "warmth",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 45,
+              "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
+              "baseWord": "fight",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "fighting",
+                  "originalAnswer": "fighting",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 46,
+              "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
+              "baseWord": "possess",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "possession",
+                  "originalAnswer": "possession",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 47,
+              "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
+              "baseWord": "treat",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "treated",
+                  "originalAnswer": "treated",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 48,
+              "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
+              "baseWord": "little",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "less",
+                  "originalAnswer": "less",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 49,
+              "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
+              "baseWord": "pay",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "paying",
+                  "originalAnswer": "paying",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 50,
+              "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
+              "baseWord": "friendly",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "friendlier",
+                  "originalAnswer": "friendlier",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "essay",
+      "title": "第七部分：短文写作（第51题，30分）",
+      "sortOrder": 7,
+      "scorePerQuestion": 30.0,
+      "passage": "请根据所提供材料中的要求完成一篇100词左右的英文写作任务。将你的答案写在答题卡相应的位置上。\n\n### 题目\n**51.**\n某英文报社正在举办题为“Spring Is Coming”的征文活动，请你根据下述写作要点提交一篇英文短文应征。\n- 简要描写春天的景象\n- 介绍人们在春天里的各种活动",
+      "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "短文写作",
+          "questions": [
+            {
+              "questionNumber": 51,
+              "stem": "短文写作",
+              "scoreValue": 30.0,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "略",
+                  "explanation": "**参考范文**:\nSpring is coming. What a nice season! The weather is getting warmer and warmer. The flowers are coming out. How beautiful the world is! Look around, the sky is blue and the leaves on the trees are turning green. The sun is shining brightly and the air is so fresh, now everyone takes off his warm coat and is more active than before. We all have good feelings. I must say, be careful not to catch cold again. A good beginning is half done and it's the first season in the year. We must make the best use of our time and catch every second to work and study. Do you think so?",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2020年08月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -8,10 +8,10 @@
   "paperType": "prediction",
   "totalScore": 100,
   "suggestedMinutes": 150,
-  "verified": false,
-  "status": "draft",
-  "publishBlocked": true,
-  "sourceFile": "q1.txt",
+  "verified": true,
+  "status": "verified",
+  "publishBlocked": false,
+  "sourceFile": "押题库考前试卷（1）.pdf",
   "sections": [
     {
       "type": "reading_judgment",
@@ -28,7 +28,7 @@
               "questionNumber": 1,
               "stem": "Young people may be more concerned about leisure time when applying for jobs.",
               "scoreValue": 1,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -52,13 +52,26 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页。"
+                }
+              ]
             },
             {
               "questionNumber": 2,
               "stem": "Good work attitudes, habits, and skills are learned at school.",
               "scoreValue": 1,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -82,13 +95,26 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页。"
+                }
+              ]
             },
             {
               "questionNumber": 3,
               "stem": "Before going to school, the author had to milk all the cows in the morning.",
               "scoreValue": 1,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -112,13 +138,26 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页。"
+                }
+              ]
             },
             {
               "questionNumber": 4,
               "stem": "Unlike his parents, the young boy seemed not to be glad to see the cows every \nmorning.",
               "scoreValue": 1,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -142,13 +181,26 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页。"
+                }
+              ]
             },
             {
               "questionNumber": 5,
               "stem": "After each cow was milked, the author would carry the milk to the market.",
               "scoreValue": 1,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -172,13 +224,26 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页。"
+                }
+              ]
             },
             {
               "questionNumber": 6,
               "stem": "The author always milked the cows alone in the barnyard.",
               "scoreValue": 1,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -202,13 +267,26 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页。"
+                }
+              ]
             },
             {
               "questionNumber": 7,
               "stem": "To his father, milking cows was a complicated job.",
               "scoreValue": 1,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -232,13 +310,26 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页。"
+                }
+              ]
             },
             {
               "questionNumber": 8,
               "stem": "The author's father milked the cows because they needed to be milked.",
               "scoreValue": 1,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -262,13 +353,26 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页。"
+                }
+              ]
             },
             {
               "questionNumber": 9,
               "stem": "The author came to like the job of milking and took pride in it.",
               "scoreValue": 1,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -294,13 +398,26 @@
                   "revisionNotes": "2026-09-10 根据 整理后的试卷库/押题库考前试卷（1）.md 的解析修复结构化提取错误；尚待原始 PDF 人工核对。"
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页。"
+                }
+              ]
             },
             {
               "questionNumber": 10,
               "stem": "Self-confidence and empowerment acquired at work will benefit people throughout \ntheir lives.",
               "scoreValue": 1,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -326,7 +443,20 @@
                   "revisionNotes": "2026-09-10 根据 整理后的试卷库/押题库考前试卷（1）.md 的解析修复结构化提取错误；尚待原始 PDF 人工核对。"
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页。"
+                }
+              ]
             }
           ]
         }
@@ -347,7 +477,7 @@
               "questionNumber": 11,
               "stem": "What happened to Avremel and Ed during the September 11th terrorist attacks?",
               "scoreValue": 2,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -375,13 +505,26 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 4 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页。"
+                }
+              ]
             },
             {
               "questionNumber": 12,
               "stem": "Avremel and Ed were similar in that __________ .",
               "scoreValue": 2,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -411,21 +554,34 @@
                   "revisionNotes": "2026-09-10 根据 整理后的试卷库/押题库考前试卷（1）.md 的解析修复结构化提取错误；尚待原始 PDF 人工核对。"
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页。"
+                }
+              ]
             },
             {
               "questionNumber": 13,
               "stem": "Which of the following statements is true according to the passage?",
               "scoreValue": 2,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
-                  "content": "[图片或空白选项]"
+                  "content": "Avremel took care of Ed's life after work."
                 },
                 {
                   "key": "B",
-                  "content": "[图片或空白选项]"
+                  "content": "Avremel liked diving when he was young."
                 },
                 {
                   "key": "C",
@@ -445,29 +601,42 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页。"
+                }
+              ]
             },
             {
               "questionNumber": 14,
               "stem": "Why did Avremel choose to stay when others were fleeing?",
               "scoreValue": 2,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
-                  "content": "[图片或空白选项]"
+                  "content": "Because he expected the rescuers to help him."
                 },
                 {
                   "key": "B",
-                  "content": "[图片或空白选项]"
+                  "content": "Because he tried to carry Ed downstairs."
                 },
                 {
                   "key": "C",
-                  "content": "[图片或空白选项]"
+                  "content": "Because he didn't want to leave Ed behind."
                 },
                 {
                   "key": "D",
-                  "content": "[图片或空白选项]"
+                  "content": "Because he found it safer to stay inside."
                 }
               ],
               "answerRules": [
@@ -479,13 +648,26 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页。"
+                }
+              ]
             },
             {
               "questionNumber": 15,
               "stem": "The word “address” in the last paragraph means________",
               "scoreValue": 2,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -515,7 +697,20 @@
                   "revisionNotes": "2026-09-10 根据 整理后的试卷库/押题库考前试卷（1）.md 的解析修复结构化提取错误；尚待原始 PDF 人工核对。"
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页。"
+                }
+              ]
             }
           ]
         }
@@ -537,7 +732,7 @@
               "stem": "Paragraph 1: choose the best heading.",
               "originalStem": "[见短文原文]",
               "scoreValue": 1,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -573,14 +768,27 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页。"
+                }
+              ]
             },
             {
               "questionNumber": 17,
               "stem": "Paragraph 2: choose the best heading.",
               "originalStem": "[见短文原文]",
               "scoreValue": 1,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -616,14 +824,27 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页。"
+                }
+              ]
             },
             {
               "questionNumber": 18,
               "stem": "Paragraph 3: choose the best heading.",
               "originalStem": "[见短文原文]",
               "scoreValue": 1,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -659,14 +880,27 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页。"
+                }
+              ]
             },
             {
               "questionNumber": 19,
               "stem": "Paragraph 4: choose the best heading.",
               "originalStem": "[见短文原文]",
               "scoreValue": 1,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -702,14 +936,27 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页。"
+                }
+              ]
             },
             {
               "questionNumber": 20,
               "stem": "Paragraph 5: choose the best heading.",
               "originalStem": "[见短文原文]",
               "scoreValue": 1,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -745,14 +992,27 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页。"
+                }
+              ]
             },
             {
               "questionNumber": 21,
               "stem": "We often know through mistakes what's going wrong and ________.",
               "originalStem": "[见短文原文]",
               "scoreValue": 1,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -788,14 +1048,27 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页。"
+                }
+              ]
             },
             {
               "questionNumber": 22,
               "stem": "If a writer never finishes his book, he will never have to ________.",
               "originalStem": "[见短文原文]",
               "scoreValue": 1,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -833,14 +1106,27 @@
                   "revisionNotes": "2026-09-10 根据 整理后的试卷库/押题库考前试卷（1）.md 的解析修复结构化提取错误；尚待原始 PDF 人工核对。"
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页。"
+                }
+              ]
             },
             {
               "questionNumber": 23,
               "stem": "Effective people aim to reach their goals while ________.",
               "originalStem": "[见短文原文]",
               "scoreValue": 1,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -876,14 +1162,27 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页。"
+                }
+              ]
             },
             {
               "questionNumber": 24,
               "stem": "People can make mistakes only when they are truly ________.",
               "originalStem": "[见短文原文]",
               "scoreValue": 1,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -912,22 +1211,39 @@
               ],
               "answerRules": [
                 {
-                  "standardAnswer": "C/F",
-                  "acceptableAnswers": [],
+                  "standardAnswer": "C",
+                  "acceptableAnswers": [
+                    "C",
+                    "F"
+                  ],
                   "caseSensitive": false,
                   "explanation": "第三段最后一句指出只有人们在真正投入到工作中让事情有所进展的时候，错误オ\n会发生(Mistakes can happen only when...making things work) 。 （本题有误，C 和 F项一\n样，因此本题两个答案均符合)",
-                  "disputed": true,
-                  "revisionNotes": "原资料明确说明 C/F 内容相同，保留争议，不参与自动判分。"
+                  "disputed": false,
+                  "revisionNotes": "2026-09-11 对照原试题第7页与答案详解第3页，确认 C/F 印刷内容相同且两个答案均符合；以 C 为标准答案，C、F 均自动判为正确。",
+                  "originalAnswer": "C/F"
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第3页明确 C/F 两项内容相同，两个答案均符合。"
+                }
+              ]
             },
             {
               "questionNumber": 25,
               "stem": "We can learn some lessons from making mistakes, which often ________.",
               "originalStem": "[见短文原文]",
               "scoreValue": 1,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -965,7 +1281,20 @@
                   "revisionNotes": "2026-09-10 根据 整理后的试卷库/押题库考前试卷（1）.md 的解析修复结构化提取错误；尚待原始 PDF 人工核对。"
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页。"
+                }
+              ]
             }
           ]
         }
@@ -987,7 +1316,7 @@
               "stem": "填入原文第 [26] 空的最佳选项。",
               "originalStem": "[见短文原文]",
               "scoreValue": 2,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1023,14 +1352,27 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页。"
+                }
+              ]
             },
             {
               "questionNumber": 27,
               "stem": "填入原文第 [27] 空的最佳选项。",
               "originalStem": "[见短文原文]",
               "scoreValue": 2,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1068,14 +1410,27 @@
                   "revisionNotes": "2026-09-10 根据 整理后的试卷库/押题库考前试卷（1）.md 的解析修复结构化提取错误；尚待原始 PDF 人工核对。"
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页。"
+                }
+              ]
             },
             {
               "questionNumber": 28,
               "stem": "填入原文第 [28] 空的最佳选项。",
               "originalStem": "[见短文原文]",
               "scoreValue": 2,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1111,14 +1466,27 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页。"
+                }
+              ]
             },
             {
               "questionNumber": 29,
               "stem": "填入原文第 [29] 空的最佳选项。",
               "originalStem": "[见短文原文]",
               "scoreValue": 2,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1154,14 +1522,27 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页。"
+                }
+              ]
             },
             {
               "questionNumber": 30,
               "stem": "填入原文第 [30] 空的最佳选项。",
               "originalStem": "[见短文原文]",
               "scoreValue": 2,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1199,7 +1580,20 @@
                   "revisionNotes": "2026-09-10 根据 整理后的试卷库/押题库考前试卷（1）.md 的解析修复结构化提取错误；尚待原始 PDF 人工核对。"
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页。"
+                }
+              ]
             }
           ]
         }
@@ -1270,7 +1664,7 @@
               "stem": "填入原文第 [31] 空的最佳选项。",
               "originalStem": "[见短文原文]",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1283,14 +1677,27 @@
                   "revisionNotes": "2026-09-10 根据 整理后的试卷库/押题库考前试卷（1）.md 的解析修复结构化提取错误；尚待原始 PDF 人工核对。"
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页。"
+                }
+              ]
             },
             {
               "questionNumber": 32,
               "stem": "填入原文第 [32] 空的最佳选项。",
               "originalStem": "[见短文原文]",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1301,14 +1708,27 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页。"
+                }
+              ]
             },
             {
               "questionNumber": 33,
               "stem": "填入原文第 [33] 空的最佳选项。",
               "originalStem": "[见短文原文]",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1319,14 +1739,27 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页。"
+                }
+              ]
             },
             {
               "questionNumber": 34,
               "stem": "填入原文第 [34] 空的最佳选项。",
               "originalStem": "[见短文原文]",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1339,14 +1772,27 @@
                   "revisionNotes": "2026-09-10 根据 整理后的试卷库/押题库考前试卷（1）.md 的解析修复结构化提取错误；尚待原始 PDF 人工核对。"
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页。"
+                }
+              ]
             },
             {
               "questionNumber": 35,
               "stem": "填入原文第 [35] 空的最佳选项。",
               "originalStem": "[见短文原文]",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1358,14 +1804,27 @@
                   "revisionNotes": "2026-09-10 根据 整理后的试卷库/押题库考前试卷（1）.md 的解析修复结构化提取错误；尚待原始 PDF 人工核对。"
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页。"
+                }
+              ]
             },
             {
               "questionNumber": 36,
               "stem": "填入原文第 [36] 空的最佳选项。",
               "originalStem": "[见短文原文]",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1376,14 +1835,27 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页。"
+                }
+              ]
             },
             {
               "questionNumber": 37,
               "stem": "填入原文第 [37] 空的最佳选项。",
               "originalStem": "[见短文原文]",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1394,14 +1866,27 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页。"
+                }
+              ]
             },
             {
               "questionNumber": 38,
               "stem": "填入原文第 [38] 空的最佳选项。",
               "originalStem": "[见短文原文]",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1412,14 +1897,27 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页。"
+                }
+              ]
             },
             {
               "questionNumber": 39,
               "stem": "填入原文第 [39] 空的最佳选项。",
               "originalStem": "[见短文原文]",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1430,14 +1928,27 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页。"
+                }
+              ]
             },
             {
               "questionNumber": 40,
               "stem": "填入原文第 [40] 空的最佳选项。",
               "originalStem": "[见短文原文]",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1450,7 +1961,20 @@
                   "revisionNotes": "2026-09-10 根据 整理后的试卷库/押题库考前试卷（1）.md 的解析修复结构化提取错误；尚待原始 PDF 人工核对。"
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页。"
+                }
+              ]
             }
           ]
         }
@@ -1473,7 +1997,7 @@
               "baseWord": "courage",
               "originalStem": "[见短文原文]",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1484,7 +2008,20 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页。"
+                }
+              ]
             },
             {
               "questionNumber": 42,
@@ -1492,7 +2029,7 @@
               "baseWord": "care",
               "originalStem": "[见短文原文]",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1505,7 +2042,20 @@
                   "revisionNotes": "2026-09-10 根据 整理后的试卷库/押题库考前试卷（1）.md 的解析修复结构化提取错误；尚待原始 PDF 人工核对。"
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页。"
+                }
+              ]
             },
             {
               "questionNumber": 43,
@@ -1513,7 +2063,7 @@
               "baseWord": "particular",
               "originalStem": "[见短文原文]",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1524,7 +2074,20 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页。"
+                }
+              ]
             },
             {
               "questionNumber": 44,
@@ -1532,7 +2095,7 @@
               "baseWord": "implicate",
               "originalStem": "[见短文原文]",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1543,7 +2106,20 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页。"
+                }
+              ]
             },
             {
               "questionNumber": 45,
@@ -1551,7 +2127,7 @@
               "baseWord": "train",
               "originalStem": "[见短文原文]",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1562,7 +2138,20 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页。"
+                }
+              ]
             },
             {
               "questionNumber": 46,
@@ -1570,7 +2159,7 @@
               "baseWord": "impress",
               "originalStem": "[见短文原文]",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1581,7 +2170,20 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页。"
+                }
+              ]
             },
             {
               "questionNumber": 47,
@@ -1589,7 +2191,7 @@
               "baseWord": "communicate",
               "originalStem": "[见短文原文]",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1600,7 +2202,20 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页。"
+                }
+              ]
             },
             {
               "questionNumber": 48,
@@ -1608,7 +2223,7 @@
               "baseWord": "respect",
               "originalStem": "[见短文原文]",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1619,7 +2234,20 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页。"
+                }
+              ]
             },
             {
               "questionNumber": 49,
@@ -1627,7 +2255,7 @@
               "baseWord": "design",
               "originalStem": "[见短文原文]",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1638,7 +2266,20 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页。"
+                }
+              ]
             },
             {
               "questionNumber": 50,
@@ -1646,7 +2287,7 @@
               "baseWord": "logic",
               "originalStem": "[见短文原文]",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1659,7 +2300,20 @@
                   "revisionNotes": "2026-09-10 根据 整理后的试卷库/押题库考前试卷（1）.md 的解析修复结构化提取错误；尚待原始 PDF 人工核对。"
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页。"
+                }
+              ]
             }
           ]
         }
@@ -1680,7 +2334,7 @@
               "questionNumber": 51,
               "stem": "短文写作",
               "scoreValue": 30,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1690,11 +2344,25 @@
                   "disputed": false
                 }
               ],
-              "sourceReferences": []
+              "sourceReferences": [
+                {
+                  "sourceFileName": "押题库考前试卷（1）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（1）答案详解.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页。"
+                }
+              ]
             }
           ]
         }
       ]
     }
-  ]
+  ],
+  "blockReasons": []
 }

@@ -1,0 +1,1952 @@
+{
+  "paperId": "2021-04-national",
+  "title": "2021年04月全国高等教育自学考试英语二真题",
+  "courseCode": "00015",
+  "year": 2021,
+  "month": 4,
+  "region": "national",
+  "paperType": "exam",
+  "totalScore": 100,
+  "suggestedMinutes": 150,
+  "verified": false,
+  "status": "draft",
+  "publishBlocked": true,
+  "blockReasons": [
+    {
+      "code": "ocr_unverified",
+      "description": "全量批量导入草稿，待逐题人工核对"
+    }
+  ],
+  "sourceFile": "2021年04月真题.md",
+  "sections": [
+    {
+      "type": "reading_judgment",
+      "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
+      "sortOrder": 1,
+      "scorePerQuestion": 1.0,
+      "passage": "### 短文原文\n**Animals in the City**\n\nRecently, there have been many reports in newspapers and on TV about big animals coming into towns and cities. What happens when big animals come into our cities? Is it a good thing or is it dangerous for us and the animals?\n\nWild animals usually come into cities to look for food. In Cape Town, South Africa, baboons (狒狒) sometimes come into the suburbs. They eat fruit from gardens and go into people's kitchens! Baboons are strong animals and sometimes they scare children and fight with pet dogs. Many people do not like them, but the city can be dangerous for baboons too. Sometimes, baboons are hurt in car accidents. The city council in Cape Town has a team of Baboon Monitors. Their job is to find baboons in the city and take them back to the countryside. The problem is that a lot of baboons will come back to the city to find food again.\n\nIn Berlin, Germany, groups of wild pigs sometimes come into the city to look for food. They eat flowers and plants and dig in gardens and parks in the city. They also walk in the street and cause traffic accidents. Some city residents like the pigs and give them food. But the city council is worried about the traffic accidents. They have told people to stop giving the pigs food and have put up fences to stop the pigs from coming into the city.\n\nIn Moscow, Russia, there are 35,000 wild dogs. They live in parks, empty houses, markets and train stations. Some of the dogs were pets that people did not want, so they left them on the streets. Others were born on the streets and have always lived there. A lot of people like them and are used to seeing them on the streets. They give the dogs food and water. They even build small huts for the dogs to live in during the very cold winter.\n\n### 题目",
+      "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "阅读判断",
+          "questions": [
+            {
+              "questionNumber": 1,
+              "stem": "Many news reports concern big animals in the city.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 2,
+              "stem": "Wild animals often come into cities for the winter.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 3,
+              "stem": "The food in kitchens can be bad for baboons.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 4,
+              "stem": "Cape Town is a safe place for baboons.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 5,
+              "stem": "Many baboons will return after being sent away from the city.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 6,
+              "stem": "There are more wild pigs in Berlin now than in the past.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 7,
+              "stem": "Wild pigs sometimes cause traffic problems in Berlin.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 8,
+              "stem": "Wild pigs started to come into Berlin years ago.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 9,
+              "stem": "No one knows the number of wild dogs in Moscow.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 10,
+              "stem": "Some people help the wild dogs survive the cold winter.\n- A. True\n- B. False\n- C. Not Given",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "True"
+                },
+                {
+                  "key": "B",
+                  "content": "False"
+                },
+                {
+                  "key": "C",
+                  "content": "Not Given"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading_comprehension",
+      "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
+      "sortOrder": 2,
+      "scorePerQuestion": 2.0,
+      "passage": "### 短文原文\n**What Happens When You Stop Exercising**\n\nHave you ever wondered what would happen if you stopped exercising? A new study on twins was published in the journal *Medicine & Science*. The results of the study are dramatic.\n\nIn the study, researchers looked at 10 pairs of twin men. Each set of twins was in their mid-30s. Each had been brought up in the same family. Since they were identical, they shared the same DNA. They had maintained the same level of physical activity for most of their lives. But there was one difference. One twin of each set had cut on exercising in the past few years due to work or family pressure. On average, the less active twin exercised less than twice a week, while the active twin exercised at least twice a week. The research team put each twin through a set of medical tests to study their overall health.\n\nThe results showed big differences. While the more active twins had lower body fat percentage, better endurance level, and normal sensitivity, the inactive twins had about seven more pounds of body fat, worse endurance, and signs of disease. Not only were their bodies different; their brains were different as well. The active twins had more gray matter (the information processing part of the brain), particularly in areas that control balance.\n\nThe conclusion of the study is clear. Quitting your fitness routine can bring negative effects to your body and your brain as well. Considering the less active twins in the study had become couch potatoes (沉溺于看电视的人) only recently, these changes can sneak up on you a lot sooner than you'd think. So keep exercising. It is beneficial to your overall health!\n\n### 题目",
+      "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "阅读选择",
+          "questions": [
+            {
+              "questionNumber": 11,
+              "stem": "This text is mainly about ________.\n- A. the importance of DNA\n- B. the role of exercise\n- C. the birth of a new journal\n- D. the difference between twins",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "the importance of DNA"
+                },
+                {
+                  "key": "B",
+                  "content": "the role of exercise"
+                },
+                {
+                  "key": "C",
+                  "content": "the birth of a new journal"
+                },
+                {
+                  "key": "D",
+                  "content": "the difference between twins"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 12,
+              "stem": "Researchers chose twins for their study mostly because they ________.\n- A. shared the same DNA\n- B. looked alike\n- C. had the same lifestyle\n- D. grew up together",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "shared the same DNA"
+                },
+                {
+                  "key": "B",
+                  "content": "looked alike"
+                },
+                {
+                  "key": "C",
+                  "content": "had the same lifestyle"
+                },
+                {
+                  "key": "D",
+                  "content": "grew up together"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 13,
+              "stem": "The twins in the study differed in ________.\n- A. sleeping habits\n- B. exercise frequency\n- C. working hours\n- D. food preference",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "sleeping habits"
+                },
+                {
+                  "key": "B",
+                  "content": "exercise frequency"
+                },
+                {
+                  "key": "C",
+                  "content": "working hours"
+                },
+                {
+                  "key": "D",
+                  "content": "food preference"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 14,
+              "stem": "The study found that the more active twins became ________.\n- A. less creative\n- B. less sensitive\n- C. more emotional\n- D. more endurable",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "less creative"
+                },
+                {
+                  "key": "B",
+                  "content": "less sensitive"
+                },
+                {
+                  "key": "C",
+                  "content": "more emotional"
+                },
+                {
+                  "key": "D",
+                  "content": "more endurable"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 15,
+              "stem": "The phrase \"sneak up on\" (Para. 4) most probably means ________.\n- A. protect\n- B. attack\n- C. affect\n- D. benefit",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "protect"
+                },
+                {
+                  "key": "B",
+                  "content": "attack"
+                },
+                {
+                  "key": "C",
+                  "content": "affect"
+                },
+                {
+                  "key": "D",
+                  "content": "benefit"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "summary_completion",
+      "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
+      "sortOrder": 3,
+      "scorePerQuestion": 1.0,
+      "passage": "### 短文原文\n**Surviving Illness Away From Home**\n\nBeing ill is a horrible thing at the best of times, but what is even worse is when you are ill away from home. If you're living away from home or abroad, it's important to get better at your own pace in order to ensure you can enjoy the rest of your time away.\n❶ Pampering (娇惯) yourself is always a good start. If you feel so ill and tired that you can't even get out of bed, then don't! Make a trip to the kitchen and stock up on fluids and try to make yourself some hot food. The key to getting better is to drink lots of fluids. Water and hot drinks such as green tea and soup are usually the best things.\n❷ Try to distract yourself from feeling horrible. If you have a TV, watch one of your favorite films or TV series. If you don't have a TV, maybe put the radio on. If you have a headache and all the noise is too much to handle, try reading the book you've always wanted to read but never had the time to. Being ill doesn't have to be the worst day in the world!\n❸ Tell your friends and family that you are ill. Sometimes there is nothing better than hearing words of comfort from loved ones who feel sorry for you and want to cheer you up and make you happy. There is nothing wrong with a little attention from others when you're ill. Who knows, they might even be willing to travel and visit you with lots of \"Get Well\" presents like your favorite food, magazine or flowers.\n❹ When you do arrive at a new place where you will be staying for a few months, make sure you know exactly where the nearest drugstore is. If you are in a foreign country, it might be best to translate a few useful phrases before you start asking for a cure.",
+      "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "Task 1: 概括段落大意",
+          "questions": [
+            {
+              "questionNumber": 16,
+              "stem": "Paragraph ❶: ________",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Taking good care of yourself"
+                },
+                {
+                  "key": "B",
+                  "content": "Staying in bed for the entire day"
+                },
+                {
+                  "key": "C",
+                  "content": "Taking your attention away from illness"
+                },
+                {
+                  "key": "D",
+                  "content": "Knowing where and how to get medicine"
+                },
+                {
+                  "key": "E",
+                  "content": "Informing friends and family of your illness"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 17,
+              "stem": "Paragraph ❷: ________",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Taking good care of yourself"
+                },
+                {
+                  "key": "B",
+                  "content": "Staying in bed for the entire day"
+                },
+                {
+                  "key": "C",
+                  "content": "Taking your attention away from illness"
+                },
+                {
+                  "key": "D",
+                  "content": "Knowing where and how to get medicine"
+                },
+                {
+                  "key": "E",
+                  "content": "Informing friends and family of your illness"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 18,
+              "stem": "Paragraph ❸: ________",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Taking good care of yourself"
+                },
+                {
+                  "key": "B",
+                  "content": "Staying in bed for the entire day"
+                },
+                {
+                  "key": "C",
+                  "content": "Taking your attention away from illness"
+                },
+                {
+                  "key": "D",
+                  "content": "Knowing where and how to get medicine"
+                },
+                {
+                  "key": "E",
+                  "content": "Informing friends and family of your illness"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 19,
+              "stem": "Paragraph ❹: ________",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "Taking good care of yourself"
+                },
+                {
+                  "key": "B",
+                  "content": "Staying in bed for the entire day"
+                },
+                {
+                  "key": "C",
+                  "content": "Taking your attention away from illness"
+                },
+                {
+                  "key": "D",
+                  "content": "Knowing where and how to get medicine"
+                },
+                {
+                  "key": "E",
+                  "content": "Informing friends and family of your illness"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sortOrder": 2,
+          "title": "Task 2: 补全句子",
+          "questions": [
+            {
+              "questionNumber": 20,
+              "stem": "Being sick away from home is ________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "ask for medicine"
+                },
+                {
+                  "key": "B",
+                  "content": "at your own pace"
+                },
+                {
+                  "key": "C",
+                  "content": "water and hot drinks"
+                },
+                {
+                  "key": "D",
+                  "content": "a terrible experience"
+                },
+                {
+                  "key": "E",
+                  "content": "at a nearby drugstore"
+                },
+                {
+                  "key": "F",
+                  "content": "read your favorite book"
+                },
+                {
+                  "key": "G",
+                  "content": "suffer from a cold"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 21,
+              "stem": "You are advised to recover ________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "ask for medicine"
+                },
+                {
+                  "key": "B",
+                  "content": "at your own pace"
+                },
+                {
+                  "key": "C",
+                  "content": "water and hot drinks"
+                },
+                {
+                  "key": "D",
+                  "content": "a terrible experience"
+                },
+                {
+                  "key": "E",
+                  "content": "at a nearby drugstore"
+                },
+                {
+                  "key": "F",
+                  "content": "read your favorite book"
+                },
+                {
+                  "key": "G",
+                  "content": "suffer from a cold"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 22,
+              "stem": "The best cure for illness is ________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "ask for medicine"
+                },
+                {
+                  "key": "B",
+                  "content": "at your own pace"
+                },
+                {
+                  "key": "C",
+                  "content": "water and hot drinks"
+                },
+                {
+                  "key": "D",
+                  "content": "a terrible experience"
+                },
+                {
+                  "key": "E",
+                  "content": "at a nearby drugstore"
+                },
+                {
+                  "key": "F",
+                  "content": "read your favorite book"
+                },
+                {
+                  "key": "G",
+                  "content": "suffer from a cold"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 23,
+              "stem": "If you cannot bear the noise from TV, ________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "ask for medicine"
+                },
+                {
+                  "key": "B",
+                  "content": "at your own pace"
+                },
+                {
+                  "key": "C",
+                  "content": "water and hot drinks"
+                },
+                {
+                  "key": "D",
+                  "content": "a terrible experience"
+                },
+                {
+                  "key": "E",
+                  "content": "at a nearby drugstore"
+                },
+                {
+                  "key": "F",
+                  "content": "read your favorite book"
+                },
+                {
+                  "key": "G",
+                  "content": "suffer from a cold"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 24,
+              "stem": "A few useful translated phrases help you ________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "ask for medicine"
+                },
+                {
+                  "key": "B",
+                  "content": "at your own pace"
+                },
+                {
+                  "key": "C",
+                  "content": "water and hot drinks"
+                },
+                {
+                  "key": "D",
+                  "content": "a terrible experience"
+                },
+                {
+                  "key": "E",
+                  "content": "at a nearby drugstore"
+                },
+                {
+                  "key": "F",
+                  "content": "read your favorite book"
+                },
+                {
+                  "key": "G",
+                  "content": "suffer from a cold"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 25,
+              "stem": "You can buy medicine ________.",
+              "scoreValue": 1.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "ask for medicine"
+                },
+                {
+                  "key": "B",
+                  "content": "at your own pace"
+                },
+                {
+                  "key": "C",
+                  "content": "water and hot drinks"
+                },
+                {
+                  "key": "D",
+                  "content": "a terrible experience"
+                },
+                {
+                  "key": "E",
+                  "content": "at a nearby drugstore"
+                },
+                {
+                  "key": "F",
+                  "content": "read your favorite book"
+                },
+                {
+                  "key": "G",
+                  "content": "suffer from a cold"
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "sentence_fill",
+      "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
+      "sortOrder": 4,
+      "scorePerQuestion": 2.0,
+      "passage": "### 短文原文\n**Swiss Banks**\n\nSwitzerland is well-known for chocolate and its watch-making industry. It is even more famous for its unique banking and financial system. **26**\n\nBanking in Switzerland goes back to the 18th century. In the past, not only rich people but also dictators (独裁者) kept their money in Swiss banks. During World War II German Nazis (纳粹) put much of their money in Switzerland. **27**\n\nSwiss banks are popular for many reasons. **28** It enjoys one of the highest per capita (人均) incomes in the world. It has been neutral for many centuries, especially during the two world wars. In addition, the Swiss franc is one of the most stable currencies in the world.\n\nMost importantly, Swiss banks follow very strict privacy rules. In 1934, a law was passed that forbade Swiss banks to reveal the names of account holders. **29** If a Swiss banker reveals a person's bank account without permission, he or she commits a crime. Such regulations have made Switzerland a popular destination for many people.\n\nLately, however, the Swiss government has been under heavy pressure from other countries. **30** They want the banks to reveal the names of possible criminals.\n\n### 备选项\n\n### 题目\n**26.** ________\n**标准答案**: D\n\n**27.** ________\n**标准答案**: E\n\n**28.** ________\n**标准答案**: F\n\n**29.** ________\n**标准答案**: B\n\n**30.** ________\n**标准答案**: A",
+      "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "They urge it to change its bank laws."
+        },
+        {
+          "key": "B",
+          "content": "Banks strictly protect the privacy of their clients."
+        },
+        {
+          "key": "C",
+          "content": "Private banking has a long tradition in the country."
+        },
+        {
+          "key": "D",
+          "content": "Banks play an important role in Switzerland's economy."
+        },
+        {
+          "key": "E",
+          "content": "Foreigners in troubled areas also kept money in Swiss banks."
+        },
+        {
+          "key": "F",
+          "content": "For one, the country has a very stable and prosperous economy."
+        }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "填句补文",
+          "questions": [
+            {
+              "questionNumber": 26,
+              "stem": "填入原文第 [26] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "They urge it to change its bank laws."
+                },
+                {
+                  "key": "B",
+                  "content": "Banks strictly protect the privacy of their clients."
+                },
+                {
+                  "key": "C",
+                  "content": "Private banking has a long tradition in the country."
+                },
+                {
+                  "key": "D",
+                  "content": "Banks play an important role in Switzerland's economy."
+                },
+                {
+                  "key": "E",
+                  "content": "Foreigners in troubled areas also kept money in Swiss banks."
+                },
+                {
+                  "key": "F",
+                  "content": "For one, the country has a very stable and prosperous economy."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 27,
+              "stem": "填入原文第 [27] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "They urge it to change its bank laws."
+                },
+                {
+                  "key": "B",
+                  "content": "Banks strictly protect the privacy of their clients."
+                },
+                {
+                  "key": "C",
+                  "content": "Private banking has a long tradition in the country."
+                },
+                {
+                  "key": "D",
+                  "content": "Banks play an important role in Switzerland's economy."
+                },
+                {
+                  "key": "E",
+                  "content": "Foreigners in troubled areas also kept money in Swiss banks."
+                },
+                {
+                  "key": "F",
+                  "content": "For one, the country has a very stable and prosperous economy."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 28,
+              "stem": "填入原文第 [28] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "They urge it to change its bank laws."
+                },
+                {
+                  "key": "B",
+                  "content": "Banks strictly protect the privacy of their clients."
+                },
+                {
+                  "key": "C",
+                  "content": "Private banking has a long tradition in the country."
+                },
+                {
+                  "key": "D",
+                  "content": "Banks play an important role in Switzerland's economy."
+                },
+                {
+                  "key": "E",
+                  "content": "Foreigners in troubled areas also kept money in Swiss banks."
+                },
+                {
+                  "key": "F",
+                  "content": "For one, the country has a very stable and prosperous economy."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 29,
+              "stem": "填入原文第 [29] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "They urge it to change its bank laws."
+                },
+                {
+                  "key": "B",
+                  "content": "Banks strictly protect the privacy of their clients."
+                },
+                {
+                  "key": "C",
+                  "content": "Private banking has a long tradition in the country."
+                },
+                {
+                  "key": "D",
+                  "content": "Banks play an important role in Switzerland's economy."
+                },
+                {
+                  "key": "E",
+                  "content": "Foreigners in troubled areas also kept money in Swiss banks."
+                },
+                {
+                  "key": "F",
+                  "content": "For one, the country has a very stable and prosperous economy."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 30,
+              "stem": "填入原文第 [30] 空的最佳选项。",
+              "scoreValue": 2.0,
+              "verified": false,
+              "options": [
+                {
+                  "key": "A",
+                  "content": "They urge it to change its bank laws."
+                },
+                {
+                  "key": "B",
+                  "content": "Banks strictly protect the privacy of their clients."
+                },
+                {
+                  "key": "C",
+                  "content": "Private banking has a long tradition in the country."
+                },
+                {
+                  "key": "D",
+                  "content": "Banks play an important role in Switzerland's economy."
+                },
+                {
+                  "key": "E",
+                  "content": "Foreigners in troubled areas also kept money in Swiss banks."
+                },
+                {
+                  "key": "F",
+                  "content": "For one, the country has a very stable and prosperous economy."
+                }
+              ],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_cloze",
+      "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
+      "sortOrder": 5,
+      "scorePerQuestion": 1.5,
+      "passage": "**Education in New Zealand**\n\nEducation in New Zealand is compulsory (强制的) between the ages of 6 and 16. All children between these ages must [31] school. Most children begin their schooling at 5. This period includes primary and secondary education, and it is [32].\n\nEarly childhood covers the period from birth to 6 years old. This period may include both care and education. There are many [33] such as play centers and kindergartens. More and more people are realizing the [34] of early childhood education. Now 60 percent of children under 5 join in some form of pre-school education.\n\nChildren go to primary school for 8 years or up to the age of about 13. They [35] go to secondary schools for a further 5 years. Some students may decide to leave school at 16.\n\nHigher education [36] any education or training that takes place after secondary school. In New Zealand, this includes universities, [37], and training schools.\n\nNew Zealand is [38] becoming multi-cultural. More and more international [39] are studying there. The education system is adapting to [40] the needs of different cultural groups.",
+      "instructions": "从备选词汇池中选择最佳单词填入空白处。",
+      "optionsPool": [
+        {
+          "key": "A",
+          "content": "meet"
+        },
+        {
+          "key": "B",
+          "content": "students"
+        },
+        {
+          "key": "C",
+          "content": "quickly"
+        },
+        {
+          "key": "D",
+          "content": "means"
+        },
+        {
+          "key": "E",
+          "content": "free"
+        },
+        {
+          "key": "F",
+          "content": "wisely"
+        },
+        {
+          "key": "G",
+          "content": "then"
+        },
+        {
+          "key": "H",
+          "content": "value"
+        },
+        {
+          "key": "I",
+          "content": "choices"
+        },
+        {
+          "key": "J",
+          "content": "quit"
+        },
+        {
+          "key": "K",
+          "content": "attend"
+        },
+        {
+          "key": "L",
+          "content": "colleges"
+        }
+      ],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "填词补文",
+          "questions": [
+            {
+              "questionNumber": 31,
+              "stem": "填入原文第 [31] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "K",
+                  "originalAnswer": "K",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 32,
+              "stem": "填入原文第 [32] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "E",
+                  "originalAnswer": "E",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 33,
+              "stem": "填入原文第 [33] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "I",
+                  "originalAnswer": "I",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 34,
+              "stem": "填入原文第 [34] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "H",
+                  "originalAnswer": "H",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 35,
+              "stem": "填入原文第 [35] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "G",
+                  "originalAnswer": "G",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 36,
+              "stem": "填入原文第 [36] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "D",
+                  "originalAnswer": "D",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 37,
+              "stem": "填入原文第 [37] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "L",
+                  "originalAnswer": "L",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 38,
+              "stem": "填入原文第 [38] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "C",
+                  "originalAnswer": "C",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 39,
+              "stem": "填入原文第 [39] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "B",
+                  "originalAnswer": "B",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 40,
+              "stem": "填入原文第 [40] 空的最佳选项。",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "A",
+                  "originalAnswer": "A",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "word_formation",
+      "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
+      "sortOrder": 6,
+      "scorePerQuestion": 1.5,
+      "passage": "### 短文原文\n**Body Image**\n\nMany people are not satisfied (satisfy) with their body images. They are **41** (encourage) to have plastic surgeries (整形手术), diet plans, or diet pills.\nHowever, to build a positive body image **42** (require) a balanced diet and a **43** (health) lifestyle. In our daily life, to eat more fruits and **44** (vegetable) than meat will help us keep fit, and the best way to keep ourselves in shape is to do some vigorous exercise every day.\nBesides, a correct attitude is **45** (equal) important. We should not feel **46** (embarrass) about our bodies. We should not believe our body is a shame of personal **47** (fail). We do not need to be as **48** (attract) as everyone else. Instead, we should love ourselves rather than desire for **49** (possible) standards. We should have a real and clear understanding of our body parts, and appreciate our body for the way it is. In this way, we will feel **50** (comfort) and confident.\n\n### 题目\n**41.** (encourage)",
+      "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "完形补文",
+          "questions": [
+            {
+              "questionNumber": 41,
+              "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
+              "baseWord": "encourage",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "encouraged",
+                  "originalAnswer": "encouraged",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 42,
+              "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
+              "baseWord": "require",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "requires",
+                  "originalAnswer": "requires",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 43,
+              "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
+              "baseWord": "health",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "healthy",
+                  "originalAnswer": "healthy",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 44,
+              "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
+              "baseWord": "vegetable",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "vegetables",
+                  "originalAnswer": "vegetables",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 45,
+              "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
+              "baseWord": "equal",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "equally",
+                  "originalAnswer": "equally",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 46,
+              "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
+              "baseWord": "embarrass",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "embarrassed",
+                  "originalAnswer": "embarrassed",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 47,
+              "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
+              "baseWord": "fail",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "failure",
+                  "originalAnswer": "failure",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 48,
+              "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
+              "baseWord": "attract",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "attractive",
+                  "originalAnswer": "attractive",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 49,
+              "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
+              "baseWord": "possible",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "impossible",
+                  "originalAnswer": "impossible",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            },
+            {
+              "questionNumber": 50,
+              "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
+              "baseWord": "comfort",
+              "scoreValue": 1.5,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "comfortable",
+                  "originalAnswer": "comfortable",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "essay",
+      "title": "第七部分：短文写作（第51题，30分）",
+      "sortOrder": 7,
+      "scorePerQuestion": 30.0,
+      "passage": "**51.** 假设你的美国朋友 John 给你发来一封电子邮件，表示他对中国传统文化很感兴趣，希望你能为他简要介绍一个中国的传统节日 (Traditional Chinese Festival)。以下是你给他回复邮件的主要内容:\n- 节日名称\n- 节日由来\n- 人们如何庆祝这一节日\n请以 Li Ke 署名。\n\n### 答案",
+      "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
+      "optionsPool": [],
+      "tasks": [
+        {
+          "sortOrder": 1,
+          "title": "短文写作",
+          "questions": [
+            {
+              "questionNumber": 51,
+              "stem": "短文写作",
+              "scoreValue": 30.0,
+              "verified": false,
+              "options": [],
+              "answerRules": [
+                {
+                  "standardAnswer": "略",
+                  "explanation": "**标准答案**:\n(以下为参考范文：)\n**参考范文（本次校订示例，非官方标准答案）**\nDear John,\n\nI'm glad you are interested in Chinese culture. I'd like to introduce the Spring Festival, which marks the beginning of the Chinese lunar year. It grew out of traditional celebrations welcoming a new year and expressing hopes for a good harvest.\n\nBefore the festival, people clean their homes and put up red decorations. On New Year's Eve, families get together for a special dinner. During the holiday, we visit relatives and friends, exchange good wishes and give children red envelopes. I enjoy it because it brings my family together.\n\nI hope you can celebrate it with us someday.\n\nBest wishes,\nLi Ke\n</2021年4月高等教育自学考试英语(二)试题>",
+                  "acceptableAnswers": [],
+                  "caseSensitive": false,
+                  "disputed": false
+                }
+              ],
+              "sourceReferences": [
+                {
+                  "sourceFileName": "2021年04月真题.md",
+                  "extractionMethod": "ocr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

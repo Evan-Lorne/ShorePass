@@ -1,5 +1,5 @@
 import { prisma } from "./prisma";
-import { runQualityCheck } from "./qualityCheck";
+import { runPreviewQualityCheck, runQualityCheck } from "./qualityCheck";
 
 export const paperInclude = {
   sections: {
@@ -27,6 +27,9 @@ export function getPaper(id: string) {
 }
 export type StudyPaper = NonNullable<Awaited<ReturnType<typeof getPaper>>>;
 export type StudyQuestion = StudyPaper["sections"][number]["tasks"][number]["questions"][number];
+export function previewReady(paper: StudyPaper) {
+  return runPreviewQualityCheck(paper).length === 0;
+}
 export function published(paper: StudyPaper) {
   return (
     paper.verified &&
