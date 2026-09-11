@@ -1,8 +1,9 @@
 import Link from "next/link";
 import { BookOpen, ArrowRight, Filter } from "lucide-react";
 import { prisma } from "@/lib/prisma";
-import { paperInclude, published } from "@/lib/paper";
+import { paperInclude, previewReady, published } from "@/lib/paper";
 import PaperProgress from "@/components/PaperProgress";
+import Select from "@/components/Select";
 export const dynamic = "force-dynamic";
 export default async function PapersPage({
   searchParams,
@@ -29,6 +30,8 @@ export default async function PapersPage({
         s.tasks.some((t) => t.questions.some((q) => q.stem === "Sample stem"))
       )
   );
+  const previewableCount = visible.filter(previewReady).length;
+  const blockedPreviewCount = visible.length - previewableCount;
   return (
     <main className="page">
       <div className="page-title">
@@ -57,31 +60,31 @@ export default async function PapersPage({
           <label htmlFor="region" className="field-label">
             地区
           </label>
-          <select id="region" name="region" defaultValue={text("region")}>
+          <Select id="region" name="region" defaultValue={text("region")}>
             <option value="">全部地区</option>
             <option value="national">全国卷</option>
             <option value="jiangsu">江苏卷</option>
-          </select>
+          </Select>
         </div>
         <div>
           <label htmlFor="courseCode" className="field-label">
             课程
           </label>
-          <select id="courseCode" name="courseCode" defaultValue={text("courseCode")}>
+          <Select id="courseCode" name="courseCode" defaultValue={text("courseCode")}>
             <option value="">全部课程</option>
             <option value="00015">00015 英语（二）</option>
             <option value="13000">13000 英语专升本</option>
-          </select>
+          </Select>
         </div>
         <div>
           <label htmlFor="paperType" className="field-label">
             试卷类型
           </label>
-          <select id="paperType" name="paperType" defaultValue={text("paperType")}>
+          <Select id="paperType" name="paperType" defaultValue={text("paperType")}>
             <option value="">全部类型</option>
             <option value="exam">历年真题</option>
             <option value="prediction">模拟 / 押题</option>
-          </select>
+          </Select>
         </div>
         <button className="button primary">
           <Filter size={16} />
@@ -92,17 +95,25 @@ export default async function PapersPage({
         </Link>
       </form>
       {visible.length > 0 && !visible.some(published) && (
-        <p className="notice">当前题库尚待人工核验，仅开放练习预览，暂不提供正式模考。</p>
+        <p className="notice">
+          当前无已核验试卷；{previewableCount} 套可作为待核验练习预览，暂不提供正式模考。
+        </p>
+      )}
+      {blockedPreviewCount > 0 && (
+        <p className="notice error">
+          另有 {blockedPreviewCount} 套含缺失原文或占位题目，已暂停练习并标记为“待整理”。
+        </p>
       )}
       <div className="paper-list">
         {visible.map((p) => {
           const count = p.sections.flatMap((s) => s.tasks.flatMap((t) => t.questions)).length;
           const ready = published(p);
+          const canPreview = previewReady(p);
           return (
             <article className="paper-item" key={p.id}>
               <div className="paper-meta">
                 <span className={`badge ${ready ? "good" : "warn"}`}>
-                  {ready ? "已核验" : "待核验预览"}
+                  {ready ? "已核验" : canPreview ? "待核验预览" : "待整理"}
                 </span>
                 <span>
                   {p.paperType === "exam" ? "历年真题" : "模拟 / 押题"} · {p.courseCode}
@@ -118,7 +129,7 @@ export default async function PapersPage({
               <PaperProgress paperId={p.id} />
               <footer>
                 <span className="muted">{p.sections.length} 个题型部分</span>
-                <Link className="button primary" href={`/papers/${p.id}`}>
+                <Link className={`button ${canPreview ? "primary" : ""}`} href={`/papers/${p.id}`}>
                   查看试卷
                   <ArrowRight size={16} />
                 </Link>

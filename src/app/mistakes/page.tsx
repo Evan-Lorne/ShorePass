@@ -6,6 +6,7 @@ import { useStudy } from "@/lib/use-study";
 import { typeLabels, type Mistake } from "@/lib/study-types";
 import { request } from "@/lib/client";
 import Dialog from "@/components/Dialog";
+import Select from "@/components/Select";
 import AnswerInput from "@/components/AnswerInput";
 import { newId } from "@/lib/id";
 export default function MistakesPage() {
@@ -71,26 +72,26 @@ export default function MistakesPage() {
           <label className="field-label" htmlFor="type">
             题型
           </label>
-          <select id="type" value={type} onChange={(e) => setType(e.target.value)}>
+          <Select id="type" value={type} onChange={(e) => setType(e.target.value)}>
             <option value="">全部题型</option>
             {Object.entries(typeLabels).map(([id, name]) => (
               <option value={id} key={id}>
                 {name}
               </option>
             ))}
-          </select>
+          </Select>
         </div>
         <div>
           <label className="field-label" htmlFor="mastery">
             掌握状态
           </label>
-          <select id="mastery" value={state} onChange={(e) => setState(e.target.value)}>
+          <Select id="mastery" value={state} onChange={(e) => setState(e.target.value)}>
             <option value="active">待复习</option>
             <option value="unmastered">未掌握</option>
             <option value="consolidating">巩固中</option>
             <option value="mastered">已掌握</option>
             <option value="all">全部</option>
-          </select>
+          </Select>
         </div>
       </div>
       {error && (
@@ -152,57 +153,65 @@ export default function MistakesPage() {
           <p className="muted">
             {typeLabels[review.question.task.section.type]} · 第 {review.question.questionNumber} 题
           </p>
-          {review.question.task.section.passage && (
-            <details>
-              <summary className="mt-3">阅读原文</summary>
-              <div className="review-passage">{review.question.task.section.passage}</div>
-            </details>
-          )}
-          <h3 className="my-5">{review.question.stem}</h3>
-          <AnswerInput
-            question={review.question}
-            type={review.question.task.section.type}
-            pool={review.question.task.section.options}
-            value={answer}
-            disabled={busy || !!result}
-            onChange={setAnswer}
-          />
-          {failure && (
-            <p className="notice error" role="alert">
-              {failure}
+          {review.question.answerRules[0]?.disputed ? (
+            <p className="notice mt-3">
+              该题原稿存在争议，暂不支持自动判分，请以试卷解析为准。
             </p>
-          )}
-          {result ? (
-            <div className="mt-5">
-              <p className={result.correct ? "badge good" : "badge wrong"} role="status">
-                {result.correct
-                  ? result.record.consecutiveCorrect >= 2
-                    ? "已掌握 · 连续答对 2 次"
-                    : "答对了 · 巩固中 1 / 2"
-                  : "答错了 · 连对次数已重置"}
-              </p>
-              <p className="mt-4">参考答案：{result.rule.standardAnswer}</p>
-              <p className="muted mt-2">{result.rule.explanation || "暂无解析"}</p>
-              <div className="actions mt-5">
-                <button className="button" onClick={() => setReview(null)}>
-                  返回错题本
-                </button>
-                <button
-                  className="button primary"
-                  onClick={() => start({ ...review, ...result.record })}
-                >
-                  再次练习
-                </button>
-              </div>
-            </div>
           ) : (
-            <button
-              className="button primary mt-5"
-              disabled={busy || !answer.trim()}
-              onClick={submit}
-            >
-              {busy ? "保存中…" : "提交答案"}
-            </button>
+            <>
+              {review.question.task.section.passage && (
+                <details>
+                  <summary className="mt-3">阅读原文</summary>
+                  <div className="review-passage">{review.question.task.section.passage}</div>
+                </details>
+              )}
+              <h3 className="my-5">{review.question.stem}</h3>
+              <AnswerInput
+                question={review.question}
+                type={review.question.task.section.type}
+                pool={review.question.task.section.options}
+                value={answer}
+                disabled={busy || !!result}
+                onChange={setAnswer}
+              />
+              {failure && (
+                <p className="notice error" role="alert">
+                  {failure}
+                </p>
+              )}
+              {result ? (
+                <div className="mt-5">
+                  <p className={result.correct ? "badge good" : "badge wrong"} role="status">
+                    {result.correct
+                      ? result.record.consecutiveCorrect >= 2
+                        ? "已掌握 · 连续答对 2 次"
+                        : "答对了 · 巩固中 1 / 2"
+                      : "答错了 · 连对次数已重置"}
+                  </p>
+                  <p className="mt-4">参考答案：{result.rule.standardAnswer}</p>
+                  <p className="muted mt-2">{result.rule.explanation || "暂无解析"}</p>
+                  <div className="actions mt-5">
+                    <button className="button" onClick={() => setReview(null)}>
+                      返回错题本
+                    </button>
+                    <button
+                      className="button primary"
+                      onClick={() => start({ ...review, ...result.record })}
+                    >
+                      再次练习
+                    </button>
+                  </div>
+                </div>
+              ) : (
+                <button
+                  className="button primary mt-5"
+                  disabled={busy || !answer.trim()}
+                  onClick={submit}
+                >
+                  {busy ? "保存中…" : "提交答案"}
+                </button>
+              )}
+            </>
           )}
         </Dialog>
       )}

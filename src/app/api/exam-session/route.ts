@@ -2,7 +2,7 @@ import { z } from "zod";
 import { prisma } from "@/lib/prisma";
 import { device } from "@/lib/auth";
 import { api, HttpError } from "@/lib/http";
-import { getPaper, published } from "@/lib/paper";
+import { getPaper, previewReady, published } from "@/lib/paper";
 export async function POST(request: Request) {
   return api(async () => {
     const owner = await device(request);
@@ -15,6 +15,8 @@ export async function POST(request: Request) {
       .parse(await request.json());
     const paper = await getPaper(paperId);
     if (!paper) throw new HttpError(404, "试卷不存在。");
+    if (!previewReady(paper))
+      throw new HttpError(403, "试卷存在缺失原文或占位题目，暂不可练习。");
     if (mode === "mock" && !published(paper))
       throw new HttpError(403, "试卷尚未通过完整核验，暂不可模考。");
     if (!paper.sections.some((s) => s.tasks.some((t) => t.questions.length)))

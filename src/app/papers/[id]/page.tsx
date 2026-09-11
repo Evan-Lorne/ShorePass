@@ -1,11 +1,12 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getPaper, published } from "@/lib/paper";
+import { getPaper, previewReady, published } from "@/lib/paper";
 import { typeLabels } from "@/lib/study-types";
 export default async function PaperDetailPage({ params }: { params: Promise<{ id: string }> }) {
   const paper = await getPaper((await params).id);
   if (!paper) notFound();
   const ready = published(paper);
+  const canPreview = previewReady(paper);
   return (
     <main className="page">
       <Link className="muted" href="/papers">
@@ -19,15 +20,21 @@ export default async function PaperDetailPage({ params }: { params: Promise<{ id
           </p>
         </div>
       </div>
-      {!ready && (
+      {!canPreview ? (
+        <p className="notice error">此卷存在缺失原文或占位题目，尚不具备练习条件。</p>
+      ) : !ready && (
         <p className="notice">
           此卷尚未通过完整核验，当前为预览内容。题干、答案与来源可能仍需校订。
         </p>
       )}
       <div className="actions">
-        <Link className="button primary" href={`/practice/${paper.id}/exam?mode=practice&new=1`}>
-          {ready ? "开始练习" : "开始预览练习"}
-        </Link>
+        {canPreview ? (
+          <Link className="button primary" href={`/practice/${paper.id}/exam?mode=practice&new=1`}>
+            {ready ? "开始练习" : "开始预览练习"}
+          </Link>
+        ) : (
+          <button className="button" disabled>预览待整理</button>
+        )}
         {ready ? (
           <Link className="button" href={`/practice/${paper.id}/exam?mode=mock&new=1`}>
             全真模考

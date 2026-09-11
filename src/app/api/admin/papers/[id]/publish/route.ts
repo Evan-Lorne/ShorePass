@@ -40,7 +40,10 @@ export async function POST(request: Request, { params }: { params: Promise<{ id:
     }
 
     if (action === "publish") {
-      const errors = runQualityCheck(paper);
+      // Publishing is the transition that promotes an evidence-complete draft to
+      // verified. Validate the target state while still requiring every question,
+      // source page and answer rule to pass the full quality check.
+      const errors = runQualityCheck({ ...paper, verified: true });
 
       if (errors.length > 0) {
         // Update block reasons
@@ -61,6 +64,7 @@ export async function POST(request: Request, { params }: { params: Promise<{ id:
       await prisma.paper.update({
         where: { id },
         data: {
+          verified: true,
           publishBlocked: false,
           status: "verified",
           blockReasons: null,
