@@ -8,23 +8,18 @@
   "paperType": "exam",
   "totalScore": 100,
   "suggestedMinutes": 150,
-  "verified": false,
-  "status": "draft",
-  "publishBlocked": true,
-  "blockReasons": [
-    {
-      "code": "ocr_unverified",
-      "description": "全量批量导入草稿，待逐题人工核对"
-    }
-  ],
-  "sourceFile": "2018年10月真题.md",
+  "verified": true,
+  "status": "verified",
+  "publishBlocked": false,
+  "blockReasons": [],
+  "sourceFile": "2018年10月.pdf",
   "sections": [
     {
       "type": "reading_judgment",
       "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
       "sortOrder": 1,
-      "scorePerQuestion": 1.0,
-      "passage": "**短文原文**:\n**The British Summer**\nBritain is well known for its rainy climate. People joke that even in the summer time the country never gets any sun and that the skies stay disappointingly grey even during the months of July and August.\nLast summer though, it was so hot that people could hardly believe it. British people weren’t used to such high temperatures, so every day on the news there were stories about people struggling to work in such unusual weather conditions. Radio and television programmes also reminded everyone to drink more water and not to stay too long in the sun.\nWhen the sun comes out, British people tend to spend time in their garden if they have one. It's common to invite friends and neighbours around for a barbecue, where everyone sits outside and eats food like grilled meat (烤肉) and salads. There's always a back-up plan in case of rain though, and the meal sometimes has to be cooked in the kitchen and eaten indoors.\nPeople also spend a lot of time in parks during the summer, having picnics or playing sports. In every green area, there's always at least one ice cream van, a kind of car that plays children's music and sells ice creams.\nTowns like Blackpool and Brighton are popular for their beaches and amusement arcades (游乐场). People go there to swim, sunbathe and eat fish and chips. The water can be quite cold, though, and that's why quite a lot of people prefer to go abroad for their summer holiday instead. Popular destinations include Spain, Germany and France: all countries that promise a lot of sunshine!\n\n### 题目",
+      "scorePerQuestion": 1,
+      "passage": "The British Summer\nBritain is well known for its rainy climate. People joke that even in the summer time the country never gets any sun and that the skies stay disappointingly grey even during the months of July and August.\nLast summer though, it was so hot that people could hardly believe it. British people weren’t used to such high temperatures, so every day on the news there were stories about people struggling to work in such unusual weather conditions. Radio and television programmes also reminded everyone to drink more water and not to stay too long in the sun.\nWhen the sun comes out, British people tend to spend time in their garden if they have one. It's common to invite friends and neighbours around for a barbecue, where everyone sits outside and eats food like grilled meat (烤肉) and salads. There's always a back-up plan in case of rain though, and the meal sometimes has to be cooked in the kitchen and eaten indoors.\nPeople also spend a lot of time in parks during the summer, having picnics or playing sports. In every green area, there's always at least one ice cream van, a kind of car that plays children's music and sells ice creams.\nTowns like Blackpool and Brighton are popular for their beaches and amusement arcades (游乐场). People go there to swim, sunbathe and eat fish and chips. The water can be quite cold, though, and that's why quite a lot of people prefer to go abroad for their summer holiday instead. Popular destinations include Spain, Germany and France: all countries that promise a lot of sunshine!",
       "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
       "optionsPool": [],
       "tasks": [
@@ -34,9 +29,9 @@
           "questions": [
             {
               "questionNumber": 1,
-              "stem": "There is little sunshine in Britain in summer.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "There is little sunshine in Britain in summer.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -62,16 +57,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 2,
-              "stem": "British people like to tell jokes about each other.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "British people like to tell jokes about each other.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -97,16 +106,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 3,
-              "stem": "It was unusually hot last summer in Britain.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "It was unusually hot last summer in Britain.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -132,16 +155,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 4,
-              "stem": "British people enjoyed the high temperatures of last summer.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "British people enjoyed the high temperatures of last summer.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -167,16 +204,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 5,
-              "stem": "The media advised people to enjoy the sunshine.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "The media advised people to enjoy the sunshine.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -202,16 +253,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 6,
-              "stem": "Most British people have a garden of their own.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Most British people have a garden of their own.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -237,16 +302,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 7,
-              "stem": "People having a barbecue often have a plan against the rain.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "People having a barbecue often have a plan against the rain.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -272,16 +351,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 8,
-              "stem": "Children like the music from the ice cream vans.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Children like the music from the ice cream vans.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -307,16 +400,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 9,
-              "stem": "Blackpool and Brighton are known for their beaches.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Blackpool and Brighton are known for their beaches.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -342,16 +449,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 10,
-              "stem": "People go to Spain in summer to enjoy the cooler sea water.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "People go to Spain in summer to enjoy the cooler sea water.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -377,8 +498,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -390,8 +525,8 @@
       "type": "reading_comprehension",
       "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
       "sortOrder": 2,
-      "scorePerQuestion": 2.0,
-      "passage": "**短文原文**:\n**Horse Talk**\nDo you know horses talk? You can learn to understand \"horse talk\" if you pay close attention to them.\nWhen horses live in the wild, other animals try to eat them, so a lot of horse talk is about staying alive. Even now, when most horses live on farms, they watch for danger. For this reason, never walk behind a horse. If you surprise it, the horse might mistake you for a lion or wolf and give a dangerous kick.\nBy watching the ears, you can get clues to what the horse is hearing. A horse can turn each ear in a different direction. For a wild horse, this skill is important for survival. The horse can hear something creeping up behind it while also checking out a threatening noise in front. When a horse lets its ears down, it's feeling safe and relaxed. Though these actions may be natural responses and not deliberate communications, they help you know what the horse is thinking.\nSometimes horses can send definite messages. For example, they know they are safer when they're with other horses. If they become isolated, they \"whinny (嘶鸣),\" calling for company. They're saying, \"Where are you? I'm over here!\" Domestic horses use the same sounds to stay in touch with other horses.\nIf a horse snorts (打响鼻儿), it's not communicating anything. It's just clearing dust or grass seed out of its nose. But if it snorts while holding its head high and staring at something, it's saying, \"That looks dangerous. Get ready to run!\" When two horses meet, they put their noses together and smell each other's breath. It's their way of asking, \"Are you a friend?\" Horses also \"blow,\" breathing out the air loudly through the nose, when they meet something strange. They are asking, \"Is this safe?\"\nHorses have a language of their own. Now you know a bit of what they might be saying!\n\n### 题目",
+      "scorePerQuestion": 2,
+      "passage": "Horse Talk\nDo you know horses talk? You can learn to understand \"horse talk\" if you pay close attention to them.\nWhen horses live in the wild, other animals try to eat them, so a lot of horse talk is about staying alive. Even now, when most horses live on farms, they watch for danger. For this reason, never walk behind a horse. If you surprise it, the horse might mistake you for a lion or wolf and give a dangerous kick.\nBy watching the ears, you can get clues to what the horse is hearing. A horse can turn each ear in a different direction. For a wild horse, this skill is important for survival. The horse can hear something creeping up behind it while also checking out a threatening noise in front. When a horse lets its ears down, it's feeling safe and relaxed. Though these actions may be natural responses and not deliberate communications, they help you know what the horse is thinking.\nSometimes horses can send definite messages. For example, they know they are safer when they're with other horses. If they become isolated, they \"whinny (嘶鸣),\" calling for company. They're saying, \"Where are you? I'm over here!\" Domestic horses use the same sounds to stay in touch with other horses.\nIf a horse snorts (打响鼻儿), it's not communicating anything. It's just clearing dust or grass seed out of its nose. But if it snorts while holding its head high and staring at something, it's saying, \"That looks dangerous. Get ready to run!\" When two horses meet, they put their noses together and smell each other's breath. It's their way of asking, \"Are you a friend?\" Horses also \"blow,\" breathing out the air loudly through the nose, when they meet something strange. They are asking, \"Is this safe?\"\nHorses have a language of their own. Now you know a bit of what they might be saying!",
       "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
       "optionsPool": [],
       "tasks": [
@@ -401,9 +536,9 @@
           "questions": [
             {
               "questionNumber": 11,
-              "stem": "Horses in the wild “talk” mainly to _____.\n- A. stay alive\n- B. make friends\n- C. find food\n- D. keep awake",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "Horses in the wild “talk” mainly to _____.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -433,16 +568,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 12,
-              "stem": "It is dangerous to _____.\n- A. touch a horse’s ears\n- B. ride a horse on farms\n- C. surprise a horse from behind\n- D. stare at a horse from front",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "It is dangerous to _____.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -472,16 +621,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 13,
-              "stem": "A horse's ears are special because they can _____.\n- A. send messages\n- B. turn to different directions\n- C. sense temperatures\n- D. clear out the dust",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "A horse's ears are special because they can _____.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -511,16 +674,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 14,
-              "stem": "When a horse's ears are down, we know that it is _____.\n- A. isolated\n- B. relaxed\n- C. angry\n- D. anxious",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "When a horse's ears are down, we know that it is _____.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -550,16 +727,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 15,
-              "stem": "From the text, we know that horses _____.\n- A. are dangerous animals\n- B. can hardly survive in the wild\n- C. prefer to stay in groups\n- D. have different language systems",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "From the text, we know that horses _____.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -589,8 +780,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -602,8 +807,8 @@
       "type": "summary_completion",
       "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
       "sortOrder": 3,
-      "scorePerQuestion": 1.0,
-      "passage": "**短文原文**:\n**Hawaii, the Aloha State**\n① Hawaii is sometimes called \"the Aloha State.\" Aloha is a word in the Hawaiian language meaning love and peace. It is often used as a way to say \"hello\" or \"goodbye.\" Hawaii is like the word aloha, because it is a state that has two viewpoints: it remembers its history and looks toward the future.\n② Hawaii is a U.S. state made up of a group of islands in the Pacific Ocean. It is made up of eight large islands and over 100 other smaller islands. It is the only state that is not in North America. The islands were formed by volcanoes that erupted (爆发) and rose above the ocean. There are still active volcanoes in Hawaii.\n③ Because of its location, Hawaii has a tropical climate. It is warm, but usually not hot, all year long. Rarely does the temperature drop below 60 degrees Fahrenheit (华氏温度), although it may occasionally snow at the top of some of the mountains.\n④ Once called the Sandwich Islands by Europeans, Hawaii is thought to have been settled by ancient sailors from other islands in the Pacific. The British explorer Captain Cook was thought to be the first European to find the islands in 1778. Because of its location, Hawaii became a frequent stop for European traders and ships. Hawaii was an independent country before it became part of the United States in 1893. It was governed by either a king or a queen. It is one of the only four U.S. states to have been a country before statehood. It was admitted into the Union in 1959 as the 50th state.\n⑤ Today Hawaii is important as a vacation destination. Each year over 6 million people visit Hawaii to enjoy the beaches, the beautiful ocean, and the historical Hawaiian culture. Come and visit Hawaii. You are sure to love it!\n\n###",
+      "scorePerQuestion": 1,
+      "passage": "Hawaii, the Aloha State\n① Hawaii is sometimes called \"the Aloha State.\" Aloha is a word in the Hawaiian language meaning love and peace. It is often used as a way to say \"hello\" or \"goodbye.\" Hawaii is like the word aloha, because it is a state that has two viewpoints: it remembers its history and looks toward the future.\n② Hawaii is a U.S. state made up of a group of islands in the Pacific Ocean. It is made up of eight large islands and over 100 other smaller islands. It is the only state that is not in North America. The islands were formed by volcanoes that erupted (爆发) and rose above the ocean. There are still active volcanoes in Hawaii.\n③ Because of its location, Hawaii has a tropical climate. It is warm, but usually not hot, all year long. Rarely does the temperature drop below 60 degrees Fahrenheit (华氏温度), although it may occasionally snow at the top of some of the mountains.\n④ Once called the Sandwich Islands by Europeans, Hawaii is thought to have been settled by ancient sailors from other islands in the Pacific. The British explorer Captain Cook was thought to be the first European to find the islands in 1778. Because of its location, Hawaii became a frequent stop for European traders and ships. Hawaii was an independent country before it became part of the United States in 1893. It was governed by either a king or a queen. It is one of the only four U.S. states to have been a country before statehood. It was admitted into the Union in 1959 as the 50th state.\n⑤ Today Hawaii is important as a vacation destination. Each year over 6 million people visit Hawaii to enjoy the beaches, the beautiful ocean, and the historical Hawaiian culture. Come and visit Hawaii. You are sure to love it!\n\n###",
       "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
       "optionsPool": [],
       "tasks": [
@@ -614,8 +819,8 @@
             {
               "questionNumber": 16,
               "stem": "Paragraph ①:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -653,16 +858,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 17,
               "stem": "Paragraph ②:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -700,16 +919,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 18,
               "stem": "Paragraph ③:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -747,16 +980,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 19,
               "stem": "Paragraph ④:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -794,16 +1041,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 20,
               "stem": "Paragraph ⑤:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -841,8 +1102,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -855,8 +1130,8 @@
             {
               "questionNumber": 21,
               "stem": "Aloha is often used as _____.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -894,16 +1169,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 22,
               "stem": "Hawaii islands are formed by _____.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -941,16 +1230,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 23,
               "stem": "Visitors can see snow on _____.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -988,16 +1291,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 24,
               "stem": "Hawaii used to be ruled by _____.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1035,16 +1352,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 25,
               "stem": "People visit Hawaii for _____.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1082,8 +1413,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1095,8 +1440,8 @@
       "type": "sentence_fill",
       "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
       "sortOrder": 4,
-      "scorePerQuestion": 2.0,
-      "passage": "**短文原文**:\n**George Washington Carver**\nGeorge Washington Carver was born in Missouri between 1861 and 1864. He was born into slavery. It was not until the end of the Civil War that George became free. As he grew up, George loved to read and learn. Black children were not allowed to go to the same schools as white children. __[26] Every early morning, he left home to go to the school. There he studied very hard.\nAfter he finished high school, George wanted to go to college. At that time, few black students could afford the college tuition (学费). He worked for a time until he could borrow money to go to college. In 1890 he went to Simpson College in Iowa. __[27] His drawings of plants were so good that his teacher suggested he study botany, which is the science of plants. George went to an agricultural college in Iowa in 1891, where he not only graduated but also taught students.\nGeorge continued to study plants. __[28] In 1896, he was invited to teach at the Tuskegee Institute in Alabama. He worked there as a professor for 47 years. He also became an important research scientist. He discovered new ways to use plants. __[29] These include dyes, plastics, paint, and make-up. He also taught farmers how to grow crops to help the soil, and new ways to farm.\nIn 1943 George Washington Carver died. __[30] There is a national monument to him in Missouri where he grew up. He has had a ship named after him. In 1990 he was admitted to the National Inventors Hall of Fame. The boy who wanted to learn became a great inventor and scientist.\n\n**备选句子池**:\n\n### 题目\n**26.**\n**标准答案**: F\n\n**27.**\n**标准答案**: A\n\n**28.**\n**标准答案**: D\n\n**29.**\n**标准答案**: B\n\n**30.**\n**标准答案**: C",
+      "scorePerQuestion": 2,
+      "passage": "George Washington Carver\nGeorge Washington Carver was born in Missouri between 1861 and 1864. He was born into slavery. It was not until the end of the Civil War that George became free. As he grew up, George loved to read and learn. Black children were not allowed to go to the same schools as white children. [26] Every early morning, he left home to go to the school. There he studied very hard.\nAfter he finished high school, George wanted to go to college. At that time, few black students could afford the college tuition (学费). He worked for a time until he could borrow money to go to college. In 1890 he went to Simpson College in Iowa. [27] His drawings of plants were so good that his teacher suggested he study botany, which is the science of plants. George went to an agricultural college in Iowa in 1891, where he not only graduated but also taught students.\nGeorge continued to study plants. [28] In 1896, he was invited to teach at the Tuskegee Institute in Alabama. He worked there as a professor for 47 years. He also became an important research scientist. He discovered new ways to use plants. [29] These include dyes, plastics, paint, and make-up. He also taught farmers how to grow crops to help the soil, and new ways to farm.\nIn 1943 George Washington Carver died. [30] There is a national monument to him in Missouri where he grew up. He has had a ship named after him. In 1990 he was admitted to the National Inventors Hall of Fame. The boy who wanted to learn became a great inventor and scientist.",
       "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
       "optionsPool": [
         {
@@ -1132,8 +1477,8 @@
             {
               "questionNumber": 26,
               "stem": "填入原文第 [26] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1171,16 +1516,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 27,
               "stem": "填入原文第 [27] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1218,16 +1571,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 28,
               "stem": "填入原文第 [28] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1265,16 +1626,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 29,
               "stem": "填入原文第 [29] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1312,16 +1681,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 30,
               "stem": "填入原文第 [30] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1359,8 +1736,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1373,7 +1758,7 @@
       "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
       "sortOrder": 5,
       "scorePerQuestion": 1.5,
-      "passage": "**短文原文**:\n**Warmth at Midnight**\nCanberra winters are extremely cold, and 2014 brought some of our coldest days. One weekday night I walked to the __[31] supermarket before it closed at midnight.\nAs I approached, I noticed a group of six or seven people __[32] by the supermarket entrance. Aware of the __[33] of late-night walking, I made sure I paid attention. The scene ahead looked unusual.\nAnd unusual it was. Expecting to see a group of __[34] troublemakers, I found a weak, well-dressed old man distributing items of food to a group of homeless people. Rather than just feeding them, he was also engaging them in a __[35] of warm discussion.\nThe homeless people were rough-looking and __[36] dressed. But they listened to the man __[37], not just with gratitude for the food they had been __[38]. With no charity vehicle in sight, this old man was only representing himself.\nAfter I finished shopping, the group was still there, food __[39], but all laughing. If a weak old man can give to others in the __[40] cold at midnight, what excuse do we have?\n\n**备选词汇池**:\n\n### 题目\n**31.**\n**标准答案**: B\n\n**32.**\n**标准答案**: H\n\n**33.**\n**标准答案**: A\n\n**34.**\n**标准答案**: G\n\n**35.**\n**标准答案**: L\n\n**36.**\n**标准答案**: I\n\n**37.**\n**标准答案**: F\n\n**38.**\n**标准答案**: J\n\n**39.**\n**标准答案**: K\n\n**40.**\n**标准答案**: E",
+      "passage": "Warmth at Midnight\nCanberra winters are extremely cold, and 2014 brought some of our coldest days. One weekday night I walked to the [31] supermarket before it closed at midnight.\nAs I approached, I noticed a group of six or seven people [32] by the supermarket entrance. Aware of the [33] of late-night walking, I made sure I paid attention. The scene ahead looked unusual.\nAnd unusual it was. Expecting to see a group of [34] troublemakers, I found a weak, well-dressed old man distributing items of food to a group of homeless people. Rather than just feeding them, he was also engaging them in a [35] of warm discussion.\nThe homeless people were rough-looking and [36] dressed. But they listened to the man [37], not just with gratitude for the food they had been [38]. With no charity vehicle in sight, this old man was only representing himself.\nAfter I finished shopping, the group was still there, food [39], but all laughing. If a weak old man can give to others in the [40] cold at midnight, what excuse do we have?",
       "instructions": "从备选词汇池中选择最佳单词填入空白处。",
       "optionsPool": [
         {
@@ -1434,7 +1819,7 @@
               "questionNumber": 31,
               "stem": "填入原文第 [31] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1447,8 +1832,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1456,7 +1849,7 @@
               "questionNumber": 32,
               "stem": "填入原文第 [32] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1469,8 +1862,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1478,7 +1879,7 @@
               "questionNumber": 33,
               "stem": "填入原文第 [33] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1491,8 +1892,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1500,7 +1909,7 @@
               "questionNumber": 34,
               "stem": "填入原文第 [34] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1513,8 +1922,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1522,7 +1939,7 @@
               "questionNumber": 35,
               "stem": "填入原文第 [35] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1535,8 +1952,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1544,7 +1969,7 @@
               "questionNumber": 36,
               "stem": "填入原文第 [36] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1557,8 +1982,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1566,7 +1999,7 @@
               "questionNumber": 37,
               "stem": "填入原文第 [37] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1579,8 +2012,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1588,7 +2029,7 @@
               "questionNumber": 38,
               "stem": "填入原文第 [38] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1601,8 +2042,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1610,7 +2059,7 @@
               "questionNumber": 39,
               "stem": "填入原文第 [39] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1623,8 +2072,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1632,7 +2089,7 @@
               "questionNumber": 40,
               "stem": "填入原文第 [40] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1645,8 +2102,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1659,7 +2124,7 @@
       "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
       "sortOrder": 6,
       "scorePerQuestion": 1.5,
-      "passage": "**短文原文**:\n**Keeping Friendship Alive**\nIt’s so easy to take good friends (friend) for granted. Like a __[41] (comfort) pair of gloves, old friends wear well. But friendships that suffer from busyness and __[42] (familiar) can’t afford to be neglected too long. They need to be __[43] (renew). If you want and need to keep true friendship alive and __[44] (health), please consider and think over a list of the most important qualities. __[45] (Probable) it will help you to understand why you and your best friend haven’t __[46] (call) up for ages, why you’re getting embarrassed while __[47] (be) asked “Whom are you __[48] (go) to have fun with this weekend?” You may neglect your intimate friends from time to time, but if you fail to cultivate these __[49] (virtue)—loyalty, forgiveness, dedication (奉献), and __[50] (honest)—you can’t expect to keep true friends.\n\n### 题目\n**41.** (comfort)",
+      "passage": "Keeping Friendship Alive\nIt’s so easy to take good friends (friend) for granted. Like a [41] (comfort) pair of gloves, old friends wear well. But friendships that suffer from busyness and [42] (familiar) can’t afford to be neglected too long. They need to be [43] (renew). If you want and need to keep true friendship alive and [44] (health), please consider and think over a list of the most important qualities. [45] (Probable) it will help you to understand why you and your best friend haven’t [46] (call) up for ages, why you’re getting embarrassed while [47] (be) asked “Whom are you [48] (go) to have fun with this weekend?” You may neglect your intimate friends from time to time, but if you fail to cultivate these [49] (virtue)—loyalty, forgiveness, dedication (奉献), and [50] (honest)—you can’t expect to keep true friends.",
       "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
       "optionsPool": [],
       "tasks": [
@@ -1672,7 +2137,7 @@
               "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
               "baseWord": "comfort",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1685,8 +2150,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1695,7 +2168,7 @@
               "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
               "baseWord": "familiar",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1708,8 +2181,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1718,7 +2199,7 @@
               "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
               "baseWord": "renew",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1731,8 +2212,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1741,7 +2230,7 @@
               "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
               "baseWord": "health",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1754,17 +2243,25 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 45,
               "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
-              "baseWord": "probable",
+              "baseWord": "Probable",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1777,8 +2274,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1787,7 +2292,7 @@
               "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
               "baseWord": "call",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1800,8 +2305,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1810,7 +2323,7 @@
               "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
               "baseWord": "be",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1823,8 +2336,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1833,7 +2354,7 @@
               "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
               "baseWord": "go",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1846,8 +2367,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1856,7 +2385,7 @@
               "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
               "baseWord": "virtue",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1869,8 +2398,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1879,7 +2416,7 @@
               "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
               "baseWord": "honest",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1892,8 +2429,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1905,8 +2450,8 @@
       "type": "essay",
       "title": "第七部分：短文写作（第51题，30分）",
       "sortOrder": 7,
-      "scorePerQuestion": 30.0,
-      "passage": "**51.** 某英文报社正在举办题为“Let's Save Water”的征文活动。请就以下要点写一篇英文短文应征。\n- 为什么要节约用水\n- 我们应如何节约用水",
+      "scorePerQuestion": 30,
+      "passage": "51. 某英文报社正在举办题为“Let's Save Water”的征文活动。请就以下要点写一篇英文短文应征。\n- 为什么要节约用水\n- 我们应如何节约用水",
       "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
       "optionsPool": [],
       "tasks": [
@@ -1917,22 +2462,31 @@
             {
               "questionNumber": 51,
               "stem": "短文写作",
-              "scoreValue": 30.0,
-              "verified": false,
+              "scoreValue": 30,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
                   "standardAnswer": "略",
-                  "explanation": "**标准答案**: \n(略)\n</试卷名称>",
+                  "explanation": "短文写作属于主观题，需围绕题目给出的要点完成约100词英文短文。",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "revisionNotes": "2026-09-12 对照原题第8页及答案第9页视觉核验。"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2018年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2018年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }

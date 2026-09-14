@@ -24,13 +24,7 @@ npm run dev -- --hostname 127.0.0.1 --port 3210
 
 需要 `.env` 中设置 `DATABASE_URL="file:./dev.db"`，示例见 `.env.example`。当前工作区数据库已保留并升级，不要重新运行会写入占位内容的旧测试脚本或旧种子脚本。
 
-新环境导入修复后的预览题库：
-
-```bash
-npm run import:questions -- prisma/seed-data/repaired-preview-20260910.json
-```
-
-此 JSON 是修复后的预览数据，不是已人工核验的正式真题。不要通过直接修改 verified 值跳过核验。
+首次部署到空数据库时，按 [README](README.md#本地运行) 导入全部 30 套试卷并初始化单词。已有数据库时跳过初始化导入，保留学习记录。
 
 ## 服务器运行
 
@@ -41,7 +35,7 @@ npm run import:questions -- prisma/seed-data/repaired-preview-20260910.json
 3. 设置长随机 `ADMIN_TOKEN`，仅在服务器保管。未配置时发布、批改管理接口拒绝写入。
 4. 执行 `npm ci`、`npm run db:generate`、`npm run db:push`、`npm run build`。
 5. 用服务管理器启动 `npm run start -- --hostname 0.0.0.0 --port 3000`，由 HTTPS 代理转发。
-6. 数据库首次部署后导入预览 JSON；正式使用之前完成人工题库核验。
+6. 空数据库按 README 导入全部试卷 JSON 并初始化单词；已有数据库不重复初始化。
 
 提供了 Dockerfile 作为可选打包方式；本次未运行 Docker 构建。容器必须把 `/data` 挂载为持久卷。不要将 SQLite 放在 serverless 临时磁盘，也不要让多个副本各自持有不同数据库。
 
@@ -64,7 +58,3 @@ npm run import:questions -- prisma/seed-data/repaired-preview-20260910.json
 - 服务器应每日进行 SQLite 一致性备份，例如 `sqlite3 /data/shorepass.db ".backup '/backup/shorepass-YYYYMMDD.db'"`，保留多份历史并复制到另一存储位置。
 - 不要在运行写入时只复制一个 SQLite 文件作为唯一备份；使用 SQLite backup 接口并测试恢复。
 - 公网代理应为设备创建、同步码接口设置按来源 IP 的限流。应用内部已有配对尝试次数限制，但它不能替代公网入口的限流。
-
-## 尚未完成的产品项
-
-详见 `ShorePass_验收与修复报告_2026-09-10.md`。当前软件闭环验收与正式内容核验是两件事。没有完整已核验真题，不能宣称已满足 PRD 的正式上线验收。

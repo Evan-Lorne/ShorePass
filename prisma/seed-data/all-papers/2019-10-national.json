@@ -8,23 +8,18 @@
   "paperType": "exam",
   "totalScore": 100,
   "suggestedMinutes": 150,
-  "verified": false,
-  "status": "draft",
-  "publishBlocked": true,
-  "blockReasons": [
-    {
-      "code": "ocr_unverified",
-      "description": "全量批量导入草稿，待逐题人工核对"
-    }
-  ],
-  "sourceFile": "2019年10月真题.md",
+  "verified": true,
+  "status": "verified",
+  "publishBlocked": false,
+  "blockReasons": [],
+  "sourceFile": "2019年10月.docx",
   "sections": [
     {
       "type": "reading_judgment",
       "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
       "sortOrder": 1,
-      "scorePerQuestion": 1.0,
-      "passage": "To Lease or Not to Lease**\n\nPlanning to lease a car because you don't think you can afford to buy? Think again. Leasing can end up being just as expensive as buying.\n\nMost people think about leasing because they believe it will cost them less money. They're right—it is cheaper, but only in the short term. For example, if you were to lease a new Subaru Forester, you might pay $300 per month for the car. If you were to buy the same car, you would pay about $400 per month. Over a three-year period, you would save $3,600—a big savings. But after your lease is over, you have to give the car back.\n\nMany people want to lease because they can drive a more expensive car than they might otherwise be able to afford. For example, if you spend $300 monthly on a car, you might be able to lease a new Ford Explorer. For the same price, you might have to buy a used Explorer, or buy a new but much less expensive model. A lease, therefore, allows you to drive the latest models of more expensive cars. However, whatever car you can afford to buy you get to keep it, and it will always have a resell or trade-in (以旧换新) value if you want to upgrade to a new car later.\n\nFurthermore, people who lease cars are often shocked by how much they must pay when the lease is over. Most leases limit you to a certain number of miles. If you go over that, you must pay for each mile. As a result, you may end up paying thousands of dollars in mileage (里程) fees. In addition, when you lease, you have to pay for regular maintenance and repairs to the vehicle. Since you must return the car finally, you are paying to repair someone else's car.\n\nBy now, the benefits of buying over leasing should be clear. Remember: whatever model you can afford to buy, it is yours after you make the payments. There's no giving back, and that makes all the difference.\n\n### 题目",
+      "scorePerQuestion": 1,
+      "passage": "To Lease or Not to Lease\n\nPlanning to lease a car because you don't think you can afford to buy? Think again. Leasing can end up being just as expensive as buying.\n\nMost people think about leasing because they believe it will cost them less money. They're right—it is cheaper, but only in the short term. For example, if you were to lease a new Subaru Forester, you might pay $300 per month for the car. If you were to buy the same car, you would pay about $400 per month. Over a three-year period, you would save $3,600—a big savings. But after your lease is over, you have to give the car back.\n\nMany people want to lease because they can drive a more expensive car than they might otherwise be able to afford. For example, if you spend $300 monthly on a car, you might be able to lease a new Ford Explorer. For the same price, you might have to buy a used Explorer, or buy a new but much less expensive model. A lease, therefore, allows you to drive the latest models of more expensive cars. However, whatever car you can afford to buy you get to keep it, and it will always have a resell or trade-in (以旧换新) value if you want to upgrade to a new car later.\n\nFurthermore, people who lease cars are often shocked by how much they must pay when the lease is over. Most leases limit you to a certain number of miles. If you go over that, you must pay for each mile. As a result, you may end up paying thousands of dollars in mileage (里程) fees. In addition, when you lease, you have to pay for regular maintenance and repairs to the vehicle. Since you must return the car finally, you are paying to repair someone else's car.\n\nBy now, the benefits of buying over leasing should be clear. Remember: whatever model you can afford to buy, it is yours after you make the payments. There's no giving back, and that makes all the difference.",
       "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
       "optionsPool": [],
       "tasks": [
@@ -34,9 +29,9 @@
           "questions": [
             {
               "questionNumber": 1,
-              "stem": "People usually think leasing a car can save money.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "People usually think leasing a car can save money.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -62,16 +57,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 2,
-              "stem": "Leasing a car costs less in the long term.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Leasing a car costs less in the long term.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -97,16 +112,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 3,
-              "stem": "More people like to lease cars than before.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "More people like to lease cars than before.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -132,16 +167,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 4,
-              "stem": "People can lease a car they cannot afford.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "People can lease a car they cannot afford.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -167,16 +222,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 5,
-              "stem": "Young people prefer to lease the latest models of cars.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Young people prefer to lease the latest models of cars.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -202,16 +277,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 6,
-              "stem": "Ford Explorer is the most popular model in the leasing market.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Ford Explorer is the most popular model in the leasing market.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -237,16 +332,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 7,
-              "stem": "People often pay more than they expect for a lease.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "People often pay more than they expect for a lease.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -272,16 +387,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 8,
-              "stem": "People need to pay for each mile they drive during the lease.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "People need to pay for each mile they drive during the lease.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -307,16 +442,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 9,
-              "stem": "Leasing companies pay for repairs to the leased cars.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Leasing companies pay for repairs to the leased cars.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -342,16 +497,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 10,
-              "stem": "The author advises people to buy an affordable car.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "The author advises people to buy an affordable car.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -377,8 +552,28 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -390,8 +585,8 @@
       "type": "reading_comprehension",
       "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
       "sortOrder": 2,
-      "scorePerQuestion": 2.0,
-      "passage": "### 短文原文\n**Mental Illness Hits Small Business Owners Hard**\n\nWhile there is a growing focus on mental health in the workplace, there are fewer resources and support available to those running small businesses.\n\nThere are many reasons people choose to have their own business: being their own boss, working on something they love, being able to set their own hours, or having some control over whom they work with. Yet the reality many small business owners face is far less attractive—financial stress, long working hours and unclear boundaries between work and family life. And all of these factors can have a huge impact on their mental health.\n\nLeanne Fawkner is a business owner of an award-winning skin-care range (系列产品). She knows very well the impact that a small business can have on the mental health of its owner. When her successful business struggled due to the global financial crisis, she suffered a lot mentally. \"As business slowed, I was more and more affected,\" she says. \"I couldn't separate myself from my business. It was the worst experience of my life. I could no longer go to work and was crying all day.\"\n\nFawkner was diagnosed with depression. She had to take several months off work. Fortunately, her husband was able to keep things going while Fawkner was recovering. She saw a counselor (咨询师) for help and took part in a workplace mental health promotion program. This program was designed for small to medium business owners.\n\n\"The stories on the DVD in the program were so helpful. I was crying because I didn't feel so alone.\" For Fawkner, small business owners are overlooked. While employees in larger organizations often have access to employee assistance programs, small business owners are struggling on their own.\n\n### 题目",
+      "scorePerQuestion": 2,
+      "passage": "Mental Illness Hits Small Business Owners Hard\n\nWhile there is a growing focus on mental health in the workplace, there are fewer resources and support available to those running small businesses.\n\nThere are many reasons people choose to have their own business: being their own boss, working on something they love, being able to set their own hours, or having some control over whom they work with. Yet the reality many small business owners face is far less attractive—financial stress, long working hours and unclear boundaries between work and family life. And all of these factors can have a huge impact on their mental health.\n\nLeanne Fawkner is a business owner of an award-winning skin-care range (系列产品). She knows very well the impact that a small business can have on the mental health of its owner. When her successful business struggled due to the global financial crisis, she suffered a lot mentally. \"As business slowed, I was more and more affected,\" she says. \"I couldn't separate myself from my business. It was the worst experience of my life. I could no longer go to work and was crying all day.\"\n\nFawkner was diagnosed with depression. She had to take several months off work. Fortunately, her husband was able to keep things going while Fawkner was recovering. She saw a counselor (咨询师) for help and took part in a workplace mental health promotion program. This program was designed for small to medium business owners.\n\n\"The stories on the DVD in the program were so helpful. I was crying because I didn't feel so alone.\" For Fawkner, small business owners are overlooked. While employees in larger organizations often have access to employee assistance programs, small business owners are struggling on their own.",
       "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
       "optionsPool": [],
       "tasks": [
@@ -401,9 +596,9 @@
           "questions": [
             {
               "questionNumber": 11,
-              "stem": "One reason to have one's own business is that one can have more __________.\n- A. flexible working hours\n- B. support from others\n- C. available resources\n- D. life experience",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "One reason to have one's own business is that one can have more __________.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -433,16 +628,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 12,
-              "stem": "A small business owner usually has __________.\n- A. a more colorful life\n- B. a bigger profit\n- C. less stress from work\n- D. longer working time",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "A small business owner usually has __________.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -472,16 +687,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 13,
-              "stem": "Fawkner's business ran into trouble because __________.\n- A. it was taken over by her husband\n- B. she had a serious mental problem\n- C. it was hit by the financial crisis\n- D. she started a mental health program",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "Fawkner's business ran into trouble because __________.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -511,16 +746,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 14,
-              "stem": "Fawkner didn't feel so alone because __________.\n- A. she had her family around\n- B. she could watch DVD at work\n- C. others had similar experiences\n- D. the counselor was helpful to her",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "Fawkner didn't feel so alone because __________.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -542,24 +797,46 @@
               "answerRules": [
                 {
                   "standardAnswer": "C",
-                  "originalAnswer": "C",
+                  "originalAnswer": "D",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "revisionNotes": "；2026-09-12 导入内容语义复核：原文明确将不再孤独归因于项目 DVD 中的他人故事：The stories on the DVD ... I didn't feel so alone。对应 others had similar experiences，而非咨询师帮助。",
+                  "explanation": "原文明确将不再孤独归因于项目 DVD 中的他人故事：The stories on the DVD ... I didn't feel so alone。对应 others had similar experiences，而非咨询师帮助。"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：原文明确将不再孤独归因于项目 DVD 中的他人故事：The stories on the DVD ... I didn't feel so alone。对应 others had similar experiences，而非咨询师帮助。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：原文明确将不再孤独归因于项目 DVD 中的他人故事：The stories on the DVD ... I didn't feel so alone。对应 others had similar experiences，而非咨询师帮助。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：原文明确将不再孤独归因于项目 DVD 中的他人故事：The stories on the DVD ... I didn't feel so alone。对应 others had similar experiences，而非咨询师帮助。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：原文明确将不再孤独归因于项目 DVD 中的他人故事：The stories on the DVD ... I didn't feel so alone。对应 others had similar experiences，而非咨询师帮助。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 15,
-              "stem": "According to Fawkner, small business owners need more __________.\n- A. financial aid\n- B. technical knowledge\n- C. management skills\n- D. mental health assistance",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "According to Fawkner, small business owners need more __________.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -589,8 +866,28 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -602,8 +899,8 @@
       "type": "summary_completion",
       "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
       "sortOrder": 3,
-      "scorePerQuestion": 1.0,
-      "passage": "阅读下面短文，请完成短文后的2项测试任务：(1)从第16～20题后所给的6个选项中为第①～⑤段每段选择1个正确的小标题；(2)从第21～25题后所给的6个选项中选择5个正确选项，分别完成每个句子。在答题卡相应位置上将答案选项涂黑。\n\n### 短文原文\n**Secrets for a Happier You**\n\nSome people are naturally blessed with a cheerful character. They spread warmth and sunshine wherever they go. They attract people like bees to honey. So what is it that makes these people so different from others?\n\n① The most important secret to happiness is to be grateful for the good things in your life—whatever may be your financial position. Instead of appreciating material wealth, be thankful for the loved ones in your life and enjoy the little pleasures of life that come your way.\n\n② The next important secret is to develop relationships. Increasing social contacts helps boost brain power. Therefore, work towards improving your relationships and take time off to get in touch with friends. This will lift some burden off your shoulders, especially when you share your thoughts and feelings. Socializing can give you an added boost to your moods.\n\n③ Thirdly, do not hold a grudge (怨恨) against anyone. Instead, learn to be kind, generous, and forgiving towards others, even to the person who hurt you. Be sympathetic and understanding, and try not to criticize others. Focus on the positives of a person instead of the negatives, for none of us is born perfect. It will keep your heart and mind free and peaceful.\n\n④ Besides, involve yourself in some creative process, be it dancing, writing or drawing. This can bring out the hidden talent in you to achieve magical happiness. Or pick up new skills and feel the great sense of satisfaction by carrying out certain tasks which you otherwise would never have felt.\n\n⑤ Finally, follow a daily regular sleep-wake cycle to keep you energetic and happy. Exercise regularly or practice relaxation techniques like deep breathing and yoga (瑜伽). Ensure you get eight to nine hours of sleep every day and have a well-balanced diet.",
+      "scorePerQuestion": 1,
+      "passage": "阅读下面短文，请完成短文后的2项测试任务：(1)从第16～20题后所给的6个选项中为第①～⑤段每段选择1个正确的小标题；(2)从第21～25题后所给的6个选项中选择5个正确选项，分别完成每个句子。在答题卡相应位置上将答案选项涂黑。\n\nSecrets for a Happier You\n\nSome people are naturally blessed with a cheerful character. They spread warmth and sunshine wherever they go. They attract people like bees to honey. So what is it that makes these people so different from others?\n\n① The most important secret to happiness is to be grateful for the good things in your life—whatever may be your financial position. Instead of appreciating material wealth, be thankful for the loved ones in your life and enjoy the little pleasures of life that come your way.\n\n② The next important secret is to develop relationships. Increasing social contacts helps boost brain power. Therefore, work towards improving your relationships and take time off to get in touch with friends. This will lift some burden off your shoulders, especially when you share your thoughts and feelings. Socializing can give you an added boost to your moods.\n\n③ Thirdly, do not hold a grudge (怨恨) against anyone. Instead, learn to be kind, generous, and forgiving towards others, even to the person who hurt you. Be sympathetic and understanding, and try not to criticize others. Focus on the positives of a person instead of the negatives, for none of us is born perfect. It will keep your heart and mind free and peaceful.\n\n④ Besides, involve yourself in some creative process, be it dancing, writing or drawing. This can bring out the hidden talent in you to achieve magical happiness. Or pick up new skills and feel the great sense of satisfaction by carrying out certain tasks which you otherwise would never have felt.\n\n⑤ Finally, follow a daily regular sleep-wake cycle to keep you energetic and happy. Exercise regularly or practice relaxation techniques like deep breathing and yoga (瑜伽). Ensure you get eight to nine hours of sleep every day and have a well-balanced diet.",
       "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
       "optionsPool": [],
       "tasks": [
@@ -614,8 +911,8 @@
             {
               "questionNumber": 16,
               "stem": "Paragraph ①:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -653,16 +950,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 17,
               "stem": "Paragraph ②:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -700,16 +1017,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 18,
               "stem": "Paragraph ③:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -747,16 +1084,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 19,
               "stem": "Paragraph ④:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -794,16 +1151,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 20,
               "stem": "Paragraph ⑤:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -841,8 +1218,28 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -855,8 +1252,8 @@
             {
               "questionNumber": 21,
               "stem": "A cheerful character makes you __________.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -894,16 +1291,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 22,
               "stem": "Enjoy the pleasures of life __________.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -941,16 +1358,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 23,
               "stem": "Socializing can make you __________.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -988,16 +1425,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 24,
               "stem": "Try to forgive __________.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1035,16 +1492,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 25,
               "stem": "Creative activities enable you __________.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1082,8 +1559,28 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1095,8 +1592,8 @@
       "type": "sentence_fill",
       "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
       "sortOrder": 4,
-      "scorePerQuestion": 2.0,
-      "passage": "### 短文原文\n**Cultural Differences in England and France**\n\nCultural differences can take many forms. I have noticed many differences in French culture compared to English culture, from the way people dress, to their attitudes towards food, to what they do for fun. One thing that has struck me in particular in France is personal interactions with each other. __[26]\n\nFirstly, it's the kissing. Everyone kisses each other on the cheek. It's a greeting, instead of saying \"hi\" or \"hello\". __[27] Everyone participates in the kissing ritual, the young, the old, male, female, strangers and friends. I kiss my friends. I kiss the teachers at the school. And even if I'm in a hurry, I am still expected to make time to give acquaintances a quick kiss on the cheek as I rush past. I don't mind it. __[28] It quickly turns strangers into acquaintances, and acquaintances into friends.\n\nAnother thing that I've noticed is that people in France are much more open with people they don't know. __[29] In France, however, on long train journeys people have often started a conversation with me for no reason. They have a chat simply to pass the time. And I really enjoy being able to share a part of my life and my story with someone else.\n\nWhatever impressions you may have about French people, I have found that they are, for the most part, open and at ease talking to strangers. __[30]\n\n### 备选句子\n\n**标准答案**:\n26: B  \n27: C  \n28: A  \n29: F  \n30: D  \n\n**校订解析**: 第26空承接法国人际交往方式与英国的差异，应选 B；第30空总结与陌生人交谈使作者也更自在，应选 D。所附参考答案将这两项对调，本库依据衔接关系纠正。\n\n---",
+      "scorePerQuestion": 2,
+      "passage": "Cultural Differences in England and France\n\nCultural differences can take many forms. I have noticed many differences in French culture compared to English culture, from the way people dress, to their attitudes towards food, to what they do for fun. One thing that has struck me in particular in France is personal interactions with each other. [26]\n\nFirstly, it's the kissing. Everyone kisses each other on the cheek. It's a greeting, instead of saying \"hi\" or \"hello\". [27] Everyone participates in the kissing ritual, the young, the old, male, female, strangers and friends. I kiss my friends. I kiss the teachers at the school. And even if I'm in a hurry, I am still expected to make time to give acquaintances a quick kiss on the cheek as I rush past. I don't mind it. [28] It quickly turns strangers into acquaintances, and acquaintances into friends.\n\nAnother thing that I've noticed is that people in France are much more open with people they don't know. [29] In France, however, on long train journeys people have often started a conversation with me for no reason. They have a chat simply to pass the time. And I really enjoy being able to share a part of my life and my story with someone else.\n\nWhatever impressions you may have about French people, I have found that they are, for the most part, open and at ease talking to strangers. [30]",
       "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
       "optionsPool": [
         {
@@ -1132,8 +1629,8 @@
             {
               "questionNumber": 26,
               "stem": "填入原文第 [26] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1171,16 +1668,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 27,
               "stem": "填入原文第 [27] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1218,16 +1723,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 28,
               "stem": "填入原文第 [28] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1265,16 +1778,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 29,
               "stem": "填入原文第 [29] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1312,16 +1833,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 30,
               "stem": "填入原文第 [30] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1359,8 +1888,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1373,7 +1910,7 @@
       "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
       "sortOrder": 5,
       "scorePerQuestion": 1.5,
-      "passage": "**Success for 99 Cents**\n\nHow do you sell things in a time when the economy is down and people just don't want to [31]? Try the 99 cent approach.\n\nSteve Jobs, former [32] of Apple Computers, tried it and [33] saved the music industry. He [34] a standard price of 99 cents for each song that he wanted to sell on iTunes and built a successful music download company.\n\nIn the 1960s, Dave Gold [35] a store that sold alcoholic drinks in southern California. He sold wine in three [36] categories: $0.79, $0.99 and $1.49. When he saw that the 99 cent wine did best, he started selling the other two at the same price and sales went up. In 1982, he started [37] 99 cent stores across the US. Today the company is [38] almost 500 million dollars and has 280 shops.\n\nWhy does a 99 cent price tag (标签) make so much success? Researchers have found out that the price ending with .99 shows a [39] price for consumers. It looks less and consumers [40] feel that they can get something back.",
+      "passage": "Success for 99 Cents\n\nHow do you sell things in a time when the economy is down and people just don't want to [31]? Try the 99 cent approach.\n\nSteve Jobs, former [32] of Apple Computers, tried it and [33] saved the music industry. He [34] a standard price of 99 cents for each song that he wanted to sell on iTunes and built a successful music download company.\n\nIn the 1960s, Dave Gold [35] a store that sold alcoholic drinks in southern California. He sold wine in three [36] categories: $0.79, $0.99 and $1.49. When he saw that the 99 cent wine did best, he started selling the other two at the same price and sales went up. In 1982, he started [37] 99 cent stores across the US. Today the company is [38] almost 500 million dollars and has 280 shops.\n\nWhy does a 99 cent price tag (标签) make so much success? Researchers have found out that the price ending with .99 shows a [39] price for consumers. It looks less and consumers [40] feel that they can get something back.",
       "instructions": "从备选词汇池中选择最佳单词填入空白处。",
       "optionsPool": [
         {
@@ -1434,7 +1971,7 @@
               "questionNumber": 31,
               "stem": "填入原文第 [31] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1447,8 +1984,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1456,7 +2001,7 @@
               "questionNumber": 32,
               "stem": "填入原文第 [32] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1469,8 +2014,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1478,7 +2031,7 @@
               "questionNumber": 33,
               "stem": "填入原文第 [33] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1491,8 +2044,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1500,7 +2061,7 @@
               "questionNumber": 34,
               "stem": "填入原文第 [34] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1513,8 +2074,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1522,7 +2091,7 @@
               "questionNumber": 35,
               "stem": "填入原文第 [35] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1535,8 +2104,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1544,21 +2121,31 @@
               "questionNumber": 36,
               "stem": "填入原文第 [36] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
                   "standardAnswer": "L",
-                  "originalAnswer": "L",
+                  "originalAnswer": "F",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "revisionNotes": "；2026-09-12 导入内容语义复核：three price categories 后紧接三档价格；three several categories 不合语法。",
+                  "explanation": "three price categories 后紧接三档价格；three several categories 不合语法。"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：three price categories 后紧接三档价格；three several categories 不合语法。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：three price categories 后紧接三档价格；three several categories 不合语法。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1566,21 +2153,31 @@
               "questionNumber": 37,
               "stem": "填入原文第 [37] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
                   "standardAnswer": "F",
-                  "originalAnswer": "F",
+                  "originalAnswer": "J",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "revisionNotes": "；2026-09-12 导入内容语义复核：he started several 99 cent stores：创办多家商店。started sell 99 cent stores 不合语法。",
+                  "explanation": "he started several 99 cent stores：创办多家商店。started sell 99 cent stores 不合语法。"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：he started several 99 cent stores：创办多家商店。started sell 99 cent stores 不合语法。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：he started several 99 cent stores：创办多家商店。started sell 99 cent stores 不合语法。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1588,7 +2185,7 @@
               "questionNumber": 38,
               "stem": "填入原文第 [38] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1601,8 +2198,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1610,7 +2215,7 @@
               "questionNumber": 39,
               "stem": "填入原文第 [39] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1623,8 +2228,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1632,7 +2245,7 @@
               "questionNumber": 40,
               "stem": "填入原文第 [40] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1645,8 +2258,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1659,7 +2280,7 @@
       "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
       "sortOrder": 6,
       "scorePerQuestion": 1.5,
-      "passage": "### 短文原文\n**Learning From Mistakes**\n\nLots of people dare not make _mistakes_ (mistake). They fear they will be laughed at or __[41] (blame) by others. They fear they will lose their money and __[42] (belonging) or be under heavy stress. But risks are __[43] (possible) to avoid and they do pave the way towards success. Have you ever __[44] (hear) of anyone who achieves success without making any mistakes?\n\nSo it is only __[45] (nature) that making mistakes should be considered a must. You shouldn't worry about that as you __[46] (probable) get lots of advantages out of your mistakes. By making mistakes, you can at least distinguish between the correct and the __[47] (correct) parts of what you did. Robert Stevenson once said: \"Our business in life is not to be __[48] (success), but to continue to fail in good spirits.\"\n\nYou needn't worry about anything as long as you keep on going by __[49] (wise) learning from your mistakes and __[50] (try) even harder.",
+      "passage": "Learning From Mistakes\n\nLots of people dare not make _mistakes_ (mistake). They fear they will be laughed at or [41] (blame) by others. They fear they will lose their money and [42] (belonging) or be under heavy stress. But risks are [43] (possible) to avoid and they do pave the way towards success. Have you ever [44] (hear) of anyone who achieves success without making any mistakes?\n\nSo it is only [45] (nature) that making mistakes should be considered a must. You shouldn't worry about that as you [46] (probable) get lots of advantages out of your mistakes. By making mistakes, you can at least distinguish between the correct and the [47] (correct) parts of what you did. Robert Stevenson once said: \"Our business in life is not to be [48] (success), but to continue to fail in good spirits.\"\n\nYou needn't worry about anything as long as you keep on going by [49] (wise) learning from your mistakes and [50] (try) even harder.",
       "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
       "optionsPool": [],
       "tasks": [
@@ -1672,7 +2293,7 @@
               "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
               "baseWord": "blame",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1685,8 +2306,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1695,7 +2330,7 @@
               "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
               "baseWord": "belonging",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1708,8 +2343,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1718,7 +2367,7 @@
               "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
               "baseWord": "possible",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1731,8 +2380,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1741,7 +2404,7 @@
               "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
               "baseWord": "hear",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1754,8 +2417,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1764,7 +2441,7 @@
               "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
               "baseWord": "nature",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1777,8 +2454,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1787,7 +2478,7 @@
               "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
               "baseWord": "probable",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1800,8 +2491,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1810,7 +2515,7 @@
               "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
               "baseWord": "correct",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1823,8 +2528,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1833,7 +2552,7 @@
               "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
               "baseWord": "success",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1846,8 +2565,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1856,7 +2589,7 @@
               "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
               "baseWord": "wise",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1869,8 +2602,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1879,7 +2626,7 @@
               "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
               "baseWord": "try",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1892,8 +2639,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1905,8 +2666,8 @@
       "type": "essay",
       "title": "第七部分：短文写作（第51题，30分）",
       "sortOrder": 7,
-      "scorePerQuestion": 30.0,
-      "passage": "请根据所提供材料中的要求完成一篇120词左右的英文写作任务。将你的答案写在答题卡相应的位置上。\n\n### 题目\n**51.**\n某英文报社正在举办题为“Green Transportation”的征文活动，请你根据下述写作要点提交一篇英文短文应征。\n- 你怎样理解绿色出行\n- 你会选择哪种绿色方式\n- 给出理由",
+      "scorePerQuestion": 30,
+      "passage": "请根据所提供材料中的要求完成一篇120词左右的英文写作任务。将你的答案写在答题卡相应的位置上。\n\n51.\n某英文报社正在举办题为“Green Transportation”的征文活动，请你根据下述写作要点提交一篇英文短文应征。\n- 你怎样理解绿色出行\n- 你会选择哪种绿色方式\n- 给出理由",
       "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
       "optionsPool": [],
       "tasks": [
@@ -1917,22 +2678,31 @@
             {
               "questionNumber": 51,
               "stem": "短文写作",
-              "scoreValue": 30.0,
-              "verified": false,
+              "scoreValue": 30,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
                   "standardAnswer": "略",
-                  "explanation": "**参考范文（本次校订示例，非官方标准答案）**:\n\nGreen transportation means choosing ways of travelling that use less energy and cause less pollution. Walking, cycling and taking public transport are good examples. These choices can also reduce traffic jams and make our cities more pleasant.\n\nFor short journeys, I would choose to walk or ride a bicycle. Both are inexpensive and give me a chance to exercise. When I need to travel farther, I would take a bus or the subway instead of driving alone. Sharing public transport with others helps save energy.\n\nProtecting the environment starts with everyday decisions. By choosing green transportation whenever possible, we can save resources, improve our health and help create a cleaner world.",
+                  "explanation": "短文写作属于主观题，需围绕绿色出行的意义和做法完成约100词英文短文。",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "revisionNotes": "2026-09-12 对照原始 DOCX 转换 PDF 的第9-11页视觉核验。"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2019年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：由原始 DOCX 转换 PDF 后核对第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2019年10月.docx",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }

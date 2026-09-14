@@ -8,23 +8,18 @@
   "paperType": "exam",
   "totalScore": 100,
   "suggestedMinutes": 150,
-  "verified": false,
-  "status": "draft",
-  "publishBlocked": true,
-  "blockReasons": [
-    {
-      "code": "ocr_unverified",
-      "description": "全量批量导入草稿，待逐题人工核对"
-    }
-  ],
-  "sourceFile": "2016年04月真题.md",
+  "verified": true,
+  "status": "verified",
+  "publishBlocked": false,
+  "blockReasons": [],
+  "sourceFile": "2016年04月 .pdf",
   "sections": [
     {
       "type": "reading_judgment",
       "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
       "sortOrder": 1,
-      "scorePerQuestion": 1.0,
-      "passage": "### 短文原文\nRed Nose Day\nRed Nose Day (RND) is a well-known event in the UK. The aim of the\nday is to raise money for Comic Relief. This is a charity that helps people\nin need in Africa and in the UK.\nComic Relief was started in 1985 by Richard Curtis. He wrote the famous\nfilms “Four Weddings and a Funeral” and “Notting Hill”. Richard started\nComic Relief in response to the severe famine in Ethiopia. It’s called\nRed Nose Day as on this day many people buy a plastic red nose to wear!\nThe money made from selling red noses goes to the charity.\nRed Nose Day takes place every two years in the spring. It is now so\nwell established that many people consider it to be an unofficial national\nholiday.\nThe slogan for the last RND was “Do Something Funny for Money.” The\nmoney that was collected was used to help fund projects in such areas as\neducation and mental health. Money-raising events take place on this day\nall over the country and many schools participate. People also donate\nmoney by post, in banks, by phone using a credit card and online.\nIn the evening of Red Nose Day a telethon takes place on the BBC TV\nchannels. This is like a television marathon (马拉松）that shows some of\nthe events of the day and reports how the money raised will be spent. People\nalso upload videos of local charity events onto the Internet.\nSo, if you are ever in the UK on Red Nose Day，you will know why you\nfind normal people wearing red noses and doing silly things! It’s all\nfor a good cause!\n\n### 题目",
+      "scorePerQuestion": 1,
+      "passage": "Red Nose Day\nRed Nose Day (RND) is a well-known event in the UK. The aim of the day is to raise money for Comic Relief. This is a charity that helps people in need in Africa and in the UK.\n\nComic Relief was started in 1985 by Richard Curtis. He wrote the famous films “Four Weddings and a Funeral” and “Notting Hill”. Richard started Comic Relief in response to the severe famine in Ethiopia. It’s called Red Nose Day as on this day many people buy a plastic red nose to wear! The money made from selling red noses goes to the charity.\n\nRed Nose Day takes place every two years in the spring. It is now so well established that many people consider it to be an unofficial national holiday.\n\nThe slogan for the last RND was “Do Something Funny for Money.” The money that was collected was used to help fund projects in such areas as education and mental health. Money-raising events take place on this day all over the country and many schools participate. People also donate money by post, in banks, by phone using a credit card and online.\n\nIn the evening of Red Nose Day a telethon takes place on the BBC TV channels. This is like a television marathon (马拉松) that shows some of the events of the day and reports how the money raised will be spent. People also upload videos of local charity events onto the Internet.\n\nSo, if you are ever in the UK on Red Nose Day, you will know why you find normal people wearing red noses and doing silly things! It’s all for a good cause!",
       "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
       "optionsPool": [],
       "tasks": [
@@ -34,9 +29,9 @@
           "questions": [
             {
               "questionNumber": 1,
-              "stem": "Red Nose Day is a famous event in Britain.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Red Nose Day is a famous event in Britain.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -62,16 +57,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 2,
-              "stem": "Comic Relief aims to help people all over the world.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Comic Relief aims to help people all over the world.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -97,16 +106,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 3,
-              "stem": "Richard Curtis is a well-known actor and film director.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Richard Curtis is a well-known actor and film director.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -132,16 +155,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 4,
-              "stem": "Many people wear a red nose on Red Nose Day.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Many people wear a red nose on Red Nose Day.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -167,16 +204,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 5,
-              "stem": "Red Nose Day takes place every year.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Red Nose Day takes place every year.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -202,16 +253,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 6,
-              "stem": "Red Nose Day has become an official national holiday.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Red Nose Day has become an official national holiday.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -237,16 +302,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 7,
-              "stem": "The funnier people look, the more money they collect.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "The funnier people look, the more money they collect.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -272,16 +351,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 8,
-              "stem": "People give money to Comic Relief in many ways.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "People give money to Comic Relief in many ways.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -307,16 +400,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 9,
-              "stem": "Many schools take part in the money-raising events on Red Nose Day.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Many schools take part in the money-raising events on Red Nose Day.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -342,16 +449,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 10,
-              "stem": "The Red Nose Day telethon has attracted lots of film stars.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "The Red Nose Day telethon has attracted lots of film stars.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -377,8 +498,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             }
@@ -390,8 +525,8 @@
       "type": "reading_comprehension",
       "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
       "sortOrder": 2,
-      "scorePerQuestion": 2.0,
-      "passage": "### 短文原文\nThose Who Ride on Two Wheels\nIn the United States there are six million tennis players and twelve million golfers. These figures would not surprise most people. But many would be surprised to learn that twenty million Americans ride motorcycles (摩托车).Few people realize that motorcycling is fast becoming one of America’s most popular sports.\nAccording to the Cycle News，many kinds of people enjoy motorcycling. They include black people and white people, businessmen, professionals, and blue-collar workers. Among them, about 55% are businessmen, 3% are in the professions and 9% in government service.\nSuch information is offered by the Cycle News in the hope of improving the general public’s impression of the sport. The public has tended to believe that all motorcyclists are wild and lawless young men.\nThere are several things about motorcycling that the average citizen dislikes. A motorcyclist’s appearance has something to do with this dislike. Motorcyclists often look dirty; in fact, they are dirty. On the road, there is little to protect them from mud. For practical reasons, they often dress in old clothing which looks much less respectable than the clothing of people who ride in cars. For the same reason, motorcyclists usually wear dark colors. Perhaps this helps to explain why they are sometimes suspected of having bad natures.\nProbably motorcycles themselves also produce anger and fear. They are noisy， though some trucks are even noisier. But trucks are acceptable because they perform a needed service. Motorcycles, on the other hand, make an uncomfortable noise just to give their riders pleasure. Roaring along quiet streets, they wake sleeping families and make babies cry.\nYet, as motorcycling becomes more and more common, it will be interesting to see how people in general feel about the sport. Perhaps it will someday become as “respectable” as tennis or golf.\n\n### 题目",
+      "scorePerQuestion": 2,
+      "passage": "Those Who Ride on Two Wheels\nIn the United States there are six million tennis players and twelve million golfers. These figures would not surprise most people. But many would be surprised to learn that twenty million Americans ride motorcycles (摩托车). Few people realize that motorcycling is fast becoming one of America’s most popular sports.\n\nAccording to the Cycle News, many kinds of people enjoy motorcycling. They include black people and white people, businessmen, professionals, and blue-collar workers. Among them, about 55% are businessmen, 3% are in the professions and 9% in government service.\n\nSuch information is offered by the Cycle News in the hope of improving the general public’s impression of the sport. The public has tended to believe that all motorcyclists are wild and lawless young men.\n\nThere are several things about motorcycling that the average citizen dislikes. A motorcyclist’s appearance has something to do with this dislike. Motorcyclists often look dirty; in fact, they are dirty. On the road, there is little to protect them from mud. For practical reasons, they often dress in old clothing which looks much less respectable than the clothing of people who ride in cars. For the same reason, motorcyclists usually wear dark colors. Perhaps this helps to explain why they are sometimes suspected of having bad natures.\n\nProbably motorcycles themselves also produce anger and fear. They are noisy, though some trucks are even noisier. But trucks are acceptable because they perform a needed service. Motorcycles, on the other hand, make an uncomfortable noise just to give their riders pleasure. Roaring along quiet streets, they wake sleeping families and make babies cry. Yet, as motorcycling becomes more and more common, it will be interesting to see how people in general feel about the sport. Perhaps it will someday become as “respectable” as tennis or golf.",
       "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
       "optionsPool": [],
       "tasks": [
@@ -401,9 +536,9 @@
           "questions": [
             {
               "questionNumber": 11,
-              "stem": "According to the text, more and more Americans like___.\n- A. playing tennis\n- B. playing golf\n- C. motorcycling\n- D. car-racing",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "According to the text, more and more Americans like___.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -433,16 +568,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第3页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 12,
-              "stem": "According to the Cycle News，over half of the motorcyclists are _____.\n- A. black people\n- B. white people\n- C. businessmen\n- D. professionals",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "According to the Cycle News，over half of the motorcyclists are _____.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -472,16 +621,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第3页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 13,
-              "stem": "The Cycle News wants to_________.\n- A. make motorcyclists lawful citizens\n- B. improve the image of motorcycling\n- C. persuade people to buy motorcycles\n- D. raise the status of blue-collar workers",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "The Cycle News wants to_________.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -511,16 +674,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第3页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 14,
-              "stem": "Motorcyclists usually wear dark colors because_________.\n- A. they want to be respectable\n- B. they want to be impressive\n- C. the colors look different\n- D. the colors suit their sport",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "Motorcyclists usually wear dark colors because_________.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -550,16 +727,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第3页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 15,
-              "stem": "Some people dislike the motorcycle because it is___________.\n- A. noisy\n- B. heavy\n- C. costly\n- D. illegal",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "Some people dislike the motorcycle because it is___________.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -589,8 +780,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第3页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             }
@@ -602,8 +807,8 @@
       "type": "summary_completion",
       "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
       "sortOrder": 3,
-      "scorePerQuestion": 1.0,
-      "passage": "### 短文原文\nHow to Forgive, Forget and Let Go\n① Forgiving someone does not mean releasing them from an earlier guilt. What if the person who wronged you is not living? What if the person is someone who made you extremely embarrassed during school 20 or 30 years ago? Letting go of emotional pain does not mean that nothing happened; it means that you no longer want to be controlled by it.\n② Recognize that forgiveness is not denial. Whatever caused the pain was a real incident. Denying that it happened means it is too painful to work through the emotions. There is no timeline on forgiveness. Some steps take longer to get through, and it is acceptable to set them aside for a period of time. Part of forgiveness is understanding whether or not someone takes responsibility for what happened, and may even show regret.\n③ Understand that not everyone who forgives reconciles with the person who caused the pain. There are relationships that are harmful and even physically dangerous. While it is possible to forgive the past and move beyond it，it may also mean that the person who was involved can no longer play an active role in your life. If a person or situation is not safe，it may be best not to reconcile the relationship now. Work on forgiveness at a time when you are emotionally healthy and physically safe.\n④ Make a conscious decision to forgive someone. Even if they never apologize for what happened, determine within yourself that it is fine to proceed without this apology. Apologies should not be asking for forgiveness. Apologies should be offered as an effort of true regret. They should be admitting that taking personal responsibility for the situation is important. Even without that apology, make up your mind to forgive, forget, and eventually let go.",
+      "scorePerQuestion": 1,
+      "passage": "How to Forgive, Forget and Let Go\n① Forgiving someone does not mean releasing them from an earlier guilt. What if the person who wronged you is not living? What if the person is someone who made you extremely embarrassed during school 20 or 30 years ago? Letting go of emotional pain does not mean that nothing happened; it means that you no longer want to be controlled by it.\n\n② Recognize that forgiveness is not denial. Whatever caused the pain was a real incident. Denying that it happened means it is too painful to work through the emotions. There is no timeline on forgiveness. Some steps take longer to get through, and it is acceptable to set them aside for a period of time. Part of forgiveness is understanding whether or not someone takes responsibility for what happened, and may even show regret.\n\n③ Understand that not everyone who forgives reconciles with the person who caused the pain. There are relationships that are harmful and even physically dangerous. While it is possible to forgive the past and move beyond it, it may also mean that the person who was involved can no longer play an active role in your life. If a person or situation is not safe, it may be best not to reconcile that relationship now. Work on forgiveness at a time when you are emotionally healthy and physically safe.\n\n④ Make a conscious decision to forgive someone. Even if they never apologize for what happened, determine within yourself that it is fine to proceed without this apology. Apologies should not be asked for forgiveness. Apologies should be offered as an effort of true regret. They should be admitting that taking personal responsibility for the situation is important. Even without that apology, make up your mind to forgive, forget, and eventually let go.",
       "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
       "optionsPool": [],
       "tasks": [
@@ -614,8 +819,8 @@
             {
               "questionNumber": 16,
               "stem": "Paragraph ①：",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -649,16 +854,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 17,
               "stem": "Paragraph ②:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -692,16 +917,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 18,
               "stem": "Paragraph ③:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -735,16 +980,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 19,
               "stem": "Paragraph ④：",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -778,8 +1043,28 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             }
@@ -792,8 +1077,8 @@
             {
               "questionNumber": 20,
               "stem": "You may forgive some___________________",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -835,16 +1120,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 21,
               "stem": "There is no fixed time________________",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -886,16 +1191,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 22,
               "stem": "Even if you’ve forgiven someone，_______",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -937,16 +1262,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 23,
               "stem": "Don't rush to forgive those_____________-",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -988,16 +1333,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 24,
               "stem": "Some people apologize merely_______________",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1039,16 +1404,36 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 25,
               "stem": "If you expect an apology,___________________",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1090,8 +1475,28 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             }
@@ -1103,8 +1508,8 @@
       "type": "sentence_fill",
       "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
       "sortOrder": 4,
-      "scorePerQuestion": 2.0,
-      "passage": "### 短文原文\nNatural Resources\nThroughout history, people have often selected where they want to live based on the natural resources that are available in the area. [26] Some of these resources include water, food sources such as fruits and vegetables, and animals that can be caught or hunted.\nA region’s natural resources determine the way of life of its people. [27] On the other hand，poor soil will either send people looking for better places, or attract people with other purposes for the land, such as setting up businesses or factories.\n[28] People who wish to make a living as fishermen can do so by the ocean, but cannot do so in the desert. Desert people have many traditional and unique foods, which cannot be found in the forest. Each area attracts people based on their interests and purposes.\nAreas that have rich water resources will naturally have more people. Traditionally, villages，towns and cities built near water have been the most successful. People there are able to use the water resources to meet their daily needs. [29] Places that are hard to reach，such as high mountains or dry deserts, will have fewer people living in them.\n[30] For too long, people have destroyed natural resources, using up those resources that cannot be easily replaced. On the earth, we are lucky to have many resources that are renewable, such as sun, wind, water, and trees. As more and more focus is placed on the use of renewable resources, it will become easier to protect our planet from further harm.\n\n### 备选词汇池\n\n### 题目\n**26.**\n**标准答案**: F\n**27.**\n**标准答案**: D\n**28.**\n**标准答案**: C\n**29.**\n**标准答案**: E\n**30.**\n**标准答案**: B",
+      "scorePerQuestion": 2,
+      "passage": "Natural Resources\nThroughout history, people have often selected where they want to live based on the natural resources that are available in the area. [26] Some of these resources include water, food sources such as fruits and vegetables, and animals that can be caught or hunted.\n\nA region’s natural resources determine the way of life of its people. [27] On the other hand, poor soil will either send people looking for better places, or attract people with other purposes for the land, such as setting up businesses or factories.\n\n[28] People who wish to make a living as fishermen can do so by the ocean, but cannot do so in the desert. Desert people have many traditional and unique foods, which cannot be found in the forest. Each area attracts people based on their interests and purposes.\n\nAreas that have rich water resources will naturally have more people; traditionally, villages, towns and cities built near water have been the most successful. People there are able to use the water resources to meet their daily needs. [29] Places that are hard to reach, such as high mountains or dry deserts, will have fewer people living in them.\n\n[30] For too long, people have destroyed natural resources, using up those resources that cannot be easily replaced. On the earth, we are lucky to have many resources that are renewable, such as sun, wind, water, and trees. As more and more focus is placed on the use of renewable resources, it will become easier to protect our planet from further harm.",
       "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
       "optionsPool": [
         {
@@ -1140,8 +1545,8 @@
             {
               "questionNumber": 26,
               "stem": "填入原文第 [26] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1179,16 +1584,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 27,
               "stem": "填入原文第 [27] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1226,16 +1645,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 28,
               "stem": "填入原文第 [28] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1273,16 +1706,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 29,
               "stem": "填入原文第 [29] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1320,16 +1767,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
             {
               "questionNumber": 30,
               "stem": "填入原文第 [30] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1367,8 +1828,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             }
@@ -1381,7 +1856,7 @@
       "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
       "sortOrder": 5,
       "scorePerQuestion": 1.5,
-      "passage": "Business English Helps\nEnglish plays an important role in the workplace. When it is used in the correct and proper [31], it can help to promote a career or a business. Some may [32] or want to study business English [33] they start their careers. Those who are already working have the [34] to see what they can and cannot do [35] in English in their current job.\nBusiness English provides you with valuable skills needed for your work. For example, you will learn [36] to negotiate. Being able to deal with a [37] and knowing how to bargain and [38] an agreement can make a [39] difference to the outcome.\nBusiness English learning encourages professional and efficient communication, and promotes service to customers and business partners, [40] is a great advantage for any business.",
+      "passage": "Business English Helps\nEnglish plays an important role in the workplace. When it is used in the correct and proper [31], it can help to promote a career or a business. Some may [32] or want to study business English [33] they start their careers. Those who are already working have the [34] to see what they can and cannot do [35] in English in their current job.\n\nBusiness English provides you with valuable skills needed for your work. For example, you will learn [36] to negotiate. Being able to deal with a [37] and knowing how to bargain and [38] an agreement can make a [39] difference to the outcome.\n\nBusiness English learning encourages professional and efficient communication, and promotes service to customers and business partners, [40] is a great advantage for any business.",
       "instructions": "从备选词汇池中选择最佳单词填入空白处。",
       "optionsPool": [
         {
@@ -1442,7 +1917,7 @@
               "questionNumber": 31,
               "stem": "填入原文第 [31] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1455,8 +1930,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
@@ -1464,7 +1953,7 @@
               "questionNumber": 32,
               "stem": "填入原文第 [32] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1477,8 +1966,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
@@ -1486,7 +1989,7 @@
               "questionNumber": 33,
               "stem": "填入原文第 [33] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1499,8 +2002,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
@@ -1508,7 +2025,7 @@
               "questionNumber": 34,
               "stem": "填入原文第 [34] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1521,8 +2038,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
@@ -1530,7 +2061,7 @@
               "questionNumber": 35,
               "stem": "填入原文第 [35] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1543,8 +2074,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
@@ -1552,7 +2097,7 @@
               "questionNumber": 36,
               "stem": "填入原文第 [36] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1565,8 +2110,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
@@ -1574,7 +2133,7 @@
               "questionNumber": 37,
               "stem": "填入原文第 [37] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1587,8 +2146,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
@@ -1596,7 +2169,7 @@
               "questionNumber": 38,
               "stem": "填入原文第 [38] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1609,8 +2182,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
@@ -1618,7 +2205,7 @@
               "questionNumber": 39,
               "stem": "填入原文第 [39] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1631,8 +2218,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
@@ -1640,7 +2241,7 @@
               "questionNumber": 40,
               "stem": "填入原文第 [40] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1653,8 +2254,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             }
@@ -1667,7 +2282,7 @@
       "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
       "sortOrder": 6,
       "scorePerQuestion": 1.5,
-      "passage": "### 短文原文\n**Silent Listening**\n\nIf something bad just happened (happen) to your friend, what would you do? Would you mention it to him and say you feel sorry about it? Would you offer support or advice? According to Ruth Clark, such [41] (treat) could mean well, but it might not be what he [42] (real) wants or needs.\n\nClark asked some college students to imagine some [43] (pleasant) situations, e.g., a low exam grade or the dad's [44] (lose) of his job. The students were then [45] (ask) how they would like to be treated by a friend who learned of the bad situation from someone else. The results were a little [46] (surprise). Some said they would want and expect their friend to mention the [47] (annoy) situation, but most of the students in the study [48] (respond) that they would like the friend not to do it. The students made the [49] (decide) for themselves whether to discuss their problem with a friend. So, there is value in being a silent [50] (listen) around a troubled friend.\n\n### 题目\n**41.** (treat)",
+      "passage": "Silent Listening\nIf something bad just happened (happen) to your friend, what would you do? Would you mention it to him and say you feel sorry about it? Would you offer support or advice? According to Ruth Clark, such [41] (treat) could mean well, but it might not be what he [42] (real) wants or needs.\n\nClark asked some college students to imagine some [43] (pleasant) situations, e.g., a low exam grade or the dad’s [44] (lose) of his job. The students were then [45] (ask) how they would like to be treated by a friend who learned of the bad situation from someone else. The results were a little [46] (surprise). Some said they would want and expect their friend to mention the [47] (annoy) situation, but most of the students in the study [48] (respond) that they would like the friend not to do it. The students made the [49] (decide) for themselves whether to discuss their problem with a friend. So, there is value in being a silent [50] (listen) around a troubled friend.",
       "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
       "optionsPool": [],
       "tasks": [
@@ -1680,7 +2295,7 @@
               "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
               "baseWord": "treat",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1693,8 +2308,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第9页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
@@ -1703,7 +2332,7 @@
               "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
               "baseWord": "real",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1716,8 +2345,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第9页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
@@ -1726,7 +2369,7 @@
               "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
               "baseWord": "pleasant",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1739,8 +2382,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第9页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
@@ -1749,7 +2406,7 @@
               "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
               "baseWord": "lose",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1762,8 +2419,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第9页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
@@ -1772,7 +2443,7 @@
               "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
               "baseWord": "ask",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1785,8 +2456,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第9页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
@@ -1795,7 +2480,7 @@
               "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
               "baseWord": "surprise",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1808,8 +2493,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第9页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
@@ -1818,7 +2517,7 @@
               "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
               "baseWord": "annoy",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1831,8 +2530,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第9页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
@@ -1841,7 +2554,7 @@
               "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
               "baseWord": "respond",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1854,8 +2567,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第9页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
@@ -1864,7 +2591,7 @@
               "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
               "baseWord": "decide",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1877,8 +2604,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第9页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             },
@@ -1887,7 +2628,7 @@
               "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
               "baseWord": "listen",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1900,8 +2641,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第9页。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。"
                 }
               ]
             }
@@ -1913,8 +2668,8 @@
       "type": "essay",
       "title": "第七部分：短文写作（第51题，30分）",
       "sortOrder": 7,
-      "scorePerQuestion": 30.0,
-      "passage": "**51.** 某英文报社正在举行题为“fight against haze（雾霾）”的征文活动。请你就此题目写一篇英文短文应征，内容包括：\n- 雾霾会造成哪些危害\n- 我们可以采取哪些对策措施\n(约100词)",
+      "scorePerQuestion": 30,
+      "passage": "51. 某英文报社正在举行题为“fight against haze（雾霾）”的征文活动。请你就此题目写一篇英文短文应征，内容包括：\n- 雾霾会造成哪些危害\n- 我们可以采取哪些对策措施\n(约100词)",
       "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
       "optionsPool": [],
       "tasks": [
@@ -1925,22 +2680,31 @@
             {
               "questionNumber": 51,
               "stem": "短文写作",
-              "scoreValue": 30.0,
-              "verified": false,
+              "scoreValue": 30,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
                   "standardAnswer": "略",
-                  "explanation": "**标准答案**: (范文略)",
+                  "explanation": "短文写作属于主观题，需围绕雾霾危害和治理措施完成约100词英文短文。",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "revisionNotes": "2026-09-12 对照原题第9页及答案第10页视觉核验。"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年04月 .pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第10页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }

@@ -8,16 +8,11 @@
   "paperType": "prediction",
   "totalScore": 100,
   "suggestedMinutes": 150,
-  "verified": false,
-  "status": "draft",
-  "publishBlocked": true,
-  "blockReasons": [
-    {
-      "code": "ocr_unverified",
-      "description": "全量批量导入草稿，待逐题人工核对"
-    }
-  ],
-  "sourceFile": "押题库考前试卷（2）.md",
+  "verified": true,
+  "status": "verified",
+  "publishBlocked": false,
+  "blockReasons": [],
+  "sourceFile": "押题库考前试卷（2）.pdf",
   "sections": [
     {
       "type": "reading_judgment",
@@ -36,7 +31,7 @@
               "questionNumber": 1,
               "stem": "Lucky is Mary and her husband's pet dog.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -62,8 +57,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。"
                 }
               ]
             },
@@ -71,7 +74,7 @@
               "questionNumber": 2,
               "stem": "Whenever they had friends visit them, the couple would warn Lucky not to take \ntheir friends’ luggage away.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -97,8 +100,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。"
                 }
               ]
             },
@@ -106,7 +117,7 @@
               "questionNumber": 3,
               "stem": "Mary and her husband's friends knew Lucky well so their belongings never went \nmissing.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -132,8 +143,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。"
                 }
               ]
             },
@@ -141,7 +160,7 @@
               "questionNumber": 4,
               "stem": "Lucky’s toy box was placed in the basement.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -167,8 +186,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。"
                 }
               ]
             },
@@ -176,7 +203,7 @@
               "questionNumber": 5,
               "stem": "Mary's husband warned that he would abandon Lucky after her death.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -202,8 +229,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。"
                 }
               ]
             },
@@ -211,7 +246,7 @@
               "questionNumber": 6,
               "stem": "Mary stayed in the hospital for two months because the surgery was harder than \ndoctors had anticipated.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -237,8 +272,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。"
                 }
               ]
             },
@@ -246,7 +289,7 @@
               "questionNumber": 7,
               "stem": "When Mary arrived home from hospital, Jim made her lie in bed immediately.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -272,8 +315,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。"
                 }
               ]
             },
@@ -281,7 +332,7 @@
               "questionNumber": 8,
               "stem": "When Mary woke, she couldn't move a bit because she caught a cold and fell ill.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -307,8 +358,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。"
                 }
               ]
             },
@@ -316,7 +375,7 @@
               "questionNumber": 9,
               "stem": "Lucky covered Mary with love by placing all his treasures on her body.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -342,8 +401,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。"
                 }
               ]
             },
@@ -351,7 +418,7 @@
               "questionNumber": 10,
               "stem": "Mary has been cancer-free for 12 years, and remains Lucky's greatest treasure.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -377,8 +444,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。"
                 }
               ]
             }
@@ -403,7 +478,7 @@
               "questionNumber": 11,
               "stem": "Federal Student Aid provides student loans for _____________",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -433,8 +508,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 6 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。"
                 }
               ]
             },
@@ -442,7 +531,7 @@
               "questionNumber": 12,
               "stem": "Federally funded loans are preferred to private funding for  _____________",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -472,8 +561,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 6 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。"
                 }
               ]
             },
@@ -481,7 +584,7 @@
               "questionNumber": 13,
               "stem": "Federal Student Aid educates students on   _____________",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -511,8 +614,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 6 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。"
                 }
               ]
             },
@@ -520,7 +637,7 @@
               "questionNumber": 14,
               "stem": "The first step in applying for financial aid is to   _____________",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -550,8 +667,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 6 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。"
                 }
               ]
             },
@@ -559,7 +690,7 @@
               "questionNumber": 15,
               "stem": "To succeed in applying for student loans, you are advised to  _____________",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -589,8 +720,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 6 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。"
                 }
               ]
             }
@@ -603,7 +748,7 @@
       "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
       "sortOrder": 3,
       "scorePerQuestion": 1.0,
-      "passage": "(第 16-25 题，每题 1 分，共 10 分) \n阅读下面短文，请完成短文后的 2 项测试任务:(1)从第 16-20 题后所给的 6 个选项中为\n第①-⑤段每段选择 1个正确的小标题;(2)从第 21-25 题后所给的 6个选项中选择 5 个正确选\n项，分别完成每个句子。 \nIdentity Theft \n① College students have a lot to worry about: tests, quizzes, homework, \norganizations, and jobs. One thing they might not think they should worry about is \nidentity theft. Identity theft is actually a big problem on college campuses and \nstudents are easy targets. Knowing how to protect yourself against identity theft \nis the first thing you need to do for yourself. \n② One of the major reasons why students are targets is because they are naive. \nMany students don't know or don't realize the dangers of giving out their personal \ninformation unless they have already been through it or they are older. A majority \nof the time, students get sucked into getting free stuff just for applying for a \ncredit card. Students are one of the easiest targets for scammers (骗子).In order \nto protect yourself from having your identity stolen, you need to understand how \nscammers get your personal information . \n③ For students, being frugal is just about a must. One of the costs they may \nskimp on is paying for their own Internet. Instead, they will log on to someone \nelse’s WiFi or an unsecured network. While this may cut down on costs while you \nare in college, there is a chance that someone will be able to get your personal \ninformation. These unsecured networks may be full of people. who are simply sitting \nand waiting for you to log on to your bank accou nt, shop online, apply for a job \nonline, or apply for a credit card online. If you are going to shop online or do \nany of the previously mentioned activities, make sure you are on a secured network \nthat has the proper privacy settings. \n④ Something that students may not think about is shredding （撕碎) their documents. \nIt is very easy for anyone to have their identity stolen if they don't shred \nimportant documents, bills, or even credit card offers. You should always shred \nanything that has any type of personal information, especially those with account \nnumbers, your social security number, or even you birthday. If you get a credit \ncard offer saying you are pre-approved, so on and so forth, you need to shred it \nbefore throwing it away. Some people go through others” trash and take the pre - \napproved cards. They can then use it to open a credit card under your name, stealing \nyour identity . \n⑤ While you have many things to think about while in college, you should always \nthink about the information you are giving out. Remember never to give out your \nbank account information or PIN (personal identification number) , even to a friend. \nAlso, watch out for scams （骗局)like signing up for a credit card to get a free \nshirt; your identity may not be stolen right away, bu t that information could be \nused in the future. Shred any and all personal documentation before throwing it \naway. Moreover, when you do shred your documentation, make sure it can't be put \nback together.",
+      "passage": "(第 16-25 题，每题 1 分，共 10 分) \n阅读下面短文，请完成短文后的 2 项测试任务:(1)从第 16-20 题后所给的 6 个选项中为\n第①-⑤段每段选择 1个正确的小标题;(2)从第 21-25 题后所给的 6个选项中选择 5 个正确选\n项，分别完成每个句子。 \nIdentity Theft \n① College students have a lot to worry about: tests, quizzes, homework, \norganizations, and jobs. One thing they might not think they should worry about is \nidentity theft. Identity theft is actually a big problem on college campuses and \nstudents are easy targets. Knowing how to protect yourself against identity theft \nis the first thing you need to do for yourself. \n② One of the major reasons why students are targets is because they are naive. \nMany students don't know or don't realize the dangers of giving out their personal \ninformation unless they have already been through it or they are older. A majority \nof the time, students get sucked into getting free stuff just for applying for a \ncredit card. Students are one of the easiest targets for scammers (骗子).In order \nto protect yourself from having your identity stolen, you need to understand how \nscammers get your personal information . \n③ For students, being frugal is just about a must. One of the costs they may \nskimp on is paying for their own Internet. Instead, they will log on to someone \nelse’s WiFi or an unsecured network. While this may cut down on costs while you \nare in college, there is a chance that someone will be able to get your personal \ninformation. These unsecured networks may be full of people. who are simply sitting \nand waiting for you to log on to your bank account, shop online, apply for a job \nonline, or apply for a credit card online. If you are going to shop online or do \nany of the previously mentioned activities, make sure you are on a secured network \nthat has the proper privacy settings. \n④ Something that students may not think about is shredding （撕碎) their documents. \nIt is very easy for anyone to have their identity stolen if they don't shred \nimportant documents, bills, or even credit card offers. You should always shred \nanything that has any type of personal information, especially those with account \nnumbers, your social security number, or even you birthday. If you get a credit \ncard offer saying you are pre-approved, so on and so forth, you need to shred it \nbefore throwing it away. Some people go through others” trash and take the pre - \napproved cards. They can then use it to open a credit card under your name, stealing \nyour identity . \n⑤ While you have many things to think about while in college, you should always \nthink about the information you are giving out. Remember never to give out your \nbank account information or PIN (personal identification number) , even to a friend. \nAlso, watch out for scams （骗局)like signing up for a credit card to get a free \nshirt; your identity may not be stolen right away, but that information could be \nused in the future. Shred any and all personal documentation before throwing it \naway. Moreover, when you do shred your documentation, make sure it can't be put \nback together.",
       "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
       "optionsPool": [],
       "tasks": [
@@ -615,7 +760,7 @@
               "questionNumber": 16,
               "stem": "Paragraph ①",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -653,8 +798,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -662,7 +821,7 @@
               "questionNumber": 17,
               "stem": "Paragraph ②",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -700,8 +859,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -709,7 +882,7 @@
               "questionNumber": 18,
               "stem": "Paragraph ③",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -747,8 +920,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -756,7 +943,7 @@
               "questionNumber": 19,
               "stem": "Paragraph ④",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -794,8 +981,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -803,7 +1004,7 @@
               "questionNumber": 20,
               "stem": "Paragraph ⑤",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -841,8 +1042,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -856,7 +1071,7 @@
               "questionNumber": 21,
               "stem": "What you need to do first for yourself is _____________",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -894,8 +1109,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -903,7 +1132,7 @@
               "questionNumber": 22,
               "stem": "The dangers of releasing personal information are unknown to many students",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -941,16 +1170,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 23,
-              "stem": "A good chance stands that your personal information will be stole n",
+              "stem": "A good chance stands that your personal information will be stolen",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -988,8 +1231,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -997,7 +1254,7 @@
               "questionNumber": 24,
               "stem": "Ifa credit card offer is said to be pre-approved, you need to _____________",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1035,8 +1292,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1044,7 +1315,7 @@
               "questionNumber": 25,
               "stem": "When you do shred your documentation, make sure _____________",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1082,8 +1353,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1096,12 +1381,12 @@
       "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
       "sortOrder": 4,
       "scorePerQuestion": 2.0,
-      "passage": "(第 26-30 题，每题 2 分，共 10 分)  \n下面的短文有 5 处空白，短文后有 6 个句子，其中 5 个取自短文，请根据短文内容将 其\n分别放回原有位置，以恢复文章原貌。 \nMistakes Are a Must on the Road to Success \nWhen Kamprad was a teenager, he became interested in a pro -Nazi group run by \na Swedish fascist activist by the name of Per Engdahl. He not only attended group \nmeetings but also raised funds and recruited members to the group between 1942 and \n1945. It is unknown when Kamprad This part of Kamprad's past remained hidden until \n1994, quit the group.[26]when Engdahl's personal letters were made \npublic after his death. \n“This is part of my life I bitterly regret,” said Kamprad. “After a couple \nof meetings in pure Nazi style, I quit.” In a letter he wrote to employees titled \n“The Greatest Mistake of My Life, Kamprad apologized to IKEA employees of Jewish \nheritage and asked  for their forgiveness. [27] Following its \npublication, Kamprad said in an interview, “Now I have told all I can. Can one \never get forgiveness for such stupidity?” \n [28] “That was the biggest blunder I've made in my entire life, \nand I regret it deeply,” he said“ I have said sorry, many times, but it has left \nan unremovable mark on my conscience that continually haunts me and perhaps it's \nbest this way.” Joining the Nazi group would be a mistake that he would be paying \nfor on a personal level for the rest of his li fe [29] He was \ncriticized and he was attacked in the media, but sales at IKEA continued to increase. \nHis popularity actually rose  following the incident because of the honesty with \nwhich he dealt with the after-effect.  \nExperience has taught Kamprad that not only could the business world be \nforgiving of his mistakes, but that it was those very mistakes that could end up \nmoving mountains. [30] Working in Almhult , Gillis Lundgren, a new \nemployee, had been standing beside a car with a colleague, trying to figure  out \nhow to get a bulky wooden table into the back of it. Finally, against company \npolicy, Lundgren said,“  Oh God, then, let’s pull off the legs and put them \nunderneath.” It was with that simple statemen t that IKEA would reorient itself \ntowards the flat design production for which it has become famous today. \n “IKEA is not completely perfect,” said Kamprad. “We are going the right way \nto becoming it, for sure, but we are not there yet.” \n \nyears. \nof IKEA.” \n    \n\n\n### 答案\n\n  \n26.[解析]根据本段最后一句的信息，直到 1994 年，由于 Engdahl 的私人信件被公开,Kam- \nprad 的那段过去才被发现。Engdahl 之前都没有提到过，可以推断填空处会对这个人有所介 \n绍。答案为 B。  \n27.[解析]根据填空处后边一句 following its publication,可看出，这里的 its 是对前一 \n句里某个词的替代;再根据句意，应该是有书被出版。答案为 F。  \n28.[解析]后边一句提到 that was the biggest blunder. ..可以看出这里的“that”是对 \n前一句的指代。根据文意，那个巨大的错误应该是指他青年时期对纳粹的同情。答案为 Α。 \n29.[解析]本段前半段讲 Kamprad 所犯错误和他的懊悔。而后半段讲宜家的销售成绩却因为 \n他的诚实应对不降反升。由此看出填空处应该是一句有转折意味、承上启下的句子。答案为 C。 \n30.[解析]本段追溯了宜家如何改变设计方向的历史。答案为 D。",
+      "passage": "(第 26-30 题，每题 2 分，共 10 分)  \n下面的短文有 5 处空白，短文后有 6 个句子，其中 5 个取自短文，请根据短文内容将 其\n分别放回原有位置，以恢复文章原貌。 \nMistakes Are a Must on the Road to Success \nWhen Kamprad was a teenager, he became interested in a pro -Nazi group run by \na Swedish fascist activist by the name of Per Engdahl. He not only attended group \nmeetings but also raised funds and recruited members to the group between 1942 and \n1945. It is unknown when Kamprad quit the group. [26] This part of Kamprad's past remained hidden until 1994, when Engdahl's personal letters were made \npublic after his death. \n“This is part of my life I bitterly regret,” said Kamprad. “After a couple \nof meetings in pure Nazi style, I quit.” In a letter he wrote to employees titled \n“The Greatest Mistake of My Life,” Kamprad apologized to IKEA employees of Jewish \nheritage and asked  for their forgiveness. [27] Following its \npublication, Kamprad said in an interview, “Now I have told all I can. Can one \never get forgiveness for such stupidity?” \n [28] “That was the biggest blunder I've made in my entire life, \nand I regret it deeply,” he said. “ I have said sorry, many times, but it has left \nan unremovable mark on my conscience that continually haunts me and perhaps it's \nbest this way.” Joining the Nazi group would be a mistake that he would be paying \nfor on a personal level for the rest of his life. [29] He was \ncriticized and he was attacked in the media, but sales at IKEA continued to increase. \nHis popularity actually rose  following the incident because of the honesty with \nwhich he dealt with the after-effect.  \nExperience has taught Kamprad that not only could the business world be \nforgiving of his mistakes, but that it was those very mistakes that could end up \nmoving mountains. [30] Working in Almhult , Gillis Lundgren, a new \nemployee, had been standing beside a car with a colleague, trying to figure  out \nhow to get a bulky wooden table into the back of it. Finally, against company \npolicy, Lundgren said,“  Oh God, then, let’s pull off the legs and put them \nunderneath.” It was with that simple statement that IKEA would reorient itself \ntowards the flat design production for which it has become famous today. \n “IKEA is not completely perfect,” said Kamprad. “We are going the right way \nto becoming it, for sure, but we are not there yet.”",
       "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
       "optionsPool": [
         {
           "key": "A",
-          "content": "Kamprad had made a crucial mistake in sympathizing with Nazis in his teenage"
+          "content": "Kamprad had made a crucial mistake in sympathizing with Nazis in his teenage years."
         },
         {
           "key": "B",
@@ -1121,7 +1406,7 @@
         },
         {
           "key": "F",
-          "content": "He also devoted two chapters to the incident in his 1998 book,“The History"
+          "content": "He also devoted two chapters to the incident in his 1998 book, “The History of IKEA.”"
         }
       ],
       "tasks": [
@@ -1133,11 +1418,11 @@
               "questionNumber": 26,
               "stem": "填入原文第 [26] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
-                  "content": "Kamprad had made a crucial mistake in sympathizing with Nazis in his teenage"
+                  "content": "Kamprad had made a crucial mistake in sympathizing with Nazis in his teenage years."
                 },
                 {
                   "key": "B",
@@ -1157,7 +1442,7 @@
                 },
                 {
                   "key": "F",
-                  "content": "He also devoted two chapters to the incident in his 1998 book,“The History"
+                  "content": "He also devoted two chapters to the incident in his 1998 book, “The History of IKEA.”"
                 }
               ],
               "answerRules": [
@@ -1171,8 +1456,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：恢复错位的句子与 A/F 选项末尾（years. / of IKEA），内容来自已导入正文。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：恢复错位的句子与 A/F 选项末尾（years. / of IKEA），内容来自已导入正文。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：恢复错位的句子与 A/F 选项末尾（years. / of IKEA），内容来自已导入正文。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1180,11 +1479,11 @@
               "questionNumber": 27,
               "stem": "填入原文第 [27] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
-                  "content": "Kamprad had made a crucial mistake in sympathizing with Nazis in his teenage"
+                  "content": "Kamprad had made a crucial mistake in sympathizing with Nazis in his teenage years."
                 },
                 {
                   "key": "B",
@@ -1204,7 +1503,7 @@
                 },
                 {
                   "key": "F",
-                  "content": "He also devoted two chapters to the incident in his 1998 book,“The History"
+                  "content": "He also devoted two chapters to the incident in his 1998 book, “The History of IKEA.”"
                 }
               ],
               "answerRules": [
@@ -1218,8 +1517,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：恢复错位的句子与 A/F 选项末尾（years. / of IKEA），内容来自已导入正文。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：恢复错位的句子与 A/F 选项末尾（years. / of IKEA），内容来自已导入正文。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：恢复错位的句子与 A/F 选项末尾（years. / of IKEA），内容来自已导入正文。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1227,11 +1540,11 @@
               "questionNumber": 28,
               "stem": "填入原文第 [28] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
-                  "content": "Kamprad had made a crucial mistake in sympathizing with Nazis in his teenage"
+                  "content": "Kamprad had made a crucial mistake in sympathizing with Nazis in his teenage years."
                 },
                 {
                   "key": "B",
@@ -1251,7 +1564,7 @@
                 },
                 {
                   "key": "F",
-                  "content": "He also devoted two chapters to the incident in his 1998 book,“The History"
+                  "content": "He also devoted two chapters to the incident in his 1998 book, “The History of IKEA.”"
                 }
               ],
               "answerRules": [
@@ -1265,8 +1578,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：恢复错位的句子与 A/F 选项末尾（years. / of IKEA），内容来自已导入正文。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：恢复错位的句子与 A/F 选项末尾（years. / of IKEA），内容来自已导入正文。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：恢复错位的句子与 A/F 选项末尾（years. / of IKEA），内容来自已导入正文。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1274,11 +1601,11 @@
               "questionNumber": 29,
               "stem": "填入原文第 [29] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
-                  "content": "Kamprad had made a crucial mistake in sympathizing with Nazis in his teenage"
+                  "content": "Kamprad had made a crucial mistake in sympathizing with Nazis in his teenage years."
                 },
                 {
                   "key": "B",
@@ -1298,7 +1625,7 @@
                 },
                 {
                   "key": "F",
-                  "content": "He also devoted two chapters to the incident in his 1998 book,“The History"
+                  "content": "He also devoted two chapters to the incident in his 1998 book, “The History of IKEA.”"
                 }
               ],
               "answerRules": [
@@ -1312,8 +1639,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：恢复错位的句子与 A/F 选项末尾（years. / of IKEA），内容来自已导入正文。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：恢复错位的句子与 A/F 选项末尾（years. / of IKEA），内容来自已导入正文。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：恢复错位的句子与 A/F 选项末尾（years. / of IKEA），内容来自已导入正文。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1321,11 +1662,11 @@
               "questionNumber": 30,
               "stem": "填入原文第 [30] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
-                  "content": "Kamprad had made a crucial mistake in sympathizing with Nazis in his teenage"
+                  "content": "Kamprad had made a crucial mistake in sympathizing with Nazis in his teenage years."
                 },
                 {
                   "key": "B",
@@ -1345,7 +1686,7 @@
                 },
                 {
                   "key": "F",
-                  "content": "He also devoted two chapters to the incident in his 1998 book,“The History"
+                  "content": "He also devoted two chapters to the incident in his 1998 book, “The History of IKEA.”"
                 }
               ],
               "answerRules": [
@@ -1359,8 +1700,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：恢复错位的句子与 A/F 选项末尾（years. / of IKEA），内容来自已导入正文。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：恢复错位的句子与 A/F 选项末尾（years. / of IKEA），内容来自已导入正文。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：恢复错位的句子与 A/F 选项末尾（years. / of IKEA），内容来自已导入正文。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1373,7 +1728,7 @@
       "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
       "sortOrder": 5,
       "scorePerQuestion": 1.5,
-      "passage": "(第 31-40 题，每题 1.5 分，共 15 分)  \n下面的短文有 10 处空白，短文后列出 12 个词，其中 10 个取自短文，请根据短文内 容\n将其分别放回原有位置，以恢复文章原貌。 \nUnderstanding a Budget \nA budget is a foreign concept to kids (and, it should be said, to many adults). \nYounger children, especially, simply won't realize that mommy and daddy have a [31] amount of money to spend every month. But [32] what a \nbudget is, and why it's a good idea, is one of the central pillars of  financial \nliteracy. \nThe best way to teach kids how a budget works is (33) what a budget is, and why \nto show them.That's not to say that you should open your books up to your children \nand show them every penny coming in or out (although you may consider [34] some details with teenagers about things like your mortgage payment, \ncar payments, and so on). Instead, just give them a broad [35] of \nhow adults have to divide up their money each month One easy way to demonstrate \nthis concept is to take a stack of Monopoly money( 游戏钞票) and tell your child \nthat the stack represents how much money you [36]every month from \nwork. Then, divide up the [37] one at a time to show how much you \nspend on the house, how much you spend on food, how much you save, how much you \ngive to charitable [38] , and so forth. The denominations (面额)aren\n,\nt \nimportant. What’s important is showing your children that you have a [39]  plan for your money, and that you're on top of the family finances. \nEncourage your child to start a budget of his own: Part of his allowance should \ngo to savings, part to charity, and part of it is just for fun. Help your child \nidentify what he [40]  values, and budget his money accordingly  \n40.（）填写选项的【大写字母】 \n \n\n\n### 答案\n\n  \n31.[解析]limited, adj. 有限的。a limited amount of 也可看做固定搭配，指有限的一笔 \n（钱）。答案为 L。  \n32.[解析]本句话缺少一部分主语。另外根据句意，这里是学习……的意思。可以用 learn 的 \n \n \n动名词形式。答案为 Η。  \n33.[解析]这里需要一个副词修饰后边的 to show them. simply 副词，简单地、仅仅。答案 \n为 I。  \n34.[解析]share... with sb.固定搭配，与谁分享。这里动词 consider 后应接入 doing 形 \n式。答案为 B。  \n35.[解析]不定冠词 а 后少一个名词。a broad sense 可以理解为大的方面、广义。答案为 \nC。 \n36.[解析]根据句意，每月你从エ作中获得多少钱。这里缺少表示“得到、获得”的动词。\nmake money 意为挣钱，为固定搭配。答案为 E。  \n37.[解析]定冠词 the 后缺少名词。bill,n. 清单、账单。答案为 D。  \n38.[解析]charitable organization，慈善组织。答案为 J。  \n39.[解析]应填入一个形容词修饰后边的名词 plan。 conscious, adj. 有意识的。答案为 F\n。  \n40.[解析]本空修饰动词 value,因此应选用副词。 truly 意为真正地，符合题意。答案为 G。",
+      "passage": "(第 31-40 题，每题 1.5 分，共 15 分)  \n下面的短文有 10 处空白，短文后列出 12 个词，其中 10 个取自短文，请根据短文内 容\n将其分别放回原有位置，以恢复文章原貌。 \nUnderstanding a Budget \nA budget is a foreign concept to kids (and, it should be said, to many adults). \nYounger children, especially, simply won't realize that mommy and daddy have a [31] amount of money to spend every month. But [32] what a \nbudget is, and why it's a good idea, is one of the central pillars of  financial \nliteracy. \nThe best way to teach kids how a budget works is [33] to show them.That's not to say that you should open your books up to your children \nand show them every penny coming in or out (although you may consider [34] some details with teenagers about things like your mortgage payment, \ncar payments, and so on). Instead, just give them a broad [35] of \nhow adults have to divide up their money each month. One easy way to demonstrate \nthis concept is to take a stack of Monopoly money( 游戏钞票) and tell your child \nthat the stack represents how much money you [36]every month from \nwork. Then, divide up the [37] one at a time to show how much you \nspend on the house, how much you spend on food, how much you save, how much you \ngive to charitable [38] , and so forth. The denominations (面额)aren’t \nimportant. What’s important is showing your children that you have a [39]  plan for your money, and that you're on top of the family finances. \nEncourage your child to start a budget of his own: Part of his allowance should \ngo to savings, part to charity, and part of it is just for fun. Help your child \nidentify what he [40]  values, and budget his money accordingly",
       "instructions": "从备选词汇池中选择最佳单词填入空白处。",
       "optionsPool": [
         {
@@ -1434,7 +1789,7 @@
               "questionNumber": 31,
               "stem": "填入原文第 [31] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1447,8 +1802,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1456,7 +1825,7 @@
               "questionNumber": 32,
               "stem": "填入原文第 [32] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1469,8 +1838,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1478,7 +1861,7 @@
               "questionNumber": 33,
               "stem": "填入原文第 [33] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1491,8 +1874,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1500,7 +1897,7 @@
               "questionNumber": 34,
               "stem": "填入原文第 [34] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1513,8 +1910,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1522,7 +1933,7 @@
               "questionNumber": 35,
               "stem": "填入原文第 [35] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1535,8 +1946,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1544,7 +1969,7 @@
               "questionNumber": 36,
               "stem": "填入原文第 [36] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1557,8 +1982,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1566,7 +2005,7 @@
               "questionNumber": 37,
               "stem": "填入原文第 [37] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1579,8 +2018,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1588,7 +2041,7 @@
               "questionNumber": 38,
               "stem": "填入原文第 [38] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1601,8 +2054,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1610,7 +2077,7 @@
               "questionNumber": 39,
               "stem": "填入原文第 [39] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1623,8 +2090,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1632,7 +2113,7 @@
               "questionNumber": 40,
               "stem": "填入原文第 [40] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1645,8 +2126,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1659,7 +2154,7 @@
       "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
       "sortOrder": 6,
       "scorePerQuestion": 1.5,
-      "passage": "(第 41-50 题，每题 1.5 分，共 15 分)  \n下面的短文有 10 处空白，每处空白后的括号内有一个词，请根据短文内容将其正确的形\n式填入文中，以恢复文章原貌。 \nCrude Oil \nAlthough crude oil is still (O) vastly (vast) available in the earth's crust, \nit is not a/an (finite) resource. At some point it will eventually be[42] \n(exhaust) The demand for crude oil has increased by gigantic proportions. However, \n[43]  (discovery) of new oil fields and investing in the oil industry have \nhelped keep up with the [44] (increase) demand for oil. The crucial question \nis, how long will the oil resources last? \n [45]  (advance) technology has made dril ling oil more [46]  \n(effect) and efficient. With the aid of new methods it is possible to draw almost \n65% of the oil as opposed to the old methods. Better infrastructure and more [47] (invest) have also made the drilling of oil wells more effective. Currently \nmost [48] (transport) is dependent on oil and many industries are born out \nof or lean on byproducts of petroleum. \nAlthough alternative sources of energy are now [49] (apply) like solar \nand wind energy, it is still a long way to be completely [50]  (dependent) \nof crude oil. \n     \n\n\n### 答案\n\n  \n41.[解析]finite, adj.有限的;infinite, adj.无限的。本句想表达的意思是,土地是一种有 \n限的资源。这里 not...infinite 双重否定表肯定。答案是 infinite。  \n42.[解析]exhaust, v. 用光、耗尽。will be done 一般将来时的被动语态，所以这里需要填 \n入其过去分词。答案为 exhausted.  \n43.[解析]discovery, n. 发现。本句有两个并列的主语，可根据 investing in the oil \nindustry 的形式判断出前面 discovery 也要用名词形式。答案为 discoveries. \n44.[解析]increase, v. 增加、增长。这里需要一个形容词对后边的 demand 进行修饰。in- \ncreasing demand 现在分词做形容词，指持续上涨的需求。答案为 increasing.  \n45.[解析]名词 technology 前需要形容词。advanced, adj.高等的、先进的。答案为 \nAdvanced.  \n \n \n46.[解析]这里 and 连接两个形容词的比较级。effect, v. & n.产生影响、效果;影响、效 \n果。effective, a. 有效的。答案为 effective。  \n47.[解析]and 连接两个并列的名词做句子主语。 invest, v.投资;investment, n.投资。答 \n案为 investments。  \n48.[解析]这里缺少名词做句子主语。 transport, v. 运输、运送;transportation, n.运输 \n业、运输系统。答案为 transportation.  \n49.[解析]apply, v. 应用。这里是被动语态，需要填入其过去分词。答案是 applied.  \n50.[解析] be independent of sth. 与…不相关。dependent, adj.依赖的。be completely \nindependent of crude oil 指完全取代原油。答案为 independent。",
+      "passage": "(第 41-50 题，每题 1.5 分，共 15 分)  \n下面的短文有 10 处空白，每处空白后的括号内有一个词，请根据短文内容将其正确的形\n式填入文中，以恢复文章原貌。 \nCrude Oil \nAlthough crude oil is still (O) vastly (vast) available in the earth's crust, \nit is not a/an [41] (finite) resource. At some point it will eventually be[42] \n(exhaust) The demand for crude oil has increased by gigantic proportions. However, \n[43]  (discovery) of new oil fields and investing in the oil industry have \nhelped keep up with the [44] (increase) demand for oil. The crucial question \nis, how long will the oil resources last? \n [45]  (advance) technology has made drilling oil more [46]  \n(effect) and efficient. With the aid of new methods it is possible to draw almost \n65% of the oil as opposed to the old methods. Better infrastructure and more [47] (invest) have also made the drilling of oil wells more effective. Currently \nmost [48] (transport) is dependent on oil and many industries are born out \nof or lean on byproducts of petroleum. \nAlthough alternative sources of energy are now [49] (apply) like solar \nand wind energy, it is still a long way to be completely [50]  (dependent) \nof crude oil.",
       "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
       "optionsPool": [],
       "tasks": [
@@ -1671,7 +2166,7 @@
               "questionNumber": 41,
               "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1684,16 +2179,31 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 12,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 12 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
-              ]
+              ],
+              "baseWord": "finite"
             },
             {
               "questionNumber": 42,
               "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1706,31 +2216,64 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 12,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 12 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
-              ]
+              ],
+              "baseWord": "exhaust"
             },
             {
               "questionNumber": 43,
               "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
               "baseWord": "discovery",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
                   "standardAnswer": "discoveries",
                   "originalAnswer": "discoveries.",
-                  "acceptableAnswers": [],
+                  "acceptableAnswers": [
+                    "discovery"
+                  ],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "explanation": "2026-09-13逐题复核纠错：discovery of new oil fields and investing ... have helped：discovery 可作不可数名词，表示发现这一过程；它和 investing 构成并列主语，have 不要求 discovery 为复数。",
+                  "revisionNotes": "2026-09-13逐题复核纠错：discovery of new oil fields and investing ... have helped：discovery 可作不可数名词，表示发现这一过程；它和 investing 构成并列主语，have 不要求 discovery 为复数。"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 12,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 12 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1739,21 +2282,39 @@
               "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
               "baseWord": "increase",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
                   "standardAnswer": "increasing",
                   "originalAnswer": "increasing.",
-                  "acceptableAnswers": [],
+                  "acceptableAnswers": [
+                    "increased"
+                  ],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "explanation": "2026-09-13逐题复核纠错：the increasing / increased demand for oil：可指正在增长的需求或已经增长的需求；前句 has increased 同样支持 increased。",
+                  "revisionNotes": "2026-09-13逐题复核纠错：the increasing / increased demand for oil：可指正在增长的需求或已经增长的需求；前句 has increased 同样支持 increased。"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 12,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 12 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1762,7 +2323,7 @@
               "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
               "baseWord": "advance",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1775,8 +2336,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 12,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 12 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1784,7 +2359,7 @@
               "questionNumber": 46,
               "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1797,31 +2372,63 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 12,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 12 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
-              ]
+              ],
+              "baseWord": "effect"
             },
             {
               "questionNumber": 47,
               "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
               "baseWord": "invest",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
                   "standardAnswer": "investments",
                   "originalAnswer": "investments",
-                  "acceptableAnswers": [],
+                  "acceptableAnswers": [
+                    "investment"
+                  ],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "revisionNotes": "；2026-09-12：more investment 可用不可数名词表示更多投资"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：more investment 可用不可数名词表示更多投资；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 12,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 12 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：more investment 可用不可数名词表示更多投资；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：more investment 可用不可数名词表示更多投资；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1830,21 +2437,39 @@
               "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
               "baseWord": "transport",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
                   "standardAnswer": "transportation",
                   "originalAnswer": "transportation.",
-                  "acceptableAnswers": [],
+                  "acceptableAnswers": [
+                    "transport"
+                  ],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "explanation": "2026-09-13逐题复核纠错：most transport / transportation is dependent on oil：transport 本身可作不可数名词，英式英语中表示运输。",
+                  "revisionNotes": "2026-09-13逐题复核纠错：most transport / transportation is dependent on oil：transport 本身可作不可数名词，英式英语中表示运输。"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 12,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 12 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1853,7 +2478,7 @@
               "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
               "baseWord": "apply",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1866,8 +2491,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 12,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 12 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1876,7 +2515,7 @@
               "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
               "baseWord": "dependent",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1889,8 +2528,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 12,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 12 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1903,7 +2556,7 @@
       "title": "第七部分：短文写作（第51题，30分）",
       "sortOrder": 7,
       "scorePerQuestion": 30.0,
-      "passage": "(第 51 题，30 分) \n请根据所提供材料中的要求撰写一篇 150 词左右的英语短文。 \nNews 1 \nWASHINGTON, Oct. 26—Tuition and fees at US public universities and colleges \nhave increased more than 8 percent in the 2011 -2012 academic year. According to \nthe report released by the non-profit College Board, out-of-state residents pay an \naverage of 20,770 dollars, up 5.7 percent from last academic year. \nNews 2  \nThe number of Chinese students studying abroad has rapidly increased in recent \nyears. According to statistics released by the Ministry of Education in the academic \nyear of 2011， about 285,000 people were educated abroad, up 24 percent from the \nprevious year. And the number of younger students has been growing dramatically . \n\n\n### 答案\n\n 51.[写作思路]  \n(1)分别分析 News 1 和 News 2。   \nNews 1 主要讲 2011 至 2012 年度，美国大学提高了学费，其中留学生的学费上涨得最多。 \nNews 2 主要讲自 2011 年，选择到海外留学的中国学生数量持续快速上涨。 得出结论：\nChinese students studying abroad, to some extent, have contributed  to the \nincreasing tuition in US universities.  \n（2)可以列举出留学的优势 the advantages of studying abroad:  \npractising another language, learning different ways of thinking of the west, \nenjoying the methods of western education, making friends from all over the \nworld...  \n (3)结论:There are more opportunities to enhance a student's knowledge and ability \nwhen he/she studies abroad.",
+      "passage": "(第 51 题，30 分) \n请根据所提供材料中的要求撰写一篇 150 词左右的英语短文。 \nNews 1 \nWASHINGTON, Oct. 26—Tuition and fees at US public universities and colleges \nhave increased more than 8 percent in the 2011 -2012 academic year. According to \nthe report released by the non-profit College Board, out-of-state residents pay an \naverage of 20,770 dollars, up 5.7 percent from last academic year. \nNews 2  \nThe number of Chinese students studying abroad has rapidly increased in recent \nyears. According to statistics released by the Ministry of Education in the academic \nyear of 2011， about 285,000 people were educated abroad, up 24 percent from the \nprevious year. And the number of younger students has been growing dramatically .",
       "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
       "optionsPool": [],
       "tasks": [
@@ -1915,12 +2568,12 @@
               "questionNumber": 51,
               "stem": "短文写作",
               "scoreValue": 30.0,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
                   "standardAnswer": "略",
-                  "explanation": "短文写作属于主观题，需结合题目要点书写。",
+                  "explanation": "### 答案\n\n 51.[写作思路]  \n(1)分别分析 News 1 和 News 2。   \nNews 1 主要讲 2011 至 2012 年度，美国大学提高了学费，其中留学生的学费上涨得最多。 \nNews 2 主要讲自 2011 年，选择到海外留学的中国学生数量持续快速上涨。 得出结论：\nChinese students studying abroad, to some extent, have contributed  to the \nincreasing tuition in US universities.  \n（2)可以列举出留学的优势 the advantages of studying abroad:  \npractising another language, learning different ways of thinking of the west, \nenjoying the methods of western education, making friends from all over the \nworld...  \n (3)结论:There are more opportunities to enhance a student's knowledge and ability \nwhen he/she studies abroad.",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
                   "disputed": false
@@ -1928,8 +2581,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（2）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）.pdf",
+                  "pageNumber": 12,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 12 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（2）答案详解.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页；答案 PDF 封面误写“押题库试卷（一）”，内部文章及答案与试卷（二）逐题对应。"
                 }
               ]
             }

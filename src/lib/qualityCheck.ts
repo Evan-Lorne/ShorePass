@@ -111,3 +111,8 @@ export function runQualityCheck(paper: any) {
 
   return errors;
 }
+
+/** Validate a draft as the verified state it will enter when publishing. */
+export function runPublicationQualityCheck(paper: any) {
+  return runQualityCheck({ ...paper, verified: true });
+}

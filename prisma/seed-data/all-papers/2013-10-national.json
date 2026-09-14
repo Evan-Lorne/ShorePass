@@ -8,23 +8,18 @@
   "paperType": "exam",
   "totalScore": 100,
   "suggestedMinutes": 150,
-  "verified": false,
-  "status": "draft",
-  "publishBlocked": true,
-  "blockReasons": [
-    {
-      "code": "ocr_unverified",
-      "description": "全量批量导入草稿，待逐题人工核对"
-    }
-  ],
-  "sourceFile": "2013年10月真题.md",
+  "verified": true,
+  "status": "verified",
+  "publishBlocked": false,
+  "blockReasons": [],
+  "sourceFile": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
   "sections": [
     {
       "type": "reading_judgment",
       "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
       "sortOrder": 1,
-      "scorePerQuestion": 1.0,
-      "passage": "A；如果该句提供的是错误信息，选择 B；如\n果该句的信息文中没有提及，选择 C。\nFarms Appear in Cities\nWhen you hear the word “farm”, you may imagine the countryside with cows\nand crops. But scientists say the farms of the future could be built in tall buildings in\nsome large cities.\nIt may be difficult to believe, but in fact, the technology for growing crops\nindoors already exists. Farming in the city is already happe nin g. Some vegetables are\nalready grown in greenhouses. Even the scientists at the South Pole research station\ncan enjoy fresh vegetables they grow in their own greenhouse.\nExperts say indoor farming solves many problems. First, traditional farming\ntakes up a lot of land. Growing crops in tall buildings- called vertical farming ( 垂直农\n业)—can solve the problem. Also, fruits and vegetables grown indoors would not face\nserious threats from insects and bad weather.\nThough vertical farms d on't exist yet, experts have created a plan for recycling in\nsuch farms. The water from indoor fish ponds would be used to water crops. Gases\nfrom crop waste would be used to heat the building. Waste from chicken or pigs\nwould be reused as a source of energy.\nBut experts believe vertical farming is not going to be easy. They say it can be\ndifficult to control climate conditions indoors. Besides, plants differ in their weather\nand lighting needs. For example, some pla nts lik e warm, sunny weather, but other\nplants prefer cooler temperatures.\nThat's not to say these difficulties won't be overcome- -but it will take time. Most\nexperts suggest it may take about 5 to 15 years before the first vertical farms could be\ncreated.",
+      "scorePerQuestion": 1,
+      "passage": "Farms Appear in Cities\nWhen you hear the word “farm”, you may imagine the countryside with cows\nand crops. But scientists say the farms of the future could be built in tall buildings in\nsome large cities.\nIt may be difficult to believe, but in fact, the technology for growing crops\nindoors already exists. Farming in the city is already happening. Some vegetables are\nalready grown in greenhouses. Even the scientists at the South Pole research station\ncan enjoy fresh vegetables they grow in their own greenhouse.\nExperts say indoor farming solves many problems. First, traditional farming\ntakes up a lot of land. Growing crops in tall buildings- called vertical farming ( 垂直农\n业)—can solve the problem. Also, fruits and vegetables grown indoors would not face\nserious threats from insects and bad weather.\nThough vertical farms don't exist yet, experts have created a plan for recycling in\nsuch farms. The water from indoor fish ponds would be used to water crops. Gases\nfrom crop waste would be used to heat the building. Waste from chicken or pigs\nwould be reused as a source of energy.\nBut experts believe vertical farming is not going to be easy. They say it can be\ndifficult to control climate conditions indoors. Besides, plants differ in their weather\nand lighting needs. For example, some plants like warm, sunny weather, but other\nplants prefer cooler temperatures.\nThat's not to say these difficulties won't be overcome- -but it will take time. Most\nexperts suggest it may take about 5 to 15 years before the first vertical farms could be\ncreated.",
       "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
       "optionsPool": [],
       "tasks": [
@@ -35,8 +30,8 @@
             {
               "questionNumber": 1,
               "stem": "The word “farm” may make you think of the countryside.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -62,16 +57,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 9 页。"
                 }
               ]
             },
             {
               "questionNumber": 2,
               "stem": "It is still a dream for people to grow crops indoors.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -97,16 +100,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 9 页。"
                 }
               ]
             },
             {
               "questionNumber": 3,
               "stem": "Scientists at the South Pole research station live a hard life.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -132,16 +143,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 9 页。"
                 }
               ]
             },
             {
               "questionNumber": 4,
-              "stem": "Vertical farming does not ne ed as mu ch land as traditional farming.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Vertical farming does not need as much land as traditional farming.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -167,16 +186,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 10 页。"
                 }
               ]
             },
             {
               "questionNumber": 5,
               "stem": "Fresh fruits and vegetables are very expensive in cities.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -202,16 +229,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 10 页。"
                 }
               ]
             },
             {
               "questionNumber": 6,
               "stem": "Crops grown indoors would not be badly harmed by insects.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -237,16 +272,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 10 页。"
                 }
               ]
             },
             {
               "questionNumber": 7,
               "stem": "Scientists do not know how to reuse the animal waste in vertical farms.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -272,16 +315,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 10 页。"
                 }
               ]
             },
             {
               "questionNumber": 8,
               "stem": "Some experts say vertical farming could be difficult.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -307,16 +358,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 10 页。"
                 }
               ]
             },
             {
               "questionNumber": 9,
               "stem": "Indoor plants need the same weather and lighting.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -342,16 +401,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 10 页。"
                 }
               ]
             },
             {
               "questionNumber": 10,
               "stem": "The first vertical farms appeared 5 years ago.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -377,8 +444,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 10 页。"
                 }
               ]
             }
@@ -390,8 +465,8 @@
       "type": "reading_comprehension",
       "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
       "sortOrder": 2,
-      "scorePerQuestion": 2.0,
-      "passage": "个最佳选项。\nA Good Lesson\nAfter living in Europe for seven years, my parents decided that my family would\nmove to the United States. We all looked forward to this. What would people think of\nus? For me, I hoped to be the hero of the class.\nI was not disappointed. All my classmates admired my experience, and I quickly\nbecame well known as “the French guy.\" I was very popular for a time. However, I\nwas not interested in many things my classmates did, and it was hard for me to\nconnect with them. I enjoyed li sten ing to classical music, never watched TV , and\nalmost never watched movies.\nI did not have a common background with my friends because I grew up in\nEurope. I had few friends, and fewer good friends. When I look back now, I realize I\nwas a bit of an idiot to many people around me. I kept talking proudly about my\nexperience. And I thought myself better than those around me because I lived in\nEurope but they didn't.\nI had decided I wanted better friends when my parents said that we were g oin g to\nmove again! I saw this as a perfect chance to get better friends, where people did not\nknow of my unkind past.\nWhen we moved to California, I did not show off as I had done for five years. I\ndid not tell everyone that I lived in Europe. I still listened to classical music, but I just\nkept my music to myself. Sure enough, I found that people like someone who is not\ntypical but does not boast about it.\nNothing can replace good friends, and if I had to control my temper and pride, it\nwas well wo rth it.",
+      "scorePerQuestion": 2,
+      "passage": "A Good Lesson\nAfter living in Europe for seven years, my parents decided that my family would\nmove to the United States. We all looked forward to this. What would people think of\nus? For me, I hoped to be the hero of the class.\nI was not disappointed. All my classmates admired my experience, and I quickly\nbecame well known as “the French guy.\" I was very popular for a time. However, I\nwas not interested in many things my classmates did, and it was hard for me to\nconnect with them. I enjoyed listening to classical music, never watched TV, and\nalmost never watched movies.\nI did not have a common background with my friends because I grew up in\nEurope. I had few friends, and fewer good friends. When I look back now, I realize I\nwas a bit of an idiot to many people around me. I kept talking proudly about my\nexperience. And I thought myself better than those around me because I lived in\nEurope but they didn't.\nI had decided I wanted better friends when my parents said that we were going to\nmove again! I saw this as a perfect chance to get better friends, where people did not\nknow of my unkind past.\nWhen we moved to California, I did not show off as I had done for five years. I\ndid not tell everyone that I lived in Europe. I still listened to classical music, but I just\nkept my music to myself. Sure enough, I found that people like someone who is not\ntypical but does not boast about it.\nNothing can replace good friends, and if I had to control my temper and pride, it\nwas well worth it.",
       "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
       "optionsPool": [],
       "tasks": [
@@ -402,8 +477,8 @@
             {
               "questionNumber": 11,
               "stem": "When I first moved to the US, I was very popular because of my _______",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -433,16 +508,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 3 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 11 页。"
                 }
               ]
             },
             {
               "questionNumber": 12,
               "stem": "I had few good friends partly because I",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -472,16 +555,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 3 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 11 页。"
                 }
               ]
             },
             {
               "questionNumber": 13,
               "stem": "The phrase “an idiot\" (Line 3, Para.3) most probably means",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -511,16 +602,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 3 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 12,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 12 页。"
                 }
               ]
             },
             {
               "questionNumber": 14,
               "stem": "When we moved to California, I stopped",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -550,16 +649,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 4 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 12,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 12 页。"
                 }
               ]
             },
             {
               "questionNumber": 15,
               "stem": "The writer would probably agree that",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -567,7 +674,7 @@
                 },
                 {
                   "key": "B",
-                  "content": "friends are more important than"
+                  "content": "friends are more important than anything else"
                 },
                 {
                   "key": "C",
@@ -575,7 +682,7 @@
                 },
                 {
                   "key": "D",
-                  "content": "a good friend never loses his/her"
+                  "content": "a good friend never loses his/her temper"
                 }
               ],
               "answerRules": [
@@ -589,8 +696,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 4 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 12,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 12 页。"
                 }
               ]
             }
@@ -602,8 +717,8 @@
       "type": "summary_completion",
       "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
       "sortOrder": 3,
-      "scorePerQuestion": 1.0,
-      "passage": "阅读下面短文，请完成短文后的 2 项测试任务： （1）从第 16-20 题后所给的 6\n个选项中为第①-⑤段每段选择 1 个正确的段落大意； （2）从第 21~25 题后所给\n的 6 个选项中选择 5 个正确选项，分别完成每个句子。\nDormitory Life\n①Living in a dormitory at college can be a great experience. However, if you take no\nsteps to make this experience positive, dormitory life can become a misery. When you\nchoose to live in a college dormitory, you will have a better chance to live a colorful\nand meaningful life. Meanwhile, you will have to give up many things as wel l.\n②Wh\nen you live in a dormitory, you can meet many people with different interests.\nAnd you can enjoy the various services there. Both are very important to make you\nsuccessful at college. But you may have to give up much of your personal space. You\nwill share a room with someone else. This means you need to make peace with the\nthings and people around you.\n③You will have to learn some important life skills. For example, you will learn how\nto get along with people. You will also learn to ign ore things that you can't change.\nBut in the future, you will find these skills very helpful when you are working in the\nreal world.\n④ When you live in a dormitory, you can enjoy a wide range of campus services,\nwhich are not available to those who live off campus. If you have any school related\nproblems, you have no difficulty finding someone to help, because the school hires\npeople to help the students living there.\n⑤ Besides, living on campus means you don't have to travel to and from school in\nrush hours. And you are more involved in campus life. For example, you can have a\nbetter chance to take part in the club activities and make your own contributions. If\nyou want to live a rich campus life, living in a dormitory is your best choice.",
+      "scorePerQuestion": 1,
+      "passage": "阅读下面短文，请完成短文后的 2 项测试任务： （1）从第 16-20 题后所给的 6\n个选项中为第①-⑤段每段选择 1 个正确的段落大意； （2）从第 21~25 题后所给\n的 6 个选项中选择 5 个正确选项，分别完成每个句子。\nDormitory Life\n①Living in a dormitory at college can be a great experience. However, if you take no\nsteps to make this experience positive, dormitory life can become a misery. When you\nchoose to live in a college dormitory, you will have a better chance to live a colorful\nand meaningful life. Meanwhile, you will have to give up many things as well.\n②When you live in a dormitory, you can meet many people with different interests.\nAnd you can enjoy the various services there. Both are very important to make you\nsuccessful at college. But you may have to give up much of your personal space. You\nwill share a room with someone else. This means you need to make peace with the\nthings and people around you.\n③You will have to learn some important life skills. For example, you will learn how\nto get along with people. You will also learn to ignore things that you can't change.\nBut in the future, you will find these skills very helpful when you are working in the\nreal world.\n④ When you live in a dormitory, you can enjoy a wide range of campus services,\nwhich are not available to those who live off campus. If you have any school related\nproblems, you have no difficulty finding someone to help, because the school hires\npeople to help the students living there.\n⑤ Besides, living on campus means you don't have to travel to and from school in\nrush hours. And you are more involved in campus life. For example, you can have a\nbetter chance to take part in the club activities and make your own contributions. If\nyou want to live a rich campus life, living in a dormitory is your best choice.",
       "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
       "optionsPool": [],
       "tasks": [
@@ -614,8 +729,8 @@
             {
               "questionNumber": 16,
               "stem": "Paragraph①:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -653,16 +768,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 13,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 13 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 17,
-              "stem": "Parag raph②:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Paragraph②:",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -700,16 +823,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 13,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 13 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 18,
               "stem": "Paragraph③:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -747,16 +878,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 13,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 13 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 19,
               "stem": "Paragraph④:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -794,16 +933,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 13,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 13 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 20,
               "stem": "Paragraph⑤:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -841,8 +988,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 13,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 13 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -855,12 +1010,12 @@
             {
               "questionNumber": 21,
               "stem": "If you make no effort, you will______.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
-                  "content": "start a n ew life"
+                  "content": "start a new life"
                 },
                 {
                   "key": "B",
@@ -894,20 +1049,28 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 13,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 13 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 22,
               "stem": "Dormitory life means______.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
-                  "content": "start a n ew life"
+                  "content": "start a new life"
                 },
                 {
                   "key": "B",
@@ -941,20 +1104,28 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 13,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 13 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 23,
               "stem": "You need to master many skills like how to keep______.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
-                  "content": "start a n ew life"
+                  "content": "start a new life"
                 },
                 {
                   "key": "B",
@@ -988,20 +1159,28 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 14,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 14 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 24,
               "stem": "Those who live off campus cannot use______.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
-                  "content": "start a n ew life"
+                  "content": "start a new life"
                 },
                 {
                   "key": "B",
@@ -1035,20 +1214,28 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 14,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 14 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 25,
               "stem": "Living on campus can save you the trouble of______.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
-                  "content": "start a n ew life"
+                  "content": "start a new life"
                 },
                 {
                   "key": "B",
@@ -1082,8 +1269,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 14,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 14 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1095,13 +1290,13 @@
       "type": "sentence_fill",
       "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
       "sortOrder": 4,
-      "scorePerQuestion": 2.0,
-      "passage": "短文内容 将其分别放回原有位置，以恢复文章原貌。\nGrandpa My Hero\nMy grandfather had only one child and that was my mother. He always wanted a\nson but it never happened._[26] When my mom got pregnant, he thought he finally\nhad a boy in the family, but it turned out that her first child was my older sister. When\nI was born, Grandpa was very happy.\nHe was the first person to give me a baseball glove and to play baseball with me.\nMy first glove was as small as my whole hand is now. When Grandpa gave me that\nglove, I was very excited._ 27 It was my pride and joy.\nWhen I was five, I played on my first baseball team and Grandpa was the coach.\nHe wanted me to play one position, but I wanted to play another. 28 I tried so hard\nthat I made good progress. Grandpa was very proud of me. Ever since then, he has\nworked with me to make me a better player.\nGrandpa has helped me become not only a better player, but a better person. 29\nToday Grandpa does not play baseball with me so often, but he still comes to every\npractice and game. He sits and watches my practices through rain and shine. 30 I\nlove him and hope he will be around for many more years to support me and baseball.",
+      "scorePerQuestion": 2,
+      "passage": "Grandpa My Hero\nMy grandfather had only one child and that was my mother. He always wanted a\nson but it never happened. [26] When my mom got pregnant, he thought he finally\nhad a boy in the family, but it turned out that her first child was my older sister. When\nI was born, Grandpa was very happy.\nHe was the first person to give me a baseball glove and to play baseball with me.\nMy first glove was as small as my whole hand is now. When Grandpa gave me that\nglove, I was very excited. [27] It was my pride and joy.\nWhen I was five, I played on my first baseball team and Grandpa was the coach.\nHe wanted me to play one position, but I wanted to play another. [28] I tried so hard\nthat I made good progress. Grandpa was very proud of me. Ever since then, he has\nworked with me to make me a better player.\nGrandpa has helped me become not only a better player, but a better person. [29]\nToday Grandpa does not play baseball with me so often, but he still comes to every\npractice and game. He sits and watches my practices through rain and shine. [30] I\nlove him and hope he will be around for many more years to support me and baseball.",
       "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
       "optionsPool": [
         {
           "key": "A",
-          "content": "I was so happy I even slept with it at my side. ."
+          "content": "I was so happy I even slept with it at my side."
         },
         {
           "key": "B",
@@ -1132,12 +1327,12 @@
             {
               "questionNumber": 26,
               "stem": "填入原文第 [26] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
-                  "content": "I was so happy I even slept with it at my side. ."
+                  "content": "I was so happy I even slept with it at my side."
                 },
                 {
                   "key": "B",
@@ -1171,20 +1366,28 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 15,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 15 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 27,
               "stem": "填入原文第 [27] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
-                  "content": "I was so happy I even slept with it at my side. ."
+                  "content": "I was so happy I even slept with it at my side."
                 },
                 {
                   "key": "B",
@@ -1218,20 +1421,28 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 15,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 15 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 28,
               "stem": "填入原文第 [28] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
-                  "content": "I was so happy I even slept with it at my side. ."
+                  "content": "I was so happy I even slept with it at my side."
                 },
                 {
                   "key": "B",
@@ -1265,20 +1476,28 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 15,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 15 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 29,
               "stem": "填入原文第 [29] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
-                  "content": "I was so happy I even slept with it at my side. ."
+                  "content": "I was so happy I even slept with it at my side."
                 },
                 {
                   "key": "B",
@@ -1312,20 +1531,28 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 15,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 15 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 30,
               "stem": "填入原文第 [30] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
-                  "content": "I was so happy I even slept with it at my side. ."
+                  "content": "I was so happy I even slept with it at my side."
                 },
                 {
                   "key": "B",
@@ -1359,8 +1586,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 15,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 15 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1373,7 +1608,7 @@
       "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
       "sortOrder": 5,
       "scorePerQuestion": 1.5,
-      "passage": "据短文内容将其分别放回原有位置，以恢复文章原貌。\nProtecting the Few\nHow we live our lives affects the environment. The environment is all the things\naround you. All across Earth, humans are _[31] the environment in small and large\nways. We cut down trees to build houses. We plow fields to_ 32 crops.' We pour waste\ninto rivers, lakes and oceans. We use larger nets and bigger boats to catch_[33]\nnumbers of fish. Activities like these affect plants and animals. They_ 34 affects\nthings like the soil and water. Sometimes our actions make the number of a _[35]\nplant or animal get larger. For example, if you planted roses in your yard, there would\nbe more roses in your area.\nOur activities can also_[36] to a smaller number of plants and animals. If a park\nwere turned into an apartment building, what would happen to the plants and animals\nthere? Well, they would_[37] die or move to other __[38] There would be fewer plants\nand animals. Pollution and other activities sometimes cause the number of a species\n(物种) to become so_[39] that it cannot survive. A species that is in _[40] of dying out\nis called an endangered (濒危的) species.",
+      "passage": "Protecting the Few\nHow we live our lives affects the environment. The environment is all the things\naround you. All across Earth, humans are [31] the environment in small and large\nways. We cut down trees to build houses. We plow fields to [32] crops.' We pour waste\ninto rivers, lakes and oceans. We use larger nets and bigger boats to catch [33]\nnumbers of fish. Activities like these affect plants and animals. They [34] affect\nthings like the soil and water. Sometimes our actions make the number of a [35]\nplant or animal get larger. For example, if you planted roses in your yard, there would\nbe more roses in your area.\nOur activities can also [36] to a smaller number of plants and animals. If a park\nwere turned into an apartment building, what would happen to the plants and animals\nthere? Well, they would [37] die or move to other [38] There would be fewer plants\nand animals. Pollution and other activities sometimes cause the number of a species\n(物种) to become so [39] that it cannot survive. A species that is in [40] of dying out\nis called an endangered (濒危的) species.",
       "instructions": "从备选词汇池中选择最佳单词填入空白处。",
       "optionsPool": [
         {
@@ -1434,7 +1669,7 @@
               "questionNumber": 31,
               "stem": "填入原文第 [31] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1447,8 +1682,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 16,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 16 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1456,7 +1699,7 @@
               "questionNumber": 32,
               "stem": "填入原文第 [32] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1469,8 +1712,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 16,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 16 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1478,7 +1729,7 @@
               "questionNumber": 33,
               "stem": "填入原文第 [33] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1491,8 +1742,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 16,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 16 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1500,7 +1759,7 @@
               "questionNumber": 34,
               "stem": "填入原文第 [34] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1513,8 +1772,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 16,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 16 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1522,7 +1789,7 @@
               "questionNumber": 35,
               "stem": "填入原文第 [35] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1535,8 +1802,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 16,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 16 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1544,7 +1819,7 @@
               "questionNumber": 36,
               "stem": "填入原文第 [36] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1557,8 +1832,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 16,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 16 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1566,7 +1849,7 @@
               "questionNumber": 37,
               "stem": "填入原文第 [37] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1579,8 +1862,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 16,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 16 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1588,7 +1879,7 @@
               "questionNumber": 38,
               "stem": "填入原文第 [38] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1601,8 +1892,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 16,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 16 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1610,7 +1909,7 @@
               "questionNumber": 39,
               "stem": "填入原文第 [39] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1623,8 +1922,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 16,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 16 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1632,21 +1939,30 @@
               "questionNumber": 40,
               "stem": "填入原文第 [40] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
                   "standardAnswer": "L",
-                  "originalAnswer": "danger。固定搭配 in danger of 处在危险中。",
+                  "originalAnswer": "danger",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "revisionNotes": "2026-09-12 对照答案解析第16页核验：原答案为 danger，对应选项 L；清除 OCR 混入的解析文字。"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 16,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 16 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1659,7 +1975,7 @@
       "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
       "sortOrder": 6,
       "scorePerQuestion": 1.5,
-      "passage": "正确的形式填入文中，以恢复文章原貌。\nThe Power of Language\nLanguage is something that defines (define) us as humans. When language is[41]\n(use) well, it can bring out very deep feelings in others, and encourage others to take _[42] (act). Sometimes in poetry a certain phrase can bring 43 (tear) to the eyes and\nmove us deeply. When we use language to express our true feelings to someone, it can\nopen and_ 44 (deep) the connection between us. Language is a very_ 45 (power) tool.\nHow we use language shapes our world. How we use self-talk _ 46. (direct) shapes our\nexperience of both ourselves and the world. How we deliver _ 47 (communicate)\nshapes the way the world__ 48 (respond) to us. We can use language\nmore_[49](effective). And this clearly influences the health and power of our 50\n(person) relationships and business relationships.",
+      "passage": "The Power of Language\nLanguage is something that defines (define) us as humans. When language is [41]\n(use) well, it can bring out very deep feelings in others, and encourage others to take [42] (act). Sometimes in poetry a certain phrase can bring [43] (tear) to the eyes and\nmove us deeply. When we use language to express our true feelings to someone, it can\nopen and [44] (deep) the connection between us. Language is a very [45] (power) tool.\nHow we use language shapes our world. How we use self-talk [46] (direct) shapes our\nexperience of both ourselves and the world. How we deliver [47] (communicate)\nshapes the way the world [48] (respond) to us. We can use language\nmore [49](effective). And this clearly influences the health and power of our [50]\n(person) relationships and business relationships.",
       "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
       "optionsPool": [],
       "tasks": [
@@ -1671,7 +1987,7 @@
               "questionNumber": 41,
               "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1684,17 +2000,26 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 17,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 17 页。"
                 }
-              ]
+              ],
+              "baseWord": "use"
             },
             {
               "questionNumber": 42,
               "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
               "baseWord": "act",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1707,8 +2032,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 17,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 17 页。"
                 }
               ]
             },
@@ -1717,7 +2050,7 @@
               "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
               "baseWord": "tear",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1730,8 +2063,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 17,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 17 页。"
                 }
               ]
             },
@@ -1740,7 +2081,7 @@
               "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
               "baseWord": "deep",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1753,8 +2094,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 17,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 17 页。"
                 }
               ]
             },
@@ -1763,7 +2112,7 @@
               "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
               "baseWord": "power",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1776,8 +2125,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 17,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 17 页。"
                 }
               ]
             },
@@ -1786,7 +2143,7 @@
               "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
               "baseWord": "direct",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1799,8 +2156,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 17,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 17 页。"
                 }
               ]
             },
@@ -1809,7 +2174,7 @@
               "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
               "baseWord": "communicate",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1822,8 +2187,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 17,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 17 页。"
                 }
               ]
             },
@@ -1832,7 +2205,7 @@
               "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
               "baseWord": "respond",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1845,8 +2218,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 17,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 17 页。"
                 }
               ]
             },
@@ -1855,7 +2236,7 @@
               "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
               "baseWord": "effective",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1868,8 +2249,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 17,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 17 页。"
                 }
               ]
             },
@@ -1877,7 +2266,7 @@
               "questionNumber": 50,
               "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1890,10 +2279,19 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 17,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 17 页。"
                 }
-              ]
+              ],
+              "baseWord": "person"
             }
           ]
         }
@@ -1903,8 +2301,8 @@
       "type": "essay",
       "title": "第七部分：短文写作（第51题，30分）",
       "sortOrder": 7,
-      "scorePerQuestion": 30.0,
-      "passage": "请根据所提供材料中的要求完成一篇 100 词左右的英文写作任务。 将你的答案写\n在答題卡相应的位置上。\n51.某英文报纸正在举办题为“My Favorite Job\"的征文活动。请就此题目写一篇英\n文短文应征。内容包括以下两个方面:\n•你最喜欢的工作是什么?\n•你为什么喜欢它?",
+      "scorePerQuestion": 30,
+      "passage": "请根据所提供材料中的要求完成一篇 100 词左右的英文写作任务。将你的答案写在答题卡相应的位置上。\n51. 某英文报纸正在举办题为“My Favorite Job”的征文活动。请就此题目写一篇英文短文应征。内容包括以下两个方面：\n• 你最喜欢的工作是什么？\n• 你为什么喜欢它？",
       "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
       "optionsPool": [],
       "tasks": [
@@ -1915,22 +2313,31 @@
             {
               "questionNumber": 51,
               "stem": "短文写作",
-              "scoreValue": 30.0,
-              "verified": false,
+              "scoreValue": 30,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
                   "standardAnswer": "略",
-                  "explanation": "短文写作属于主观题，需结合题目要点书写。",
+                  "explanation": "**参考范文**\n\nMy Favorite Job\n\nMy favorite job is being a teacher, the reasons are as follows.\n\nFirstly, it brings me a sense of achievement. Everyone wants to live a worthwhile life in this world, being a teacher makes me feel the value of my life. Second, being a teacher makes me more knowledgeable, because I have to read a lot of books to enrich myself, explore new knowledge and get a better understanding of the world. Third, being a teacher makes me stronger, and helps me find confidence in myself, because of this professional belief, I will never give up easily.\n\nI hope I can become an excellent teacher, letting all my students like me.\n\n**参考译文**\n\n我最喜欢的工作是做教师，原因如下。\n\n首先，它给我带来了成就感。在这个世界上，每个人都想过有价值的生活，成为一名教师让我感受到了我生命的价值。第二，成为一名教师使我更有见识，因为我必须读很多书来丰富自己，探索新的知识，对世界有更好的理解。第三，成为一名教师让我更强大，帮助我找到自信，因为这个职业信念，我永远不会轻易放弃。\n\n我希望我能成为一名优秀的老师，让我所有的学生喜欢我。",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "revisionNotes": "2026-09-12 对照答案解析第18页补录参考范文及译文，并清理 OCR 断词和标点。"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2013年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 18,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第 18 页。"
                 }
               ]
             }

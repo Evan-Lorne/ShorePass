@@ -8,23 +8,18 @@
   "paperType": "exam",
   "totalScore": 100,
   "suggestedMinutes": 150,
-  "verified": false,
-  "status": "draft",
-  "publishBlocked": true,
-  "blockReasons": [
-    {
-      "code": "ocr_unverified",
-      "description": "全量批量导入草稿，待逐题人工核对"
-    }
-  ],
-  "sourceFile": "2016年10月真题.md",
+  "verified": true,
+  "status": "verified",
+  "publishBlocked": false,
+  "blockReasons": [],
+  "sourceFile": "2016年10月.pdf",
   "sections": [
     {
       "type": "reading_judgment",
       "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
       "sortOrder": 1,
-      "scorePerQuestion": 1.0,
-      "passage": "### 短文原文\n**Being “Cool” in Middle School**\n\nA new study shows that gentle and quiet kids in middle school will grow up to rule. Or, at least, they’ll live healthier and more productive lives than the “cool” kids will.\n\nThe study looked at 13-year-olds who acted old for their age by having “cool” behavior, such as early romantic relationships. They were seen as “cool” and popular kids. But as they grew up, things changed. The study found that these kids tended to have problems with drugs and relationships by their early 20s. Their behavior was no longer linked with popularity. Instead, they were thought to be less socially skilled by their peers. Besides, the average “cool” kids, by age 22, did more poorly than the average kids in the study. They had a 45 percent greater rate of problems due to drugs and alcohol. They also had a 22 percent greater rate of criminal behavior. The study also found that these kids failed to develop important life skills. They spent so much time trying to seem cool. They didn’t develop the skills needed for meaningful friendships.\n\nThe study followed 86 male and 98 female middle school students for a 10-year period. It has some surprising findings. In particular, the study notes that the so-called “cool” behavior is a predictor (预示) of future problems with drugs and alcohol. In fact, it is a better predictor than drug and alcohol use in middle school. However, one conclusion of the study is welcome. Researchers said that parents shouldn’t worry too much if their kids don’t seem that popular. If a kid prefers to spend Saturday nights at home watching a movie or reading instead of going out with friends, that is not a cause for concern. Many “uncool” kids, they said, do much better later on than the popular kids do.\n\n### 题目",
+      "scorePerQuestion": 1,
+      "passage": "Being “Cool” in Middle School\n\nA new study shows that gentle and quiet kids in middle school will grow up to rule. Or, at least, they’ll live healthier and more productive lives than the “cool” kids will.\n\nThe study looked at 13-year-olds who acted old for their age by having “cool” behavior, such as early romantic relationships. They were seen as “cool” and popular kids. But as they grew up, things changed. The study found that these kids tended to have problems with drugs and relationships by their early 20s. Their behavior was no longer linked with popularity. Instead, they were thought to be less socially skilled by their peers. Besides, the average “cool” kids, by age 22, did more poorly than the average kids in the study. They had a 45 percent greater rate of problems due to drugs and alcohol. They also had a 22 percent greater rate of criminal behavior. The study also found that these kids failed to develop important life skills. They spent so much time trying to seem cool. They didn’t develop the skills needed for meaningful friendships.\n\nThe study followed 86 male and 98 female middle school students for a 10-year period. It has some surprising findings. In particular, the study notes that the so-called “cool” behavior is a predictor (预示) of future problems with drugs and alcohol. In fact, it is a better predictor than drug and alcohol use in middle school. However, one conclusion of the study is welcome. Researchers said that parents shouldn’t worry too much if their kids don’t seem that popular. If a kid prefers to spend Saturday nights at home watching a movie or reading instead of going out with friends, that is not a cause for concern. Many “uncool” kids, they said, do much better later on than the popular kids do.",
       "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
       "optionsPool": [],
       "tasks": [
@@ -34,9 +29,9 @@
           "questions": [
             {
               "questionNumber": 1,
-              "stem": "Gentle kids are less healthy when they grow up.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Gentle kids are less healthy when they grow up.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -62,16 +57,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 2,
-              "stem": "“Cool” kids try to imitate adult behavior.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "“Cool” kids try to imitate adult behavior.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -97,16 +106,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 3,
-              "stem": "Romantic relationships seem cool to some teenagers.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Romantic relationships seem cool to some teenagers.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -132,16 +155,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 4,
-              "stem": "“Uncool” kids are more likely to commit crimes.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "“Uncool” kids are more likely to commit crimes.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -167,16 +204,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 5,
-              "stem": "“Cool” kids have better life skills than “uncool” kids.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "“Cool” kids have better life skills than “uncool” kids.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -202,16 +253,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 6,
-              "stem": "“Uncool” kids spend most of their time studying.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "“Uncool” kids spend most of their time studying.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -237,16 +302,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 7,
-              "stem": "The study followed the students for a decade.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "The study followed the students for a decade.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -272,16 +351,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 8,
-              "stem": "“Cool” kids marry earlier than “uncool” kids.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "“Cool” kids marry earlier than “uncool” kids.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -307,16 +400,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 9,
-              "stem": "Parents needn’t worry if their kids are “uncool”.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Parents needn’t worry if their kids are “uncool”.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -342,16 +449,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 10,
-              "stem": "“Cool” kids remain popular all their lives.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "“Cool” kids remain popular all their lives.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -377,8 +498,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -390,8 +525,8 @@
       "type": "reading_comprehension",
       "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
       "sortOrder": 2,
-      "scorePerQuestion": 2.0,
-      "passage": "### 短文原文\nIt is estimated that there are more than 8 million restaurants in the world today. So it might surprise you to learn that restaurants as we know have only existed for a few centuries. Before 1765, there were no restaurants. There was nowhere in which a server brought you food and drink that you chose from a menu. In fact, there were no menus anywhere.\n\nThere were places where travelers could eat centuries before that. The countryside was full of inns that would serve food. And there were bars where one could get a drink. The rich could also eat meals supplied by private cooks. But there was nothing that could be called a “restaurant”.\n\nA Frenchman changed that. In 1765, he opened a place in Paris that sold soups. On his sign, he used the term “restaurants” to describe what he was selling. Soups were considered “restorative”, so he called them “restaurants”. Finally, people started buying his soups even when not ill. And as time went on, people began to use the term “restaurant” to refer to the place where soup was sold rather than the soup itself. More “restaurants” opened up in France, and people began to buy soups more regularly.\n\nThen, restaurants in Paris began to serve food other than soups. In the 1780s, menus started to appear. By the 1800s, there were many types of restaurants, and the restaurant concept was spread throughout the British Empire.\n\nA slow start gave way to rapid growth. Cities and towns around the world are filled with restaurants today. It is estimated that there are 1.6 million restaurants in Europe. In America, there are nearly a half million restaurants. Today, diners have millions of choices.\n\n### 题目",
+      "scorePerQuestion": 2,
+      "passage": "It is estimated that there are more than 8 million restaurants in the world today. So it might surprise you to learn that restaurants as we know have only existed for a few centuries. Before 1765, there were no restaurants. There was nowhere in which a server brought you food and drink that you chose from a menu. In fact, there were no menus anywhere.\n\nThere were places where travelers could eat centuries before that. The countryside was full of inns that would serve food. And there were bars where one could get a drink. The rich could also eat meals supplied by private cooks. But there was nothing that could be called a “restaurant”.\n\nA Frenchman changed that. In 1765, he opened a place in Paris that sold soups. On his sign, he used the term “restaurants” to describe what he was selling. Soups were considered “restorative”, so he called them “restaurants”. Finally, people started buying his soups even when not ill. And as time went on, people began to use the term “restaurant” to refer to the place where soup was sold rather than the soup itself. More “restaurants” opened up in France, and people began to buy soups more regularly.\n\nThen, restaurants in Paris began to serve food other than soups. In the 1780s, menus started to appear. By the 1800s, there were many types of restaurants, and the restaurant concept was spread throughout the British Empire.\n\nA slow start gave way to rapid growth. Cities and towns around the world are filled with restaurants today. It is estimated that there are 1.6 million restaurants in Europe. In America, there are nearly a half million restaurants. Today, diners have millions of choices.",
       "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
       "optionsPool": [],
       "tasks": [
@@ -401,9 +536,9 @@
           "questions": [
             {
               "questionNumber": 11,
-              "stem": "Before 1765, travelers could have meals at a(n) ______.\n- A. bar\n- B. inn\n- C. restaurant\n- D. canteen",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "Before 1765, travelers could have meals at a(n) ______.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -433,16 +568,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第3页。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。"
                 }
               ]
             },
             {
               "questionNumber": 12,
-              "stem": "The first “restaurant” only served ______.\n- A. soups\n- B. desserts\n- C. drinks\n- D. fruits",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "The first “restaurant” only served ______.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -472,16 +621,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第3页。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。"
                 }
               ]
             },
             {
               "questionNumber": 13,
-              "stem": "The word “restorative” (Line 3, Para. 3) most probably means ______.\n- A. having a special flavor\n- B. making you happier\n- C. having a pleasant smell\n- D. making you healthier",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "The word “restorative” (Line 3, Para. 3) most probably means ______.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -511,16 +674,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第3页。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。"
                 }
               ]
             },
             {
               "questionNumber": 14,
-              "stem": "The restaurant concept started in ______.\n- A. America\n- B. Britain\n- C. Germany\n- D. France",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "The restaurant concept started in ______.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -550,16 +727,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第3页。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。"
                 }
               ]
             },
             {
               "questionNumber": 15,
-              "stem": "The best title for this text is ______.\n- A. Definition of Restaurant\n- B. Importance of Restaurant\n- C. Origin of Restaurant\n- D. Types of Restaurant",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "The best title for this text is ______.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -589,8 +780,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第3页。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。"
                 }
               ]
             }
@@ -602,8 +807,8 @@
       "type": "summary_completion",
       "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
       "sortOrder": 3,
-      "scorePerQuestion": 1.0,
-      "passage": "### 短文原文\n**How to Perfect the Art of Public Speaking**\n\nIf you want to become the type of speaker you’ve always wanted to be, read the following suggestions.\n\n❶ You can’t go from a nervous speaker to a star speaker overnight. You shouldn’t expect to. Give yourself time to get used to a large audience. Start with smaller groups and get as much feedback as you can. Keep on practicing and developing your skills.\n\n❷ Be familiar with your speech materials. That doesn’t mean memorizing your speech, which can lack enthusiasm and naturalness. Know your key talking points, supporting details and ways to move from one point to the next.\n\n❸ Positive energy can be passed. If you’re excited and enthusiastic, your audience will be, too. You’ll be surprised at the positive cycle that creates: An enthusiastic audience can add even more energy to you. Use hand gestures. When appropriate, smile, smile, smile.\n\n❹ Find friendly, interested faces in the audience and speak to them. Look into their eyes. It helps prevent you from staring off into the distance or reading from notes. It also helps make you feel like you are talking in a conversation rather than speaking to a group.\n\n❺ When you look great, you feel great. That makes you confident. Looking great doesn’t mean wearing new clothes. It means wearing clothes and shoes you feel comfortable and appropriate to the setting. You can’t go wrong with business suit. Simple is fine, but you should look clean from head to toe.\n\n### 备选词汇池 (",
+      "scorePerQuestion": 1,
+      "passage": "How to Perfect the Art of Public Speaking\n\nIf you want to become the type of speaker you’ve always wanted to be, read the following suggestions.\n\n❶ You can’t go from a nervous speaker to a star speaker overnight. You shouldn’t expect to. Give yourself time to get used to a large audience. Start with smaller groups and get as much feedback as you can. Keep on practicing and developing your skills.\n\n❷ Be familiar with your speech materials. That doesn’t mean memorizing your speech, which can lack enthusiasm and naturalness. Know your key talking points, supporting details and ways to move from one point to the next.\n\n❸ Positive energy can be passed. If you’re excited and enthusiastic, your audience will be, too. You’ll be surprised at the positive cycle that creates: An enthusiastic audience can add even more energy to you. Use hand gestures. When appropriate, smile, smile, smile.\n\n❹ Find friendly, interested faces in the audience and speak to them. Look into their eyes. It helps prevent you from staring off into the distance or reading from notes. It also helps make you feel like you are talking in a conversation rather than speaking to a group.\n\n❺ When you look great, you feel great. That makes you confident. Looking great doesn’t mean wearing new clothes. It means wearing clothes and shoes you feel comfortable and appropriate to the setting. You can’t go wrong with business suit. Simple is fine, but you should look clean from head to toe.",
       "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
       "optionsPool": [],
       "tasks": [
@@ -614,8 +819,8 @@
             {
               "questionNumber": 16,
               "stem": "Paragraph ❶: ______",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -653,16 +858,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 17,
               "stem": "Paragraph ❷: ______",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -700,16 +919,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 18,
               "stem": "Paragraph ❸: ______",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -747,16 +980,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 19,
               "stem": "Paragraph ❹: ______",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -794,16 +1041,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 20,
               "stem": "Paragraph ❺: ______",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -841,8 +1102,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -855,8 +1130,8 @@
             {
               "questionNumber": 21,
               "stem": "Feedback helps speakers ______.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -894,16 +1169,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 22,
               "stem": "Memorizing materials may lead to ______.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -941,16 +1230,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 23,
               "stem": "Hand gestures and smiles help create ______.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -988,16 +1291,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 24,
               "stem": "Looking into the eyes of the audience helps ______.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1035,16 +1352,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 25,
               "stem": "Wearing right clothes may ______.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1082,8 +1413,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1095,8 +1440,8 @@
       "type": "sentence_fill",
       "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
       "sortOrder": 4,
-      "scorePerQuestion": 2.0,
-      "passage": "### 短文原文\n**Remaining Active**\n\nOur body is an amazing object. 26 If you are inactive most of the time, your body will quickly become tired when it should be active. But if you are very active, your body will get used to the hard work, and the work will become easier for you to do.\n\nPhysical activity can help people remain active and stay healthy. 27 It also helps people sleep better. This is why active students don’t complain about being tired. They have a good night’s sleep and have the energy to study hard and have fun every day.\n\nPhysical activity also makes people look and feel good. Activity burns more calories than just sitting. 28 In addition, regular exercise can make your muscles and bones stronger.\n\nThere are many factors to look at when you select a new physical activity. The most important is to choose something you enjoy. If you like jumping rope, that is the activity you should do. 29 In fact, two days of basketball, three days of swimming, and two days of bicycling can be more fun than jogging every day.\n\n30 Some skills will improve with practice while others may always be difficult for you. If you enjoy an activity, feel free to do it. No one cares whether you can do it well or not, and you don’t need to care about it either.\n\nWhatever activity you choose, remain active. It can make you physically fit and healthy for life.\n\n### 备选词汇池\n\n### 题目\n**26.**\n**标准答案**: E\n\n**27.**\n**标准答案**: D\n\n**28.**\n**标准答案**: F\n\n**29.**\n**标准答案**: A\n\n**30.**\n**标准答案**: B",
+      "scorePerQuestion": 2,
+      "passage": "Remaining Active\n\nOur body is an amazing object. [26] If you are inactive most of the time, your body will quickly become tired when it should be active. But if you are very active, your body will get used to the hard work, and the work will become easier for you to do.\n\nPhysical activity can help people remain active and stay healthy. [27] It also helps people sleep better. This is why active students don’t complain about being tired. They have a good night’s sleep and have the energy to study hard and have fun every day.\n\nPhysical activity also makes people look and feel good. Activity burns more calories than just sitting. [28] In addition, regular exercise can make your muscles and bones stronger.\n\nThere are many factors to look at when you select a new physical activity. The most important is to choose something you enjoy. If you like jumping rope, that is the activity you should do. [29] In fact, two days of basketball, three days of swimming, and two days of bicycling can be more fun than jogging every day.\n\n[30] Some skills will improve with practice while others may always be difficult for you. If you enjoy an activity, feel free to do it. No one cares whether you can do it well or not, and you don’t need to care about it either.\n\nWhatever activity you choose, remain active. It can make you physically fit and healthy for life.",
       "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
       "optionsPool": [
         {
@@ -1132,8 +1477,8 @@
             {
               "questionNumber": 26,
               "stem": "填入原文第 [26] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1171,16 +1516,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 27,
               "stem": "填入原文第 [27] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1218,16 +1571,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 28,
               "stem": "填入原文第 [28] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1265,16 +1626,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 29,
               "stem": "填入原文第 [29] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1312,16 +1681,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 30,
               "stem": "填入原文第 [30] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1359,8 +1736,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1373,7 +1758,7 @@
       "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
       "sortOrder": 5,
       "scorePerQuestion": 1.5,
-      "passage": "**Positive Attitude towards Failure**\n\nI clearly remember a period during which I felt like a failure. But what I [31] learned was that failing at one thing is not failing at all things. And, in fact, failure is a [32] part of growth. Life is filled with trial and [33]. In order to walk the path to [34], you need to make some [35] turns along the way. What I learned was to “fail forward”, to [36] each mistake to make myself better. One of the [37] problems people have with failure is that they are too quick to judge isolated [38] in their lives and label them as failures. [39], they need to keep the bigger picture in mind. A successful baseball player doesn’t [40] at a mistake he makes and think of failure. He sees it within the context of the bigger picture.",
+      "passage": "Positive Attitude towards Failure\n\nI clearly remember a period during which I felt like a failure. But what I [31] learned was that failing at one thing is not failing at all things. And, in fact, failure is a [32] part of growth. Life is filled with trial and [33]. In order to walk the path to [34], you need to make some [35] turns along the way. What I learned was to “fail forward”, to [36] each mistake to make myself better. One of the [37] problems people have with failure is that they are too quick to judge isolated [38] in their lives and label them as failures. [39], they need to keep the bigger picture in mind. A successful baseball player doesn’t [40] at a mistake he makes and think of failure. He sees it within the context of the bigger picture.",
       "instructions": "从备选词汇池中选择最佳单词填入空白处。",
       "optionsPool": [
         {
@@ -1434,7 +1819,7 @@
               "questionNumber": 31,
               "stem": "填入原文第 [31] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1447,8 +1832,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1456,7 +1849,7 @@
               "questionNumber": 32,
               "stem": "填入原文第 [32] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1469,8 +1862,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1478,7 +1879,7 @@
               "questionNumber": 33,
               "stem": "填入原文第 [33] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1491,8 +1892,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1500,7 +1909,7 @@
               "questionNumber": 34,
               "stem": "填入原文第 [34] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1513,8 +1922,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1522,7 +1939,7 @@
               "questionNumber": 35,
               "stem": "填入原文第 [35] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1535,8 +1952,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1544,7 +1969,7 @@
               "questionNumber": 36,
               "stem": "填入原文第 [36] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1557,8 +1982,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1566,7 +1999,7 @@
               "questionNumber": 37,
               "stem": "填入原文第 [37] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1579,8 +2012,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1588,7 +2029,7 @@
               "questionNumber": 38,
               "stem": "填入原文第 [38] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1601,8 +2042,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1610,7 +2059,7 @@
               "questionNumber": 39,
               "stem": "填入原文第 [39] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1623,8 +2072,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1632,7 +2089,7 @@
               "questionNumber": 40,
               "stem": "填入原文第 [40] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1645,8 +2102,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1659,7 +2124,7 @@
       "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
       "sortOrder": 6,
       "scorePerQuestion": 1.5,
-      "passage": "### 短文原文\n**Self-reliance (自立)**\n\nEveryone has heard the word “self-reliance”. Emerson wrote a [41] (fame) essay about it. He felt that people should trust in their own [42] (able). They should think and act for themselves. Like many such [43] (term), this one had no real meaning for me until it was [44] (demonstrate) to me in real life.\n\nLast year I met a blind girl [45] (name) Gail. She was [46] (extreme) slender and weak, but she always insisted on [47] (find) her way around the school by herself. When she [48] (sit) in a room with several of us, there was sometimes a(n) [49] (easy) silence, because we thought she might resent our acting too cheerful and thoughtless in her [50] (present). On such occasions, she would say something casual or show us how fast she could write. She never asked for anyone’s pity. She truly relied on herself.\n\n### 题目\n**41.** (fame)",
+      "passage": "Self-reliance (自立)\n\nEveryone has heard the word “self-reliance”. Emerson wrote a [41] (fame) essay about it. He felt that people should trust in their own [42] (able). They should think and act for themselves. Like many such [43] (term), this one had no real meaning for me until it was [44] (demonstrate) to me in real life.\n\nLast year I met a blind girl [45] (name) Gail. She was [46] (extreme) slender and weak, but she always insisted on [47] (find) her way around the school by herself. When she [48] (sit) in a room with several of us, there was sometimes a(n) [49] (easy) silence, because we thought she might resent our acting too cheerful and thoughtless in her [50] (present). On such occasions, she would say something casual or show us how fast she could write. She never asked for anyone’s pity. She truly relied on herself.",
       "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
       "optionsPool": [],
       "tasks": [
@@ -1672,7 +2137,7 @@
               "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
               "baseWord": "fame",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1685,8 +2150,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1695,21 +2168,32 @@
               "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
               "baseWord": "able",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
                   "standardAnswer": "ability",
                   "originalAnswer": "ability",
-                  "acceptableAnswers": [],
+                  "acceptableAnswers": [
+                    "abilities"
+                  ],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "revisionNotes": "；2026-09-12：trust in their own ability / abilities 均合语法与语义"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：trust in their own ability / abilities 均合语法与语义；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：trust in their own ability / abilities 均合语法与语义；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1718,7 +2202,7 @@
               "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
               "baseWord": "term",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1731,8 +2215,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1741,7 +2233,7 @@
               "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
               "baseWord": "demonstrate",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1754,8 +2246,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1764,7 +2264,7 @@
               "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
               "baseWord": "name",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1777,8 +2277,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1787,7 +2295,7 @@
               "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
               "baseWord": "extreme",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1800,8 +2308,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1810,7 +2326,7 @@
               "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
               "baseWord": "find",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1823,8 +2339,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1833,7 +2357,7 @@
               "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
               "baseWord": "sit",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1846,8 +2370,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1856,7 +2388,7 @@
               "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
               "baseWord": "easy",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1869,8 +2401,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1879,7 +2419,7 @@
               "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
               "baseWord": "present",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1892,8 +2432,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1905,8 +2453,8 @@
       "type": "essay",
       "title": "第七部分：短文写作（第51题，30分）",
       "sortOrder": 7,
-      "scorePerQuestion": 30.0,
-      "passage": "**51.**\n某英文报社正在举办题为“Watching Movies at Home or in a Cinema?”的征文活动。请就此题目写一篇英文短文应征，内容包括：\n- 你喜欢在家还是在电影院看电影\n- 理由是什么",
+      "scorePerQuestion": 30,
+      "passage": "51.\n某英文报社正在举办题为“Watching Movies at Home or in a Cinema?”的征文活动。请就此题目写一篇英文短文应征，内容包括：\n- 你喜欢在家还是在电影院看电影\n- 理由是什么",
       "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
       "optionsPool": [],
       "tasks": [
@@ -1917,22 +2465,31 @@
             {
               "questionNumber": 51,
               "stem": "短文写作",
-              "scoreValue": 30.0,
-              "verified": false,
+              "scoreValue": 30,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
                   "standardAnswer": "略",
-                  "explanation": "**标准答案**: (略)\n</2016年10月真题>",
+                  "explanation": "短文写作属于主观题，需围绕在家或电影院看电影的选择及理由完成约100词英文短文。",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "revisionNotes": "2026-09-12 对照原题第8页及答案第9页视觉核验。"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2016年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2016年10月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案表第9页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }

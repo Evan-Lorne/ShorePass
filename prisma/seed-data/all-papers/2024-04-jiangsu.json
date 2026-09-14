@@ -8,23 +8,18 @@
   "paperType": "exam",
   "totalScore": 100,
   "suggestedMinutes": 150,
-  "verified": false,
-  "status": "draft",
-  "publishBlocked": true,
-  "blockReasons": [
-    {
-      "code": "ocr_unverified",
-      "description": "全量批量导入草稿，待逐题人工核对"
-    }
-  ],
-  "sourceFile": "江苏2024年4月英语二真题.md",
+  "verified": true,
+  "status": "verified",
+  "publishBlocked": false,
+  "blockReasons": [],
+  "sourceFile": "江苏2024年4月英语二真题试卷.pdf",
   "sections": [
     {
       "type": "reading_judgment",
       "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
       "sortOrder": 1,
       "scorePerQuestion": 1.0,
-      "passage": "### 短文原文\nAnimals in the City\n\nRecently, there have been many reports in newspapers and on TV about big animals coming into towns and cities. What happens when big animals come into our cities? Is it a good thing or is it dangerous for us and the animals?\n\nWild animals usually come into cities to look for food. In Cape Town, South Africa baboons (狒狒) sometimes come into the suburbs. They eat fruit from gardens and go into people's kitchens! Baboons are strong animals and sometimes they scare children and fight with pet dogs. Many people do not like them, but the city can be dangerous for baboons too.Sometimes, baboons are hurt in car accidents. The city council in Cape Town has a team of Baboon Monitors. Their job is to find baboons in the city and take them back to the countryside. The problem is that a lot of baboons will come back to the city to find food again.\n\nIn Berlin, Germany, groups of wild pigs sometimes come into the city to look for food. They eat flowers and plants and dig in gardens and parks in the city. They also walk in the street and cause traffic accidents. Some city residents like the pigs and give them food. Bu the city council is worried about the traffic accidents. They have told people to stop giving the pigs food and have put up fences to stop the pigs from coming into the city.\n\nIn Moscow, Russia, there are 35,000 wild dogs. They live in parks, empty houses markets and train stations. Some of the dogs were pets that people did not want, so they left them on the streets. Others were born on the streets and have always lived there. A lot of people like them and are used to seeing them on the streets. They give the dogs food and water. They even build small huts for the dogs to live in during the very cold winter.\n\n### 题目",
+      "passage": "Animals in the City\n\nRecently, there have been many reports in newspapers and on TV about big animals coming into towns and cities. What happens when big animals come into our cities? Is it a good thing or is it dangerous for us and the animals?\n\nWild animals usually come into cities to look for food. In Cape Town, South Africa baboons (狒狒) sometimes come into the suburbs. They eat fruit from gardens and go into people's kitchens! Baboons are strong animals and sometimes they scare children and fight with pet dogs. Many people do not like them, but the city can be dangerous for baboons too.Sometimes, baboons are hurt in car accidents. The city council in Cape Town has a team of Baboon Monitors. Their job is to find baboons in the city and take them back to the countryside. The problem is that a lot of baboons will come back to the city to find food again.\n\nIn Berlin, Germany, groups of wild pigs sometimes come into the city to look for food. They eat flowers and plants and dig in gardens and parks in the city. They also walk in the street and cause traffic accidents. Some city residents like the pigs and give them food. But the city council is worried about the traffic accidents. They have told people to stop giving the pigs food and have put up fences to stop the pigs from coming into the city.\n\nIn Moscow, Russia, there are 35,000 wild dogs. They live in parks, empty houses markets and train stations. Some of the dogs were pets that people did not want, so they left them on the streets. Others were born on the streets and have always lived there. A lot of people like them and are used to seeing them on the streets. They give the dogs food and water. They even build small huts for the dogs to live in during the very cold winter.",
       "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
       "optionsPool": [],
       "tasks": [
@@ -34,9 +29,9 @@
           "questions": [
             {
               "questionNumber": 1,
-              "stem": "Many news reports concern big animals in the city.\n- A. True\n- B. False\n- C. Not Giver",
+              "stem": "Many news reports concern big animals in the city.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -53,25 +48,35 @@
               ],
               "answerRules": [
                 {
-                  "standardAnswer": "B",
+                  "standardAnswer": "A",
                   "originalAnswer": "B",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "revisionNotes": "；2026-09-12 导入内容语义复核：首句 there have been many reports ... about big animals coming into towns and cities 与题干完全对应；2021-04同题也为A。",
+                  "explanation": "首句 there have been many reports ... about big animals coming into towns and cities 与题干完全对应；2021-04同题也为A。"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原卷判断题选项印作 Not Giver，按标准术语修订为 Not Given；原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：首句 there have been many reports ... about big animals coming into towns and cities 与题干完全对应；2021-04同题也为A。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：首句 there have been many reports ... about big animals coming into towns and cities 与题干完全对应；2021-04同题也为A。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 2,
-              "stem": "Wild animals often come into cities for the winter.\n- A. True\n- B. False\n- C. Not Giver",
+              "stem": "Wild animals often come into cities for the winter.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -97,16 +102,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原卷判断题选项印作 Not Giver，按标准术语修订为 Not Given；原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 3,
-              "stem": "The food in kitchens can be bad for baboons.\n- A. True\n- B. False\n- C. Not Giver",
+              "stem": "The food in kitchens can be bad for baboons.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -132,16 +145,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原卷判断题选项印作 Not Giver，按标准术语修订为 Not Given；原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 4,
-              "stem": "Cape Town is a safe place for baboons.\n- A. True\n- B. False\n- C. Not Giver",
+              "stem": "Cape Town is a safe place for baboons.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -167,16 +188,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原卷判断题选项印作 Not Giver，按标准术语修订为 Not Given；原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 5,
-              "stem": "Many baboons will return after being sent away from the city.\n- A. True\n- B. False\n- C. Not Giver",
+              "stem": "Many baboons will return after being sent away from the city.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -202,16 +231,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原卷判断题选项印作 Not Giver，按标准术语修订为 Not Given；原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 6,
-              "stem": "There are more wild pigs in Berlin now than in the past.\n- A. True\n- B. False\n- C. Not Giver",
+              "stem": "There are more wild pigs in Berlin now than in the past.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -237,16 +274,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原卷判断题选项印作 Not Giver，按标准术语修订为 Not Given；原文 Bu the city council 明显漏字，修订为 But the city council；原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 7,
-              "stem": "Wild pigs sometimes cause traffic problems in Berlin.\n- A. True\n- B. False\n- C. Not Giver",
+              "stem": "Wild pigs sometimes cause traffic problems in Berlin.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -272,16 +317,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原卷判断题选项印作 Not Giver，按标准术语修订为 Not Given；原文 Bu the city council 明显漏字，修订为 But the city council；原试题第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 8,
-              "stem": "Wild pigs started to come into Berlin years ago.\n- A. True\n- B. False\n- C. Not Giver",
+              "stem": "Wild pigs started to come into Berlin years ago.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -307,16 +360,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原卷判断题选项印作 Not Giver，按标准术语修订为 Not Given；原文 Bu the city council 明显漏字，修订为 But the city council；原试题第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 9,
-              "stem": "No one knows the number of wild dogs in Moscow.\n- A. True\n- B. False\n- C. Not Giver",
+              "stem": "No one knows the number of wild dogs in Moscow.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -342,16 +403,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原卷判断题选项印作 Not Giver，按标准术语修订为 Not Given；原试题第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 10,
-              "stem": "Some people help the wild dogs survive the cold winter.\n- A. True\n- B. False\n- C. Not Giver",
+              "stem": "Some people help the wild dogs survive the cold winter.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -377,8 +446,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原卷判断题选项印作 Not Giver，按标准术语修订为 Not Given；原试题第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -391,7 +468,7 @@
       "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
       "sortOrder": 2,
       "scorePerQuestion": 2.0,
-      "passage": "### 短文原文\nUniversal Gestures\n\nGestures for victory, defeat and stress are almost the same in all countries.\n\nOn the front page of a newspaper we often see the picture of people holding their head in shock. People put their hands on their head or over their mouth when they look on a scene with shock or horror.\n\nChris Ulrich is an expert on body language. He said that covering your mouth or putting your hands on your head helps make you feel safer from a perceived threat. By covering part of your face you can feel hidden from the shocking event. Additionally these reactions can help a person comfort himself through touch. Ulrich said it is a self comforting gesture to help people in the moment.\n\nIn times of strong anxiety, people will twist their hands to calm themselves. Ulrich said it is a reaction people often have when they are in front of an audience or nervous. “It's a comfort for them that they'll get through it.” said Ulrich. He relates that gesture to a parent trying to calm a child.\n\nMost athletes react to victories or defeats with specific behaviors. A 2008 study examined pictures of judo (柔道) competitors during the 2008 Olympic Games. They were from different countries, but they showed similar behaviors when they won a match. The winners would throw their head back or raise their hands in triumph. Ulrich said these victory behaviors are a way winners “explode” out and take up more space.\n\nHowever, if an athlete suffers a loss, he will act in a way that makes him physically smaller, such as hanging his head.“When you lose, you want to disappear,” said Ulrich. The study also found that the judo competitors had the same behavior when they lost.\n\n### 题目",
+      "passage": "Universal Gestures\n\nGestures for victory, defeat and stress are almost the same in all countries.\n\nOn the front page of a newspaper we often see the picture of people holding their head in shock. People put their hands on their head or over their mouth when they look on a scene with shock or horror.\n\nChris Ulrich is an expert on body language. He said that covering your mouth or putting your hands on your head helps make you feel safer from a perceived threat. By covering part of your face you can feel hidden from the shocking event. Additionally these reactions can help a person comfort himself through touch. Ulrich said it is a self comforting gesture to help people in the moment.\n\nIn times of strong anxiety, people will twist their hands to calm themselves. Ulrich said it is a reaction people often have when they are in front of an audience or nervous. “It's a comfort for them that they'll get through it.” said Ulrich. He relates that gesture to a parent trying to calm a child.\n\nMost athletes react to victories or defeats with specific behaviors. A 2008 study examined pictures of judo (柔道) competitors during the 2008 Olympic Games. They were from different countries, but they showed similar behaviors when they won a match. The winners would throw their head back or raise their hands in triumph. Ulrich said these victory behaviors are a way winners “explode” out and take up more space.\n\nHowever, if an athlete suffers a loss, he will act in a way that makes him physically smaller, such as hanging his head.“When you lose, you want to disappear,” said Ulrich. The study also found that the judo competitors had the same behavior when they lost.",
       "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
       "optionsPool": [],
       "tasks": [
@@ -401,9 +478,9 @@
           "questions": [
             {
               "questionNumber": 11,
-              "stem": "People put their hands over their mouth to ________.\n- A. avoid a danger\n- B. gain self-comfort\n- C. hide their shock\n- D. show their anxiety",
+              "stem": "People put their hands over their mouth to ________.",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -424,25 +501,35 @@
               ],
               "answerRules": [
                 {
-                  "standardAnswer": "C",
+                  "standardAnswer": "B",
                   "originalAnswer": "C",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "revisionNotes": "；2026-09-12 导入内容语义复核：原文 these reactions can help a person comfort himself through touch，目的是自我安慰，不是掩饰惊讶；2021-10同题也为B。",
+                  "explanation": "原文 these reactions can help a person comfort himself through touch，目的是自我安慰，不是掩饰惊讶；2021-10同题也为B。"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：原文 these reactions can help a person comfort himself through touch，目的是自我安慰，不是掩饰惊讶；2021-10同题也为B。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：原文 these reactions can help a person comfort himself through touch，目的是自我安慰，不是掩饰惊讶；2021-10同题也为B。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 12,
-              "stem": "People tend to twist their hands when they are ________.\n- A. depressed\n- B. angry\n- C. shocked\n- D. nervous",
+              "stem": "People tend to twist their hands when they are ________.",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -472,16 +559,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 13,
-              "stem": "In Paragraph 4,“that gesture”refers to ________.\n- A. shaking one's hands\n- B. covering one's face\n- C. twisting one's hands\n- D. rubbing one's face",
+              "stem": "In Paragraph 4,“that gesture”refers to ________.",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -511,16 +606,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 14,
-              "stem": "Judo winners often act in a way that makes them ________.\n- A. occupy more space\n- B. appear physically smaller\n- C. obtain more respect\n- D. become more competitive",
+              "stem": "Judo winners often act in a way that makes them ________.",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -550,16 +653,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 15,
-              "stem": "The judo losers would ________.\n- A. raise their arms\n- B. lower their heads\n- C. beat their chests\n- D. sit on their knee",
+              "stem": "The judo losers would ________.",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -589,8 +700,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -603,7 +722,7 @@
       "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
       "sortOrder": 3,
       "scorePerQuestion": 1.0,
-      "passage": "### 短文原文\nSurviving illness Away From Home\n\nBeing ill is a horrible thing at the best of times, but what is even worse is when you are il away from home. If you're living away from home or abroad, it's important to get better at your own pace in order to ensure you can enjoy the rest of your time away.\n\n①Pampering (娇惯) yourself is always a good start. If you feel so ill and tired that you can't even get out of bed, then don't! Make a trip to the kitchen and stock up on fluids and try to make yourself some hot food. The key to getting better is to drink lots of fluids. Water and hot drinks such as green tea and soup are usually the best things.\n\n②Try to distract yourself from feeling horrible. If you have a TV, watch one of your favorite films or TV series. If you don't have a TV, maybe put the radio on. If you have a headache and all the noise is too much to handle, try reading the book you've always wanted to read but never had the time to. Being ill doesn't have to be the worst day in the world.\n\n③Tell your friends and family that you are ill. Sometimes there is nothing better than hearing words of comfort from loved ones who feel sorry for you and want to cheer you up and make you happy. There is nothing wrong with a little attention from others when you're ill. Who knows, they might even be willing to travel and visit you with lots of \"Get Well\" presents like your favorite food, magazine or flowers.\n\n④When you do arrive at a new place where you will be staying for a few months, make sure you know exactly where the nearest drugstore is. If you are in a foreign country, it might be best to translate a few useful phrases before you start asking for a cure.\n\n### 备选词汇池",
+      "passage": "Surviving illness Away From Home\n\nBeing ill is a horrible thing at the best of times, but what is even worse is when you are il away from home. If you're living away from home or abroad, it's important to get better at your own pace in order to ensure you can enjoy the rest of your time away.\n\n①Pampering (娇惯) yourself is always a good start. If you feel so ill and tired that you can't even get out of bed, then don't! Make a trip to the kitchen and stock up on fluids and try to make yourself some hot food. The key to getting better is to drink lots of fluids. Water and hot drinks such as green tea and soup are usually the best things.\n\n②Try to distract yourself from feeling horrible. If you have a TV, watch one of your favorite films or TV series. If you don't have a TV, maybe put the radio on. If you have a headache and all the noise is too much to handle, try reading the book you've always wanted to read but never had the time to. Being ill doesn't have to be the worst day in the world.\n\n③Tell your friends and family that you are ill. Sometimes there is nothing better than hearing words of comfort from loved ones who feel sorry for you and want to cheer you up and make you happy. There is nothing wrong with a little attention from others when you're ill. Who knows, they might even be willing to travel and visit you with lots of \"Get Well\" presents like your favorite food, magazine or flowers.\n\n④When you do arrive at a new place where you will be staying for a few months, make sure you know exactly where the nearest drugstore is. If you are in a foreign country, it might be best to translate a few useful phrases before you start asking for a cure.",
       "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
       "optionsPool": [],
       "tasks": [
@@ -615,7 +734,7 @@
               "questionNumber": 16,
               "stem": "Paragraph ①:",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -649,8 +768,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -658,7 +785,7 @@
               "questionNumber": 17,
               "stem": "Paragraph ②:",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -692,8 +819,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -701,7 +836,7 @@
               "questionNumber": 18,
               "stem": "Paragraph ③:",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -735,8 +870,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -744,7 +887,7 @@
               "questionNumber": 19,
               "stem": "Paragraph ④:",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -778,8 +921,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -793,7 +944,7 @@
               "questionNumber": 20,
               "stem": "Being sick away from home is _________.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -835,8 +986,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -844,7 +1003,7 @@
               "questionNumber": 21,
               "stem": "You are advised to recover _________.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -886,8 +1045,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -895,7 +1062,7 @@
               "questionNumber": 22,
               "stem": "The best cure for illness is _________.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -937,8 +1104,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -946,7 +1121,7 @@
               "questionNumber": 23,
               "stem": "If you cannot bear the noise from TV _________.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -988,8 +1163,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -997,7 +1180,7 @@
               "questionNumber": 24,
               "stem": "A few useful translated phrases help you ________.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1039,8 +1222,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1048,7 +1239,7 @@
               "questionNumber": 25,
               "stem": "You can buy medicine _________.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1090,8 +1281,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1104,7 +1303,7 @@
       "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
       "sortOrder": 4,
       "scorePerQuestion": 2.0,
-      "passage": "### 短文原文\nInsomnia (失眠)\n\nI just could not fall asleep the other night. I just didn’t feel sleepy. I can’t explain why, but it was really annoying.\nI got very bored lying in bed, so I decided to read a book. 26 But even when I finished reading , I still didn’t feel tired. So I listened to some peaceful music.That didn’t work, either. I have heard people say if you have a warm drink before bedtime, it will help you drift off to sleep. So I went downstairs and made myself a cup of tea. 27 Still, I couldn’t sleep. I was getting very frustrated by this point!\nIt felt strange to be awake while everyone else was asleep. 28 In fact, it was a little big frightening . When you go to sleep, it feels like one day ends and another begins. But if you stay up late, you realize that day and night are just a gentle transition ( 转变), a cycle while has no end and no beginning. At 4 a.m., I noticed a faint light coming through my curtains. The sun had started to rise!\nNormally, I’m a heavy sleeper. 29 So on this occasion, I consider myself lucky to see a beautiful sunrise. I knew I needed to get some rest, but it seemed the harder I tried to force myself asleep, the more difficult it was.\nEventually, I just let my mind go free. 30 I listened to the birdsong... and the next thing I knew it was 11 a.m.! I was happy that I had managed to get some sleep! I have never struggled with sleeping before, so this was my first experience of insomnia. Fortunately, I have been sleeping well since then.\n\n### 备选词汇池\n\n### 题目\n\n**26.** [填句]\n**标准答案**: E\n**精准解析**: 前一句说决定读书，因此该句应与读书有关，选择 E 选项。\n\n**27.** [填句]\n**标准答案**: C\n**精准解析**: 前一句提到了 tea 因此该句应与 tea 有关。选择 C 选项。\n\n**28.** [填句]\n**标准答案**: A\n**精准解析**: 后一句提到 In fact, it was a little big frightening,表明什么事情是很吓人的，需要在选项 中找到 it 指代的东西。A 选项符合题意，it 指代安舒的世界。\n\n**29.** [填句]\n**标准答案**: F\n**精准解析**: 后一句表述我认为自己很幸运能看到美丽的日 出。因此已经到了清晨时分，与此有关的只有 F 选项。\n\n**30.** [填句]\n**标准答案**: B\n**精准解析**: 前一句术后 Eventually, I just let my mind go free.最终，我让我的思想自由了。指的是我就随便了，爱怎样怎样了。选项中与之相匹配的只有 B 选项。",
+      "passage": "Insomnia (失眠)\n\nI just could not fall asleep the other night. I just didn’t feel sleepy. I can’t explain why, but it was really annoying.\nI got very bored lying in bed, so I decided to read a book. [26] But even when I finished reading , I still didn’t feel tired. So I listened to some peaceful music.That didn’t work, either. I have heard people say if you have a warm drink before bedtime, it will help you drift off to sleep. So I went downstairs and made myself a cup of tea. [27] Still, I couldn’t sleep. I was getting very frustrated by this point!\nIt felt strange to be awake while everyone else was asleep. [28] In fact, it was a little bit frightening . When you go to sleep, it feels like one day ends and another begins. But if you stay up late, you realize that day and night are just a gentle transition ( 转变), a cycle which has no end and no beginning. At 4 a.m., I noticed a faint light coming through my curtains. The sun had started to rise!\nNormally, I’m a heavy sleeper. [29] So on this occasion, I consider myself lucky to see a beautiful sunrise. I knew I needed to get some rest, but it seemed the harder I tried to force myself asleep, the more difficult it was.\nEventually, I just let my mind go free. [30] I listened to the birdsong... and the next thing I knew it was 11 a.m.! I was happy that I had managed to get some sleep! I have never struggled with sleeping before, so this was my first experience of insomnia. Fortunately, I have been sleeping well since then.",
       "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
       "optionsPool": [
         {
@@ -1141,7 +1340,7 @@
               "questionNumber": 26,
               "stem": "填入原文第 [26] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1179,8 +1378,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1188,7 +1401,7 @@
               "questionNumber": 27,
               "stem": "填入原文第 [27] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1226,8 +1439,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1235,7 +1462,7 @@
               "questionNumber": 28,
               "stem": "填入原文第 [28] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1273,8 +1500,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1282,7 +1523,7 @@
               "questionNumber": 29,
               "stem": "填入原文第 [29] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1320,8 +1561,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1329,7 +1584,7 @@
               "questionNumber": 30,
               "stem": "填入原文第 [30] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1367,8 +1622,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1381,7 +1650,7 @@
       "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
       "sortOrder": 5,
       "scorePerQuestion": 1.5,
-      "passage": "Learning From Mistakes\n\nLots of people dare not make mistakes (mistake). They fear they will be laughed at or 31 by others. They fear they will lose their money and 32 or be under heavy stress. But risks are 33 to avoid and they do pave the way towards success. Have you ever 34 of anyone who achieves success without making any mistakes?\nSo it is only 35 that making mistakes should be considered a must. You shouldn't worry about that as you 36 get lots of advantages out of your mistakes. By making mistakes, you can at least distinguish between the correct and the 37 parts of what you did. Robert Stevenson once said: “Our business in life is not to be 38 , but to continue to fail in good spirits”\nYou needn't worry about anything as long as you keep on going by 39 learning from your mistakes and 40 even harder.",
+      "passage": "Learning From Mistakes\n\nLots of people dare not make mistakes (mistake). They fear they will be laughed at or [31] by others. They fear they will lose their money and [32] or be under heavy stress. But risks are [33] to avoid and they do pave the way towards success. Have you ever [34] of anyone who achieves success without making any mistakes?\nSo it is only [35] that making mistakes should be considered a must. You shouldn't worry about that as you [36] get lots of advantages out of your mistakes. By making mistakes, you can at least distinguish between the correct and the [37] parts of what you did. Robert Stevenson once said: “Our business in life is not to be [38] , but to continue to fail in good spirits”\nYou needn't worry about anything as long as you keep on going by [39] learning from your mistakes and [40] even harder.",
       "instructions": "从备选词汇池中选择最佳单词填入空白处。",
       "optionsPool": [
         {
@@ -1442,7 +1711,7 @@
               "questionNumber": 31,
               "stem": "填入原文第 [31] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1455,8 +1724,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1464,7 +1747,7 @@
               "questionNumber": 32,
               "stem": "填入原文第 [32] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1477,8 +1760,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1486,7 +1783,7 @@
               "questionNumber": 33,
               "stem": "填入原文第 [33] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1499,8 +1796,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1508,7 +1819,7 @@
               "questionNumber": 34,
               "stem": "填入原文第 [34] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1521,8 +1832,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1530,7 +1855,7 @@
               "questionNumber": 35,
               "stem": "填入原文第 [35] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1543,8 +1868,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1552,7 +1891,7 @@
               "questionNumber": 36,
               "stem": "填入原文第 [36] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1565,8 +1904,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1574,7 +1927,7 @@
               "questionNumber": 37,
               "stem": "填入原文第 [37] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1587,8 +1940,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1596,7 +1963,7 @@
               "questionNumber": 38,
               "stem": "填入原文第 [38] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1609,8 +1976,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1618,7 +1999,7 @@
               "questionNumber": 39,
               "stem": "填入原文第 [39] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1631,8 +2012,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1640,7 +2035,7 @@
               "questionNumber": 40,
               "stem": "填入原文第 [40] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1653,8 +2048,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1667,7 +2076,7 @@
       "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
       "sortOrder": 6,
       "scorePerQuestion": 1.5,
-      "passage": "### 短文原文\nThe Importance of Friendship for School-age Children\n\nFriends are very important to school-age children’s healthy (health) development.\nResearch has 41 (show) that children who lack friends can suffer from emotional and mental difficulties later in life. They have also found that children with friends have a 42 (great) sense of happiness, better self-esteem and fewer problems as they grow up.\nFriendships provide children with more than just fun 43 (playmate). They help children develop emotionally and 44 (moral). In interacting with friends, children learn many 45 (society) skills, such as how to communicate, and how to cooperate. They practice 46 (control) their emotions and responding to the emotions of others. They develop their 47 (able) to think through and negotiate different situations in their relationships. Having friends 48 (affect) children in many ways, even their school 49 (perform). Children tend to have better attitudes about school and learning when they have friends there. In short, friendships are not just a luxury, they are a 50 (necessary) for children.\n\n### 题目\n\n**41.** (show)",
+      "passage": "The Importance of Friendship for School-age Children\n\nFriends are very important to school-age children’s healthy (health) development.\nResearch has [41] (show) that children who lack friends can suffer from emotional and mental difficulties later in life. They have also found that children with friends have a [42] (great) sense of happiness, better self-esteem and fewer problems as they grow up.\nFriendships provide children with more than just fun [43] (playmate). They help children develop emotionally and [44] (moral). In interacting with friends, children learn many [45] (society) skills, such as how to communicate, and how to cooperate. They practice [46] (control) their emotions and responding to the emotions of others. They develop their [47] (able) to think through and negotiate different situations in their relationships. Having friends [48] (affect) children in many ways, even their school [49] (perform). Children tend to have better attitudes about school and learning when they have friends there. In short, friendships are not just a luxury, they are a [50] (necessary) for children.",
       "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
       "optionsPool": [],
       "tasks": [
@@ -1680,7 +2089,7 @@
               "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
               "baseWord": "show",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1693,8 +2102,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1703,7 +2120,7 @@
               "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
               "baseWord": "great",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1716,8 +2133,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1726,7 +2151,7 @@
               "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
               "baseWord": "playmate",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1739,8 +2164,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1749,7 +2182,7 @@
               "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
               "baseWord": "moral",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1762,8 +2195,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1772,7 +2213,7 @@
               "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
               "baseWord": "society",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1785,8 +2226,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1795,7 +2244,7 @@
               "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
               "baseWord": "control",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1808,8 +2257,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1818,21 +2275,33 @@
               "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
               "baseWord": "able",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
                   "standardAnswer": "ability",
                   "originalAnswer": "ability",
-                  "acceptableAnswers": [],
+                  "acceptableAnswers": [
+                    "abilities"
+                  ],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "explanation": "2026-09-13逐题复核纠错：They develop their ability / abilities to think through and negotiate ...：可指总体能力，也可指思考和协商等多项能力。",
+                  "revisionNotes": "2026-09-13逐题复核纠错：They develop their ability / abilities to think through and negotiate ...：可指总体能力，也可指思考和协商等多项能力。"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1841,7 +2310,7 @@
               "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
               "baseWord": "affect",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1854,8 +2323,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1864,7 +2341,7 @@
               "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
               "baseWord": "perform",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1877,8 +2354,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1887,7 +2372,7 @@
               "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
               "baseWord": "necessary",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1900,8 +2385,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1914,7 +2407,7 @@
       "title": "第七部分：短文写作（第51题，30分）",
       "sortOrder": 7,
       "scorePerQuestion": 30.0,
-      "passage": "**51.** 某英文报社正在举办题为 “An Unforgettable Holiday” 的征文活动。请就此题目写一篇英文短文应征，内容包括:\n·哪一个假期令你难忘\n·为什么令你难忘",
+      "passage": "51. 某英文报社正在举办题为 “An Unforgettable Holiday” 的征文活动。请就此题目写一篇英文短文应征，内容包括:\n·哪一个假期令你难忘\n·为什么令你难忘",
       "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
       "optionsPool": [],
       "tasks": [
@@ -1926,7 +2419,7 @@
               "questionNumber": 51,
               "stem": "短文写作",
               "scoreValue": 30.0,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1939,8 +2432,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "江苏2024年4月英语二真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "江苏2024年4月英语二真题试卷.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验；原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "江苏省2024年4月英语二真题答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：答案详解第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }

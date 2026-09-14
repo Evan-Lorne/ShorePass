@@ -7,3 +7,10 @@ playwright-report
 test-results
 acceptance-evidence
 cache
+
+.git
+tmp
+scripts/tmp
+*.db*
+.env.*
+!.env.example

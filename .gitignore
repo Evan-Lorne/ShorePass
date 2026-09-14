@@ -63,3 +63,7 @@ next-env.d.ts
 /scripts/tmp/
 /src/lib/prisma.js
 /src/scripts/*.js
+
+# local temporary files and generated evidence
+/tmp/
+/acceptance-evidence/

@@ -8,23 +8,18 @@
   "paperType": "exam",
   "totalScore": 100,
   "suggestedMinutes": 150,
-  "verified": false,
-  "status": "draft",
-  "publishBlocked": true,
-  "blockReasons": [
-    {
-      "code": "ocr_unverified",
-      "description": "全量批量导入草稿，待逐题人工核对"
-    }
-  ],
-  "sourceFile": "2020年10月真题.md",
+  "verified": true,
+  "status": "verified",
+  "publishBlocked": false,
+  "blockReasons": [],
+  "sourceFile": "2020年10月.pdf",
   "sections": [
     {
       "type": "reading_judgment",
       "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
       "sortOrder": 1,
-      "scorePerQuestion": 1.0,
-      "passage": "### 短文原文\n**Booking Online and Saving the Environment**\n\nWhen you are looking to book a holiday, it is unlikely that you will think about how green your booking decision is, but it is something that you should think about. By \"green\" we mean the impact on the environment.\n\nWhen looking to book a holiday, you will probably find that you are faced with two main decisions. The first is to go into a travel agency, pick up brochures (宣传册), read through them and go back with just one and book with the travel agents directly or over the phone. The second is to go onto the Internet.\n\nThe Internet holds many advantages over the travel agencies. The main one is convenience. You can go online to look at holidays at any time of the day. The travel agents, however, are usually very busy at times when people can actually go, i.e. lunch hours or at the weekend. You could use the telephone, but you wouldn't be able to see the pictures or the details of the holidays, so you would probably be sent a brochure anyway.\n\nThere are websites on the Internet that make shopping for holiday deals much easier. These websites are known as price comparison websites. They search through lots of different tour operators, and the results are displayed on one page, from which you can choose.\n\nCompared with the travel agencies, booking online is greener. The piles of brochures are definitely not green, and the amount of unnecessary paper used can't be good for the environment. In the days of the Internet, there is really no need for such a large amount of paper to be wasted. So booking online will not only save you time and effort, it will do a little bit towards saving the environment, too!\n\n### 题目",
+      "scorePerQuestion": 1,
+      "passage": "Booking Online and Saving the Environment\n\nWhen you are looking to book a holiday, it is unlikely that you will think about how green your booking decision is, but it is something that you should think about. By \"green\" we mean the impact on the environment.\n\nWhen looking to book a holiday, you will probably find that you are faced with two main decisions. The first is to go into a travel agency, pick up brochures (宣传册), read through them and go back with just one and book with the travel agents directly or over the phone. The second is to go onto the Internet.\n\nThe Internet holds many advantages over the travel agencies. The main one is convenience. You can go online to look at holidays at any time of the day. The travel agents, however, are usually very busy at times when people can actually go, i.e. lunch hours or at the weekend. You could use the telephone, but you wouldn't be able to see the pictures or the details of the holidays, so you would probably be sent a brochure anyway.\n\nThere are websites on the Internet that make shopping for holiday deals much easier. These websites are known as price comparison websites. They search through lots of different tour operators, and the results are displayed on one page, from which you can choose.\n\nCompared with the travel agencies, booking online is greener. The piles of brochures are definitely not green, and the amount of unnecessary paper used can't be good for the environment. In the days of the Internet, there is really no need for such a large amount of paper to be wasted. So booking online will not only save you time and effort, it will do a little bit towards saving the environment, too!",
       "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
       "optionsPool": [],
       "tasks": [
@@ -34,9 +29,9 @@
           "questions": [
             {
               "questionNumber": 1,
-              "stem": "When planning holidays, few people will think about being green.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "When planning holidays, few people will think about being green.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -62,16 +57,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 2,
-              "stem": "There are two main choices when people look to book their holidays.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "There are two main choices when people look to book their holidays.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -97,16 +106,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 3,
-              "stem": "People go to travel agencies and make their decisions directly.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "People go to travel agencies and make their decisions directly.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -132,16 +155,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 4,
-              "stem": "The main advantage of booking online is saving money.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "The main advantage of booking online is saving money.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -167,16 +204,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 5,
-              "stem": "Many people go to travel agencies at lunchtime.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Many people go to travel agencies at lunchtime.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -193,25 +244,41 @@
               ],
               "answerRules": [
                 {
-                  "standardAnswer": "C",
+                  "standardAnswer": "A",
                   "originalAnswer": "C",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "revisionNotes": "；2026-09-12 导入内容语义复核：原文 travel agents ... usually very busy ... i.e. lunch hours or at the weekend 明确支持很多人午餐时间去旅行社，不是未提及。",
+                  "explanation": "原文 travel agents ... usually very busy ... i.e. lunch hours or at the weekend 明确支持很多人午餐时间去旅行社，不是未提及。"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：原文 travel agents ... usually very busy ... i.e. lunch hours or at the weekend 明确支持很多人午餐时间去旅行社，不是未提及。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：原文 travel agents ... usually very busy ... i.e. lunch hours or at the weekend 明确支持很多人午餐时间去旅行社，不是未提及。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：原文 travel agents ... usually very busy ... i.e. lunch hours or at the weekend 明确支持很多人午餐时间去旅行社，不是未提及。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 6,
-              "stem": "Booking holidays by telephone requires less communicative skills.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Booking holidays by telephone requires less communicative skills.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -237,16 +304,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 7,
-              "stem": "There are limited choices at price comparison websites.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "There are limited choices at price comparison websites.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -272,16 +353,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 8,
-              "stem": "Travel agencies make the best use of price comparison websites.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Travel agencies make the best use of price comparison websites.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -307,16 +402,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 9,
-              "stem": "Travelers collect brochures as a hobby.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Travelers collect brochures as a hobby.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -342,16 +451,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 10,
-              "stem": "Booking online is a way to save the environment.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Booking online is a way to save the environment.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -377,8 +500,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第1页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第2页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -390,8 +527,8 @@
       "type": "reading_comprehension",
       "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
       "sortOrder": 2,
-      "scorePerQuestion": 2.0,
-      "passage": "### 短文原文\n**Urban Gardening**\n\nUrban gardening refers to the practice of planting a garden in the city. Apartments, town homes, and other areas with little or no land are being used for gardening. This method of gardening is becoming more common as the amount of land for gardening in cities is becoming smaller and smaller.\n\nContainers, hanging baskets and raised beds are examples of items people use to create a garden in a confined space. Some cities also offer a shared community garden for people who have no room to grow plants at home.\n\nMany types of plants can be grown in containers and baskets. Tomatoes and peppers, for instance, can grow in containers on windowsills (窗台). Plants grown on a windowsill should usually receive at least six to eight hours of sunlight daily. Herbs are often grown in containers or baskets in the kitchen. They do not require much space and can be handy for cooking.\n\nPeople who want to grow more plants may use raised beds which are usually made of wood pieces and filled with a mixture of soil and fertilizers. They can be built on top of any hard surface, including roof tops. People like them because the beds often cost much less than most other methods of gardening.\n\nCommunity gardening could be an option for anyone who does not have space for a garden at home. Most cities that offer this will rent a small plot of land to someone for a fee, or allow them to use it free of charge. Instead of dividing the land into separate plots, some cities allow everyone in the neighborhood to share and work on the same land. This method could be beneficial for people in the neighborhood who share the passion for growing things.\n\n### 题目",
+      "scorePerQuestion": 2,
+      "passage": "Urban Gardening\n\nUrban gardening refers to the practice of planting a garden in the city. Apartments, town homes, and other areas with little or no land are being used for gardening. This method of gardening is becoming more common as the amount of land for gardening in cities is becoming smaller and smaller.\n\nContainers, hanging baskets and raised beds are examples of items people use to create a garden in a confined space. Some cities also offer a shared community garden for people who have no room to grow plants at home.\n\nMany types of plants can be grown in containers and baskets. Tomatoes and peppers, for instance, can grow in containers on windowsills (窗台). Plants grown on a windowsill should usually receive at least six to eight hours of sunlight daily. Herbs are often grown in containers or baskets in the kitchen. They do not require much space and can be handy for cooking.\n\nPeople who want to grow more plants may use raised beds which are usually made of wood pieces and filled with a mixture of soil and fertilizers. They can be built on top of any hard surface, including roof tops. People like them because the beds often cost much less than most other methods of gardening.\n\nCommunity gardening could be an option for anyone who does not have space for a garden at home. Most cities that offer this will rent a small plot of land to someone for a fee, or allow them to use it free of charge. Instead of dividing the land into separate plots, some cities allow everyone in the neighborhood to share and work on the same land. This method could be beneficial for people in the neighborhood who share the passion for growing things.",
       "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
       "optionsPool": [],
       "tasks": [
@@ -401,9 +538,9 @@
           "questions": [
             {
               "questionNumber": 11,
-              "stem": "Urban gardening came into being as a result of ________.\n- A. the lack of land for gardening\n- B. new technology\n- C. government encouragement\n- D. the increasing population",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "Urban gardening came into being as a result of ________.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -433,16 +570,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 12,
-              "stem": "The word \"confined\" (Para. 2) means ________.\n- A. open\n- B. empty\n- C. limited\n- D. occupied",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "The word \"confined\" (Para. 2) means ________.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -472,16 +623,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 13,
-              "stem": "Plants grown on windowsills require a lot of ________.\n- A. water\n- B. space\n- C. soil\n- D. sunlight",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "Plants grown on windowsills require a lot of ________.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -511,16 +676,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 14,
-              "stem": "Raised beds are popular because they ________.\n- A. are efficient\n- B. are cheap\n- C. last long\n- D. contain fertilizers",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "Raised beds are popular because they ________.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -550,16 +729,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 15,
-              "stem": "Community gardening is beneficial because it ________.\n- A. saves more land\n- B. requires less work\n- C. increases output\n- D. connects people",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "Community gardening is beneficial because it ________.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -589,8 +782,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第3页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -602,8 +809,8 @@
       "type": "summary_completion",
       "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
       "sortOrder": 3,
-      "scorePerQuestion": 1.0,
-      "passage": "### 短文原文\n**My Science Teacher**\n\n❶ Usually when people decide to be teachers, they go to college, get a degree, and find a job at a school. They prepare lesson plans, give out homework, and make up tests. To them, it is just a job, a way to make a living. But for my science teacher, Mrs. Cook, teaching is not just her job; it's who she is. She teaches through her heart.\n\n❷ She has so much enthusiasm in her lessons. She is the one who goes out late at night to buy 10 pounds of sugar for our experiments. She brings in water from the nearby canal to make her point, and to make us remember the lesson. She makes us think that each new fact could change our lives.\n\n❸ Mrs. Cook wants all of us to do well in school. She tries to reach each student. She neither ignores the sleeping kid in the back, nor lets the problem students alone. She shows special concern to slow students, and often helps them after school. None of us can slip away from her attention.\n\n❹ Middle school is probably one of the hardest times of our lives. We change friends so often, and fight with our parents constantly. But Mrs. Cook has made this year so much better for us than it could have been. We know that if we had to turn to anybody, it would be her. And I'm not alone in feeling this way; she is a role model for our whole class.\n\n❺ Science had never been my favorite subject. I had never borrowed science books. I had never performed experiments in my home. But this year, it's the science class that I don't mind waking up for, the test I don't mind taking. I have Mrs. Cook to thank for that. She has taught us so much more than just a single subject.\n\n### 备选词汇池",
+      "scorePerQuestion": 1,
+      "passage": "My Science Teacher\n\n❶ Usually when people decide to be teachers, they go to college, get a degree, and find a job at a school. They prepare lesson plans, give out homework, and make up tests. To them, it is just a job, a way to make a living. But for my science teacher, Mrs. Cook, teaching is not just her job; it's who she is. She teaches through her heart.\n\n❷ She has so much enthusiasm in her lessons. She is the one who goes out late at night to buy 10 pounds of sugar for our experiments. She brings in water from the nearby canal to make her point, and to make us remember the lesson. She makes us think that each new fact could change our lives.\n\n❸ Mrs. Cook wants all of us to do well in school. She tries to reach each student. She neither ignores the sleeping kid in the back, nor lets the problem students alone. She shows special concern to slow students, and often helps them after school. None of us can slip away from her attention.\n\n❹ Middle school is probably one of the hardest times of our lives. We change friends so often, and fight with our parents constantly. But Mrs. Cook has made this year so much better for us than it could have been. We know that if we had to turn to anybody, it would be her. And I'm not alone in feeling this way; she is a role model for our whole class.\n\n❺ Science had never been my favorite subject. I had never borrowed science books. I had never performed experiments in my home. But this year, it's the science class that I don't mind waking up for, the test I don't mind taking. I have Mrs. Cook to thank for that. She has taught us so much more than just a single subject.",
       "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
       "optionsPool": [],
       "tasks": [
@@ -614,8 +821,8 @@
             {
               "questionNumber": 16,
               "stem": "Paragraph ❶: ________",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -653,16 +860,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 17,
               "stem": "Paragraph ❷: ________",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -700,16 +921,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 18,
               "stem": "Paragraph ❸: ________",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -747,16 +982,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 19,
               "stem": "Paragraph ❹: ________",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -794,16 +1043,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 20,
               "stem": "Paragraph ❺: ________",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -841,8 +1104,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -855,8 +1132,8 @@
             {
               "questionNumber": 21,
               "stem": "To become a school teacher, one needs ________.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -894,16 +1171,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 22,
               "stem": "Mrs. Cook often goes out to collect ________.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -941,16 +1232,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 23,
               "stem": "Mrs. Cook offers slow students extra help ________.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -988,16 +1293,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 24,
               "stem": "Our whole class take Mrs. Cook as ________.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1035,16 +1354,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 25,
               "stem": "I am lucky to have Mrs. Cook as ________.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1082,8 +1415,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第4页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第5页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1095,8 +1442,8 @@
       "type": "sentence_fill",
       "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
       "sortOrder": 4,
-      "scorePerQuestion": 2.0,
-      "passage": "### 短文原文\n**Lack of Sleep Is Dangerous**\n\nDo you know that if you miss out too much sleep you will die? It's true! If you stay awake for a long, long time, your brain and body will break down.\n\nThe unofficial world record for staying awake is 11 days, and it's held by Randy Gardner. **26** He also had help from TV and radio reporters, a sleep researcher and a doctor.\n\nWhat happened? **27** Then his brain started to lose sense. On day 4, he thought a street sign was really a person. On day 6, he began to speak very slowly. On day 9, he couldn't finish sentences. On day 10, Randy thought he saw a forest in the next room. **28** Eventually, after he'd broken the world record, Randy was told to go to sleep. Experiments that keep people awake for dangerously long periods are always stopped before the patients break down.\n\nRats, however, aren't so well cared for. **29** That's sooner than if they'd been allowed to sleep but were given no food. They get really thin. But that's not because they stop eating—quite the opposite. Even though these rats are eating food, their bodies can't process it in the normal way. On top of that, their little bodies lose more heat than normal, which makes them weak. This means that they need more food to stay at a healthy temperature. **30**\n\nAnd that's what lack of sleep does for you.\n\n### 备选词汇池\n\n### 题目\n**26.** ________\n**标准答案**: E\n\n**27.** ________\n**标准答案**: F\n\n**28.** ________\n**标准答案**: A\n\n**29.** ________\n**标准答案**: D\n\n**30.** ________\n**标准答案**: C",
+      "scorePerQuestion": 2,
+      "passage": "Lack of Sleep Is Dangerous\n\nDo you know that if you miss out too much sleep you will die? It's true! If you stay awake for a long, long time, your brain and body will break down.\n\nThe unofficial world record for staying awake is 11 days, and it's held by Randy Gardner. [26] He also had help from TV and radio reporters, a sleep researcher and a doctor.\n\nWhat happened? [27] Then his brain started to lose sense. On day 4, he thought a street sign was really a person. On day 6, he began to speak very slowly. On day 9, he couldn't finish sentences. On day 10, Randy thought he saw a forest in the next room. [28] Eventually, after he'd broken the world record, Randy was told to go to sleep. Experiments that keep people awake for dangerously long periods are always stopped before the patients break down.\n\nRats, however, aren't so well cared for. [29] That's sooner than if they'd been allowed to sleep but were given no food. They get really thin. But that's not because they stop eating—quite the opposite. Even though these rats are eating food, their bodies can't process it in the normal way. On top of that, their little bodies lose more heat than normal, which makes them weak. This means that they need more food to stay at a healthy temperature. [30]\n\nAnd that's what lack of sleep does for you.",
       "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
       "optionsPool": [
         {
@@ -1132,8 +1479,8 @@
             {
               "questionNumber": 26,
               "stem": "填入原文第 [26] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1171,16 +1518,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 27,
               "stem": "填入原文第 [27] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1218,16 +1573,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 28,
               "stem": "填入原文第 [28] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1265,16 +1628,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 29,
               "stem": "填入原文第 [29] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1312,16 +1683,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 30,
               "stem": "填入原文第 [30] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1359,8 +1738,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第6页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1373,7 +1760,7 @@
       "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
       "sortOrder": 5,
       "scorePerQuestion": 1.5,
-      "passage": "**Talking Counts!**\n\nMost words in a child's vocabulary come from everyday encounters with language. Children [31] up language from books, media, and conversations.\n\nYou can increase your child's vocabulary and [32] knowledge by having conversations with them. With babies, you can talk to them about what you're doing so they can begin to [33] words with concepts. As your baby begins to speak, start asking, \"What's that?\" when [34] to objects or pictures. Elaborate on their [35] answers as a way to have them listening to more words. \"Yes, that is a banana! It's [36] and smooth.\"\n\nWith young children, you can talk about the things you see in your [37], on trips around town, or on television. These conversations help build a child's [38] of his world. When reading, pause to ask questions on the story. Ask, \"Why do you think he did that?\" or \"What do you think is going to happen [39]?\" Tell your children stories from your own life, or about the day they were [40]. This helps develop their personal and cultural identity.",
+      "passage": "Talking Counts!\n\nMost words in a child's vocabulary come from everyday encounters with language. Children [31] up language from books, media, and conversations.\n\nYou can increase your child's vocabulary and [32] knowledge by having conversations with them. With babies, you can talk to them about what you're doing so they can begin to [33] words with concepts. As your baby begins to speak, start asking, \"What's that?\" when [34] to objects or pictures. Elaborate on their [35] answers as a way to have them listening to more words. \"Yes, that is a banana! It's [36] and smooth.\"\n\nWith young children, you can talk about the things you see in your [37], on trips around town, or on television. These conversations help build a child's [38] of his world. When reading, pause to ask questions on the story. Ask, \"Why do you think he did that?\" or \"What do you think is going to happen [39]?\" Tell your children stories from your own life, or about the day they were [40]. This helps develop their personal and cultural identity.",
       "instructions": "从备选词汇池中选择最佳单词填入空白处。",
       "optionsPool": [
         {
@@ -1434,7 +1821,7 @@
               "questionNumber": 31,
               "stem": "填入原文第 [31] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1447,8 +1834,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1456,7 +1851,7 @@
               "questionNumber": 32,
               "stem": "填入原文第 [32] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1469,8 +1864,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1478,7 +1881,7 @@
               "questionNumber": 33,
               "stem": "填入原文第 [33] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1491,8 +1894,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1500,7 +1911,7 @@
               "questionNumber": 34,
               "stem": "填入原文第 [34] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1513,8 +1924,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1522,7 +1941,7 @@
               "questionNumber": 35,
               "stem": "填入原文第 [35] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1535,8 +1954,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1544,7 +1971,7 @@
               "questionNumber": 36,
               "stem": "填入原文第 [36] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1557,8 +1984,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1566,7 +2001,7 @@
               "questionNumber": 37,
               "stem": "填入原文第 [37] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1579,8 +2014,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1588,7 +2031,7 @@
               "questionNumber": 38,
               "stem": "填入原文第 [38] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1601,8 +2044,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1610,7 +2061,7 @@
               "questionNumber": 39,
               "stem": "填入原文第 [39] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1623,8 +2074,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1632,7 +2091,7 @@
               "questionNumber": 40,
               "stem": "填入原文第 [40] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1645,8 +2104,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第7页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1659,7 +2126,7 @@
       "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
       "sortOrder": 6,
       "scorePerQuestion": 1.5,
-      "passage": "### 短文原文\n**Water Shortage**\n\nGetting water _seems_ (seem) so easy for many people. You will be **41** (mistake) if you think there is an **42** (end) supply of water. In fact, the world has a water shortage. Seventy percent of the world is **43** (cover) in water. But most of it is salt water. Only a small **44** (percent) is fresh drinking water. Countries **45** (include) Spain, Italy and South Africa actually import water from countries such as the United States and Australia. **46** (surprising), 1.1 billion people on earth have difficulty **47** (get) clean drinking water. This global problem is predicted to get **48** (bad) as the atmosphere becomes warmer.\n\nEvery person in Britain **49** (use) about 150 litres of water a day. In some countries people only have 5 to 10 litres a day! They would be **50** (shock) to learn how we waste drinking water.\n\n### 题目\n**41.** ________ (mistake)",
+      "passage": "Water Shortage\n\nGetting water _seems_ (seem) so easy for many people. You will be [41] (mistake) if you think there is an [42] (end) supply of water. In fact, the world has a water shortage. Seventy percent of the world is [43] (cover) in water. But most of it is salt water. Only a small [44] (percent) is fresh drinking water. Countries [45] (include) Spain, Italy and South Africa actually import water from countries such as the United States and Australia. [46] (surprising), 1.1 billion people on earth have difficulty [47] (get) clean drinking water. This global problem is predicted to get [48] (bad) as the atmosphere becomes warmer.\n\nEvery person in Britain [49] (use) about 150 litres of water a day. In some countries people only have 5 to 10 litres a day! They would be [50] (shock) to learn how we waste drinking water.",
       "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
       "optionsPool": [],
       "tasks": [
@@ -1672,7 +2139,7 @@
               "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
               "baseWord": "mistake",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1685,8 +2152,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1695,7 +2170,7 @@
               "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
               "baseWord": "end",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1708,8 +2183,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1718,7 +2201,7 @@
               "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
               "baseWord": "cover",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1731,8 +2214,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1741,7 +2232,7 @@
               "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
               "baseWord": "percent",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1754,8 +2245,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1764,7 +2263,7 @@
               "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
               "baseWord": "include",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1777,8 +2276,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1787,7 +2294,7 @@
               "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
               "baseWord": "surprising",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1800,8 +2307,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1810,7 +2325,7 @@
               "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
               "baseWord": "get",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1823,8 +2338,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1833,7 +2356,7 @@
               "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
               "baseWord": "bad",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1846,8 +2369,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1856,7 +2387,7 @@
               "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
               "baseWord": "use",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1869,8 +2400,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1879,7 +2418,7 @@
               "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
               "baseWord": "shock",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1892,8 +2431,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1905,8 +2452,8 @@
       "type": "essay",
       "title": "第七部分：短文写作（第51题，30分）",
       "sortOrder": 7,
-      "scorePerQuestion": 30.0,
-      "passage": "**51.**\n某英文报社正在举办题为“An Unforgettable Holiday”的征文活动。请就此题目写一篇英文短文应征，内容包括：\n- 哪个假期令你难忘\n- 为什么令你难忘",
+      "scorePerQuestion": 30,
+      "passage": "51.\n某英文报社正在举办题为“An Unforgettable Holiday”的征文活动。请就此题目写一篇英文短文应征，内容包括：\n- 哪个假期令你难忘\n- 为什么令你难忘",
       "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
       "optionsPool": [],
       "tasks": [
@@ -1917,22 +2464,31 @@
             {
               "questionNumber": 51,
               "stem": "短文写作",
-              "scoreValue": 30.0,
-              "verified": false,
+              "scoreValue": 30,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
                   "standardAnswer": "略",
-                  "explanation": "### 范文\n**作文范文 1**\nAn Unforgettable Holiday\nI am always busy with my lessons. What I have to do everyday is nothing but study. Luckily, last summer my family went to my uncle's farm. We enjoyed a really interesting holiday. During the holiday, I didn't have to get up early, nor did I need to finish many exercises. I rode the horse in the fields. I milked the cows on the farm. To my great joy, my uncle invited me to go fishing. Life on the farm is quite different from that at school. I want to go back to spend my summer holiday again.\n\n**作文范文 2**\nAn unforgettable holiday\nSpring Festival is the most important festival in China. It's to celebrate the lunar calendar's new year. In the evening before the Spring Festival, families get together and have a big meal. In many places people like to set off firecrackers. Dumplings are the most traditional food. Children like the festival very much, because they can have delicious food and wear new clothes. They can also get some money from their parents. This money is given to children for good luck. People put New Year scrolls on the wall for good fortune. The Spring Festival lasts about 15 days long. People visit relatives and friends with the words \"Have all your wishes\". People enjoy the Spring Festival, during this time they can have a good rest.",
+                  "explanation": "短文写作属于主观题，需围绕难忘假期及其原因完成约100词英文短文。",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "revisionNotes": "2026-09-12 对照原题第8页及答案解析页视觉核验。"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2020年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题第8页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2020年10月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }

@@ -18,8 +18,8 @@
       "type": "reading_judgment",
       "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
       "sortOrder": 1,
-      "scorePerQuestion": 1,
-      "passage": "A；如果该句提供的是错误信息，选择 B；如\n果该句的信息文中没有提及，选择 C。\nRunning: Sport or Way of Life?\nYou go through the channels several times and find that once again there's nothing on TV that\ninterests you. Not a problem! Just put on some running shoes and comfortable clothes and go for a\nrun.\nOne of the best things about the sport of running is that you don't need expensive equipment.\nAll you need is a good pai r of r unning shoes and a safe environment. But don't be fooled into\nthinking the sport of running is easy. It requires discipline and concentration.\nRunning is good for you both physically and mentally. It strengthens your heart, lungs, and\nmuscles. It makes you more aware of your body. Running also improves your body so that you\ndon't get sick as easily. It can even help you to stay more focused in school because exercise helps\nyou to think more clearly.\nHow do you get engaged in t he spor t if you don't know much about it? Most schools offer\nrunning programs. A simple Internet search can help you find some in your area. The programs\nshow you how running can offer competition or just be for fun. They also teach runners to set\npractical goals and take care of their bodies.\nRunners have great respect for each other because they know how difficult the sport can be.\nIf you go to a race, you'll see people cheering for all the runners. Running isn't always about how\nfast you ar e running or how far you're going. It's about getting out there and doing it. Participation\nis more important than competition, and effort is recognized over talent.\nIf you're looking for more than just a sport, running may be the perfect choice for you.",
+      "scorePerQuestion": 1.0,
+      "passage": "A；如果该句提供的是错误信息，选择 B；如\n果该句的信息文中没有提及，选择 C。\nRunning: Sport or Way of Life?\nYou go through the channels several times and find that once again there's nothing on TV that\ninterests you. Not a problem! Just put on some running shoes and comfortable clothes and go for a\nrun.\nOne of the best things about the sport of running is that you don't need expensive equipment.\nAll you need is a good pair of running shoes and a safe environment. But don't be fooled into\nthinking the sport of running is easy. It requires discipline and concentration.\nRunning is good for you both physically and mentally. It strengthens your heart, lungs, and\nmuscles. It makes you more aware of your body. Running also improves your body so that you\ndon't get sick as easily. It can even help you to stay more focused in school because exercise helps\nyou to think more clearly.\nHow do you get engaged in the sport if you don't know much about it? Most schools offer\nrunning programs. A simple Internet search can help you find some in your area. The programs\nshow you how running can offer competition or just be for fun. They also teach runners to set\npractical goals and take care of their bodies.\nRunners have great respect for each other because they know how difficult the sport can be.\nIf you go to a race, you'll see people cheering for all the runners. Running isn't always about how\nfast you are running or how far you're going. It's about getting out there and doing it. Participation\nis more important than competition, and effort is recognized over talent.\nIf you're looking for more than just a sport, running may be the perfect choice for you.",
       "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
       "optionsPool": [],
       "tasks": [
@@ -30,7 +30,7 @@
             {
               "questionNumber": 1,
               "stem": "You may find it interesting to go for a run.",
-              "scoreValue": 1,
+              "scoreValue": 1.0,
               "verified": true,
               "options": [
                 {
@@ -60,20 +60,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 20,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 20 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 20 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 27,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 27 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 27 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 2,
               "stem": "The sport of running is easy.",
-              "scoreValue": 1,
+              "scoreValue": 1.0,
               "verified": true,
               "options": [
                 {
@@ -103,20 +103,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 20,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 20 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 20 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 27,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 27 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 27 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 3,
               "stem": "It is hard to find a safe environment for running.",
-              "scoreValue": 1,
+              "scoreValue": 1.0,
               "verified": true,
               "options": [
                 {
@@ -148,20 +148,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 20,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 20 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 20 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 27,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第27页明确第3题答案为 C；修复 OCR 串题产生的 takes。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第27页明确第3题答案为 C；修复 OCR 串题产生的 takes。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 4,
               "stem": "Running is good to people's body and mind.",
-              "scoreValue": 1,
+              "scoreValue": 1.0,
               "verified": true,
               "options": [
                 {
@@ -191,20 +191,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 20,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 20 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 20 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 28,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 28 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 28 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 5,
               "stem": "A long-distance run is good in many ways.",
-              "scoreValue": 1,
+              "scoreValue": 1.0,
               "verified": true,
               "options": [
                 {
@@ -234,20 +234,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 20,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 20 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 20 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 28,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 28 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 28 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 6,
               "stem": "You can find running programs online.",
-              "scoreValue": 1,
+              "scoreValue": 1.0,
               "verified": true,
               "options": [
                 {
@@ -277,20 +277,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 20,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 20 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 20 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 28,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 28 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 28 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 7,
               "stem": "Running programs set goals for you.",
-              "scoreValue": 1,
+              "scoreValue": 1.0,
               "verified": true,
               "options": [
                 {
@@ -320,20 +320,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 20,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 20 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 20 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 28,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 28 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 28 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 8,
               "stem": "You should go for a run every day.",
-              "scoreValue": 1,
+              "scoreValue": 1.0,
               "verified": true,
               "options": [
                 {
@@ -363,20 +363,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 20,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 20 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 20 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 28,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 28 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 28 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 9,
               "stem": "Runners respect one another as they love the sport.",
-              "scoreValue": 1,
+              "scoreValue": 1.0,
               "verified": true,
               "options": [
                 {
@@ -406,20 +406,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 20,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 20 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 20 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 28,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 28 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 28 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 10,
               "stem": "Running means more than a sport.",
-              "scoreValue": 1,
+              "scoreValue": 1.0,
               "verified": true,
               "options": [
                 {
@@ -449,13 +449,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 20,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 20 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 20 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 28,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 28 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 28 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -467,8 +467,8 @@
       "type": "reading_comprehension",
       "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
       "sortOrder": 2,
-      "scorePerQuestion": 2,
-      "passage": "个最佳选项。\nKindness of Strangers\nAt the store where I worked, I noticed a young boy of about ten shopping alone with his\nschool list. He placed everything in his basket and went to the che ckout.\nThe young shop assistant told him the total pr\nice, $37.60. The boy was instantly disappointed\nand said he had only been given $20. He took out one thing at a time until he got down to his $20.\nWith eyes full of tears, he asked if he could phone his mum to pick him up. When he got through,\nit appeared that even this was inconvenient for his mother.\nHe bit hard on his lip to stop the tears and walked outside to wait on the bench in front of the\nshop. This was all too much for the young assistant who had served him and she said, “I wish I\ncould afford to pay for the rest of his things.\"\nOne of the other girls said she had a few dollars. Then two others said they could help as\nwell.\nThese f\nour young girls pooled their money and found that they had more than enough money\nfor the boy's extra purchases. So they upgraded his pens and pencils to top-quality ones, then took\nthe bag out to the boy on the seat. His young face changed from sadness to the most beautiful\nsmile. His mother arrived much later to pick him up. Instead of running to the car, he ran back into\nthe store and called out,\"Thank you!\"\nI was so proud of my team that day. They did something wonderful for that boy and also\nf\nound the pleasure of giving was as great as receiving.",
+      "scorePerQuestion": 2.0,
+      "passage": "个最佳选项。\nKindness of Strangers\nAt the store where I worked, I noticed a young boy of about ten shopping alone with his\nschool list. He placed everything in his basket and went to the checkout.\nThe young shop assistant told him the total price, $37.60. The boy was instantly disappointed\nand said he had only been given $20. He took out one thing at a time until he got down to his $20.\nWith eyes full of tears, he asked if he could phone his mum to pick him up. When he got through,\nit appeared that even this was inconvenient for his mother.\nHe bit hard on his lip to stop the tears and walked outside to wait on the bench in front of the\nshop. This was all too much for the young assistant who had served him and she said, “I wish I\ncould afford to pay for the rest of his things.\"\nOne of the other girls said she had a few dollars. Then two others said they could help as\nwell.\nThese four young girls pooled their money and found that they had more than enough money\nfor the boy's extra purchases. So they upgraded his pens and pencils to top-quality ones, then took\nthe bag out to the boy on the seat. His young face changed from sadness to the most beautiful\nsmile. His mother arrived much later to pick him up. Instead of running to the car, he ran back into\nthe store and called out,\"Thank you!\"\nI was so proud of my team that day. They did something wonderful for that boy and also\nfound the pleasure of giving was as great as receiving.",
       "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
       "optionsPool": [],
       "tasks": [
@@ -479,7 +479,7 @@
             {
               "questionNumber": 11,
               "stem": "The boy went to the store to____.",
-              "scoreValue": 2,
+              "scoreValue": 2.0,
               "verified": true,
               "options": [
                 {
@@ -513,20 +513,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 21,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 21 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 21 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 29,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 29 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 29 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 12,
               "stem": "At the checkout, the boy found that he__",
-              "scoreValue": 2,
+              "scoreValue": 2.0,
               "verified": true,
               "options": [
                 {
@@ -560,20 +560,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 21,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 21 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 21 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 29,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 29 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 29 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 13,
               "stem": "The boy walked out of the store to",
-              "scoreValue": 2,
+              "scoreValue": 2.0,
               "verified": true,
               "options": [
                 {
@@ -607,25 +607,25 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 21,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 21 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 21 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 29,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 29 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 29 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 14,
               "stem": "The shop assistants were",
-              "scoreValue": 2,
+              "scoreValue": 2.0,
               "verified": true,
               "options": [
                 {
                   "key": "A",
-                  "content": "cur ious"
+                  "content": "curious"
                 },
                 {
                   "key": "B",
@@ -654,20 +654,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 21,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 21 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 21 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 29,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 29 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 29 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 15,
               "stem": "The boy ran back into the store to",
-              "scoreValue": 2,
+              "scoreValue": 2.0,
               "verified": true,
               "options": [
                 {
@@ -701,13 +701,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 21,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 21 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 21 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 30,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 30 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 30 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -719,8 +719,8 @@
       "type": "summary_completion",
       "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
       "sortOrder": 3,
-      "scorePerQuestion": 1,
-      "passage": "阅读下面短文，请完成短文后的 2 项测试任务： （1）从第 16-20 题后所给\n的 6 个选项中为第①-⑤段每段选择 1 个正确的段落大意； （2）从第 21~25 题后\n所给的 6 个选项中选择 5 个正确选项，分别完成每个句子。\nOur Muscles\n①When we think of muscles, we might often picture a bodybuilder with big arm and leg muscles.\nBut our muscles do not have to look like that to work well.\n②As a matter of fact, every time we write our name, we use the 20 different muscles in our hand.\nEvery time our heart beats, we use our cardiac muscle ( 心肌)。When we eat our f ood, we use our\ntongue muscles. We even use muscles when we open and close our eyes. In fact, every time we\nmove, we use some of the muscles in our body.\n③A muscle is made of tiny fibers. Fiber is a type of tissue that feels a little like a rubber band.\nThousands of these fibers are packed together to make a single muscle. We all have the same\nnumber of muscles- about 700 or so. Men and women with big muscles simply have thicker\nbundles of fibers.\n④ There are three different types of muscles in our body. Smooth muscles ar e the ones that we\ncannot control. They work quietly to keep our body running. Also, they are the ones that help us to\nabsorb our food. The cardiac muscle makes the heart pump blood in and out. Skeletal muscles are\nthe ones that we can control. These are the muscles that we use to raise our hands, or ride our\nbicycles.\n⑤ Even our face often uses muscles. But if we want to save our energy, try smiling instead of\nfrowning. Remember that it ta kes 17 muscles in our f ace to smile, but 43 muscles to frown!",
+      "scorePerQuestion": 1.0,
+      "passage": "阅读下面短文，请完成短文后的 2 项测试任务： （1）从第 16-20 题后所给\n的 6 个选项中为第①-⑤段每段选择 1 个正确的段落大意； （2）从第 21~25 题后\n所给的 6 个选项中选择 5 个正确选项，分别完成每个句子。\nOur Muscles\n①When we think of muscles, we might often picture a bodybuilder with big arm and leg muscles.\nBut our muscles do not have to look like that to work well.\n②As a matter of fact, every time we write our name, we use the 20 different muscles in our hand.\nEvery time our heart beats, we use our cardiac muscle ( 心肌)。When we eat our food, we use our\ntongue muscles. We even use muscles when we open and close our eyes. In fact, every time we\nmove, we use some of the muscles in our body.\n③A muscle is made of tiny fibers. Fiber is a type of tissue that feels a little like a rubber band.\nThousands of these fibers are packed together to make a single muscle. We all have the same\nnumber of muscles- about 700 or so. Men and women with big muscles simply have thicker\nbundles of fibers.\n④ There are three different types of muscles in our body. Smooth muscles are the ones that we\ncannot control. They work quietly to keep our body running. Also, they are the ones that help us to\nabsorb our food. The cardiac muscle makes the heart pump blood in and out. Skeletal muscles are\nthe ones that we can control. These are the muscles that we use to raise our hands, or ride our\nbicycles.\n⑤ Even our face often uses muscles. But if we want to save our energy, try smiling instead of\nfrowning. Remember that it takes 17 muscles in our face to smile, but 43 muscles to frown!",
       "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
       "optionsPool": [],
       "tasks": [
@@ -731,7 +731,7 @@
             {
               "questionNumber": 16,
               "stem": "Paragraph①:",
-              "scoreValue": 1,
+              "scoreValue": 1.0,
               "verified": true,
               "options": [
                 {
@@ -773,20 +773,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 22,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 22 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 22 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 31,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 31 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 31 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 17,
               "stem": "Paragraph②:",
-              "scoreValue": 1,
+              "scoreValue": 1.0,
               "verified": true,
               "options": [
                 {
@@ -828,20 +828,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 22,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 22 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 22 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 31,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 31 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 31 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 18,
               "stem": "Paragraph③:",
-              "scoreValue": 1,
+              "scoreValue": 1.0,
               "verified": true,
               "options": [
                 {
@@ -883,20 +883,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 22,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 22 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 22 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 31,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 31 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 31 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 19,
               "stem": "Paragraph④:",
-              "scoreValue": 1,
+              "scoreValue": 1.0,
               "verified": true,
               "options": [
                 {
@@ -938,20 +938,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 22,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 22 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 22 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 31,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 31 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 31 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 20,
               "stem": "Paragraph⑤:",
-              "scoreValue": 1,
+              "scoreValue": 1.0,
               "verified": true,
               "options": [
                 {
@@ -993,13 +993,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 23,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 23 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 23 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 31,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 31 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 31 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1012,7 +1012,7 @@
             {
               "questionNumber": 21,
               "stem": "Muscles don't have to be very big_______.",
-              "scoreValue": 1,
+              "scoreValue": 1.0,
               "verified": true,
               "options": [
                 {
@@ -1025,15 +1025,11 @@
                 },
                 {
                   "key": "C",
-                  "content": "to digest food:"
+                  "content": "to digest food"
                 },
                 {
                   "key": "D",
-                  "content": "to function prope rly"
-                },
-                {
-                  "key": "E",
-                  "content": "whenever we ar"
+                  "content": "to function properly"
                 },
                 {
                   "key": "F",
@@ -1054,20 +1050,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 23,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 23 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 23 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：损坏干扰项E仅存半句，暂不参与作答，未编造原选项。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 31,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 31 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 31 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：损坏干扰项E仅存半句，暂不参与作答，未编造原选项。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 22,
               "stem": "Our muscles are working_______.",
-              "scoreValue": 1,
+              "scoreValue": 1.0,
               "verified": true,
               "options": [
                 {
@@ -1080,15 +1076,11 @@
                 },
                 {
                   "key": "C",
-                  "content": "to digest food:"
+                  "content": "to digest food"
                 },
                 {
                   "key": "D",
-                  "content": "to function prope rly"
-                },
-                {
-                  "key": "E",
-                  "content": "whenever we ar"
+                  "content": "to function properly"
                 },
                 {
                   "key": "F",
@@ -1109,20 +1101,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 23,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 23 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 23 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：损坏干扰项E仅存半句，暂不参与作答，未编造原选项。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 31,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 31 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 31 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：损坏干扰项E仅存半句，暂不参与作答，未编造原选项。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 23,
               "stem": "A single muscle contains______.",
-              "scoreValue": 1,
+              "scoreValue": 1.0,
               "verified": true,
               "options": [
                 {
@@ -1135,15 +1127,11 @@
                 },
                 {
                   "key": "C",
-                  "content": "to digest food:"
+                  "content": "to digest food"
                 },
                 {
                   "key": "D",
-                  "content": "to function prope rly"
-                },
-                {
-                  "key": "E",
-                  "content": "whenever we ar"
+                  "content": "to function properly"
                 },
                 {
                   "key": "F",
@@ -1164,20 +1152,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 23,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 23 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 23 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：损坏干扰项E仅存半句，暂不参与作答，未编造原选项。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 31,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 31 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 31 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：损坏干扰项E仅存半句，暂不参与作答，未编造原选项。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 24,
               "stem": "Smooth muscles help us_______.",
-              "scoreValue": 1,
+              "scoreValue": 1.0,
               "verified": true,
               "options": [
                 {
@@ -1190,15 +1178,11 @@
                 },
                 {
                   "key": "C",
-                  "content": "to digest food:"
+                  "content": "to digest food"
                 },
                 {
                   "key": "D",
-                  "content": "to function prope rly"
-                },
-                {
-                  "key": "E",
-                  "content": "whenever we ar"
+                  "content": "to function properly"
                 },
                 {
                   "key": "F",
@@ -1219,20 +1203,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 23,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 23 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 23 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：损坏干扰项E仅存半句，暂不参与作答，未编造原选项。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 31,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 31 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 31 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：损坏干扰项E仅存半句，暂不参与作答，未编造原选项。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 25,
               "stem": "Smiling uses less energy than____",
-              "scoreValue": 1,
+              "scoreValue": 1.0,
               "verified": true,
               "options": [
                 {
@@ -1245,15 +1229,11 @@
                 },
                 {
                   "key": "C",
-                  "content": "to digest food:"
+                  "content": "to digest food"
                 },
                 {
                   "key": "D",
-                  "content": "to function prope rly"
-                },
-                {
-                  "key": "E",
-                  "content": "whenever we ar"
+                  "content": "to function properly"
                 },
                 {
                   "key": "F",
@@ -1274,17 +1254,18 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 23,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 23 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 23 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：损坏干扰项E仅存半句，暂不参与作答，未编造原选项。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 32,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 32 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 32 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：损坏干扰项E仅存半句，暂不参与作答，未编造原选项。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
-          ]
+          ],
+          "instructions": "\n导入说明：E项原文仅剩“whenever we ar”，内容不完整，暂不参与作答；其余选项保留原字母。"
         }
       ]
     },
@@ -1292,8 +1273,8 @@
       "type": "sentence_fill",
       "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
       "sortOrder": 4,
-      "scorePerQuestion": 2,
-      "passage": "短文内容 将其分别放回原有位置，以恢复文章原貌。\nBiological Clock\nWhen the sun rises on a warm and sunny day, you can see some flowers open up. When they\nclose late in the afternoon, other flowers open.\nBiological rhythms ( 生物节律 )， like the opening and closing of flowers, happen all over\nnature. But not all of them are daily rhythms. Some, like the beating of our heart, happen e ver y\nsecond.26\nScientists use the term biological clock to describe the timing that controls biological\nrhythms. 27 In some animals it is probably controlled by the brain. In plants and other living\nthings that have no brain, it must be something else.\nThe migration of animals happens when a signal is sent out. For example, when days become\nshorter, birds leave the northern parts of the world and fly south where it is warm. 28\nHumans also have biological clocks that control their daily rhythms. When people travel by\nplane from one continent to another, they often cross many time zones. Their internal clocks don't\nseem to work correctly. We call this jet lag ( 时差 ). 29People who work night shifts also have\nproblems with their biological clocks. They may not be as active as people who work during the\ndaytime.\nBiological clocks control many rhythms of life. 30 Doctors are looking for new ways to make\ntravelling more comfortable and medical treatment more effective.",
+      "scorePerQuestion": 2.0,
+      "passage": "短文内容 将其分别放回原有位置，以恢复文章原貌。\nBiological Clock\nWhen the sun rises on a warm and sunny day, you can see some flowers open up. When they\nclose late in the afternoon, other flowers open.\nBiological rhythms ( 生物节律 )， like the opening and closing of flowers, happen all over\nnature. But not all of them are daily rhythms. Some, like the beating of our heart, happen every\nsecond.[26]\nScientists use the term biological clock to describe the timing that controls biological\nrhythms. [27] In some animals it is probably controlled by the brain. In plants and other living\nthings that have no brain, it must be something else.\nThe migration of animals happens when a signal is sent out. For example, when days become\nshorter, birds leave the northern parts of the world and fly south where it is warm. [28]\nHumans also have biological clocks that control their daily rhythms. When people travel by\nplane from one continent to another, they often cross many time zones. Their internal clocks don't\nseem to work correctly. We call this jet lag ( 时差 ). [29]People who work night shifts also have\nproblems with their biological clocks. They may not be as active as people who work during the\ndaytime.\nBiological clocks control many rhythms of life. [30] Doctors are looking for new ways to make\ntravelling more comfortable and medical treatment more effective.",
       "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
       "optionsPool": [
         {
@@ -1329,7 +1310,7 @@
             {
               "questionNumber": 26,
               "stem": "填入原文第 [26] 空的最佳选项。",
-              "scoreValue": 2,
+              "scoreValue": 2.0,
               "verified": true,
               "options": [
                 {
@@ -1371,20 +1352,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 24,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 24 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 24 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 33,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 33 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 33 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 27,
               "stem": "填入原文第 [27] 空的最佳选项。",
-              "scoreValue": 2,
+              "scoreValue": 2.0,
               "verified": true,
               "options": [
                 {
@@ -1426,20 +1407,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 24,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 24 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 24 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 33,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 33 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 33 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 28,
               "stem": "填入原文第 [28] 空的最佳选项。",
-              "scoreValue": 2,
+              "scoreValue": 2.0,
               "verified": true,
               "options": [
                 {
@@ -1481,20 +1462,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 24,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 24 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 24 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 33,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 33 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 33 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 29,
               "stem": "填入原文第 [29] 空的最佳选项。",
-              "scoreValue": 2,
+              "scoreValue": 2.0,
               "verified": true,
               "options": [
                 {
@@ -1536,20 +1517,20 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 24,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 24 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 24 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 33,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 33 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 33 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 30,
               "stem": "填入原文第 [30] 空的最佳选项。",
-              "scoreValue": 2,
+              "scoreValue": 2.0,
               "verified": true,
               "options": [
                 {
@@ -1591,13 +1572,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 24,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 24 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 24 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 33,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 33 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 33 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1610,7 +1591,7 @@
       "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
       "sortOrder": 5,
       "scorePerQuestion": 1.5,
-      "passage": "据短文内容将其分别放回原有位置，以恢复文章原貌。\nLife is Difficult\nWhat mak es lif e difficult is that the process of facing and solving problems is a painful one.\nProblems cause 31 ，anger, fear or despair. These are 32 feelings, often as painful as any kind of\nphysical pain. And since life 33 an endless series of problems, it is 34 difficult and is full of pain\nas well as joy.\nYet it is in this process of 35. and solving problems that life has its meaning. Problems call\nforth our 36 and our wisdom. It is only because of problems that we grow _ 37 and spiritually.\nWhen we want to encourage the 38 of the human spirit, we encourage the human capacity to solve\nproblems, just as in school we deliberately_[39] problems for our children to solve. It is through\nthe pain of confronting and resolving that we learn. It is for this reason that 40 people learn not to\nfear but actually to welcome problems and actually to welcome the pain of problems.",
+      "passage": "据短文内容将其分别放回原有位置，以恢复文章原貌。\nLife is Difficult\nWhat makes life difficult is that the process of facing and solving problems is a painful one.\nProblems cause [31] ，anger, fear or despair. These are [32] feelings, often as painful as any kind of\nphysical pain. And since life [33] an endless series of problems, it is [34] difficult and is full of pain\nas well as joy.\nYet it is in this process of [35] and solving problems that life has its meaning. Problems call\nforth our [36] and our wisdom. It is only because of problems that we grow [37] and spiritually.\nWhen we want to encourage the [38] of the human spirit, we encourage the human capacity to solve\nproblems, just as in school we deliberately[39] problems for our children to solve. It is through\nthe pain of confronting and resolving that we learn. It is for this reason that [40] people learn not to\nfear but actually to welcome problems and actually to welcome the pain of problems.",
       "instructions": "从备选词汇池中选择最佳单词填入空白处。",
       "optionsPool": [
         {
@@ -1687,13 +1668,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 24,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 24 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 24 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 34,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 34 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 34 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1717,13 +1698,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 24,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 24 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 24 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 34,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 34 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 34 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1735,11 +1716,13 @@
               "options": [],
               "answerRules": [
                 {
-                  "standardAnswer": "F",
+                  "standardAnswer": "I",
                   "originalAnswer": "takes",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "revisionNotes": "；2026-09-12 导入内容语义复核：life poses an endless series of problems：主语 life，谓语应为 poses（提出、带来问题），takes 与此宾语不构成合理语义。",
+                  "explanation": "life poses an endless series of problems：主语 life，谓语应为 poses（提出、带来问题），takes 与此宾语不构成合理语义。"
                 }
               ],
               "sourceReferences": [
@@ -1747,13 +1730,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 24,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 24 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 24 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：life poses an endless series of problems：主语 life，谓语应为 poses（提出、带来问题），takes 与此宾语不构成合理语义。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 34,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 34 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 34 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：life poses an endless series of problems：主语 life，谓语应为 poses（提出、带来问题），takes 与此宾语不构成合理语义。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1777,13 +1760,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 24,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 24 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 24 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 34,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 34 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 34 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1807,13 +1790,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 25,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 34,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 34 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 34 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1837,13 +1820,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 25,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 34,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 34 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 34 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1867,13 +1850,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 25,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 34,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 34 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 34 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1897,13 +1880,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 25,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 34,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 34 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 34 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1927,13 +1910,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 25,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 34,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 34 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 34 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1957,13 +1940,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 25,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 34,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 34 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 34 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1976,7 +1959,7 @@
       "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
       "sortOrder": 6,
       "scorePerQuestion": 1.5,
-      "passage": "正确的形式填入文中，以恢复文章原貌。\nAre There Truths in Dreams?\nImagine waking up after dreaming (dream) about a terrible plane crash. The next day you\nwill make a plane journey that you have 41 (plan) long before. Will you get on the plane?\nA survey shows that you may not cancel your trip. But your dream will probably influence\nyour 42 (thought) during the journey. You may feel 43 (worry) and find the trip much 44 (long)\nthan before. So dreams may influence what we are 2 45 (real) doing while we are awake.\nThe explanation of dreams is still a(n) 46 (clear) area. A team of researchers are entering a\nnew field of studies: Do dreams actually influence our 47 (behave)? Over the past few years, they\nhave 48 (do) studies in different cultures and found out that dreams contain some 49 (hide) truths:\ndreams affect the way people live and work. But researchers also tell people not to be 50 (easy)\ninfluenced by their dreams.",
+      "passage": "正确的形式填入文中，以恢复文章原貌。\nAre There Truths in Dreams?\nImagine waking up after dreaming (dream) about a terrible plane crash. The next day you\nwill make a plane journey that you have [41] (plan) long before. Will you get on the plane?\nA survey shows that you may not cancel your trip. But your dream will probably influence\nyour [42] (thought) during the journey. You may feel [43] (worry) and find the trip much [44] (long)\nthan before. So dreams may influence what we are [45] (real) doing while we are awake.\nThe explanation of dreams is still a(n) [46] (clear) area. A team of researchers are entering a\nnew field of studies: Do dreams actually influence our [47] (behave)? Over the past few years, they\nhave [48] (do) studies in different cultures and found out that dreams contain some [49] (hide) truths:\ndreams affect the way people live and work. But researchers also tell people not to be [50] (easy)\ninfluenced by their dreams.",
       "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
       "optionsPool": [],
       "tasks": [
@@ -2005,13 +1988,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 25,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 35,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 35 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 35 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -2036,13 +2019,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 25,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 35,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 35 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 35 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -2067,13 +2050,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 25,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 35,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 35 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 35 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -2098,13 +2081,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 25,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 35,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 35 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 35 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -2129,13 +2112,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 25,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 35,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 35 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 35 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -2160,13 +2143,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 25,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 35,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 35 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 35 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -2181,9 +2164,13 @@
                 {
                   "standardAnswer": "behavior",
                   "originalAnswer": "behavior",
-                  "acceptableAnswers": [],
+                  "acceptableAnswers": [
+                    "behaviour"
+                  ],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "revisionNotes": "；2026-09-12 导入内容语义复核：题目括号原词本身为 behave，英式拼写 behaviour 与美式 behavior 均正确，当前没有可接受变体，判分会误判英式拼写。",
+                  "explanation": "题目括号原词本身为 behave，英式拼写 behaviour 与美式 behavior 均正确，当前没有可接受变体，判分会误判英式拼写。"
                 }
               ],
               "sourceReferences": [
@@ -2191,13 +2178,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 25,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：题目括号原词本身为 behave，英式拼写 behaviour 与美式 behavior 均正确，当前没有可接受变体，判分会误判英式拼写。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 35,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 35 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 35 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：题目括号原词本身为 behave，英式拼写 behaviour 与美式 behavior 均正确，当前没有可接受变体，判分会误判英式拼写。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -2222,13 +2209,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 25,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 36,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 36 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 36 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -2253,13 +2240,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 25,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 36,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 36 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 36 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -2284,13 +2271,13 @@
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 25,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 25 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 },
                 {
                   "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
                   "pageNumber": 36,
                   "extractionMethod": "manual",
-                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 36 页。"
+                  "correctionNotes": "2026-09-11 视觉核验：答案解析第 36 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -2302,7 +2289,7 @@
       "type": "essay",
       "title": "第七部分：短文写作（第51题，30分）",
       "sortOrder": 7,
-      "scorePerQuestion": 30,
+      "scorePerQuestion": 30.0,
       "passage": "请根据所提供材料中的要求完成一篇 100 词左右的英文写作任务。 将你的答案写\n在答題卡相应的位置上。\n51. 某英文报社正在举办题为\"E-books or Paper Books?\"的征文活动。请就此题目写一篇英文\n短文应征。内容包括以下两个方面:\n•你喜欢电子 书还是纸质书?\n•理由是什么?",
       "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
       "optionsPool": [],
@@ -2314,7 +2301,7 @@
             {
               "questionNumber": 51,
               "stem": "短文写作",
-              "scoreValue": 30,
+              "scoreValue": 30.0,
               "verified": true,
               "options": [],
               "answerRules": [

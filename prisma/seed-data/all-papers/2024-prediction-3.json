@@ -8,23 +8,18 @@
   "paperType": "prediction",
   "totalScore": 100,
   "suggestedMinutes": 150,
-  "verified": false,
-  "status": "draft",
-  "publishBlocked": true,
-  "blockReasons": [
-    {
-      "code": "ocr_unverified",
-      "description": "全量批量导入草稿，待逐题人工核对"
-    }
-  ],
-  "sourceFile": "押题库考前试卷（3）.md",
+  "verified": true,
+  "status": "verified",
+  "publishBlocked": false,
+  "blockReasons": [],
+  "sourceFile": "押题库考前试卷（3）.pdf",
   "sections": [
     {
       "type": "reading_judgment",
       "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
       "sortOrder": 1,
       "scorePerQuestion": 1.0,
-      "passage": "(第 1-10 题，每题 1 分，共 10 分)\n\n### 短文原文\nBooking Online and Saving the Environment\nWhen you are looking to book a holiday, it is unlikely that you will think\nabout how green your booking decision is, but it is definitely something that\nshould be taken into consideration. By “green”we are of course talking about the\nimpact on the environment. .\n When looking to book a holiday, you will probably find that you are faced with\ntwo main decisions. The first is to go into a travel agency, pick up a stack of\nbrochures half the size of a person, read through them and go back with just the\none and book with the travel agents directly or over the phone. The second is to\nmiss out the shops and brochures altogether and go onto the Internet.\n The Internet holds many advantages. over the high street travel agents, the\nmain one being convenience. You can go online to look at holidays at any time of\nthe day, whether it is in that 20 minutes before work starts in the morning, half\nan hour at your desk at lunchtime or even at home on your laptop in front of the\ntelevision at night. There are no time constraints to going online, while the\ntravel agents are usually massively busy at times when people can actually go, ie\nlunch hours or at the weeken d. You could use the telephone but you wouldn't be\nable to see the pictures or all the details of the holidays, so you would probably\nbe sent a brochure anyway.\n There are websites on the Internet that make shopping for holiday deals much\neasier. These websites are known as price comparison websites. Icelolly, Travel\nSupermarket and Deal Checker are examples of some of the best-known price comparison\nsites to look for cheap holiday deals, and they essentially search through lots of\ndifferent tour operators so that you don't have to. The results are then displayed\non one page from which you can book, meaning that you don't even need a lot of\ntime to do this.\nThe contrast with the travel agencies is that you probably have to take two\ntrips, with brochure reading in between, and this is where the green side of things\ncomes in. The piles and piles of brochures are definitely not green, and the amount\nof unnecessary paper used can’t be good for the environment. In the days of the\nInternet, smartphone, tablets and computers, there is really no need for such a\nlarge amount of paper to be wasted. So not only will it save yo u time and effort\nto book online, it will do a little bit towards saving the environment too !\n\n### 题目",
+      "passage": "(第 1-10 题，每题 1 分，共 10 分)\n\nBooking Online and Saving the Environment\nWhen you are looking to book a holiday, it is unlikely that you will think\nabout how green your booking decision is, but it is definitely something that\nshould be taken into consideration. By “green”we are of course talking about the\nimpact on the environment. .\n When looking to book a holiday, you will probably find that you are faced with\ntwo main decisions. The first is to go into a travel agency, pick up a stack of\nbrochures half the size of a person, read through them and go back with just the\none and book with the travel agents directly or over the phone. The second is to\nmiss out the shops and brochures altogether and go onto the Internet.\n The Internet holds many advantages. over the high street travel agents, the\nmain one being convenience. You can go online to look at holidays at any time of\nthe day, whether it is in that 20 minutes before work starts in the morning, half\nan hour at your desk at lunchtime or even at home on your laptop in front of the\ntelevision at night. There are no time constraints to going online, while the\ntravel agents are usually massively busy at times when people can actually go, ie\nlunch hours or at the weekend. You could use the telephone but you wouldn't be\nable to see the pictures or all the details of the holidays, so you would probably\nbe sent a brochure anyway.\n There are websites on the Internet that make shopping for holiday deals much\neasier. These websites are known as price comparison websites. Icelolly, Travel\nSupermarket and Deal Checker are examples of some of the best-known price comparison\nsites to look for cheap holiday deals, and they essentially search through lots of\ndifferent tour operators so that you don't have to. The results are then displayed\non one page from which you can book, meaning that you don't even need a lot of\ntime to do this.\nThe contrast with the travel agencies is that you probably have to take two\ntrips, with brochure reading in between, and this is where the green side of things\ncomes in. The piles and piles of brochures are definitely not green, and the amount\nof unnecessary paper used can’t be good for the environment. In the days of the\nInternet, smartphone, tablets and computers, there is really no need for such a\nlarge amount of paper to be wasted. So not only will it save you time and effort\nto book online, it will do a little bit towards saving the environment too !",
       "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
       "optionsPool": [],
       "tasks": [
@@ -34,9 +29,9 @@
           "questions": [
             {
               "questionNumber": 1,
-              "stem": "Green booking decisions should def initely  be a consideration in booking your holiday.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Green booking decisions should definitely  be a consideration in booking your holiday.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -62,16 +57,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 2,
-              "stem": "Going onto the Internet is one major choice in booking a holiday.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Going onto the Internet is one major choice in booking a holiday.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -97,16 +106,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 3,
-              "stem": "There are no time constraints to doing online booking.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "There are no time constraints to doing online booking.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -132,16 +155,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 4,
-              "stem": "Travel agents are massively busy all the time.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Travel agents are massively busy all the time.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -167,16 +204,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 5,
-              "stem": "Price comparison websites make shopping for holiday deals much easier.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Price comparison websites make shopping for holiday deals much easier.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -202,16 +253,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 6,
-              "stem": "Travel Supermarket is the best-known price comparison site in the world .\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Travel Supermarket is the best-known price comparison site in the world .",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -228,25 +293,41 @@
               ],
               "answerRules": [
                 {
-                  "standardAnswer": "B",
+                  "standardAnswer": "C",
                   "originalAnswer": "B",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "explanation": "2026-09-13逐题复核纠错：原文：Icelolly, Travel Supermarket and Deal Checker are examples of some of the best-known price comparison sites。题干：Travel Supermarket is the best-known price comparison site in the world。原文没有给出世界排名，也没有否认其排名第一。“知名网站之一”不推出“不是最知名”；按 A 正确/B 错误/C 未提及规则，应为 C，现有 B 缺乏反证。",
+                  "revisionNotes": "2026-09-13逐题复核纠错：原文：Icelolly, Travel Supermarket and Deal Checker are examples of some of the best-known price comparison sites。题干：Travel Supermarket is the best-known price comparison site in the world。原文没有给出世界排名，也没有否认其排名第一。“知名网站之一”不推出“不是最知名”；按 A 正确/B 错误/C 未提及规则，应为 C，现有 B 缺乏反证。"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 7,
-              "stem": "You have to spend a lot of time booking a holiday online.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "You have to spend a lot of time booking a holiday online.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -272,16 +353,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 8,
-              "stem": "You have to read brochures before deciding to book a holiday.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "You have to read brochures before deciding to book a holiday.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -307,16 +402,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 9,
-              "stem": "Travel agents provide you with a great variety of brochures.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Travel agents provide you with a great variety of brochures.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -342,16 +451,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 10,
-              "stem": "Booking online is“green”in that it saves a lot of unnecessary paper.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Booking online is“green”in that it saves a lot of unnecessary paper.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -377,8 +500,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -391,7 +528,7 @@
       "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
       "sortOrder": 2,
       "scorePerQuestion": 2.0,
-      "passage": "(第 11-15 题，每题 2 分，共 10 分)\n\n### 短文原文\nWhy Lack of Sleep Could Be Making You Fatter Sleepless nights don't just ruin\nyour mood the next day — they could also damage your waistline. According to new\nresearch in the August issue of the American Journal of Clinical Nutrition, sleep\ndeprivation can cause people to pack on extra pounds.\nResearchers at the New York Obesity Nutrition Research Centre at St. Luke's -\nRoosevelt Hospital found that sleep-deprived people seem to burn' the same number\nof calories as the well- rested, but they consume about 300 more calories a day.\nGiven that it takes just 3,500 calories to add a pound to your body, those calories\ncan quickly turn into extra weight.\nBut there are several other reasons that sleep loss could lead to weight gain,\nsays sleep disorder specialist Michael Breus. When we get too little shut-eye, our\nmetabolism（新陈代谢) slows down to conserve energy. That slowdown triggers the\nrelease of the hormone cortisol ( 荷尔蒙皮质醇), which increases appetite. Your\nbody thinks it needs more energy, so it asks for more food.\n In a vicious cycle, sleep loss also causes our bodies to release more ghrelin,\nanother hormone that signals hunger, and less leptin, the hormone that tells your\nstomach that it's full With your hormones no longer working in the normal way,\nyour body wants more food and lacks the sensitivity to know when to stop eating.\nNot to mention that being awake more hours gives you more time to snack.\n “The later you're up at night, the greater the likelihood that you're going\nto eat, ” Breus says, and “you're more likely to eat high-fat, high-carb foods.”\nOne other contributing factor to such weight gain is that the body burns the\nmost calories during REM sleep, a deeply restful phase. Less sleep means less time\nin REM.\nFor optimal health, experts say you should try to get 7.5 hours of sleep a\nnight. If you have trouble sleeping, stick to a nightly routine, exercise during\nthe day, banish worries to a journal, and keep pre-bedtime activities relaxing.\n\n### 题目",
+      "passage": "(第 11-15 题，每题 2 分，共 10 分)\n\nWhy Lack of Sleep Could Be Making You Fatter Sleepless nights don't just ruin\nyour mood the next day — they could also damage your waistline. According to new\nresearch in the August issue of the American Journal of Clinical Nutrition, sleep\ndeprivation can cause people to pack on extra pounds.\nResearchers at the New York Obesity Nutrition Research Centre at St. Luke's -\nRoosevelt Hospital found that sleep-deprived people seem to burn' the same number\nof calories as the well- rested, but they consume about 300 more calories a day.\nGiven that it takes just 3,500 calories to add a pound to your body, those calories\ncan quickly turn into extra weight.\nBut there are several other reasons that sleep loss could lead to weight gain,\nsays sleep disorder specialist Michael Breus. When we get too little shut-eye, our\nmetabolism（新陈代谢) slows down to conserve energy. That slowdown triggers the\nrelease of the hormone cortisol ( 荷尔蒙皮质醇), which increases appetite. Your\nbody thinks it needs more energy, so it asks for more food.\n In a vicious cycle, sleep loss also causes our bodies to release more ghrelin,\nanother hormone that signals hunger, and less leptin, the hormone that tells your\nstomach that it's full With your hormones no longer working in the normal way,\nyour body wants more food and lacks the sensitivity to know when to stop eating.\nNot to mention that being awake more hours gives you more time to snack.\n “The later you're up at night, the greater the likelihood that you're going\nto eat, ” Breus says, and “you're more likely to eat high-fat, high-carb foods.”\nOne other contributing factor to such weight gain is that the body burns the\nmost calories during REM sleep, a deeply restful phase. Less sleep means less time\nin REM.\nFor optimal health, experts say you should try to get 7.5 hours of sleep a\nnight. If you have trouble sleeping, stick to a nightly routine, exercise during\nthe day, banish worries to a journal, and keep pre-bedtime activities relaxing.",
       "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
       "optionsPool": [],
       "tasks": [
@@ -401,9 +538,9 @@
           "questions": [
             {
               "questionNumber": 11,
-              "stem": "This passage is mainly about __________\n- A. the influence of sleep loss on weight\n- B. the effect of sleep deprivation on mood\n- C. the release of the hormone cortisol\n- D. the implications of a new research finding",
+              "stem": "This passage is mainly about __________",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -433,16 +570,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 12,
-              "stem": "Sleep-deprived people consume more calories. which will __________\n- A. make them energetic\n- B. turn into extra pounds\n- C. damage their mood\n- D. cause them to feel sleepy",
+              "stem": "Sleep-deprived people consume more calories. which will __________",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -472,16 +623,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 13,
-              "stem": "According to Michael Breus, sleep loss can __________\n- A. decrease people’s appetite\n- B. slow down energy conservation\n- C. trigger the need for more food\n- D. lead to a vicious cycle",
+              "stem": "According to Michael Breus, sleep loss can __________",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -511,16 +676,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 14,
-              "stem": "The word optimal” in paragraph 7 is closest in meaning to __________\n- A. best\n- B. positive\n- C. optional\n- D. appropriate",
+              "stem": "The word optimal” in paragraph 7 is closest in meaning to __________",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -550,16 +729,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 15,
-              "stem": "To attack sleep troubles, you can __________\n- A. exercise regularly at night\n- B. do more pre-bedtime activities\n- C. keep a journal at night\n- D. follow a set routine every night",
+              "stem": "To attack sleep troubles, you can __________",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -589,8 +782,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -603,7 +810,7 @@
       "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
       "sortOrder": 3,
       "scorePerQuestion": 1.0,
-      "passage": "(第 16-25 题，每题 1 分，共 10 分)\n\n### 短文原文\nTwitter's Most Influential Users\n①Twitter is today's most popular social networking site. What is it that drives\npeople to Twitter, drives the trending topics, and directs the discussions people\nare having on Twi tter? The most influential Twitter users! These are the people\nthat can get Twitter users tweeting and can get a large number of followers. These\nare the top categories of Twitter's most influential users.\n②Celebrities will always have a large influence on society. The inf luence they\nhave on twitter is incredible. Twitter is an easy way for fans to connect with\ntheir favorite celebrity and many celebrities are taking advantage of Twitter's\npopularity. Every celebrity tweet starts a f irestorm of retweets, replies, and\ndiscussions about what a celebrity just tweeted. A good example of this is that\nthe trending topics often revolve around a celebrity or something that a celebrity\nrecently tweeted. Celebrity tweets also become news in the world of celebrity news.\nCelebrities now use Twitter to communicate with the public instead of issuing\nstatements, and also use their accounts to dispel rumors, make announcements, and\npromote their movies, albu ms, or books. Moreover, because there are so many\ncelebrity tabloids(小报), simple tweets about their everyday lives will also become\nfront-page news.\n③News organizations do play a large role in getting news out to people through\nTwitter and influencing the discussions that take place on Twitter as we're all\naffected by the news of the day. Retweets by twitter users of important stories\nare an easy and po werful way to get the word out about a story they think is\nimportant. Twitter allows news organizations to let people know about an event\nvery quickly, and when a story is important or gains attention, it will quickly be\nretweeted by enough people to make it a trending topic or a top tweet. We. will\nalways have the need for news organizations to provide us with information on the\nworld's events. Twitter makes spreading those news stories quickly very easy.\n④ With more politicians creating Twitter accounts, Twitter has become a way for\nusers to spread the word about a politician they support and for politicians to\nget the word out to more people about upcoming events and their general message.\nFollowing and listing politicians gives users a simple way to stay connected with\nand informed about what those politicians want to communicate. Politicians will\nalways have an influence on our daily lives and they also have quite an influence\non Twitter .\n⑤Twitter's popularity blows out of proportion with millions of people joining,\nincluding celebrities and businesses. This will, in turn, prompt a good majority\nof the internet society to join and see what the whole fuss was about by joining,\ntweeting and using all the Twitter related serv1ces.\n\n### 备选词汇池",
+      "passage": "(第 16-25 题，每题 1 分，共 10 分)\n\nTwitter's Most Influential Users\n①Twitter is today's most popular social networking site. What is it that drives\npeople to Twitter, drives the trending topics, and directs the discussions people\nare having on Twitter? The most influential Twitter users! These are the people\nthat can get Twitter users tweeting and can get a large number of followers. These\nare the top categories of Twitter's most influential users.\n②Celebrities will always have a large influence on society. The influence they\nhave on twitter is incredible. Twitter is an easy way for fans to connect with\ntheir favorite celebrity and many celebrities are taking advantage of Twitter's\npopularity. Every celebrity tweet starts a firestorm of retweets, replies, and\ndiscussions about what a celebrity just tweeted. A good example of this is that\nthe trending topics often revolve around a celebrity or something that a celebrity\nrecently tweeted. Celebrity tweets also become news in the world of celebrity news.\nCelebrities now use Twitter to communicate with the public instead of issuing\nstatements, and also use their accounts to dispel rumors, make announcements, and\npromote their movies, albums, or books. Moreover, because there are so many\ncelebrity tabloids(小报), simple tweets about their everyday lives will also become\nfront-page news.\n③News organizations do play a large role in getting news out to people through\nTwitter and influencing the discussions that take place on Twitter as we're all\naffected by the news of the day. Retweets by twitter users of important stories\nare an easy and powerful way to get the word out about a story they think is\nimportant. Twitter allows news organizations to let people know about an event\nvery quickly, and when a story is important or gains attention, it will quickly be\nretweeted by enough people to make it a trending topic or a top tweet. We. will\nalways have the need for news organizations to provide us with information on the\nworld's events. Twitter makes spreading those news stories quickly very easy.\n④ With more politicians creating Twitter accounts, Twitter has become a way for\nusers to spread the word about a politician they support and for politicians to\nget the word out to more people about upcoming events and their general message.\nFollowing and listing politicians gives users a simple way to stay connected with\nand informed about what those politicians want to communicate. Politicians will\nalways have an influence on our daily lives and they also have quite an influence\non Twitter .\n⑤Twitter's popularity blows out of proportion with millions of people joining,\nincluding celebrities and businesses. This will, in turn, prompt a good majority\nof the internet society to join and see what the whole fuss was about by joining,\ntweeting and using all the Twitter related services.",
       "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
       "optionsPool": [],
       "tasks": [
@@ -615,7 +822,7 @@
               "questionNumber": 16,
               "stem": "Paragraph 1",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -653,8 +860,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -662,7 +877,7 @@
               "questionNumber": 17,
               "stem": "Paragraph 2",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -700,8 +915,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -709,7 +932,7 @@
               "questionNumber": 18,
               "stem": "Paragraph 3",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -747,8 +970,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -756,7 +987,7 @@
               "questionNumber": 19,
               "stem": "Paragraph 4",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -794,8 +1025,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -803,7 +1042,7 @@
               "questionNumber": 20,
               "stem": "Paragraph 5",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -841,8 +1080,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -856,7 +1103,7 @@
               "questionNumber": 21,
               "stem": "The most influential Twitter users can get __________",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -894,8 +1141,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -903,7 +1158,7 @@
               "questionNumber": 22,
               "stem": "Celebrities __________",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -941,8 +1196,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -950,7 +1213,7 @@
               "questionNumber": 23,
               "stem": "Twitter makes important news stories __________",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -988,8 +1251,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -997,7 +1268,7 @@
               "questionNumber": 24,
               "stem": "Politicians' Twitter accounts help them get more people to know about __________",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1035,8 +1306,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1044,7 +1323,7 @@
               "questionNumber": 25,
               "stem": "With millions of people joining, Twitter __________",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1082,8 +1361,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1096,7 +1383,7 @@
       "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
       "sortOrder": 4,
       "scorePerQuestion": 2.0,
-      "passage": "(第 26-30 题，每题 2 分，共 10 分)\n\n### 短文原文\nThe Rise of the Toilet Texter\n\nWe know where some of you are reading this.\nA recently released survey of the mobile phone habits of Americans, going where\nfew other surveys care to go, has found that 75 percent of the ordinary people has\nused their mobile devices while on the toilet. [26]\n The survey of 1,000 people by the marketing agency 1lmark found that private\ncontemplation has given way to toilet-time talking, texting, shopping, using apps,\nor just surfing the Web, by both sexes and most ages. [27]\nIt gets weirder. One-quarter of Americans say they will not go to the bathroom\nwithout their devices. While 63 percent have answered calls, 41 percent have called\nsomeone else while enthroned. Sixteen percent in the 28-to-35 group, the youngest\nsample surveyed, have made purchases there. A mere 8 percent of the oldest group\nhas felt such retail urgency. Understandably given their infrequent chances at\nprivacy, people with children are more likely to talk on the phone than are the\nchildless. [28]\nHope you are sitting down for this:20 percent of males have at one time joined\na conference call from the toilet. Thirteen percent of American women have\nparticipated in meetings from the toilet. [29] Be grateful that\nlocation-based tracking is not yet so prevalent. Be worried about the rise of video\non mobile devices. Ignore all background noises. Really.\n This is, in a sense, an evidence to our collective passion for communication\nand contact over all other needs, and a lesson in how quickly ideas of decorum(礼貌得体)adjust to the times. [30]If someone is making or taking calls\nwhile on the toilet, they are most likely using a BlackBer ry. Using an app or\nplaying on Facebook most often is done on an iPhone.In general, Android owners are\nmore likely than owners of other phones to use them on the toilet.\n\n### 备选词汇池\n\n### 题目\n**26.** [26]\n**标准答案**: F\n**精准解析**: 综合比较 5 个选项,只用 C 项和 F 项可能入选。根据常识可知，使用手机的大多为年轻人，所以这个统计数字应是面向年轻人的。由此可以判断 F 项最符合。答案为 F。\n\n**27.** [27]\n**标准答案**: C\n**精准解析**: 第三段还是在用一些研究数据表明在厕所使用手机的现象。最后指出这种现象存在于男女老幼之中。因此本空可以考虑选入 C 项,即老年中使用手机的还是占少数。答案为 C。\n\n**28.** [28]\n**标准答案**: E\n**精准解析**: 第四段最后提到有了孩子的家庭中，在打电话上花费的时间比没有孩子的要多。由此我们也可以判断出单身的人花在阅读上的时间更多些。答案为 E。\n\n**29.** [29]\n**标准答案**: B\n**精准解析**: 第五段前两句讲到 20%的男.....,13%的女人....所以本段的关键词是 male 和 female,由此可以看出B 项最符合。答案为 B。\n\n**30.** [30]\n**标准答案**: A\n**精准解析**: 最后一段中本空后面列举了人们在卫生间里利用蓝莓手机打电话,用苹果手机浏览网页,使用安卓的人还是最多的。这些信息与 A 项中的 decent read 和 habit 相关联。答案为 A。",
+      "passage": "(第 26-30 题，每题 2 分，共 10 分)\n\nThe Rise of the Toilet Texter\n\nWe know where some of you are reading this.\nA recently released survey of the mobile phone habits of Americans, going where\nfew other surveys care to go, has found that 75 percent of the ordinary people has\nused their mobile devices while on the toilet. [26]\n The survey of 1,000 people by the marketing agency 1lmark found that private\ncontemplation has given way to toilet-time talking, texting, shopping, using apps,\nor just surfing the Web, by both sexes and most ages. [27]\nIt gets weirder. One-quarter of Americans say they will not go to the bathroom\nwithout their devices. While 63 percent have answered calls, 41 percent have called\nsomeone else while enthroned. Sixteen percent in the 28-to-35 group, the youngest\nsample surveyed, have made purchases there. A mere 8 percent of the oldest group\nhas felt such retail urgency. Understandably given their infrequent chances at\nprivacy, people with children are more likely to talk on the phone than are the\nchildless. [28]\nHope you are sitting down for this:20 percent of males have at one time joined\na conference call from the toilet. Thirteen percent of American women have\nparticipated in meetings from the toilet. [29] Be grateful that\nlocation-based tracking is not yet so prevalent. Be worried about the rise of video\non mobile devices. Ignore all background noises. Really.\n This is, in a sense, an evidence to our collective passion for communication\nand contact over all other needs, and a lesson in how quickly ideas of decorum(礼貌得体)adjust to the times. [30]If someone is making or taking calls\nwhile on the toilet, they are most likely using a BlackBerry. Using an app or\nplaying on Facebook most often is done on an iPhone.In general, Android owners are\nmore likely than owners of other phones to use them on the toilet.",
       "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
       "optionsPool": [
         {
@@ -1133,7 +1420,7 @@
               "questionNumber": 26,
               "stem": "填入原文第 [26] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1171,8 +1458,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1180,7 +1481,7 @@
               "questionNumber": 27,
               "stem": "填入原文第 [27] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1218,8 +1519,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1227,7 +1542,7 @@
               "questionNumber": 28,
               "stem": "填入原文第 [28] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1260,13 +1575,29 @@
                   "originalAnswer": "E",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "explanation": "本题按指定答案 E 判分：Single people are far more likely than the mated to text. 本题不接受 D。",
+                  "revisionNotes": "2026-09-13逐题复核纠错：D 为 Married people are far more likely than the single to text；E 为 Single people are far more likely than the mated to text。前句只比较有无孩子的人打电话的概率，后句转到厕所中的会议电话；没有提供已婚与单身者发短信的比较。D/E 都是完整句且都可衔接，不能仅靠当前题面排除 D。\n2026-09-13：按用户明确指定，本题唯一标准答案为 E，取消 D/E 兼容；题目原文和选项保持现状。"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1274,7 +1605,7 @@
               "questionNumber": 29,
               "stem": "填入原文第 [29] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1312,8 +1643,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1321,7 +1666,7 @@
               "questionNumber": 30,
               "stem": "填入原文第 [30] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1359,8 +1704,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1434,7 +1793,7 @@
               "questionNumber": 31,
               "stem": "填入原文第 [31] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1447,8 +1806,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 4 页。"
                 }
               ]
             },
@@ -1456,7 +1829,7 @@
               "questionNumber": 32,
               "stem": "填入原文第 [32] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1469,8 +1842,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 4 页。"
                 }
               ]
             },
@@ -1478,7 +1865,7 @@
               "questionNumber": 33,
               "stem": "填入原文第 [33] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1491,8 +1878,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 4 页。"
                 }
               ]
             },
@@ -1500,7 +1901,7 @@
               "questionNumber": 34,
               "stem": "填入原文第 [34] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1513,8 +1914,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 4 页。"
                 }
               ]
             },
@@ -1522,7 +1937,7 @@
               "questionNumber": 35,
               "stem": "填入原文第 [35] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1535,8 +1950,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 4 页。"
                 }
               ]
             },
@@ -1544,7 +1973,7 @@
               "questionNumber": 36,
               "stem": "填入原文第 [36] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1557,8 +1986,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 4 页。"
                 }
               ]
             },
@@ -1566,7 +2009,7 @@
               "questionNumber": 37,
               "stem": "填入原文第 [37] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1579,8 +2022,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 4 页。"
                 }
               ]
             },
@@ -1588,7 +2045,7 @@
               "questionNumber": 38,
               "stem": "填入原文第 [38] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1601,8 +2058,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 4 页。"
                 }
               ]
             },
@@ -1610,7 +2081,7 @@
               "questionNumber": 39,
               "stem": "填入原文第 [39] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1623,8 +2094,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 4 页。"
                 }
               ]
             },
@@ -1632,7 +2117,7 @@
               "questionNumber": 40,
               "stem": "填入原文第 [40] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1645,8 +2130,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 9 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 4 页。"
                 }
               ]
             }
@@ -1659,7 +2158,7 @@
       "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
       "sortOrder": 6,
       "scorePerQuestion": 1.5,
-      "passage": "(第 41-50 题，每题 1.5 分，共 15 分)\n\n### 短文原文\nBody Image\nNowadays, a large number of people are (0) encouraged (courage) to be\ndissatisfied with their bodies by plastic surgeons, diet plans, and diet pills all\nof which foster that [41] (satisfaction) to make a profit. However, in\nmy opinion, to build a positive body image requires a [42] (balance)\ndiet and [43] (health) lifestyle.\nIn daily life, to eat more fruits and vegetable than meat will help us keep\nfit. The best way to keep ourselves in shape is to do some [44] (vigor)\nexercise every day.\nInstead of feeling self -conscious and [45] (shame), or believing\nyour body is a shame of personal [46] (fail) and that you are not as\nattractive as everyone else, you should have a real and clear [47]\n(perceive) of your body parts, appreciate your body for the way it is, and feel\n[48] (comfort) and confident.\nWhen we love ourselves rather than covet and pine for [49] (possible)\nstandards, we are happier, healthier and ultimately more [50] (fulfill).\n\n### 题目\n**41.** [41] (satisfaction)",
+      "passage": "(第 41-50 题，每题 1.5 分，共 15 分)\n\nBody Image\nNowadays, a large number of people are (0) encouraged (courage) to be\ndissatisfied with their bodies by plastic surgeons, diet plans, and diet pills all\nof which foster that [41] (satisfaction) to make a profit. However, in\nmy opinion, to build a positive body image requires a [42] (balance)\ndiet and [43] (health) lifestyle.\nIn daily life, to eat more fruits and vegetable than meat will help us keep\nfit. The best way to keep ourselves in shape is to do some [44] (vigor)\nexercise every day.\nInstead of feeling self -conscious and [45] (shame), or believing\nyour body is a shame of personal [46] (fail) and that you are not as\nattractive as everyone else, you should have a real and clear [47]\n(perceive) of your body parts, appreciate your body for the way it is, and feel\n[48] (comfort) and confident.\nWhen we love ourselves rather than covet and pine for [49] (possible)\nstandards, we are happier, healthier and ultimately more [50] (fulfill).",
       "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
       "optionsPool": [],
       "tasks": [
@@ -1672,7 +2171,7 @@
               "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
               "baseWord": "satisfaction",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1685,8 +2184,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1695,7 +2208,7 @@
               "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
               "baseWord": "balance",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1708,8 +2221,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1718,7 +2245,7 @@
               "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
               "baseWord": "health",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1731,8 +2258,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1741,7 +2282,7 @@
               "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
               "baseWord": "vigor",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1754,8 +2295,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1764,21 +2319,37 @@
               "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
               "baseWord": "shame",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
-                  "standardAnswer": "shameful",
+                  "standardAnswer": "ashamed",
                   "originalAnswer": "shameful",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "revisionNotes": "；2026-09-12 导入内容语义复核：feeling self-conscious and ashamed 表示感到难为情/羞愧；shameful主要表示事物或行为可耻，不能作为此处羞愧感受的标准答案。",
+                  "explanation": "feeling self-conscious and ashamed 表示感到难为情/羞愧；shameful主要表示事物或行为可耻，不能作为此处羞愧感受的标准答案。"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：feeling self-conscious and ashamed 表示感到难为情/羞愧；shameful主要表示事物或行为可耻，不能作为此处羞愧感受的标准答案。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：feeling self-conscious and ashamed 表示感到难为情/羞愧；shameful主要表示事物或行为可耻，不能作为此处羞愧感受的标准答案。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：feeling self-conscious and ashamed 表示感到难为情/羞愧；shameful主要表示事物或行为可耻，不能作为此处羞愧感受的标准答案。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1787,7 +2358,7 @@
               "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
               "baseWord": "fail",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1800,8 +2371,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1810,7 +2395,7 @@
               "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
               "baseWord": "perceive",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1823,8 +2408,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1833,7 +2432,7 @@
               "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
               "baseWord": "comfort",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1846,8 +2445,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1856,7 +2469,7 @@
               "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
               "baseWord": "possible",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1869,8 +2482,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1879,7 +2506,7 @@
               "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
               "baseWord": "fulfill",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1892,8 +2519,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1906,7 +2547,7 @@
       "title": "第七部分：短文写作（第51题，30分）",
       "sortOrder": 7,
       "scorePerQuestion": 30.0,
-      "passage": "(第 51 题，30 分)\n\n### 题目\n**51.** 因特网在为人们带来极大便利的同时，也带来了一系列问题。以“Is Internet a Blessing or a Curse?”为题写一篇 150 词左右的英语短文，谈谈你的看法。",
+      "passage": "(第 51 题，30 分)\n\n51. 因特网在为人们带来极大便利的同时，也带来了一系列问题。以“Is Internet a Blessing or a Curse?”为题写一篇 150 词左右的英语短文，谈谈你的看法。",
       "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
       "optionsPool": [],
       "tasks": [
@@ -1918,7 +2559,7 @@
               "questionNumber": 51,
               "stem": "短文写作",
               "scoreValue": 30.0,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1931,8 +2572,28 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "押题库考前试卷（3）.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 11 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "押题库考前试卷（3）参考答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }

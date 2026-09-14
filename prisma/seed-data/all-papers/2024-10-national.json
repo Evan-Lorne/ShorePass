@@ -8,23 +8,18 @@
   "paperType": "exam",
   "totalScore": 100,
   "suggestedMinutes": 150,
-  "verified": false,
-  "status": "draft",
-  "publishBlocked": true,
-  "blockReasons": [
-    {
-      "code": "ocr_unverified",
-      "description": "全量批量导入草稿，待逐题人工核对"
-    }
-  ],
-  "sourceFile": "2024年10月真题.md",
+  "verified": true,
+  "status": "verified",
+  "publishBlocked": false,
+  "blockReasons": [],
+  "sourceFile": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
   "sections": [
     {
       "type": "reading_judgment",
       "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
       "sortOrder": 1,
-      "scorePerQuestion": 1.0,
-      "passage": "The Magic of Tidying Up**\n\nIf you haven't worn your shoes lately, thank them for their hard work and consider letting them go. \"It is natural for me to say thank-you to the goods that support us,\" says Marie Kondo, the author of *The Life-Changing Magic of Tidying Up*. Her method of connecting with belongings that \"spark joy\" and saying goodbye to the rest is popular all over the world.\n\nKondo's method encourages a one-time rapid and dramatic organizing event. For her, tidying is to thank anything that doesn't \"spark joy\" and send them to a more appreciative owner. The results can be life-changing. People suddenly find themselves surrounded by things that provide clarity (简洁). Even her book, Kondo says, should be thrown away when it's no longer needed.\n\nKondo suggested starting with clothes, then books, then documents, and last and most difficult, photos and mementos (纪念品). Instead of deciding what to get rid of, she says, the focus should be on what to keep: things that spark joy or are truly necessary.\n\nAfter joyfully sending away mountains of unneeded or unloved belongings, Kondo turns to organizing what is left. The key is storing things mostly in drawers, arranged so that everything can be seen at a glance and nothing is stacked. So T-shirts and socks (the ones you've kept because they make you happy) are rolled and arranged beautifully.\n\nKondo has been fond of tidying since she was five, enjoying arranging shoes and pencils while other kids played outside. She believes the inside of a house should be a place where there are no unnecessary things, and our thoughts become clear. It is the place where we appreciate all the things that support us. It is where we review and rethink about ourselves.\n\n### 题目",
+      "scorePerQuestion": 1,
+      "passage": "The Magic of Tidying Up\n\nIf you haven't worn your shoes lately, thank them for their hard work and consider letting them go. \"It is natural for me to say thank-you to the goods that support us,\" says Marie Kondo, the author of *The Life-Changing Magic of Tidying Up*. Her method of connecting with belongings that \"spark joy\" and saying goodbye to the rest is popular all over the world.\n\nKondo's method encourages a one-time rapid and dramatic organizing event. For her, tidying is to thank anything that doesn't \"spark joy\" and send them to a more appreciative owner. The results can be life-changing. People suddenly find themselves surrounded by things that provide clarity (简洁). Even her book, Kondo says, should be thrown away when it's no longer needed.\n\nKondo suggested starting with clothes, then books, then documents, and last and most difficult, photos and mementos (纪念品). Instead of deciding what to get rid of, she says, the focus should be on what to keep: things that spark joy or are truly necessary.\n\nAfter joyfully sending away mountains of unneeded or unloved belongings, Kondo turns to organizing what is left. The key is storing things mostly in drawers, arranged so that everything can be seen at a glance and nothing is stacked. So T-shirts and socks (the ones you've kept because they make you happy) are rolled and arranged beautifully.\n\nKondo has been fond of tidying since she was five, enjoying arranging shoes and pencils while other kids played outside. She believes the inside of a house should be a place where there are no unnecessary things, and our thoughts become clear. It is the place where we appreciate all the things that support us. It is where we review and rethink about ourselves.",
       "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
       "optionsPool": [],
       "tasks": [
@@ -34,9 +29,9 @@
           "questions": [
             {
               "questionNumber": 1,
-              "stem": "Kondo wrote a book to help people make their home tidy.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Kondo wrote a book to help people make their home tidy.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -62,16 +57,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 2,
-              "stem": "*The Life-Changing Magic of Tidying Up* is a bestseller.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "*The Life-Changing Magic of Tidying Up* is a bestseller.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -97,16 +100,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 3,
-              "stem": "Kondo's method encourages slow and gradual organizing.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Kondo's method encourages slow and gradual organizing.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -132,16 +143,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 4,
-              "stem": "Most people throw Kondo's book away after reading it.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Most people throw Kondo's book away after reading it.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -167,16 +186,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 5,
-              "stem": "Kondo says clothes are the items to be thrown away first.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Kondo says clothes are the items to be thrown away first.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -202,16 +229,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 6,
-              "stem": "Deciding what to send away is more important than what to keep.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Deciding what to send away is more important than what to keep.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -237,16 +272,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 7,
-              "stem": "T-shirts should be kept one upon another in drawers.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "T-shirts should be kept one upon another in drawers.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -272,16 +315,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 8,
-              "stem": "Kondo became interested in tidying at the age of five.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Kondo became interested in tidying at the age of five.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -307,16 +358,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 9,
-              "stem": "Kondo's own house is small but clean.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Kondo's own house is small but clean.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -342,16 +401,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 10,
-              "stem": "Kondo believes a well-organized house makes people's mind clear.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Kondo believes a well-organized house makes people's mind clear.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -377,8 +444,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -390,8 +465,8 @@
       "type": "reading_comprehension",
       "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
       "sortOrder": 2,
-      "scorePerQuestion": 2.0,
-      "passage": "### 短文原文\n**The Grand in Grandmother**\n\nWhen I was growing up, my parents took teaching jobs in a remote town, leaving me in the care of my grandmother.\n\nNanay, as we called her, did not hug or kiss children. Her tongue was sharp and her words harsh. She was a tyrant (独裁者), but she was there. As early as I could remember, Nanay had always been a part of my life. I believed grandmothers lived forever.\n\nShe taught me many lessons, though I often ignored them. Nanay urged me never to accept second-best. For her, \"good enough\" was never enough, from the grades you bring home from school to the service you receive in restaurants.\n\nWhen I was 13, Nanay sent me to Manila to attend high school, and I stayed there for university. I came back each summer, but after I got married the visits became less frequent. Soon all of her grandchildren had moved out. Nanay was left on her own. In her letters to me, she wrote of how lonely she was, but I never made the effort to spend more time with her.\n\nNanay died last year. She was 83. After the funeral, I went to our old house. Grandmother had kept so many things from my childhood: the toys; the letters I wrote home in my high school and university years, either asking for more rice or thanking her for sending fruit. Photos of her grandchildren were on display in the living room.\n\nWhen I visited her grave and reflected on all her birthdays I had allowed to pass, I was filled with sorrow. I thought about all the stories she never got a chance to tell me, about her life, about the girl she once had been, about the town I left behind. It occurred to me that perhaps she did not tell me because I did not know how to ask.\n\n### 题目",
+      "scorePerQuestion": 2,
+      "passage": "The Grand in Grandmother\n\nWhen I was growing up, my parents took teaching jobs in a remote town, leaving me in the care of my grandmother.\n\nNanay, as we called her, did not hug or kiss children. Her tongue was sharp and her words harsh. She was a tyrant (独裁者), but she was there. As early as I could remember, Nanay had always been a part of my life. I believed grandmothers lived forever.\n\nShe taught me many lessons, though I often ignored them. Nanay urged me never to accept second-best. For her, \"good enough\" was never enough, from the grades you bring home from school to the service you receive in restaurants.\n\nWhen I was 13, Nanay sent me to Manila to attend high school, and I stayed there for university. I came back each summer, but after I got married the visits became less frequent. Soon all of her grandchildren had moved out. Nanay was left on her own. In her letters to me, she wrote of how lonely she was, but I never made the effort to spend more time with her.\n\nNanay died last year. She was 83. After the funeral, I went to our old house. Grandmother had kept so many things from my childhood: the toys; the letters I wrote home in my high school and university years, either asking for more rice or thanking her for sending fruit. Photos of her grandchildren were on display in the living room.\n\nWhen I visited her grave and reflected on all her birthdays I had allowed to pass, I was filled with sorrow. I thought about all the stories she never got a chance to tell me, about her life, about the girl she once had been, about the town I left behind. It occurred to me that perhaps she did not tell me because I did not know how to ask.",
       "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
       "optionsPool": [],
       "tasks": [
@@ -401,9 +476,9 @@
           "questions": [
             {
               "questionNumber": 11,
-              "stem": "The author was left in the care of Nanay because ________.\n- A. his parents worked far away\n- B. Nanay loved children\n- C. he wanted to stay with Nanay\n- D. Nanay was a good teacher",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "The author was left in the care of Nanay because ________.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -433,16 +508,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 12,
-              "stem": "In his childhood, the author thought that Nanay was ________.\n- A. friendly\n- B. unkind\n- C. lonely\n- D. patient",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "In his childhood, the author thought that Nanay was ________.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -472,16 +555,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 13,
-              "stem": "According to the author, Nanay ________.\n- A. ignored teaching the children\n- B. received little education\n- C. urged him to work for the best\n- D. preferred to live on her own",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "According to the author, Nanay ________.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -511,16 +602,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 14,
-              "stem": "The author felt sad because he missed ________.\n- A. the stories about Nanay\n- B. Nanay's funeral\n- C. the photo display of Nanay\n- D. Nanay's lessons",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "The author felt sad because he missed ________.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -550,16 +649,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 15,
-              "stem": "The tone of the text can be described as ________.\n- A. humorous\n- B. joyful\n- C. critical\n- D. regretful",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "The tone of the text can be described as ________.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -589,8 +696,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -602,8 +717,8 @@
       "type": "summary_completion",
       "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
       "sortOrder": 3,
-      "scorePerQuestion": 1.0,
-      "passage": "阅读下面短文，请完成短文后的2项测试任务：（1）从第16～19题后所给的5个选项中为第❶～❹段每段选择1个正确的小标题；（2）从第20～25题后所给的7个选项中选择6个正确选项，分别完成每个句子。在答题纸相应位置上将答案选项涂黑。\n\n### 短文原文\n**Exercise and Dieting**\n\nIf you are overweight, it could lead to health conditions including increased blood pressure or heart disease. If you're worried about how heavy you are, ask the doctor for advice. If you only have to lose some weight, the best thing to do is stop eating when you are full, eat healthily and get more energetic.\n\n❶ Becoming more active is the best way of burning off those additional calories (卡路里). You don't need go to the gym to do this. Just increase the amount of walking you do each day or just go for a bike ride. You put on weight if you eat more than you need; this is because you accumulate any energy not used into fat.\n\n❷ Every day you should drink about 8 glasses of water. You will need more if the weather is hot or while you are doing physical activity. Try to cut down on those drinks high in sugar.\n\n❸ You don't need to give up drinking alcohol, but too much drinking can cause harm. Drinking less can help lose pounds. The guideline for women is 3 units per day, and for men, 4 units per day. A good goal for better health is to stretch your drinking over a week and not save it for the weekends. Overdrinking for a long time can also harm the liver.\n\n❹ Never skip breakfast, as it provides you with energy to keep you going through the day. Many people miss breakfast thinking it helps them lose extra pounds. But it doesn't at all, and even worse, they can lose out on minerals and vitamins. It is clear that eating breakfast can help control your weight.\n\nTo sum up, if you are thinking about going on a diet, make sure you consider the above guidelines.",
+      "scorePerQuestion": 1,
+      "passage": "阅读下面短文，请完成短文后的2项测试任务：（1）从第16～19题后所给的5个选项中为第❶～❹段每段选择1个正确的小标题；（2）从第20～25题后所给的7个选项中选择6个正确选项，分别完成每个句子。在答题纸相应位置上将答案选项涂黑。\n\nExercise and Dieting\n\nIf you are overweight, it could lead to health conditions including increased blood pressure or heart disease. If you're worried about how heavy you are, ask the doctor for advice. If you only have to lose some weight, the best thing to do is stop eating when you are full, eat healthily and get more energetic.\n\n❶ Becoming more active is the best way of burning off those additional calories (卡路里). You don't need go to the gym to do this. Just increase the amount of walking you do each day or just go for a bike ride. You put on weight if you eat more than you need; this is because you accumulate any energy not used into fat.\n\n❷ Every day you should drink about 8 glasses of water. You will need more if the weather is hot or while you are doing physical activity. Try to cut down on those drinks high in sugar.\n\n❸ You don't need to give up drinking alcohol, but too much drinking can cause harm. Drinking less can help lose pounds. The guideline for women is 3 units per day, and for men, 4 units per day. A good goal for better health is to stretch your drinking over a week and not save it for the weekends. Overdrinking for a long time can also harm the liver.\n\n❹ Never skip breakfast, as it provides you with energy to keep you going through the day. Many people miss breakfast thinking it helps them lose extra pounds. But it doesn't at all, and even worse, they can lose out on minerals and vitamins. It is clear that eating breakfast can help control your weight.\n\nTo sum up, if you are thinking about going on a diet, make sure you consider the above guidelines.",
       "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
       "optionsPool": [],
       "tasks": [
@@ -614,8 +729,8 @@
             {
               "questionNumber": 16,
               "stem": "Paragraph ❶:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -649,16 +764,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 17,
               "stem": "Paragraph ❷:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -692,16 +815,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 18,
               "stem": "Paragraph ❸:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -735,16 +866,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 19,
               "stem": "Paragraph ❹:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -778,8 +917,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -792,8 +939,8 @@
             {
               "questionNumber": 20,
               "stem": "Before losing weight, you'd better ________.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -835,16 +982,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 21,
               "stem": "The unused energy will be accumulated ________.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -886,16 +1041,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 22,
               "stem": "You should reduce drinks rich ________.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -937,16 +1100,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 23,
               "stem": "Women are advised to drink ________.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -988,16 +1159,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 24,
               "stem": "Longtime overdrinking may ________.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1039,16 +1218,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 25,
               "stem": "Missing breakfast may cause ________.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1090,8 +1277,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1103,8 +1298,8 @@
       "type": "sentence_fill",
       "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
       "sortOrder": 4,
-      "scorePerQuestion": 2.0,
-      "passage": "### 短文原文\n**Enjoy Yourself and Improve Your English**\n\nOne student I knew in Tanzania was the daughter of a school teacher. On the first day of the long school holidays, a whole set of graded English books arrived at her house. __[26] The daughter read them all, starting from the easiest and working up to the most difficult. The holidays passed quickly and when the new school term started, she was far ahead of her classmates in English.\n\n__[27] I think there are three. First, learning a new language takes time and practice. It is the same with any skill, like swimming. There are no quicker ways.\n\nSecond, successful learning means moving from the easy to the difficult. __[28] You have to play very simple tunes before you move on, step by step, to more complex ones.\n\n__[29] The student was not trying to improve her English, though her English did improve. She liked the stories and was using them to pass the time. She became better at English without knowing it. Her brain was learning the language while she was concentrating on the stories.\n\nHowever, many students give two main reasons for not reading much. __[30] I am afraid this reason is very weak and simply not true. The other reason is that they do not enjoy it. This reason is stronger. In fact it can be divided into two. You may not enjoy reading because either the language is difficult, or the stories are boring.\n\n### 备选句子\n\n### 题目\n**26.** \n**标准答案**: D\n\n**27.** \n**标准答案**: C\n\n**28.** \n**标准答案**: F\n\n**29.** \n**标准答案**: E\n\n**30.** \n**标准答案**: A",
+      "scorePerQuestion": 2,
+      "passage": "Enjoy Yourself and Improve Your English\n\nOne student I knew in Tanzania was the daughter of a school teacher. On the first day of the long school holidays, a whole set of graded English books arrived at her house. [26] The daughter read them all, starting from the easiest and working up to the most difficult. The holidays passed quickly and when the new school term started, she was far ahead of her classmates in English.\n\n[27] I think there are three. First, learning a new language takes time and practice. It is the same with any skill, like swimming. There are no quicker ways.\n\nSecond, successful learning means moving from the easy to the difficult. [28] You have to play very simple tunes before you move on, step by step, to more complex ones.\n\n[29] The student was not trying to improve her English, though her English did improve. She liked the stories and was using them to pass the time. She became better at English without knowing it. Her brain was learning the language while she was concentrating on the stories.\n\nHowever, many students give two main reasons for not reading much. [30] I am afraid this reason is very weak and simply not true. The other reason is that they do not enjoy it. This reason is stronger. In fact it can be divided into two. You may not enjoy reading because either the language is difficult, or the stories are boring.",
       "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
       "optionsPool": [
         {
@@ -1140,8 +1335,8 @@
             {
               "questionNumber": 26,
               "stem": "填入原文第 [26] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1179,16 +1374,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 27,
               "stem": "填入原文第 [27] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1226,16 +1429,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 28,
               "stem": "填入原文第 [28] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1273,16 +1484,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 29,
               "stem": "填入原文第 [29] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1320,16 +1539,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 30,
               "stem": "填入原文第 [30] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1367,8 +1594,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1381,7 +1616,7 @@
       "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
       "sortOrder": 5,
       "scorePerQuestion": 1.5,
-      "passage": "**My Little Niece**\n\nMy little niece, a ten-month-old baby, is the most lovely child I have ever seen. Her face is like a red apple and her eyes are like [31] stars. When you carry her in your arms, she likes to put her arms around your neck. All the [32] in the family love her very much and often try to make her smile. But quite [33] it is she who makes us [34]. Once I winked (眨眼) at her and she smiled. When I did it again, she watched me [35]. Then she tried to imitate. While I closed one eye to wink, she had to close [36] eyes at the same time, and then [37] opened them again. And that was her way to wink. We all [38] into laughter. When we looked at her again, she was staring at us, puzzled, as if she were [39], \"What are you laughing at?\" We all love this [40] little baby.",
+      "passage": "My Little Niece\n\nMy little niece, a ten-month-old baby, is the most lovely child I have ever seen. Her face is like a red apple and her eyes are like [31] stars. When you carry her in your arms, she likes to put her arms around your neck. All the [32] in the family love her very much and often try to make her smile. But quite [33] it is she who makes us [34]. Once I winked (眨眼) at her and she smiled. When I did it again, she watched me [35]. Then she tried to imitate. While I closed one eye to wink, she had to close [36] eyes at the same time, and then [37] opened them again. And that was her way to wink. We all [38] into laughter. When we looked at her again, she was staring at us, puzzled, as if she were [39], \"What are you laughing at?\" We all love this [40] little baby.",
       "instructions": "从备选词汇池中选择最佳单词填入空白处。",
       "optionsPool": [
         {
@@ -1442,7 +1677,7 @@
               "questionNumber": 31,
               "stem": "填入原文第 [31] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1455,8 +1690,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1464,7 +1707,7 @@
               "questionNumber": 32,
               "stem": "填入原文第 [32] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1477,8 +1720,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1486,7 +1737,7 @@
               "questionNumber": 33,
               "stem": "填入原文第 [33] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1499,8 +1750,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1508,7 +1767,7 @@
               "questionNumber": 34,
               "stem": "填入原文第 [34] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1521,8 +1780,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1530,7 +1797,7 @@
               "questionNumber": 35,
               "stem": "填入原文第 [35] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1543,8 +1810,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1552,7 +1827,7 @@
               "questionNumber": 36,
               "stem": "填入原文第 [36] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1565,8 +1840,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1574,7 +1857,7 @@
               "questionNumber": 37,
               "stem": "填入原文第 [37] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1587,8 +1870,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1596,7 +1887,7 @@
               "questionNumber": 38,
               "stem": "填入原文第 [38] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1609,8 +1900,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1618,7 +1917,7 @@
               "questionNumber": 39,
               "stem": "填入原文第 [39] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1631,8 +1930,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1640,7 +1947,7 @@
               "questionNumber": 40,
               "stem": "填入原文第 [40] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1653,8 +1960,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1667,7 +1982,7 @@
       "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
       "sortOrder": 6,
       "scorePerQuestion": 1.5,
-      "passage": "### 短文原文\n**Observing the Nature**\n\nNature is *amazingly* (amazing) complex. Every day many different things happen in nature. Look around and observe. What do you see happening?\n__[41] (Live) things grow and die as __[42] (season) change. In nature, even the quietest place is not empty, because insects fill the air. Nature is so __[43] (vary) that there are millions of kinds of plants and animals to study. Time and patience are __[44] (need) to learn from nature. And that's __[45] (particular) true of the study of animals.\nYou can't just press a button on a bird and have it tell you how fast it can fly. And monkeys don't wear signs __[46] (tell) you how they take care of their young. To learn these things, you have to observe.\n__[47] (Scientist) observe animals in different ways. And each of them __[48] (give) the world something through their observations. Some help us make sense of the __[49] (nature) world. Others help us see the __[50] (important) of protecting it.\n\n### 题目\n**41.** (Live)",
+      "passage": "Observing the Nature\n\nNature is *amazingly* (amazing) complex. Every day many different things happen in nature. Look around and observe. What do you see happening?\n[41] (Live) things grow and die as [42] (season) change. In nature, even the quietest place is not empty, because insects fill the air. Nature is so [43] (vary) that there are millions of kinds of plants and animals to study. Time and patience are [44] (need) to learn from nature. And that's [45] (particular) true of the study of animals.\nYou can't just press a button on a bird and have it tell you how fast it can fly. And monkeys don't wear signs [46] (tell) you how they take care of their young. To learn these things, you have to observe.\n[47] (Scientist) observe animals in different ways. And each of them [48] (give) the world something through their observations. Some help us make sense of the [49] (nature) world. Others help us see the [50] (important) of protecting it.",
       "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
       "optionsPool": [],
       "tasks": [
@@ -1678,9 +1993,9 @@
             {
               "questionNumber": 41,
               "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
-              "baseWord": "live",
+              "baseWord": "Live",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1693,8 +2008,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1703,7 +2026,7 @@
               "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
               "baseWord": "season",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1716,8 +2039,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1726,7 +2057,7 @@
               "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
               "baseWord": "vary",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1739,8 +2070,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1749,7 +2088,7 @@
               "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
               "baseWord": "need",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1762,8 +2101,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1772,7 +2119,7 @@
               "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
               "baseWord": "particular",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1785,8 +2132,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1795,7 +2150,7 @@
               "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
               "baseWord": "tell",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1808,17 +2163,25 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 47,
               "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
-              "baseWord": "scientist",
+              "baseWord": "Scientist",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1831,8 +2194,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1841,7 +2212,7 @@
               "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
               "baseWord": "give",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1854,8 +2225,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1864,7 +2243,7 @@
               "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
               "baseWord": "nature",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1877,8 +2256,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1887,7 +2274,7 @@
               "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
               "baseWord": "important",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1900,8 +2287,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1913,8 +2308,8 @@
       "type": "essay",
       "title": "第七部分：短文写作（第51题，30分）",
       "sortOrder": 7,
-      "scorePerQuestion": 30.0,
-      "passage": "请根据所提供材料中的要求完成一篇100词左右的英文写作任务。将你的答案写在答题纸相应的位置上。\n\n### 题目\n**51.**\n某英文报社正在举行征文活动，请你以“Uses of the Internet”为题写一篇英文短文应征，内容包括：\n- 你常用网络做哪些事\n- 网络对你的生活有何影响",
+      "scorePerQuestion": 30,
+      "passage": "请根据所提供材料中的要求完成一篇100词左右的英文写作任务。将你的答案写在答题纸相应的位置上。\n\n51.\n某英文报社正在举行征文活动，请你以“Uses of the Internet”为题写一篇英文短文应征，内容包括：\n- 你常用网络做哪些事\n- 网络对你的生活有何影响",
       "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
       "optionsPool": [],
       "tasks": [
@@ -1925,13 +2320,14 @@
             {
               "questionNumber": 51,
               "stem": "短文写作",
-              "scoreValue": 30.0,
-              "verified": false,
+              "scoreValue": 30,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
                   "standardAnswer": "略",
-                  "explanation": "**标准答案**:\n(范文略)",
+                  "explanation": "**参考答案**：范文（略）。\n\n**评分原则**：本题总分30分，按5个档次评分。阅卷人先根据内容要点、篇章结构和语言运用初步确定档次，再按该档次要求增减分数；避免只给中间档分数。拼写和标点错误按对交际的影响程度考虑，英式、美式拼写和用法均可。书写较差影响交际，或字数明显少于要求，降低一个档次。\n\n- 第一档（25～30分）：圆满完成任务；清楚表达全部内容要点；语法结构和词汇满足任务要求；语言较准确、恰当。\n- 第二档（19～24分）：完成任务；清楚表达全部或关键内容要点；语法结构和词汇基本满足任务要求；语言基本正确，小错不影响理解。\n- 第三档（13～18分）：基本完成任务；提及关键内容要点，可能漏掉个别内容；语法结构和词汇满足最低要求；有一些语言错误，但基本不影响理解。\n- 第四档（7～12分）：完成部分任务；遗漏或未能清楚表达内容要点；语法结构和词汇单调；语言错误较多，部分错误影响理解。\n- 第五档（1～6分）：未完成任务；明显遗漏内容要点；语法结构和词汇极单调；语言错误很多，严重影响理解。\n- 0分：所传达的信息或所用语言太少，无法评价；或内容与题目要求完全无关。",
+                  "revisionNotes": "2026-09-12 根据答案及评分参考第9～10页补齐原卷评分原则；原资料注明范文略。",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
                   "disputed": false
@@ -1939,8 +2335,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：参考答案总表及作文说明第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：作文评分标准第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }

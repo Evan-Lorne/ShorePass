@@ -8,23 +8,18 @@
   "paperType": "exam",
   "totalScore": 100,
   "suggestedMinutes": 150,
-  "verified": false,
-  "status": "draft",
-  "publishBlocked": true,
-  "blockReasons": [
-    {
-      "code": "ocr_unverified",
-      "description": "全量批量导入草稿，待逐题人工核对"
-    }
-  ],
-  "sourceFile": "2022年04月真题.md",
+  "verified": true,
+  "status": "verified",
+  "publishBlocked": false,
+  "blockReasons": [],
+  "sourceFile": "2022年4月.pdf",
   "sections": [
     {
       "type": "reading_judgment",
       "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
       "sortOrder": 1,
       "scorePerQuestion": 1.0,
-      "passage": "Famous Brands\n\nWhy do we always buy certain shoes or clothes that have a famous brand? Why do we have to copy other people? The people we often admire the most are those who have their own styles. They don't want to copy someone else's.\n\nBig companies give free products to famous people, such as sportsmen and movie stars. They intend to get people like you to buy their products. When you spend a lot of money on an expensive pair of shoes, they may not suit you. You might enjoy more if you buy something else at the same price! Besides the brand, you may want to know why they are asking that price. The brand may sometimes have nothing to do with the quality of the product.\n\nIt can be of bad quality and badly made. This makes you think why it has the designer's name on it. It's very important for designers to use their creative talent to make something beautiful. But today the making of money has become more important. So they just copy other products and their standards fall.\n\nCreative products should be available to people at a reasonable price. In this way, big companies wouldn't be able to dominate (控制) the market and encourage people to spend too much money on their products.\n\nThey are dominating the market by telling us what to buy. If you go into a toy shop or children's clothes shop, you'll find the whole section for girls is almost all pink. Because of the domination of big companies, the original arts and crafts are beginning to die out. It would be a real shame if these arts and crafts were to disappear.\n\n### 题目",
+      "passage": "Famous Brands\n\nWhy do we always buy certain shoes or clothes that have a famous brand? Why do we have to copy other people? The people we often admire the most are those who have their own styles. They don't want to copy someone else's.\n\nBig companies give free products to famous people, such as sportsmen and movie stars. They intend to get people like you to buy their products. When you spend a lot of money on an expensive pair of shoes, they may not suit you. You might enjoy more if you buy something else at the same price! Besides the brand, you may want to know why they are asking that price. The brand may sometimes have nothing to do with the quality of the product.\n\nIt can be of bad quality and badly made. This makes you think why it has the designer's name on it. It's very important for designers to use their creative talent to make something beautiful. But today the making of money has become more important. So they just copy other products and their standards fall.\n\nCreative products should be available to people at a reasonable price. In this way, big companies wouldn't be able to dominate (控制) the market and encourage people to spend too much money on their products.\n\nThey are dominating the market by telling us what to buy. If you go into a toy shop or children's clothes shop, you'll find the whole section for girls is almost all pink. Because of the domination of big companies, the original arts and crafts are beginning to die out. It would be a real shame if these arts and crafts were to disappear.",
       "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
       "optionsPool": [],
       "tasks": [
@@ -34,9 +29,9 @@
           "questions": [
             {
               "questionNumber": 1,
-              "stem": "We like the people with their own styles.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "We like the people with their own styles.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -64,14 +59,26 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第1—3页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 2,
-              "stem": "Big companies give famous people free products to attract buyers.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Big companies give famous people free products to attract buyers.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -99,14 +106,26 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第1—3页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 3,
-              "stem": "Expensive products often suit people better.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Expensive products often suit people better.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -134,14 +153,26 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第1—3页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 4,
-              "stem": "Famous brand products are of better quality.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Famous brand products are of better quality.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -169,14 +200,26 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第1—3页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 5,
-              "stem": "Creativity is important in making good products.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Creativity is important in making good products.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -204,14 +247,26 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第1—3页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 6,
-              "stem": "Famous designers work overtime.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Famous designers work overtime.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -239,14 +294,26 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第1—3页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 7,
-              "stem": "Young people like creative products.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Young people like creative products.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -274,14 +341,26 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第1—3页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 8,
-              "stem": "Big companies price their products reasonably.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Big companies price their products reasonably.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -309,14 +388,26 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第1—3页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 9,
-              "stem": "Mothers prefer to shop for children's clothes.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Mothers prefer to shop for children's clothes.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -344,14 +435,26 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第1—3页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 10,
-              "stem": "The domination of big companies does harm to creativity.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "The domination of big companies does harm to creativity.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -379,6 +482,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第1—3页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             }
@@ -391,7 +506,7 @@
       "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
       "sortOrder": 2,
       "scorePerQuestion": 2.0,
-      "passage": "### 短文原文\nSelf-esteem (自尊) and Body Image\n\nSelf-esteem is all about what people think of themselves. It is important because feeling good about yourself can affect how you act. People who have high self-esteem will make friends easily. They are more in control of their behavior, and will enjoy life more.\n\nSome teenagers struggle with their self-esteem when they grow into adults because the body goes through many changes. Along with the changes comes a natural desire to feel accepted. What's more, they can't help but compare themselves with others. They may compare themselves with the people around them or with actors and other famous people they see on TV, in movies, or in magazines.\n\nThe physical changes can affect how both girls and boys feel about themselves. Some girls may feel uncomfortable about their growing bodies. Others may wish that they were developing faster. Girls may feel like being thin but boys may feel like they don't look big enough.\n\nIt's not just body development that affects self-esteem. Many other factors can affect a person's body image too. Family life, for example, can sometimes influence self-esteem. Some parents spend more time criticizing their kids and the way they look than praising them. This can reduce kids' ability to develop good self-esteem. Also their classmates and peers may tease them about the way they look. These sometimes can affect their self-esteem.\n\nIf there are things about yourself that you want to change and you can change, do this by making goals for yourself. If there are things that you can't change, recognize that your body is your own. It's no one's business but your own what your body is like. Actually, to be happy with yourself, all you need to do is to change the way you see your body.\n\n### 题目",
+      "passage": "Self-esteem (自尊) and Body Image\n\nSelf-esteem is all about what people think of themselves. It is important because feeling good about yourself can affect how you act. People who have high self-esteem will make friends easily. They are more in control of their behavior, and will enjoy life more.\n\nSome teenagers struggle with their self-esteem when they grow into adults because the body goes through many changes. Along with the changes comes a natural desire to feel accepted. What's more, they can't help but compare themselves with others. They may compare themselves with the people around them or with actors and other famous people they see on TV, in movies, or in magazines.\n\nThe physical changes can affect how both girls and boys feel about themselves. Some girls may feel uncomfortable about their growing bodies. Others may wish that they were developing faster. Girls may feel like being thin but boys may feel like they don't look big enough.\n\nIt's not just body development that affects self-esteem. Many other factors can affect a person's body image too. Family life, for example, can sometimes influence self-esteem. Some parents spend more time criticizing their kids and the way they look than praising them. This can reduce kids' ability to develop good self-esteem. Also their classmates and peers may tease them about the way they look. These sometimes can affect their self-esteem.\n\nIf there are things about yourself that you want to change and you can change, do this by making goals for yourself. If there are things that you can't change, recognize that your body is your own. It's no one's business but your own what your body is like. Actually, to be happy with yourself, all you need to do is to change the way you see your body.",
       "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
       "optionsPool": [],
       "tasks": [
@@ -401,9 +516,9 @@
           "questions": [
             {
               "questionNumber": 11,
-              "stem": "People with high self-esteem often ______.\n- A. control others' behavior\n- B. think highly of others\n- C. have lots of friends\n- D. work very hard",
+              "stem": "People with high self-esteem often ______.",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -435,14 +550,26 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第3—5页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 12,
-              "stem": "Some teenagers struggle with their self-esteem because ______.\n- A. their teachers don't like them\n- B. their bodies have changed a lot\n- C. they cannot accept famous people\n- D. they need more time to watch TV",
+              "stem": "Some teenagers struggle with their self-esteem because ______.",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -474,14 +601,26 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第3—5页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 13,
-              "stem": "The word \"tease\" (Line 5, Para. 4) most probably means ______.\n- A. laugh at\n- B. talk about\n- C. argue with\n- D. look at",
+              "stem": "The word \"tease\" (Line 5, Para. 4) most probably means ______.",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -513,14 +652,26 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第3—5页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 14,
-              "stem": "To help kids develop good self-esteem, parents should ______.\n- A. compare them with others\n- B. make goals for them\n- C. criticize their peers\n- D. praise them",
+              "stem": "To help kids develop good self-esteem, parents should ______.",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -552,14 +703,26 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第3—5页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 15,
-              "stem": "To be happy with yourself you should ______.\n- A. do business\n- B. love your body\n- C. find new friends\n- D. change your behavior",
+              "stem": "To be happy with yourself you should ______.",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -591,6 +754,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第3—5页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             }
@@ -603,7 +778,7 @@
       "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
       "sortOrder": 3,
       "scorePerQuestion": 1.0,
-      "passage": "阅读下面短文，请完成短文后的2项测试任务：(1)从第16~20题后所给的6个选项中为第1~5段每段选择1个正确的小标题；(2)从第21~25题后所给的6个选项中选择5个正确选项，分别完成每个句子。\n\n### 短文原文\nHelping Children Cope with Stress\n\n① To adults, childhood can seem to be happy and free from worries. But children still experience stress. Things like school and their social life can sometimes create pressures that are too difficult for them to deal with. While they may not talk about their troubles, they do want their parents to reach out and help them.\n② Children deal with stress in both healthy and unhealthy ways. As a parent, you can't protect your children from stress, but you can help them develop healthy ways to cope with stress and solve everyday problems. By doing so, you not only help your children handle their current stresses, but also prepare them to deal with future stresses. Here are a few tips for you.\n③ When you notice that something is upsetting your child, you need to tell your child about it. If you can, name the feeling you think your child is experiencing. This shouldn't sound like blame. It's just a casual observation, and you're interested in hearing more about your child's concern. Be sympathetic and show that you care and want to understand.\n④ Also ask your child to tell you what's wrong. Listen attentively and calmly-with interest, patience, openness, and caring. Don't hurry to make judgements. Do not blame or criticize your child for what he or she has done. The idea is to listen to your child's concerns and feelings. Try to get the whole story by patiently asking questions. Take your time. And let your child take his or her time, too.\n⑤ Remember to be patient. As a parent, it hurts to see your child unhappy or stressed. But you should not try to solve every problem for your child. Instead, try to help your child grow into a good problem-solver-a child who knows how to deal with life's ups and downs, express feelings in words, calm down when needed, and never give in to difficulties.",
+      "passage": "阅读下面短文，请完成短文后的2项测试任务：(1)从第16~20题后所给的6个选项中为第1~5段每段选择1个正确的小标题；(2)从第21~25题后所给的6个选项中选择5个正确选项，分别完成每个句子。\n\nHelping Children Cope with Stress\n\n① To adults, childhood can seem to be happy and free from worries. But children still experience stress. Things like school and their social life can sometimes create pressures that are too difficult for them to deal with. While they may not talk about their troubles, they do want their parents to reach out and help them.\n② Children deal with stress in both healthy and unhealthy ways. As a parent, you can't protect your children from stress, but you can help them develop healthy ways to cope with stress and solve everyday problems. By doing so, you not only help your children handle their current stresses, but also prepare them to deal with future stresses. Here are a few tips for you.\n③ When you notice that something is upsetting your child, you need to tell your child about it. If you can, name the feeling you think your child is experiencing. This shouldn't sound like blame. It's just a casual observation, and you're interested in hearing more about your child's concern. Be sympathetic and show that you care and want to understand.\n④ Also ask your child to tell you what's wrong. Listen attentively and calmly-with interest, patience, openness, and caring. Don't hurry to make judgements. Do not blame or criticize your child for what he or she has done. The idea is to listen to your child's concerns and feelings. Try to get the whole story by patiently asking questions. Take your time. And let your child take his or her time, too.\n⑤ Remember to be patient. As a parent, it hurts to see your child unhappy or stressed. But you should not try to solve every problem for your child. Instead, try to help your child grow into a good problem-solver-a child who knows how to deal with life's ups and downs, express feelings in words, calm down when needed, and never give in to difficulties.",
       "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
       "optionsPool": [],
       "tasks": [
@@ -615,7 +790,7 @@
               "questionNumber": 16,
               "stem": "Paragraph ①: ______",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -655,6 +830,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第5—6页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -662,7 +849,7 @@
               "questionNumber": 17,
               "stem": "Paragraph ②: ______",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -702,6 +889,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第5—6页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -709,7 +908,7 @@
               "questionNumber": 18,
               "stem": "Paragraph ③: ______",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -749,6 +948,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第5—6页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -756,7 +967,7 @@
               "questionNumber": 19,
               "stem": "Paragraph ④: ______",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -796,6 +1007,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第5—6页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -803,7 +1026,7 @@
               "questionNumber": 20,
               "stem": "Paragraph ⑤: ______",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -843,6 +1066,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第5—6页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             }
@@ -856,7 +1091,7 @@
               "questionNumber": 21,
               "stem": "Children can meet pressures ______.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -896,6 +1131,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第5—6页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -903,7 +1150,7 @@
               "questionNumber": 22,
               "stem": "Parents can help their children cope with stress ______.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -943,6 +1190,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第5—6页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -950,7 +1209,7 @@
               "questionNumber": 23,
               "stem": "Talk to your child when he/she is ______.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -990,6 +1249,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第5—6页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -997,7 +1268,7 @@
               "questionNumber": 24,
               "stem": "Don't blame your child for ______.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1037,6 +1308,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第5—6页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1044,7 +1327,7 @@
               "questionNumber": 25,
               "stem": "Parents should teach their children ______.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1084,6 +1367,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第5—6页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             }
@@ -1096,7 +1391,7 @@
       "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
       "sortOrder": 4,
       "scorePerQuestion": 2.0,
-      "passage": "### 短文原文\nThe Coyote (林狼)\n\nThe coyote is a relative of the dog and the wolf. Like its relatives, it mostly feeds on other animals. It will, however, eat a wide variety of foods, including insects, fruits and vegetables.\n\nCoyotes are found throughout most of North America, from Mexico and Central America to Canada and Alaska. The color of its coat depends on where it lives. 26 \n\nLike the wolf, coyotes live in groups, or packs. The coyote pack is usually smaller than a wolf pack. 27 The pack will often divide into pairs to hunt. Female coyotes give birth to baby coyotes once a year. Over half of the babies will die before they reach adulthood. Male babies usually leave the pack to find their own territory. 28 \n\nWolves and coyotes compete for the same animals for food. Since the coyote is smaller than the wolf, wolves will usually drive the coyote out of any shared living area.\n\nThe coyote adapts easily to new areas. Unlike the wolf, the coyote's living area increased when more and more people settled across North America. 29 Once the New England settlers eliminated wolves, the coyote moved in. Scientists who have studied the coyote believe it is better than the wolf at living in human areas.\n\n30 They find enough supply of food in these areas, since coyotes are willing to eat garbage, rodents (such as rabbits and mice) and even small pets. Scientists estimate that as many as 2,000 coyotes may be living in the Chicago area.\n\n### 题目\n\n**26.**\n**标准答案**: E\n\n**27.**\n**标准答案**: D\n\n**28.**\n**标准答案**: A\n\n**29.**\n**标准答案**: F\n\n**30.**\n**标准答案**: C",
+      "passage": "The Coyote (林狼)\n\nThe coyote is a relative of the dog and the wolf. Like its relatives, it mostly feeds on other animals. It will, however, eat a wide variety of foods, including insects, fruits and vegetables.\n\nCoyotes are found throughout most of North America, from Mexico and Central America to Canada and Alaska. The color of its coat depends on where it lives. [26] \n\nLike the wolf, coyotes live in groups, or packs. The coyote pack is usually smaller than a wolf pack. [27] The pack will often divide into pairs to hunt. Female coyotes give birth to baby coyotes once a year. Over half of the babies will die before they reach adulthood. Male babies usually leave the pack to find their own territory. [28] \n\nWolves and coyotes compete for the same animals for food. Since the coyote is smaller than the wolf, wolves will usually drive the coyote out of any shared living area.\n\nThe coyote adapts easily to new areas. Unlike the wolf, the coyote's living area increased when more and more people settled across North America. [29] Once the New England settlers eliminated wolves, the coyote moved in. Scientists who have studied the coyote believe it is better than the wolf at living in human areas.\n\n[30] They find enough supply of food in these areas, since coyotes are willing to eat garbage, rodents (such as rabbits and mice) and even small pets. Scientists estimate that as many as 2,000 coyotes may be living in the Chicago area.",
       "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
       "optionsPool": [
         {
@@ -1133,7 +1428,7 @@
               "questionNumber": 26,
               "stem": "填入原文第 [26] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1173,6 +1468,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第7—8页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1180,7 +1487,7 @@
               "questionNumber": 27,
               "stem": "填入原文第 [27] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1220,6 +1527,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第7—8页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1227,7 +1546,7 @@
               "questionNumber": 28,
               "stem": "填入原文第 [28] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1267,6 +1586,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第7—8页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1274,7 +1605,7 @@
               "questionNumber": 29,
               "stem": "填入原文第 [29] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1314,6 +1645,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第7—8页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1321,7 +1664,7 @@
               "questionNumber": 30,
               "stem": "填入原文第 [30] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1361,6 +1704,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第7—8页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             }
@@ -1373,7 +1728,7 @@
       "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
       "sortOrder": 5,
       "scorePerQuestion": 1.5,
-      "passage": "Slavery in the United States\n\nIn most parts of the United States in the early 1800s, blacks had no rights at all. They did not have the right to vote. It was against the 31 for them to go to school with whites. In some states, it was even 32 for them to learn to read and write. Free people had the right to come and go as they 33 , but slaves had to have a pass, or paper; from their 34 in order to leave the master's land. Slaves were often 35 from their families when they were sold. They had to work very 36 hours, but were not paid. If they did not do as they were told, they could be beaten. If they tried to escape, they were hunted down with dogs, and could be tortured or even 37 when caught.\n\nUntil about 1800, there were slaves in 38 every state in the United States. But slaves were not a big part of the Northern way of 39 . Northern factories hired workers and did not use slaves. By 1850, all Northern states had made slavery illegal.\n\nIn the Southern states, however, most of the field workers were slaves; one out of every four families 40 slaves. These people were often rich and had large farms.",
+      "passage": "Slavery in the United States\n\nIn most parts of the United States in the early 1800s, blacks had no rights at all. They did not have the right to vote. It was against the [31] for them to go to school with whites. In some states, it was even [32] for them to learn to read and write. Free people had the right to come and go as they [33] , but slaves had to have a pass, or paper; from their [34] in order to leave the master's land. Slaves were often [35] from their families when they were sold. They had to work very [36] hours, but were not paid. If they did not do as they were told, they could be beaten. If they tried to escape, they were hunted down with dogs, and could be tortured or even [37] when caught.\n\nUntil about 1800, there were slaves in [38] every state in the United States. But slaves were not a big part of the Northern way of [39] . Northern factories hired workers and did not use slaves. By 1850, all Northern states had made slavery illegal.\n\nIn the Southern states, however, most of the field workers were slaves; one out of every four families [40] slaves. These people were often rich and had large farms.",
       "instructions": "从备选词汇池中选择最佳单词填入空白处。",
       "optionsPool": [
         {
@@ -1434,7 +1789,7 @@
               "questionNumber": 31,
               "stem": "填入原文第 [31] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1449,6 +1804,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第8—9页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1456,7 +1823,7 @@
               "questionNumber": 32,
               "stem": "填入原文第 [32] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1471,6 +1838,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第8—9页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1478,7 +1857,7 @@
               "questionNumber": 33,
               "stem": "填入原文第 [33] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1493,6 +1872,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第8—9页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1500,7 +1891,7 @@
               "questionNumber": 34,
               "stem": "填入原文第 [34] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1515,6 +1906,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第8—9页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1522,7 +1925,7 @@
               "questionNumber": 35,
               "stem": "填入原文第 [35] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1537,6 +1940,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第8—9页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1544,7 +1959,7 @@
               "questionNumber": 36,
               "stem": "填入原文第 [36] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1559,6 +1974,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第8—9页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1566,7 +1993,7 @@
               "questionNumber": 37,
               "stem": "填入原文第 [37] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1581,6 +2008,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第8—9页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1588,7 +2027,7 @@
               "questionNumber": 38,
               "stem": "填入原文第 [38] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1603,6 +2042,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第8—9页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1610,7 +2061,7 @@
               "questionNumber": 39,
               "stem": "填入原文第 [39] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1625,6 +2076,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第8—9页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1632,7 +2095,7 @@
               "questionNumber": 40,
               "stem": "填入原文第 [40] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1647,6 +2110,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第8—9页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             }
@@ -1659,7 +2134,7 @@
       "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
       "sortOrder": 6,
       "scorePerQuestion": 1.5,
-      "passage": "### 短文原文\nRubbish: Easy to Produce, but Hard to Get Rid of\n\nWe produce a lot of rubbish. There is no question about it. The amount of rubbish we throw away is surprising (surprise). Scientists report that Americans produce about five 41 (pound) of rubbish per person-every day. Forty years ago, each person 42 (produce) only half of it each day. There are 43 (near) 300 million people in the US. You do the math. How much rubbish do we produce every day?\n\nIn 44 (add) to the amount of rubbish we produce, how we get rid of it is another problem. The plastic bags that we place outside of our homes need to be 45 (carry) away every week. These bags are not 46 (friend) to the environment at all.\n\nNobody is sure how long a plastic bag takes to totally break down, because we've only been 47 (use) plastic as a business for about 90 years. It is 48 (believe), however, that it may take 100 years for a plastic bag to completely break down. I am sure that you will feel 49 (happy) to think that a plastic bag can live longer than the 50 (major) of people on earth.\n\n### 题目\n**41.** (pound)",
+      "passage": "Rubbish: Easy to Produce, but Hard to Get Rid of\n\nWe produce a lot of rubbish. There is no question about it. The amount of rubbish we throw away is surprising (surprise). Scientists report that Americans produce about five [41] (pound) of rubbish per person-every day. Forty years ago, each person [42] (produce) only half of it each day. There are [43] (near) 300 million people in the US. You do the math. How much rubbish do we produce every day?\n\nIn [44] (add) to the amount of rubbish we produce, how we get rid of it is another problem. The plastic bags that we place outside of our homes need to be [45] (carry) away every week. These bags are not [46] (friend) to the environment at all.\n\nNobody is sure how long a plastic bag takes to totally break down, because we've only been [47] (use) plastic as a business for about 90 years. It is [48] (believe), however, that it may take 100 years for a plastic bag to completely break down. I am sure that you will feel [49] (happy) to think that a plastic bag can live longer than the [50] (major) of people on earth.",
       "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
       "optionsPool": [],
       "tasks": [
@@ -1672,7 +2147,7 @@
               "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
               "baseWord": "pound",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1687,6 +2162,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第9—9页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1695,7 +2182,7 @@
               "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
               "baseWord": "produce",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1710,6 +2197,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第9—9页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1718,7 +2217,7 @@
               "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
               "baseWord": "near",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1733,6 +2232,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第9—9页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1741,7 +2252,7 @@
               "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
               "baseWord": "add",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1756,6 +2267,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第9—9页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1764,7 +2287,7 @@
               "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
               "baseWord": "carry",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1779,6 +2302,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第9—9页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1787,7 +2322,7 @@
               "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
               "baseWord": "friend",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1802,6 +2337,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第9—9页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1810,7 +2357,7 @@
               "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
               "baseWord": "use",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1825,6 +2372,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第9—9页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1833,7 +2392,7 @@
               "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
               "baseWord": "believe",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1848,6 +2407,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第9—9页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1856,7 +2427,7 @@
               "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
               "baseWord": "happy",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1871,6 +2442,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第9—9页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1879,7 +2462,7 @@
               "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
               "baseWord": "major",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1894,6 +2477,18 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第9—9页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 11,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             }
@@ -1906,7 +2501,7 @@
       "title": "第七部分：短文写作（第51题，30分）",
       "sortOrder": 7,
       "scorePerQuestion": 30.0,
-      "passage": "请根据所提供材料中的要求完成一篇100词左右的英文写作任务。\n\n**51.** 假设你的外国朋友 John 想学习汉语，征求你的意见。请给他写一封电子邮件，内容包括:\n1. 支持他学汉语;\n2. 给出学习建议。\n请以 LiKe 署名。\n</试卷名称>",
+      "passage": "请根据所提供材料中的要求完成一篇100词左右的英文写作任务。\n\n51. 假设你的外国朋友 John 想学习汉语，征求你的意见。请给他写一封电子邮件，内容包括:\n1. 支持他学汉语;\n2. 给出学习建议。\n请以 LiKe 署名。",
       "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
       "optionsPool": [],
       "tasks": [
@@ -1918,12 +2513,12 @@
               "questionNumber": 51,
               "stem": "短文写作",
               "scoreValue": 30.0,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
                   "standardAnswer": "略",
-                  "explanation": "短文写作属于主观题，需结合题目要点书写。",
+                  "explanation": "写作要点：约100词，以 Li Ke 给 John 回邮件，明确支持他学习汉语，并给出可实行的学习建议，如每天听说、学习常用汉字、与汉语使用者练习。使用邮件称呼、正文和署名。原 PDF 未提供范文，以下为人工整理的作答要点，不是标准范文。",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
                   "disputed": false
@@ -1933,6 +2528,12 @@
                 {
                   "sourceFileName": "2022年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2022年4月.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第10—10页。清理整理标签和作文尾部标签，统一第26—50题空号；答案逐项与第11页核对一致。"
                 }
               ]
             }

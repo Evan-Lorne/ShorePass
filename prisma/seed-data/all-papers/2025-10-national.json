@@ -8,23 +8,18 @@
   "paperType": "exam",
   "totalScore": 100,
   "suggestedMinutes": 150,
-  "verified": false,
-  "status": "draft",
-  "publishBlocked": true,
-  "blockReasons": [
-    {
-      "code": "ocr_unverified",
-      "description": "全量批量导入草稿，待逐题人工核对"
-    }
-  ],
-  "sourceFile": "2025年10月真题.md",
+  "verified": true,
+  "status": "verified",
+  "publishBlocked": false,
+  "blockReasons": [],
+  "sourceFile": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
   "sections": [
     {
       "type": "reading_judgment",
       "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
       "sortOrder": 1,
       "scorePerQuestion": 1.0,
-      "passage": "### 短文原文\n**A Long-term Investment or a Quick Fix**\n\nThere’s something about French women. They have a stylish and cool feel that American women have long been trying to imitate. The two countries have quite different approaches to beauty. Mathilde Thomas, co-founder of French beauty brand Caudalie, will explain the subject in her new book, The French Beauty Solution. She said the key to French beauty is the belief that “beauty is something to give you pleasure. Because when you feel good, you look good.”\n\nIn 2010, she went to the U.S. to expand her brand. She traveled all over the country meeting customers. She found that the American concept of beauty was more about pain than pleasure. Many women said they made their beauty choices based on the notion of “no pain, no gain.” They thought they had to suffer to be beautiful. In contrast, she and French women believe the notion of beauty should be pleasing to you.\n\nThomas’ book discusses how women in the U.S. are all about the “quick fix.” This means they will try a product that will instantly solve a beauty problem. They don't care if it hurts, is expensive, or is damaging in the long run. That's quite different from the French view of beauty. In the book, Thomas sees the French view as an essential and pleasing part of the day. It is also a lifelong and active investment that makes you look and feel good.\n\nIn the book, Thomas says, “Our beauty routine is based on prevention and upkeep. And it is viewed as an essential, ongoing investment. What I saw here was much more of a tendency toward the quick solution. Millions of American women consider beauty a priority in their daily routine. However, many of their habits are either too expensive, too painful, or simply not effective.”\n\n### 题目",
+      "passage": "A Long-term Investment or a Quick Fix\n\nThere’s something about French women. They have a stylish and cool feel that American women have long been trying to imitate. The two countries have quite different approaches to beauty. Mathilde Thomas, co-founder of French beauty brand Caudalie, will explain the subject in her new book, The French Beauty Solution. She said the key to French beauty is the belief that “beauty is something to give you pleasure. Because when you feel good, you look good.”\n\nIn 2010, she went to the U.S. to expand her brand. She traveled all over the country meeting customers. She found that the American concept of beauty was more about pain than pleasure. Many women said they made their beauty choices based on the notion of “no pain, no gain.” They thought they had to suffer to be beautiful. In contrast, she and French women believe the notion of beauty should be pleasing to you.\n\nThomas’ book discusses how women in the U.S. are all about the “quick fix.” This means they will try a product that will instantly solve a beauty problem. They don't care if it hurts, is expensive, or is damaging in the long run. That's quite different from the French view of beauty. In the book, Thomas sees the French view as an essential and pleasing part of the day. It is also a lifelong and active investment that makes you look and feel good.\n\nIn the book, Thomas says, “Our beauty routine is based on prevention and upkeep. And it is viewed as an essential, ongoing investment. What I saw here was much more of a tendency toward the quick solution. Millions of American women consider beauty a priority in their daily routine. However, many of their habits are either too expensive, too painful, or simply not effective.”",
       "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
       "optionsPool": [],
       "tasks": [
@@ -34,9 +29,9 @@
           "questions": [
             {
               "questionNumber": 1,
-              "stem": "French women are more stylish in the eyes of American women.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "French women are more stylish in the eyes of American women.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -62,16 +57,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 2,
-              "stem": "Caudalie is an American beauty brand.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Caudalie is an American beauty brand.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -97,16 +100,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 3,
-              "stem": "Thomas thinks that beauty is a privilege for the young.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Thomas thinks that beauty is a privilege for the young.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -132,16 +143,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 4,
-              "stem": "Thomas went to America to promote her beauty products.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Thomas went to America to promote her beauty products.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -167,16 +186,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 5,
-              "stem": "American women base their idea of beauty on pleasure.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "American women base their idea of beauty on pleasure.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -202,16 +229,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 6,
-              "stem": "French women share Thomas' notion of beauty.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "French women share Thomas' notion of beauty.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -237,16 +272,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 7,
-              "stem": "French women invest more in beauty products than before.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "French women invest more in beauty products than before.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -272,16 +315,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 8,
-              "stem": "American women prefer a quick solution to their beauty problems.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "American women prefer a quick solution to their beauty problems.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -307,16 +358,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 9,
-              "stem": "American women like Thomas’ beauty products.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "American women like Thomas’ beauty products.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -342,16 +401,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 10,
-              "stem": "American women’s beauty routine is based on prevention.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "American women’s beauty routine is based on prevention.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -377,8 +444,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -391,7 +466,7 @@
       "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
       "sortOrder": 2,
       "scorePerQuestion": 2.0,
-      "passage": "### 短文原文\n**An Important Piece of Life Advice for the Young**\n\nI spend a lot of time interviewing older people in my research on their lives. In one project, I asked them the question: “What can young people do to avoid having regrets when they come to the end of life?” One of the most important messages they have for younger people is to travel—and to *do it now*.\n\nAn old woman once told me that among the most regretful elders she knows are those who put off travel until it was too late—a mistake she almost made if it had not been for her husband. Her husband said, “I'm not waiting until I retire. Who knows what things will be like then?”\n\nSo, here's a clear opportunity to avoid a future regret: travel in your first 30 years, while you have time and energy. This message comes from some of the elders who delayed travel until it was too late. One 86-year-old lady I talked to had spent her life close to home. With a sad look in her eyes, she told me: “I always wanted to go to Hawaii, but I never made it. Oh, it’s too late for me.”\n\nI can hear some people saying: That's all well and good, but how can we afford it? The elders counter that argument by saying that travel is so rewarding that it should take precedence over other things younger people spend money on. The key is travel's value specifically for the young; it broadens their horizons, helps them to find a focus for their lives, and challenges them in new ways.\n\nOf course, travel is by no means only for the young. Seeing the world is also important in the middle 30 years and the last 30 years. Travel is just that important to feeling like your life has been well-lived.\n\n### 题目",
+      "passage": "An Important Piece of Life Advice for the Young\n\nI spend a lot of time interviewing older people in my research on their lives. In one project, I asked them the question: “What can young people do to avoid having regrets when they come to the end of life?” One of the most important messages they have for younger people is to travel—and to *do it now*.\n\nAn old woman once told me that among the most regretful elders she knows are those who put off travel until it was too late—a mistake she almost made if it had not been for her husband. Her husband said, “I'm not waiting until I retire. Who knows what things will be like then?”\n\nSo, here's a clear opportunity to avoid a future regret: travel in your first 30 years, while you have time and energy. This message comes from some of the elders who delayed travel until it was too late. One 86-year-old lady I talked to had spent her life close to home. With a sad look in her eyes, she told me: “I always wanted to go to Hawaii, but I never made it. Oh, it’s too late for me.”\n\nI can hear some people saying: That's all well and good, but how can we afford it? The elders counter that argument by saying that travel is so rewarding that it should take precedence over other things younger people spend money on. The key is travel's value specifically for the young; it broadens their horizons, helps them to find a focus for their lives, and challenges them in new ways.\n\nOf course, travel is by no means only for the young. Seeing the world is also important in the middle 30 years and the last 30 years. Travel is just that important to feeling like your life has been well-lived.",
       "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
       "optionsPool": [],
       "tasks": [
@@ -401,9 +476,9 @@
           "questions": [
             {
               "questionNumber": 11,
-              "stem": "The writer of this text is most probably a ________.\n- A. technician\n- B. librarian\n- C. researcher\n- D. consultant",
+              "stem": "The writer of this text is most probably a ________.",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -433,16 +508,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 12,
-              "stem": "What can we infer about the old woman and her husband?\n- A. They had many regrets in their life.\n- B. They traveled a lot before retirement.\n- C. They made a big mistake in their work.\n- D. They delayed travel until it was too late.",
+              "stem": "What can we infer about the old woman and her husband?",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -472,16 +555,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 13,
-              "stem": "According to Para. 4, the elders think that younger people should ________.\n- A. give priority to travel\n- B. make time for their families\n- C. find a focus for their lives\n- D. work hard to save money",
+              "stem": "According to Para. 4, the elders think that younger people should ________.",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -511,16 +602,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 14,
-              "stem": "The 86-year-old lady feels sad as she can no longer ________.\n- A. stay in Hawaii\n- B. go on a tour\n- C. live close to home\n- D. take care of herself",
+              "stem": "The 86-year-old lady feels sad as she can no longer ________.",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -550,16 +649,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 15,
-              "stem": "The writer of the text thinks that travel is a ________.\n- A. great midlife activity\n- B. challenge for the old\n- C. lifestyle for the young\n- D. lifelong engagement",
+              "stem": "The writer of the text thinks that travel is a ________.",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -589,8 +696,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -603,7 +718,7 @@
       "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
       "sortOrder": 3,
       "scorePerQuestion": 1.0,
-      "passage": "### 短文原文\n**Benefits of Spending Time with Animals**\n\n❶ A pet treatment can solve all sorts of problems, says animal expert Arden Moore. Spending time around animals, like bird-watching, being accompanied by a therapy dog, or playing with a pet spider, can be good to your well-being. “There's something about the animal kingdom that enables us to enjoy life a little better,” she says.\n\n❷ According to Moore, petting your cat or dog makes the animal happy, and it relaxes you as well. It is especially so when you are under some stress. “Give your dog or cat a head-to-tail rub by running hand over hand through the body,” she says. Your touch relaxes the animal. It also releases feel-good hormones in you, and reduces your heart rate.\n\n❸ Talking with animals may lower your blood pressure and improve your overall health. Moore suggests engaging animals in “happy talk,” or speaking in a cheerful tone. She says, “Happy talk or laughter around animals releases hormones in humans. Then, your blood pressure will be lowered. And animals will feel better too.”\n\n❹ Eating beside an animal may improve your eating habits. “In nursing homes, if there's a fish tank where people are eating, seeing those fish actually motivates some residents to eat,” says Moore. The result of recent research supports the view. It shows that the people who ate near their pets improved some of their eating patterns.\n\n❺ A good relationship with your animal friends may lead to better relations with humans. According to a study at the University of Michigan School of Nursing, observing animals in nature can teach valuable characteristics like patience, and help restore mental energy. Taking care of an animal can also teach responsibility and stimulate feelings of trust, openness, and companionship.",
+      "passage": "Benefits of Spending Time with Animals\n\n❶ A pet treatment can solve all sorts of problems, says animal expert Arden Moore. Spending time around animals, like bird-watching, being accompanied by a therapy dog, or playing with a pet spider, can be good to your well-being. “There's something about the animal kingdom that enables us to enjoy life a little better,” she says.\n\n❷ According to Moore, petting your cat or dog makes the animal happy, and it relaxes you as well. It is especially so when you are under some stress. “Give your dog or cat a head-to-tail rub by running hand over hand through the body,” she says. Your touch relaxes the animal. It also releases feel-good hormones in you, and reduces your heart rate.\n\n❸ Talking with animals may lower your blood pressure and improve your overall health. Moore suggests engaging animals in “happy talk,” or speaking in a cheerful tone. She says, “Happy talk or laughter around animals releases hormones in humans. Then, your blood pressure will be lowered. And animals will feel better too.”\n\n❹ Eating beside an animal may improve your eating habits. “In nursing homes, if there's a fish tank where people are eating, seeing those fish actually motivates some residents to eat,” says Moore. The result of recent research supports the view. It shows that the people who ate near their pets improved some of their eating patterns.\n\n❺ A good relationship with your animal friends may lead to better relations with humans. According to a study at the University of Michigan School of Nursing, observing animals in nature can teach valuable characteristics like patience, and help restore mental energy. Taking care of an animal can also teach responsibility and stimulate feelings of trust, openness, and companionship.",
       "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
       "optionsPool": [],
       "tasks": [
@@ -615,7 +730,7 @@
               "questionNumber": 16,
               "stem": "Paragraph ❶:",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -653,8 +768,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -662,7 +785,7 @@
               "questionNumber": 17,
               "stem": "Paragraph ❷:",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -700,8 +823,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -709,7 +840,7 @@
               "questionNumber": 18,
               "stem": "Paragraph ❸:",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -747,8 +878,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -756,7 +895,7 @@
               "questionNumber": 19,
               "stem": "Paragraph ❹:",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -794,8 +933,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -803,7 +950,7 @@
               "questionNumber": 20,
               "stem": "Paragraph ❺:",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -841,8 +988,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -856,7 +1011,7 @@
               "questionNumber": 21,
               "stem": "Playing with your pet is good ________.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -894,8 +1049,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -903,7 +1066,7 @@
               "questionNumber": 22,
               "stem": "When you're petting your pet, ________.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -941,8 +1104,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -950,7 +1121,7 @@
               "questionNumber": 23,
               "stem": "Your pet will feel happy ________.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -988,8 +1159,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -997,7 +1176,7 @@
               "questionNumber": 24,
               "stem": "Eating near your pet, ________.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1035,8 +1214,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1044,7 +1231,7 @@
               "questionNumber": 25,
               "stem": "You may develop your patience by watching animals ________.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1082,8 +1269,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1096,7 +1291,7 @@
       "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
       "sortOrder": 4,
       "scorePerQuestion": 2.0,
-      "passage": "### 短文原文\n**What is Green Tourism?**\n\nThe aim of green tourism is to protect the environment and culture of an area. There are many choices for green tourism worldwide.\n\nThe number of tourists has been increasing these days. It makes green tourism a must in some areas. In order to protect the environment, it might seem wiser to ban tourists to these areas. But many areas need the income from tourism for their local economy. Green tourism offers the best solution to both. __[26] At the same time, it keeps local businesses growing.\n\nGreen tourism might not mean a vacation spent with little or no comfort. __[27] Green tourism resorts exist in almost every style and taste. From recycling systems to tree houses, there are many vacation choices.\n\nOn a green holiday, people study the local plants and culture. __[28] Guides, tours and wildlife-viewing platforms help people experience a lot. But little or no impact is made on the environment. Sometimes, tourists can take an active part in improving the local area. They can work to protect the wildlife in the area. They can help to build a school. __[29] These vacations can be a lot of work. But people find them very rewarding and interesting.\n\nNowadays, green tourism is becoming more popular. __[30] More areas will take steps to have less of an impact on the environment, allowing tourists to enjoy the beauty that these areas have to offer for many years to come.\n\n### 备选句子池\n\n### 题目\n**26.**\n**标准答案**: B\n**精准解析**: It protects the environment of an area.\n\n**27.**\n**标准答案**: F\n**精准解析**: On the contrary, people think that it can be a wonderful adventure.\n\n**28.**\n**标准答案**: A\n**精准解析**: They also learn ways to protect them.\n\n**29.**\n**标准答案**: C\n**精准解析**: They can do other things that are good for the area.\n\n**30.**\n**标准答案**: E\n**精准解析**: So there are likely to be more vacationing options available.",
+      "passage": "What is Green Tourism?\n\nThe aim of green tourism is to protect the environment and culture of an area. There are many choices for green tourism worldwide.\n\nThe number of tourists has been increasing these days. It makes green tourism a must in some areas. In order to protect the environment, it might seem wiser to ban tourists to these areas. But many areas need the income from tourism for their local economy. Green tourism offers the best solution to both. [26] At the same time, it keeps local businesses growing.\n\nGreen tourism might not mean a vacation spent with little or no comfort. [27] Green tourism resorts exist in almost every style and taste. From recycling systems to tree houses, there are many vacation choices.\n\nOn a green holiday, people study the local plants and culture. [28] Guides, tours and wildlife-viewing platforms help people experience a lot. But little or no impact is made on the environment. Sometimes, tourists can take an active part in improving the local area. They can work to protect the wildlife in the area. They can help to build a school. [29] These vacations can be a lot of work. But people find them very rewarding and interesting.\n\nNowadays, green tourism is becoming more popular. [30] More areas will take steps to have less of an impact on the environment, allowing tourists to enjoy the beauty that these areas have to offer for many years to come.",
       "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
       "optionsPool": [
         {
@@ -1133,7 +1328,7 @@
               "questionNumber": 26,
               "stem": "填入原文第 [26] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1171,8 +1366,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1180,7 +1383,7 @@
               "questionNumber": 27,
               "stem": "填入原文第 [27] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1218,8 +1421,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1227,7 +1438,7 @@
               "questionNumber": 28,
               "stem": "填入原文第 [28] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1265,8 +1476,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1274,7 +1493,7 @@
               "questionNumber": 29,
               "stem": "填入原文第 [29] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1312,8 +1531,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1321,7 +1548,7 @@
               "questionNumber": 30,
               "stem": "填入原文第 [30] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1359,8 +1586,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1373,7 +1608,7 @@
       "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
       "sortOrder": 5,
       "scorePerQuestion": 1.5,
-      "passage": "**The Word “Try”**\n\nThe word “try” is a small word yet it has an amazing impact upon us. If someone says, “I’ll try to do that,” you [31] that they will not put their whole [32] into it, and may not even do it at all. How [33] do you use the word “try” when talking about the things that [34] to you?\n\nThink about something that you would like to [35], say it to yourself in two [36] ways, and see how you feel. Firstly say, “I’ll try to...” and [37] say, “I will do...”\n\nThe latter makes you feel [38] than the former, right? It gives you a sense of [39]. Listen to the people around you. When they say they will try, notice if it gets done or not. Eliminate the word “try” from your [40] and see how your life improves.",
+      "passage": "The Word “Try”\n\nThe word “try” is a small word yet it has an amazing impact upon us. If someone says, “I’ll try to do that,” you [31] that they will not put their whole [32] into it, and may not even do it at all. How [33] do you use the word “try” when talking about the things that [34] to you?\n\nThink about something that you would like to [35], say it to yourself in two [36] ways, and see how you feel. Firstly say, “I’ll try to...” and [37] say, “I will do...”\n\nThe latter makes you feel [38] than the former, right? It gives you a sense of [39]. Listen to the people around you. When they say they will try, notice if it gets done or not. Eliminate the word “try” from your [40] and see how your life improves.",
       "instructions": "从备选词汇池中选择最佳单词填入空白处。",
       "optionsPool": [
         {
@@ -1434,7 +1669,7 @@
               "questionNumber": 31,
               "stem": "填入原文第 [31] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1447,8 +1682,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1456,7 +1699,7 @@
               "questionNumber": 32,
               "stem": "填入原文第 [32] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1469,8 +1712,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1478,7 +1729,7 @@
               "questionNumber": 33,
               "stem": "填入原文第 [33] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1491,8 +1742,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1500,7 +1759,7 @@
               "questionNumber": 34,
               "stem": "填入原文第 [34] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1513,8 +1772,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1522,7 +1789,7 @@
               "questionNumber": 35,
               "stem": "填入原文第 [35] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1535,8 +1802,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1544,7 +1819,7 @@
               "questionNumber": 36,
               "stem": "填入原文第 [36] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1557,8 +1832,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1566,7 +1849,7 @@
               "questionNumber": 37,
               "stem": "填入原文第 [37] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1579,8 +1862,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1588,7 +1879,7 @@
               "questionNumber": 38,
               "stem": "填入原文第 [38] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1601,8 +1892,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1610,7 +1909,7 @@
               "questionNumber": 39,
               "stem": "填入原文第 [39] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1623,8 +1922,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1632,7 +1939,7 @@
               "questionNumber": 40,
               "stem": "填入原文第 [40] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1645,8 +1952,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1659,7 +1974,7 @@
       "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
       "sortOrder": 6,
       "scorePerQuestion": 1.5,
-      "passage": "### 短文原文\n**Communication in Groups**\n\nThe number of people in a group *influences* (influence) the quality of communication. Consider the __[41] (differ) between communication between two friends and communication in a group. When two friends talk, there are __[42] (simple) two people sending and receiving messages. In a group, there are several people __[43] (do) the same thing. Each idea one expresses must be __[44] (understand) by all others. Thus, the __[45] (great) the number of people in a group, the fewer __[46] (contribution) a member may make. So, you may think that small groups would be better. However, with too few members, a group has __[47] (limit) resources. This __[48] (affect) the advantage of groups for making a __[49] (decide). Also, in a very small group, the members may be __[50] (willing) to criticize others. So, I believe that five to seven members is the ideal size for a group.\n\n### 题目\n**41.** (differ)",
+      "passage": "Communication in Groups\n\nThe number of people in a group *influences* (influence) the quality of communication. Consider the [41] (differ) between communication between two friends and communication in a group. When two friends talk, there are [42] (simple) two people sending and receiving messages. In a group, there are several people [43] (do) the same thing. Each idea one expresses must be [44] (understand) by all others. Thus, the [45] (great) the number of people in a group, the fewer [46] (contribution) a member may make. So, you may think that small groups would be better. However, with too few members, a group has [47] (limit) resources. This [48] (affect) the advantage of groups for making a [49] (decide). Also, in a very small group, the members may be [50] (willing) to criticize others. So, I believe that five to seven members is the ideal size for a group.",
       "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
       "optionsPool": [],
       "tasks": [
@@ -1672,21 +1987,33 @@
               "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
               "baseWord": "differ",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
                   "standardAnswer": "difference",
                   "originalAnswer": "difference",
-                  "acceptableAnswers": [],
+                  "acceptableAnswers": [
+                    "differences"
+                  ],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "explanation": "2026-09-13逐题复核纠错：Consider the difference / differences between ...：可概括两类沟通的总体差别，也可指多个差异；上下文未限制数量。",
+                  "revisionNotes": "2026-09-13逐题复核纠错：Consider the difference / differences between ...：可概括两类沟通的总体差别，也可指多个差异；上下文未限制数量。"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1695,7 +2022,7 @@
               "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
               "baseWord": "simple",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1708,8 +2035,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1718,7 +2053,7 @@
               "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
               "baseWord": "do",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1731,8 +2066,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1741,7 +2084,7 @@
               "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
               "baseWord": "understand",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1754,8 +2097,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1764,7 +2115,7 @@
               "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
               "baseWord": "great",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1777,8 +2128,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1787,7 +2146,7 @@
               "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
               "baseWord": "contribution",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1800,8 +2159,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1810,7 +2177,7 @@
               "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
               "baseWord": "limit",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1823,8 +2190,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1833,7 +2208,7 @@
               "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
               "baseWord": "affect",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1846,8 +2221,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1856,7 +2239,7 @@
               "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
               "baseWord": "decide",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1869,8 +2252,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1879,7 +2270,7 @@
               "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
               "baseWord": "willing",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1892,8 +2283,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1906,7 +2305,7 @@
       "title": "第七部分：短文写作（第51题，30分）",
       "sortOrder": 7,
       "scorePerQuestion": 30.0,
-      "passage": "**51.** \n某英文报社正在举办题为 “Starting from Ourselves to Save Electricity” 的征文活动。请你根据下述写作要点提交一篇英文短文应征，内容包括：\n- 当前我国电力资源短缺\n- 如何从小事做起，节约用电",
+      "passage": "51. \n某英文报社正在举办题为 “Starting from Ourselves to Save Electricity” 的征文活动。请你根据下述写作要点提交一篇英文短文应征，内容包括：\n- 当前我国电力资源短缺\n- 如何从小事做起，节约用电",
       "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
       "optionsPool": [],
       "tasks": [
@@ -1918,7 +2317,7 @@
               "questionNumber": 51,
               "stem": "短文写作",
               "scoreValue": 30.0,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1931,8 +2330,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年10月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年10月13000英语专升本（原代码00015）全国卷及答案.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 10 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }

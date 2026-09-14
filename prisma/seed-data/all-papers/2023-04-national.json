@@ -8,23 +8,18 @@
   "paperType": "exam",
   "totalScore": 100,
   "suggestedMinutes": 150,
-  "verified": false,
-  "status": "draft",
-  "publishBlocked": true,
-  "blockReasons": [
-    {
-      "code": "ocr_unverified",
-      "description": "全量批量导入草稿，待逐题人工核对"
-    }
-  ],
-  "sourceFile": "2023年04月真题.md",
+  "verified": true,
+  "status": "verified",
+  "publishBlocked": false,
+  "blockReasons": [],
+  "sourceFile": "2023年4月自考00015.pdf",
   "sections": [
     {
       "type": "reading_judgment",
       "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
       "sortOrder": 1,
       "scorePerQuestion": 1.0,
-      "passage": "Why Dogs Bury Their Favorite Bones**\n\nYou may find it crazy that your dog buries his favorite bone or chew toy, only to dig it up a day or two later, but there is actually a reason behind it—it is simply in their nature. For thousands of years, dogs have buried their bones. The practice itself started long before dogs were even pets when they had to bury bones to survive.\n\nWhen dogs lived in the wild, sometimes food was scarce. If they were able to find food, dogs became very protective of it. Sometimes they would have more bones than they could eat for one meal. To keep other dogs and animals from stealing their bones, dogs would bury them in the ground. When it was time for the next meal, they would dig up their bones and enjoy them again. This would continue until the bones were gone.\n\nEven though most dogs have plenty of food to eat today, their instincts still tell them to bury their bones and favorite toys. They do this to keep other dogs and animals from stealing them, just like their ancestors did. Some dogs keep at least two bones buried at once. When they want to dig up one, they will bury one more. This may leave a backyard full of holes and bones.\n\nHow do dogs decide where to bury their bones? A dog cannot bury a bone just anywhere. He must first find the perfect spot. This involves using his nose to find a spot that is free from other dogs and animals. Often it is near a tree or a large rock, but it could be anywhere in the yard. Once the dog finds the perfect spot, he uses his front paws to dig a hole, drops the bone in and covers up the hole to protect his treasure.\n\n### 题目",
+      "passage": "Why Dogs Bury Their Favorite Bones\n\nYou may find it crazy that your dog buries his favorite bone or chew toy, only to dig it up a day or two later, but there is actually a reason behind it—it is simply in their nature. For thousands of years, dogs have buried their bones. The practice itself started long before dogs were even pets when they had to bury bones to survive.\n\nWhen dogs lived in the wild, sometimes food was scarce. If they were able to find food, dogs became very protective of it. Sometimes they would have more bones than they could eat for one meal. To keep other dogs and animals from stealing their bones, dogs would bury them in the ground. When it was time for the next meal, they would dig up their bones and enjoy them again. This would continue until the bones were gone.\n\nEven though most dogs have plenty of food to eat today, their instincts still tell them to bury their bones and favorite toys. They do this to keep other dogs and animals from stealing them, just like their ancestors did. Some dogs keep at least two bones buried at once. When they want to dig up one, they will bury one more. This may leave a backyard full of holes and bones.\n\nHow do dogs decide where to bury their bones? A dog cannot bury a bone just anywhere. He must first find the perfect spot. This involves using his nose to find a spot that is free from other dogs and animals. Often it is near a tree or a large rock, but it could be anywhere in the yard. Once the dog finds the perfect spot, he uses his front paws to dig a hole, drops the bone in and covers up the hole to protect his treasure.",
       "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
       "optionsPool": [],
       "tasks": [
@@ -34,9 +29,9 @@
           "questions": [
             {
               "questionNumber": 1,
-              "stem": "Dogs bury their favorite bones or chew toys by nature.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Dogs bury their favorite bones or chew toys by nature.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -64,14 +59,26 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第1—2页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 2,
-              "stem": "Dogs started to bury their bones when they became pets.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Dogs started to bury their bones when they became pets.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -99,14 +106,26 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第1—2页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 3,
-              "stem": "Dogs in the wild occasionally had enough food.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Dogs in the wild occasionally had enough food.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -134,14 +153,26 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第1—2页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 4,
-              "stem": "Dogs would bury their extra food for their babies.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Dogs would bury their extra food for their babies.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -158,25 +189,39 @@
               ],
               "answerRules": [
                 {
-                  "standardAnswer": "B",
+                  "standardAnswer": "C",
                   "originalAnswer": "B",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "revisionNotes": "第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。",
+                  "explanation": "原文说明狗埋骨头是为防止其他动物偷走，并未提到为幼崽储食，不能据此判为错误，应选 C（Not Given）。原 PDF 第9页答案同为 C。"
                 }
               ],
               "sourceReferences": [
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第1—2页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 5,
-              "stem": "Animals would start a fierce fight over food in ancient times.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Animals would start a fierce fight over food in ancient times.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -204,14 +249,26 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第1—2页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 6,
-              "stem": "Some dogs tend to store up more than one bone at the same time.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Some dogs tend to store up more than one bone at the same time.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -239,14 +296,26 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第1—2页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 7,
-              "stem": "The backyard of a dog owner may be full of holes dug by his dog.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "The backyard of a dog owner may be full of holes dug by his dog.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -274,14 +343,26 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第1—2页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 8,
-              "stem": "Dogs often bury their bones far away from trees.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Dogs often bury their bones far away from trees.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -309,14 +390,26 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第1—2页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 9,
-              "stem": "Dogs use their paws to find spots for burying bones.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Dogs use their paws to find spots for burying bones.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -344,14 +437,26 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第1—2页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 10,
-              "stem": "Dogs bury more bones than chew toys.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Dogs bury more bones than chew toys.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -379,6 +484,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第1—2页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             }
@@ -391,7 +508,7 @@
       "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
       "sortOrder": 2,
       "scorePerQuestion": 2.0,
-      "passage": "### 短文原文\n**Public Wi-Fi Users Neglect Safety**\n\nA recent survey shows that 25% of Internet users have done online banking through public Wi-Fi in the last three months. It also shows that 27% have bought a product or service with a credit card this way.\n\nExperts worry that hackers (黑客) will take advantage of these practices. Doug Shadel said that hackers usually attack in two ways. They may create Wi-Fi hotspots that have the same name of the ones you trust, such as a hotel or a coffee shop. They may also provide a stronger Wi-Fi signal to get between you and the safe hotspot. In either case, the hackers can see your email, credit card information, user names and passwords.\n\nSometimes hackers just set up their electronic traps near a business where people enjoy the free Wi-Fi. \"In most cases they are after your personal information,\" Shadel said. \"If you use the same user name and password for many accounts, they can get into them all. It's possible for any hacker to do it. The software to hack into a Wi-Fi network is available at little or no cost.\"\n\n\"It's difficult for people to know if a Wi-Fi network is safe,\" Shadel said, \"so you should just think they are not. Any shared Internet access, free or paid, carries the same level of risk. It is safe only when you or someone you trust directly controls it.\"\n\nShadel sometimes checks email through public Wi-Fi. But he never does any banking that way. In an unfamiliar place, he uses a Virtual Private Network (VPN). \"This service creates a passage between your device and a safe place on the Internet,\" he said.\n\n### 题目",
+      "passage": "Public Wi-Fi Users Neglect Safety\n\nA recent survey shows that 25% of Internet users have done online banking through public Wi-Fi in the last three months. It also shows that 27% have bought a product or service with a credit card this way.\n\nExperts worry that hackers (黑客) will take advantage of these practices. Doug Shadel said that hackers usually attack in two ways. They may create Wi-Fi hotspots that have the same name of the ones you trust, such as a hotel or a coffee shop. They may also provide a stronger Wi-Fi signal to get between you and the safe hotspot. In either case, the hackers can see your email, credit card information, user names and passwords.\n\nSometimes hackers just set up their electronic traps near a business where people enjoy the free Wi-Fi. \"In most cases they are after your personal information,\" Shadel said. \"If you use the same user name and password for many accounts, they can get into them all. It's possible for any hacker to do it. The software to hack into a Wi-Fi network is available at little or no cost.\"\n\n\"It's difficult for people to know if a Wi-Fi network is safe,\" Shadel said, \"so you should just think they are not. Any shared Internet access, free or paid, carries the same level of risk. It is safe only when you or someone you trust directly controls it.\"\n\nShadel sometimes checks email through public Wi-Fi. But he never does any banking that way. In an unfamiliar place, he uses a Virtual Private Network (VPN). \"This service creates a passage between your device and a safe place on the Internet,\" he said.",
       "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
       "optionsPool": [],
       "tasks": [
@@ -401,9 +518,9 @@
           "questions": [
             {
               "questionNumber": 11,
-              "stem": "A recent survey finds that 25% of Internet users use public Wi-Fi to __________.\n- A. do banking\n- B. buy things\n- C. provide service\n- D. play cards",
+              "stem": "A recent survey finds that 25% of Internet users use public Wi-Fi to __________.",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -435,14 +552,26 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第3—4页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 12,
-              "stem": "The phrase \"take advantage of\" (Para. 2) can best be replaced by __________.\n- A. adjust to\n- B. benefit from\n- C. lead to\n- D. result from",
+              "stem": "The phrase \"take advantage of\" (Para. 2) can best be replaced by __________.",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -474,14 +603,26 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第3—4页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 13,
-              "stem": "According to Shadel, any hacker can __________.\n- A. create different passwords\n- B. open an electronic account\n- C. steal people's information\n- D. write software for businesses",
+              "stem": "According to Shadel, any hacker can __________.",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -513,14 +654,26 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第3—4页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 14,
-              "stem": "For the sake of safety, Internet users are advised to __________.\n- A. test shared Internet access\n- B. rely on paid Internet access\n- C. look for free Internet access\n- D. avoid shared Internet access",
+              "stem": "For the sake of safety, Internet users are advised to __________.",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -552,14 +705,26 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第3—4页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
             {
               "questionNumber": 15,
-              "stem": "Shadel uses public Wi-Fi to __________.\n- A. learn about VPN\n- B. deal with his emails\n- C. keep his account safe\n- D. handle financial matters",
+              "stem": "Shadel uses public Wi-Fi to __________.",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -591,6 +756,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第3—4页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             }
@@ -603,7 +780,7 @@
       "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
       "sortOrder": 3,
       "scorePerQuestion": 1.0,
-      "passage": "阅读下面短文，请完成短文后的2项测试任务：(1)从第16～20题后所给的6个选项中为第①～⑤段每段选择1个正确的小标题；(2)从第21～25题后所给的6个选项中选择5个正确选项，分别完成每个句子。在答题卡相应位置上将答案选项涂黑。\n\n### 短文原文\n**I Use Every Second Before I Go to Work**\n\n① I wake up at 6 a.m. every day. The first thing I do when I wake up is grab my smartphone and take it to the bathroom with me, where I start my day by consuming quite a lot of information. I go to some websites, but the main site that I focus on during this time is Nuzzel, a collector of headlines and links. I recommend everyone look into it if they feel they don't have time to properly focus on every website individually.\n\n② After visiting those sites, I head to Twitter, my No.1 outlet for communication with the public. Twitter is becoming a listening platform. There is such a volume of information on the platform that you need pay attention to. So I spend a great amount of my morning responding to people and starting conversations.\n\n③ After all this comes my workout (锻炼) with my trainer. I usually work out for about 45 minutes. The specific workout routine varies depending on the day of the week, what I ate, and how much I've been traveling.\n\n④ After the workout, I head back home to get my children ready for school. I say bye to them and give them each a kiss before they leave. Then, I'm off to my office, often before 9 a.m.\n\n⑤ In the car to my office, I call my mom, dad or sister. I talk to them just to learn what they're up to. I really value those small moments. By the time I step into my office, so much is going through my head. My day starts the minute I open my eyes.",
+      "passage": "阅读下面短文，请完成短文后的2项测试任务：(1)从第16～20题后所给的6个选项中为第①～⑤段每段选择1个正确的小标题；(2)从第21～25题后所给的6个选项中选择5个正确选项，分别完成每个句子。在答题卡相应位置上将答案选项涂黑。\n\nI Use Every Second Before I Go to Work\n\n① I wake up at 6 a.m. every day. The first thing I do when I wake up is grab my smartphone and take it to the bathroom with me, where I start my day by consuming quite a lot of information. I go to some websites, but the main site that I focus on during this time is Nuzzel, a collector of headlines and links. I recommend everyone look into it if they feel they don't have time to properly focus on every website individually.\n\n② After visiting those sites, I head to Twitter, my No.1 outlet for communication with the public. Twitter is becoming a listening platform. There is such a volume of information on the platform that you need pay attention to. So I spend a great amount of my morning responding to people and starting conversations.\n\n③ After all this comes my workout (锻炼) with my trainer. I usually work out for about 45 minutes. The specific workout routine varies depending on the day of the week, what I ate, and how much I've been traveling.\n\n④ After the workout, I head back home to get my children ready for school. I say bye to them and give them each a kiss before they leave. Then, I'm off to my office, often before 9 a.m.\n\n⑤ In the car to my office, I call my mom, dad or sister. I talk to them just to learn what they're up to. I really value those small moments. By the time I step into my office, so much is going through my head. My day starts the minute I open my eyes.",
       "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
       "optionsPool": [],
       "tasks": [
@@ -615,7 +792,7 @@
               "questionNumber": 16,
               "stem": "Paragraph ①:",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -655,6 +832,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第4—5页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -662,7 +851,7 @@
               "questionNumber": 17,
               "stem": "Paragraph ②:",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -702,6 +891,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第4—5页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -709,7 +910,7 @@
               "questionNumber": 18,
               "stem": "Paragraph ③:",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -749,6 +950,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第4—5页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -756,7 +969,7 @@
               "questionNumber": 19,
               "stem": "Paragraph ④:",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -796,6 +1009,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第4—5页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -803,7 +1028,7 @@
               "questionNumber": 20,
               "stem": "Paragraph ⑤:",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -843,6 +1068,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第4—5页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             }
@@ -856,7 +1093,7 @@
               "questionNumber": 21,
               "stem": "Nuzzel helps me __________.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -896,6 +1133,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第4—5页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -903,7 +1152,7 @@
               "questionNumber": 22,
               "stem": "On Twitter I am able __________.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -943,6 +1192,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第4—5页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -950,7 +1211,7 @@
               "questionNumber": 23,
               "stem": "There are several factors that __________.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -990,6 +1251,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第4—5页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -997,7 +1270,7 @@
               "questionNumber": 24,
               "stem": "Before my kids go to school, I __________.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1037,6 +1310,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第4—5页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1044,7 +1329,7 @@
               "questionNumber": 25,
               "stem": "I call my parents __________.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1084,6 +1369,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第4—5页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             }
@@ -1096,7 +1393,7 @@
       "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
       "sortOrder": 4,
       "scorePerQuestion": 2.0,
-      "passage": "### 短文原文\n**Banning Mobile Phones at School**\n\nIt is a question that keeps some parents awake at night. Should children be allowed to take mobile phones to school? __[26] For parents who want their children to do well at school, it is no.\n\nBanning mobile phones at school is effective. According to a UK study, after schools banned mobile phones, the test scores of students improved by 6.4%. The findings will influence the debate about children and mobile phones. In the UK, more than 90% of teenagers own a mobile phone; in the US, 75% have one. The popular mobile phone is a problem in the eye of teachers.\n\n__[27] In a 2001 survey, no school banned mobiles. By 2007, this had risen to 50%. By 2012, 98% of schools had taken action. Some did not allow phones. The others required them to be handed in at the beginning of the day.\n\n__[28] New York City has lifted a 10-year ban on phones at school. It says that lifting the ban will promote equality. \"This view is wrong,\" the researchers of the UK study write. \"We found that the ban led to improvements in test scores among students. Low-achieving students gained the most. __[29] Allowing phones into schools will harm the lowest-achieving students the most.\"\n\nThe UK study was carried out at Birmingham, London, Leicester and Manchester schools before and after bans were introduced. \"Technology is commonly viewed as increasing efficiency,\" the researchers write. \"Modern technology is used in the classroom to improve student performance. __[30] Some students will pay no attention to their class.\"\n\n### 备选句子\n\n**标准答案**:\n26: D  \n27: A  \n28: F  \n29: E  \n30: C  \n\n---",
+      "passage": "Banning Mobile Phones at School\n\nIt is a question that keeps some parents awake at night. Should children be allowed to take mobile phones to school? [26] For parents who want their children to do well at school, it is no.\n\nBanning mobile phones at school is effective. According to a UK study, after schools banned mobile phones, the test scores of students improved by 6.4%. The findings will influence the debate about children and mobile phones. In the UK, more than 90% of teenagers own a mobile phone; in the US, 75% have one. The popular mobile phone is a problem in the eye of teachers.\n\n[27] In a 2001 survey, no school banned mobiles. By 2007, this had risen to 50%. By 2012, 98% of schools had taken action. Some did not allow phones. The others required them to be handed in at the beginning of the day.\n\n[28] New York City has lifted a 10-year ban on phones at school. It says that lifting the ban will promote equality. \"This view is wrong,\" the researchers of the UK study write. \"We found that the ban led to improvements in test scores among students. Low-achieving students gained the most. [29] Allowing phones into schools will harm the lowest-achieving students the most.\"\n\nThe UK study was carried out at Birmingham, London, Leicester and Manchester schools before and after bans were introduced. \"Technology is commonly viewed as increasing efficiency,\" the researchers write. \"Modern technology is used in the classroom to improve student performance. [30] Some students will pay no attention to their class.\"",
       "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
       "optionsPool": [
         {
@@ -1133,7 +1430,7 @@
               "questionNumber": 26,
               "stem": "填入原文第 [26] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1173,6 +1470,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第6—6页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1180,7 +1489,7 @@
               "questionNumber": 27,
               "stem": "填入原文第 [27] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1220,6 +1529,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第6—6页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1227,7 +1548,7 @@
               "questionNumber": 28,
               "stem": "填入原文第 [28] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1267,6 +1588,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第6—6页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1274,7 +1607,7 @@
               "questionNumber": 29,
               "stem": "填入原文第 [29] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1314,6 +1647,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第6—6页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1321,7 +1666,7 @@
               "questionNumber": 30,
               "stem": "填入原文第 [30] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1361,6 +1706,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第6—6页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             }
@@ -1373,7 +1730,7 @@
       "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
       "sortOrder": 5,
       "scorePerQuestion": 1.5,
-      "passage": "**Failing Forward**\n\nThere are several key abilities that allow successful people to fail forward instead of taking each setback personally. First, successful people don't blame themselves when they fail. They take [31] for each setback, but they don't take the failure personally. Second, successful people don't [32] themselves by individual failures. They [33] that each setback is a small [34] of the whole. Third, achievers are [35] to vary their approaches to problems. That's important in every walk of life. If one [36] doesn't work for you, if it brings repeated failures, [37] try something else. To fail forward, you must do what works for you, not [38] what works for other people. Finally, successful people are [39]. They don't let one error keep them down. They learn from their mistakes and [40].",
+      "passage": "Failing Forward\n\nThere are several key abilities that allow successful people to fail forward instead of taking each setback personally. First, successful people don't blame themselves when they fail. They take [31] for each setback, but they don't take the failure personally. Second, successful people don't [32] themselves by individual failures. They [33] that each setback is a small [34] of the whole. Third, achievers are [35] to vary their approaches to problems. That's important in every walk of life. If one [36] doesn't work for you, if it brings repeated failures, [37] try something else. To fail forward, you must do what works for you, not [38] what works for other people. Finally, successful people are [39]. They don't let one error keep them down. They learn from their mistakes and [40] on.",
       "instructions": "从备选词汇池中选择最佳单词填入空白处。",
       "optionsPool": [
         {
@@ -1434,7 +1791,7 @@
               "questionNumber": 31,
               "stem": "填入原文第 [31] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1449,6 +1806,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第7—7页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1456,7 +1825,7 @@
               "questionNumber": 32,
               "stem": "填入原文第 [32] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1471,6 +1840,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第7—7页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1478,7 +1859,7 @@
               "questionNumber": 33,
               "stem": "填入原文第 [33] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1493,6 +1874,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第7—7页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1500,7 +1893,7 @@
               "questionNumber": 34,
               "stem": "填入原文第 [34] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1515,6 +1908,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第7—7页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1522,7 +1927,7 @@
               "questionNumber": 35,
               "stem": "填入原文第 [35] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1537,6 +1942,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第7—7页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1544,7 +1961,7 @@
               "questionNumber": 36,
               "stem": "填入原文第 [36] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1559,6 +1976,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第7—7页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1566,7 +1995,7 @@
               "questionNumber": 37,
               "stem": "填入原文第 [37] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1581,6 +2010,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第7—7页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1588,7 +2029,7 @@
               "questionNumber": 38,
               "stem": "填入原文第 [38] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1603,6 +2044,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第7—7页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1610,7 +2063,7 @@
               "questionNumber": 39,
               "stem": "填入原文第 [39] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1625,6 +2078,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第7—7页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1632,7 +2097,7 @@
               "questionNumber": 40,
               "stem": "填入原文第 [40] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1647,6 +2112,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第7—7页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             }
@@ -1659,7 +2136,7 @@
       "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
       "sortOrder": 6,
       "scorePerQuestion": 1.5,
-      "passage": "### 短文原文\n**Achieving Success in a Presentation**\n\nThe success of a _presentation_ (present) is leaving your audience with something of value. What do they get from __[41] (spend) time listening to your presentation? Many people think that they need to be brilliant to present well. They think that they need to be smart, witty and __[42] (charm) before they start to write a speech. Those qualities can come __[43] (natural), but most often, they come as a result of the passion and knowledge of the __[44] (speak).\n\nOne of the vital factors in having an __[45] (effect) presentation is serving the needs of your audience. Caring for your audience's needs __[46] (require) no perfection. You can make __[47] (mistake) and it's going to be OK. The __[48] (equip) can fail and it's still going to be OK. You don't have to use humor to be a __[49] (win). With that in mind, the real point is more like being successful at __[50] (reach) your audience.",
+      "passage": "Achieving Success in a Presentation\n\nThe success of a _presentation_ (present) is leaving your audience with something of value. What do they get from [41] (spend) time listening to your presentation? Many people think that they need to be brilliant to present well. They think that they need to be smart, witty and [42] (charm) before they start to write a speech. Those qualities can come [43] (natural), but most often, they come as a result of the passion and knowledge of the [44] (speak).\n\nOne of the vital factors in having an [45] (effect) presentation is serving the needs of your audience. Caring for your audience's needs [46] (require) no perfection. You can make [47] (mistake) and it's going to be OK. The [48] (equip) can fail and it's still going to be OK. You don't have to use humor to be a [49] (win). With that in mind, the real point is more like being successful at [50] (reach) your audience.",
       "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
       "optionsPool": [],
       "tasks": [
@@ -1672,7 +2149,7 @@
               "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
               "baseWord": "spend",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1687,6 +2164,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第8—8页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1695,7 +2184,7 @@
               "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
               "baseWord": "charm",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1710,6 +2199,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第8—8页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1718,7 +2219,7 @@
               "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
               "baseWord": "natural",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1733,6 +2234,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第8—8页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1741,7 +2254,7 @@
               "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
               "baseWord": "speak",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1756,6 +2269,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第8—8页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1764,7 +2289,7 @@
               "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
               "baseWord": "effect",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1779,6 +2304,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第8—8页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1787,7 +2324,7 @@
               "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
               "baseWord": "require",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1802,6 +2339,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第8—8页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1810,7 +2359,7 @@
               "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
               "baseWord": "mistake",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1825,6 +2374,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第8—8页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1833,7 +2394,7 @@
               "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
               "baseWord": "equip",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1848,6 +2409,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第8—8页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1856,7 +2429,7 @@
               "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
               "baseWord": "win",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1871,6 +2444,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第8—8页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             },
@@ -1879,7 +2464,7 @@
               "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
               "baseWord": "reach",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1894,6 +2479,18 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第8—8页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
                 }
               ]
             }
@@ -1906,7 +2503,7 @@
       "title": "第七部分：短文写作（第51题，30分）",
       "sortOrder": 7,
       "scorePerQuestion": 30.0,
-      "passage": "请根据所提供材料中的要求完成一篇100词左右的英文写作任务。将你的答案写在答题卡相应的位置上。\n\n### 题目\n**51.**\n假设你刚找到一份满意的工作。请给你的美国朋友 Tom 写一封英文电子邮件，分享你的喜悦，内容包括：\n- 你找了一份什么工作\n- 你为什么喜欢这份工作\n- 请以 Li Ke 署名",
+      "passage": "请根据所提供材料中的要求完成一篇100词左右的英文写作任务。将你的答案写在答题卡相应的位置上。\n\n51.\n假设你刚找到一份满意的工作。请给你的美国朋友 Tom 写一封英文电子邮件，分享你的喜悦，内容包括：\n- 你找了一份什么工作\n- 你为什么喜欢这份工作\n- 请以 Li Ke 署名",
       "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
       "optionsPool": [],
       "tasks": [
@@ -1918,12 +2515,12 @@
               "questionNumber": 51,
               "stem": "短文写作",
               "scoreValue": 30.0,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
                   "standardAnswer": "略",
-                  "explanation": "**参考范文**:\nDear Tom,\n\nHow is everything going? I'm writing this email to share some exciting news with you. I have recently found a satisfying job as an English editor in an international publishing house.\n\nThere are several reasons why I like this job so much. First of all, it perfectly matches my major and interest in English literature. Working here allows me to read extensive English works and apply what I've learned in university. Furthermore, the company culture is vibrant and my colleagues are very friendly and supportive. I can learn a lot from them every day.\n\nWhat about you? How is your work and life lately? I'm looking forward to hearing from you soon!\n\nYours,  \nLi Ke",
+                  "explanation": "写作要点：约100词，以 Li Ke 给 Tom 写邮件，分享找到满意工作的喜悦，说明工作内容和喜欢的理由。原 PDF 第9页范文略，第10页按内容、结构和语言分五档（25—30、19—24、13—18、7—12、1—6分）；无关或字数过少可为0分。以下保留整理稿示例，非原卷范文、非唯一答案。\n\n**参考范文**:\nDear Tom,\n\nHow is everything going? I'm writing this email to share some exciting news with you. I have recently found a satisfying job as an English editor in an international publishing house.\n\nThere are several reasons why I like this job so much. First of all, it perfectly matches my major and interest in English literature. Working here allows me to read extensive English works and apply what I've learned in university. Furthermore, the company culture is vibrant and my colleagues are very friendly and supportive. I can learn a lot from them every day.\n\nWhat about you? How is your work and life lately? I'm looking forward to hearing from you soon!\n\nYours,  \nLi Ke",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
                   "disputed": false
@@ -1933,6 +2530,24 @@
                 {
                   "sourceFileName": "2023年04月真题.md",
                   "extractionMethod": "ocr"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 逐页视觉核验：本题所属原文、题干及选项见第8—8页。第4题由整理稿 B 改为 C（原文未提及幼崽，原 PDF 第9页答案为 C）；填词正文第40空后补回 on，与 move on 搭配一致。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "答案/作文参考页已逐项核对。"
+                },
+                {
+                  "sourceFileName": "2023年4月自考00015.pdf",
+                  "pageNumber": 10,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "原卷所附短文写作评分标准，已逐页核对。"
                 }
               ]
             }

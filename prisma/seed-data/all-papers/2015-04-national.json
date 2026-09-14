@@ -8,23 +8,18 @@
   "paperType": "exam",
   "totalScore": 100,
   "suggestedMinutes": 150,
-  "verified": false,
-  "status": "draft",
-  "publishBlocked": true,
-  "blockReasons": [
-    {
-      "code": "ocr_unverified",
-      "description": "全量批量导入草稿，待逐题人工核对"
-    }
-  ],
-  "sourceFile": "2015年04月真题.md",
+  "verified": true,
+  "status": "verified",
+  "publishBlocked": false,
+  "blockReasons": [],
+  "sourceFile": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
   "sections": [
     {
       "type": "reading_judgment",
       "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
       "sortOrder": 1,
-      "scorePerQuestion": 1.0,
-      "passage": "A；如果该句提供的是错误信息，选择 B；如\n果该句的信息文中没有提及，选择 C。\nUsing Music to Change Y our Mood\nEveryone knows that listening to music when feeling bad can provide a relief.\nMusic can also reduce stress, make depression more bearable and help you relax.\nAll the benefits of music can only be got if the listener enjoys the music he is\nlistening to. If the listener dislikes the music or finds it boring ，it will h ave a negative\neffect on him instead of a positive one.\nNow let's examine what most of us do when it comes to listening to music. We\nusually just listen to a play list and allow a program to randomly（任意的）select the\nsongs we are going to listen to.\nThis is where the program lies. What if you liked the first song but found the\nsecond one boring? What if the third one was a motivating song while the fourth\ndidn’t suit your emotions? What do you think the result will be?\nWhat you'll have is an emo tional mess! The first song will lift your mood a little.\nThe second will make you a little bored. The third will motivate you and then the\nfourth will put you down. In the end you’ll end up feeling worse than before.\nI strongly recommend dividing your play list into different small lists. For example,\na list for relaxation, a list for motivation and so on. Another very important thing you\nmust do is to get rid of all of the old music that you are bored of. Besides, don't listen\nto so ngs with negative words or messages.\nThe music you listen to can delay your recovery from breakups （分手）by months\nand months! People who listen to romantic songs after breakups recover 10 times\nslower than those who don't. So be careful with your play list if you want to recover\nfaster.",
+      "scorePerQuestion": 1,
+      "passage": "Using Music to Change Your Mood\nEveryone knows that listening to music when feeling bad can provide a relief.\nMusic can also reduce stress, make depression more bearable and help you relax.\nAll the benefits of music can only be got if the listener enjoys the music he is\nlistening to. If the listener dislikes the music or finds it boring ，it will have a negative\neffect on him instead of a positive one.\nNow let's examine what most of us do when it comes to listening to music. We\nusually just listen to a play list and allow a program to randomly（任意的）select the\nsongs we are going to listen to.\nThis is where the problem lies. What if you liked the first song but found the\nsecond one boring? What if the third one was a motivating song while the fourth\ndidn’t suit your emotions? What do you think the result will be?\nWhat you'll have is an emotional mess! The first song will lift your mood a little.\nThe second will make you a little bored. The third will motivate you and then the\nfourth will put you down. In the end you’ll end up feeling worse than before.\nI strongly recommend dividing your play list into different small lists. For example,\na list for relaxation, a list for motivation and so on. Another very important thing you\nmust do is to get rid of all of the old music that you are bored of. Besides, don't listen\nto songs with negative words or messages.\nThe music you listen to can delay your recovery from breakups （分手）by months\nand months! People who listen to romantic songs after breakups recover 10 times\nslower than those who don't. So be careful with your play list if you want to recover\nfaster.",
       "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
       "optionsPool": [],
       "tasks": [
@@ -35,8 +30,8 @@
             {
               "questionNumber": 1,
               "stem": "Music is believed to have a comforting effect.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -62,16 +57,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 54,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第54页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 55,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第55页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 62,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第62页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 2,
               "stem": "One can benefit from all kinds of music.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -97,16 +106,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 54,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第54页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 55,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第55页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 63,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第63页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 3,
               "stem": "People tend to listen to music selectively.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -132,16 +155,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 54,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第54页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 55,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第55页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 63,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第63页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 4,
               "stem": "People generally prefer motivating songs.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -167,16 +204,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 54,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第54页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 55,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第55页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 63,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第63页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 5,
-              "stem": "You sh ould listen to songs that suit your emotions.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "You should listen to songs that suit your emotions.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -202,16 +253,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 54,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第54页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 55,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第55页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 63,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第63页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 6,
               "stem": "It's advisable to have different lists of songs.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -237,16 +302,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 54,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第54页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 55,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第55页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 63,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第63页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 7,
               "stem": "You should remove all of the old music from your list.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -272,16 +351,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 54,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第54页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 55,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第55页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 63,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第63页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 8,
               "stem": "People should listen to songs with positive words.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -307,16 +400,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 54,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第54页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 55,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第55页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 63,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第63页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 9,
               "stem": "Romantic songs help people recover from breakups faster.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -342,16 +449,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 54,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第54页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 55,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第55页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 63,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第63页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 10,
               "stem": "Many people like romantic songs.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -377,8 +498,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 54,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第54页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 55,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第55页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 63,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第63页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -390,8 +525,8 @@
       "type": "reading_comprehension",
       "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
       "sortOrder": 2,
-      "scorePerQuestion": 2.0,
-      "passage": "个最佳选项。\nJust Introduce Yourself\nIt's so easy to walk into your first job and feel like a stranger in a strange land.\nBut you don't have to stay that way, and you shouldn't.\nYou have to remind yourself to kick your shyness away and introduce yourself. Just\na handshake will do. Ask the supervisor who hired you to introduce you around a bit.\nThat's the best way to make contacts. Then you'll know what to do and say when you\nmeet these people again.\nDon't do what my friend Sue did at her first job at Entertainment Weekly. \"That is\none of my biggest regrets: I hardly talked to anyone at all when I was there. I was\nscared and just thought people would ta lk to me first. Fo r a long time, I was hung up\non the thought that if someone was older, I respected them automatically. And even if\nsomeone started on Monday, and I started Tuesday, I just felt they had more\nexperience. In the area I worked for four months, I hardly spoke to these people,\" she\nsaid．\n\"Of course, now I realize that was the most stupid thing. If I could do that again, I'd\nremember that it's so important not to feel shy about introducing yourself. It's not like\nyou have to be very b old, ready to take over the place. Just introduce yourself and ask\nif there is anything you can do for them. That breaks the ice.\"\nSue believes that if she had introduced herself around a bit, there would be just no\ntelling what other opportunities or what other acquaintances she might have now. Not\nthat she regrets where she is now at all. But had she talked to more people at her first\njob, \"maybe it would have helped me get somewhere sooner,\" she said.",
+      "scorePerQuestion": 2,
+      "passage": "Just Introduce Yourself\nIt's so easy to walk into your first job and feel like a stranger in a strange land.\nBut you don't have to stay that way, and you shouldn't.\nYou have to remind yourself to kick your shyness away and introduce yourself. Just\na handshake will do. Ask the supervisor who hired you to introduce you around a bit.\nThat's the best way to make contacts. Then you'll know what to do and say when you\nmeet these people again.\nDon't do what my friend Sue did at her first job at Entertainment Weekly. \"That is\none of my biggest regrets: I hardly talked to anyone at all when I was there. I was\nscared and just thought people would talk to me first. For a long time, I was hung up\non the thought that if someone was older, I respected them automatically. And even if\nsomeone started on Monday, and I started Tuesday, I just felt they had more\nexperience. In the area I worked for four months, I hardly spoke to these people,\" she\nsaid．\n\"Of course, now I realize that was the most stupid thing. If I could do that again, I'd\nremember that it's so important not to feel shy about introducing yourself. It's not like\nyou have to be very bold, ready to take over the place. Just introduce yourself and ask\nif there is anything you can do for them. That breaks the ice.\"\nSue believes that if she had introduced herself around a bit, there would be just no\ntelling what other opportunities or what other acquaintances she might have now. Not\nthat she regrets where she is now at all. But had she talked to more people at her first\njob, \"maybe it would have helped me get somewhere sooner,\" she said.",
       "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
       "optionsPool": [],
       "tasks": [
@@ -401,9 +536,9 @@
           "questions": [
             {
               "questionNumber": 11,
-              "stem": "How do people usually feel wh en meeting people at their first job______?",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "How do people usually feel when meeting people at their first job______?",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -433,16 +568,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 55,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第55页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 56,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第56页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 64,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第64页。"
                 }
               ]
             },
             {
               "questionNumber": 12,
               "stem": "When Sue started her first job, she_____.",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -472,16 +621,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 55,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第55页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 56,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第56页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 64,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第64页。"
                 }
               ]
             },
             {
               "questionNumber": 13,
               "stem": "\"I was hung up on the thought\" in Paragraph 3 probably means \"I_____\".",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -511,16 +674,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 55,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第55页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 56,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第56页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 65,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第65页。"
                 }
               ]
             },
             {
               "questionNumber": 14,
               "stem": "What did Sue suggest we do at our first job______?",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -528,7 +705,7 @@
                 },
                 {
                   "key": "B",
-                  "content": "Get read y to take over the place."
+                  "content": "Get ready to take over the place."
                 },
                 {
                   "key": "C",
@@ -550,16 +727,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 55,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第55页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 56,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第56页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 65,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第65页。"
                 }
               ]
             },
             {
               "questionNumber": 15,
               "stem": "In talking about her first job experience, Sue expressed a sense of______.",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -589,8 +780,28 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 55,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第55页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 56,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第56页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 57,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第57页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 65,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第65页。"
                 }
               ]
             }
@@ -602,8 +813,8 @@
       "type": "summary_completion",
       "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
       "sortOrder": 3,
-      "scorePerQuestion": 1.0,
-      "passage": "阅读下面短文，请完成短文后的 2 项测试任务： （1）从第 16-20 题后所给\n的 6 个选项中为第①-⑤段每段选择 1 个正确的段落大意； （2）从第 21~25 题后\n所给的 6 个选项中选择 5 个正确选项，分别完成每个句子。\nThe Woman behind the Brooklyn Bridge\n①John Roebling planned to build the Brooklyn Bridge before 1867. But he never\nreally got started. In 1869, he died of an accident. The job fell to his son Washington,\na master of construction. In 1872, Washington was injured in buil din g the bridge. He\ncould not walk any longer. He could only see the building of the bridge from his\nwindow. But his mind was still fresh. How could he get his ideas down to the\nworkers?\n②That's where Emily came in. Emily and Washington married in 1865. At that\ntime John was planning the bridge. He sent his son around the world to study bridges.\nEmily went along with her husband and learnt much about bridge building. When\nJohn died and Washington became the boss, she taught herself mo re ab out bridge\nbuilding. She wanted to help her husband with his new job.\n③Emily regularly came to the building site. She gave Washington's instructions\nto the workers. And then she took questions back to him. However, as time went on,\nher role started to change. Soon, workers saw her as the new boss. As she had more\nand more knowledge, she became the chief engineer. She met with officials, discussed\nwith other engineers, and instructed the workers.\n④Emily also helped to solve pro blems outside the building site. Some people\nonce questioned her husband, s ability to head the bridge building. And the American\nSociety of Civil Engineers would think about replacing him. Emily went to meet the\ngroup. She gave a speech in defense of her husband. The group finally decided to\nkeep him on the job.\n⑤It took up 14 years to build the bridge. For 11 of those years, Emily was the\none in charge. The bridge finally opened on May 24, 1883. She was one of the first\npeople to cross the bridge. Emily never planned on becoming an engineer, but she\nturned out to be a great one.",
+      "scorePerQuestion": 1,
+      "passage": "阅读下面短文，请完成短文后的 2 项测试任务： （1）从第 16-20 题后所给\n的 6 个选项中为第①-⑤段每段选择 1 个正确的段落大意； （2）从第 21~25 题后\n所给的 6 个选项中选择 5 个正确选项，分别完成每个句子。\nThe Woman behind the Brooklyn Bridge\n①John Roebling planned to build the Brooklyn Bridge before 1867. But he never\nreally got started. In 1869, he died of an accident. The job fell to his son Washington,\na master of construction. In 1872, Washington was injured in building the bridge. He\ncould not walk any longer. He could only see the building of the bridge from his\nwindow. But his mind was still fresh. How could he get his ideas down to the\nworkers?\n②That's where Emily came in. Emily and Washington married in 1865. At that\ntime John was planning the bridge. He sent his son around the world to study bridges.\nEmily went along with her husband and learnt much about bridge building. When\nJohn died and Washington became the boss, she taught herself more about bridge\nbuilding. She wanted to help her husband with his new job.\n③Emily regularly came to the building site. She gave Washington's instructions\nto the workers. And then she took questions back to him. However, as time went on,\nher role started to change. Soon, workers saw her as the new boss. As she had more\nand more knowledge, she became the chief engineer. She met with officials, discussed\nwith other engineers, and instructed the workers.\n④Emily also helped to solve problems outside the building site. Some people\nonce questioned her husband's ability to head the bridge building. And the American\nSociety of Civil Engineers would think about replacing him. Emily went to meet the\ngroup. She gave a speech in defense of her husband. The group finally decided to\nkeep him on the job.\n⑤It took up 14 years to build the bridge. For 11 of those years, Emily was the\none in charge. The bridge finally opened on May 24, 1883. She was one of the first\npeople to cross the bridge. Emily never planned on becoming an engineer, but she\nturned out to be a great one.",
       "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
       "optionsPool": [],
       "tasks": [
@@ -614,8 +825,8 @@
             {
               "questionNumber": 16,
               "stem": "Paragraph①_____.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -653,16 +864,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 57,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第57页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 58,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第58页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 66,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第66页。"
                 }
               ]
             },
             {
               "questionNumber": 17,
               "stem": "Paragraph②_____.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -700,16 +925,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 57,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第57页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 58,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第58页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 66,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第66页。"
                 }
               ]
             },
             {
               "questionNumber": 18,
               "stem": "Paragraph③_____.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -747,16 +986,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 57,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第57页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 58,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第58页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 66,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第66页。"
                 }
               ]
             },
             {
               "questionNumber": 19,
               "stem": "Paragraph④_____.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -785,25 +1038,40 @@
               ],
               "answerRules": [
                 {
-                  "standardAnswer": "D",
-                  "originalAnswer": "D",
+                  "standardAnswer": "F",
+                  "originalAnswer": "F",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "revisionNotes": "2026-09-12 对照答案解析第66页及原文第57页：本段主旨为 Emily 为何发表演说，确定答案 F；修复原 JSON 误录 D。"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 57,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第57页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 58,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第58页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 66,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第66页。"
                 }
               ]
             },
             {
               "questionNumber": 20,
               "stem": "Paragraph⑤_____.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -841,8 +1109,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 57,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第57页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 58,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第58页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 66,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第66页。"
                 }
               ]
             }
@@ -855,8 +1137,8 @@
             {
               "questionNumber": 21,
               "stem": "After his father died,_____.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -894,16 +1176,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 57,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第57页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 58,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第58页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 66,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第66页。"
                 }
               ]
             },
             {
               "questionNumber": 22,
               "stem": "Accompanied by Emily,_____.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -941,16 +1237,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 57,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第57页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 58,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第58页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 67,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第67页。"
                 }
               ]
             },
             {
               "questionNumber": 23,
               "stem": "As time went on, _____.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -988,16 +1298,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 57,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第57页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 58,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第58页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 67,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第67页。"
                 }
               ]
             },
             {
               "questionNumber": 24,
               "stem": "Emily gave a speech,_____.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1035,16 +1359,30 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 57,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第57页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 58,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第58页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 67,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第67页。"
                 }
               ]
             },
             {
               "questionNumber": 25,
               "stem": "It took fourteen years,_____.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1082,8 +1420,22 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 57,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第57页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 58,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第58页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 67,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第67页。"
                 }
               ]
             }
@@ -1095,8 +1447,8 @@
       "type": "sentence_fill",
       "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
       "sortOrder": 4,
-      "scorePerQuestion": 2.0,
-      "passage": "短文内容 将其分别放回原有位置，以恢复文章原貌。\nPlaying Games—Not Only Fun\nFor many people, playing games is a way to have some fun.__[26]It is a great\nway to keep your mental health in check. Actually, anything that requires you to do\nsome thinking will help you keep your brain healthy.\nYou may say that this sounds great but you just don, t have the time to do it. If\nyou want to improve your mental health, you will make ti me fo r it.__[27]You can\nexercise your brain before work and while the rest of your family is still in bed. This\ncan greatly change your attitude for the rest of the day.\nTurn the TV off in the evening and spend some time playing games alone or with\na family member.___[28]Try a variety of new games, too. This way, you don't get\nbored playing the same one all the time.\nMost games offer several different levels. To get the most exercise for your brain,\nstart out with the easy stuff.__[29]As you r level of skill improves, go on to\nchallenge your brain by moving into more advanced levels of the game.\nFind the games that you really enjoy playing. Keeping your brain sharp with\nsuch games is really going to pay off for you in many ways.__[30]You will find that\nyou have less stress and that it is easier to make decisions. You will also find that your\nmemory is improving.",
+      "scorePerQuestion": 2,
+      "passage": "Playing Games—Not Only Fun\nFor many people, playing games is a way to have some fun. [26] It is a great\nway to keep your mental health in check. Actually, anything that requires you to do\nsome thinking will help you keep your brain healthy.\nYou may say that this sounds great but you just don't have the time to do it. If\nyou want to improve your mental health, you will make time for it. [27] You can\nexercise your brain before work and while the rest of your family is still in bed. This\ncan greatly change your attitude for the rest of the day.\nTurn the TV off in the evening and spend some time playing games alone or with\na family member. [28] Try a variety of new games, too. This way, you don't get\nbored playing the same one all the time.\nMost games offer several different levels. To get the most exercise for your brain,\nstart out with the easy stuff. [29] As your level of skill improves, go on to\nchallenge your brain by moving into more advanced levels of the game.\nFind the games that you really enjoy playing. Keeping your brain sharp with\nsuch games is really going to pay off for you in many ways. [30] You will find that\nyou have less stress and that it is easier to make decisions. You will also find that your\nmemory is improving.",
       "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
       "optionsPool": [
         {
@@ -1132,8 +1484,8 @@
             {
               "questionNumber": 26,
               "stem": "填入原文第 [26] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1171,16 +1523,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 59,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第59页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 68,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第68页。"
                 }
               ]
             },
             {
               "questionNumber": 27,
               "stem": "填入原文第 [27] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1218,16 +1578,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 59,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第59页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 68,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第68页。"
                 }
               ]
             },
             {
               "questionNumber": 28,
               "stem": "填入原文第 [28] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1265,16 +1633,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 59,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第59页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 68,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第68页。"
                 }
               ]
             },
             {
               "questionNumber": 29,
               "stem": "填入原文第 [29] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1312,16 +1688,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 59,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第59页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 68,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第68页。"
                 }
               ]
             },
             {
               "questionNumber": 30,
               "stem": "填入原文第 [30] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1359,8 +1743,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 59,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第59页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 68,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第68页。"
                 }
               ]
             }
@@ -1373,7 +1765,7 @@
       "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
       "sortOrder": 5,
       "scorePerQuestion": 1.5,
-      "passage": "据短文内容将其分别放回原有位置，以恢复文章原貌。\nLearn from Your Failures\nHave you ever failed? If not, it is___[31]that you have never taken a_[32]on\ntrying anything new, or else you are lying.\nThere is nothing__[33]with failing, as long as you learn from your mistakes,\nmodify your approach and try again. In fact, the more often you fail, the sooner it will\nbe that you__[34]succeed, provided that you do learn and keep trying.\nYou can___[35]only from experience and you get experi en ce only from having a\ngo at something. It may be more__[36]to succeed, but you can__[37]learn more\nfrom failing. This is only if you are observant and take__[38]of what you are doing\nand which things have worked and which haven’t. You then need to___[39]what has\nhappened, alter your___[40]and move on.\nSo go for it! You will eventually get there—unless you stop trying.",
+      "passage": "Learn from Your Failures\nHave you ever failed? If not, it is [31] that you have never taken a [32] on\ntrying anything new, or else you are lying.\nThere is nothing [33] with failing, as long as you learn from your mistakes,\nmodify your approach and try again. In fact, the more often you fail, the sooner it will\nbe that you [34] succeed, provided that you do learn and keep trying.\nYou can [35] only from experience and you get experience only from having a\ngo at something. It may be more [36] to succeed, but you can [37] learn more\nfrom failing. This is only if you are observant and take [38] of what you are doing\nand which things have worked and which haven’t. You then need to [39] what has\nhappened, alter your [40] and move on.\nSo go for it! You will eventually get there—unless you stop trying.",
       "instructions": "从备选词汇池中选择最佳单词填入空白处。",
       "optionsPool": [
         {
@@ -1434,7 +1826,7 @@
               "questionNumber": 31,
               "stem": "填入原文第 [31] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1447,8 +1839,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 60,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第60页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 69,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第69页。"
                 }
               ]
             },
@@ -1456,7 +1856,7 @@
               "questionNumber": 32,
               "stem": "填入原文第 [32] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1469,8 +1869,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 60,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第60页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 69,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第69页。"
                 }
               ]
             },
@@ -1478,7 +1886,7 @@
               "questionNumber": 33,
               "stem": "填入原文第 [33] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1491,8 +1899,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 60,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第60页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 69,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第69页。"
                 }
               ]
             },
@@ -1500,7 +1916,7 @@
               "questionNumber": 34,
               "stem": "填入原文第 [34] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1513,8 +1929,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 60,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第60页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 69,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第69页。"
                 }
               ]
             },
@@ -1522,7 +1946,7 @@
               "questionNumber": 35,
               "stem": "填入原文第 [35] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1535,8 +1959,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 60,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第60页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 69,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第69页。"
                 }
               ]
             },
@@ -1544,7 +1976,7 @@
               "questionNumber": 36,
               "stem": "填入原文第 [36] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1557,8 +1989,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 60,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第60页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 69,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第69页。"
                 }
               ]
             },
@@ -1566,7 +2006,7 @@
               "questionNumber": 37,
               "stem": "填入原文第 [37] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1579,8 +2019,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 60,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第60页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 69,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第69页。"
                 }
               ]
             },
@@ -1588,7 +2036,7 @@
               "questionNumber": 38,
               "stem": "填入原文第 [38] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1601,8 +2049,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 60,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第60页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 69,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第69页。"
                 }
               ]
             },
@@ -1610,7 +2066,7 @@
               "questionNumber": 39,
               "stem": "填入原文第 [39] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1623,8 +2079,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 60,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第60页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 69,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第69页。"
                 }
               ]
             },
@@ -1632,7 +2096,7 @@
               "questionNumber": 40,
               "stem": "填入原文第 [40] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1645,8 +2109,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 60,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第60页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 70,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第70页。"
                 }
               ]
             }
@@ -1659,7 +2131,7 @@
       "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
       "sortOrder": 6,
       "scorePerQuestion": 1.5,
-      "passage": "正确的形式填入文中，以恢复文章原貌。\nVoice a nd Text Chatting\nV oice chat and text chat are quickly (quick) becoming preferred ways of\ncommunicating with others online. For language _[41](learner), these forms of\ncommunication___[42](able) them to share ideas about themselves and the world in\nalmost real time. They can establish friendships with people from around the globe.\nThus, it can be an easy way to learn languages and world __[43](culture).\nHowever, care and consideration should be__[44](give )wh en you are looking for\nfriends on the Internet because you __[45](real) don't know who the person is at the\nother end. Thus, never give out personal information __[46](include) your name,\nage, where you live, and the name of the school you attend. Also, be __[47](care)\nabout meeting online acquaintances in person, and if you do so, make sure it is in a\npublic place and go with a friend or a family member.__[48](final), contact local\nauthorities if you feel you are in danger. Again, chatting with others can be an\nenjoyable and ___[49](education)activity if you use care when __[50](do) so.",
+      "passage": "Voice and Text Chatting\nVoice chat and text chat are quickly (quick) becoming preferred ways of\ncommunicating with others online. For language [41] (learner), these forms of\ncommunication [42] (able) them to share ideas about themselves and the world in\nalmost real time. They can establish friendships with people from around the globe.\nThus, it can be an easy way to learn languages and world [43] (culture).\nHowever, care and consideration should be [44] (give) when you are looking for\nfriends on the Internet because you [45] (real) don't know who the person is at the\nother end. Thus, never give out personal information [46] (include) your name,\nage, where you live, and the name of the school you attend. Also, be [47] (care)\nabout meeting online acquaintances in person, and if you do so, make sure it is in a\npublic place and go with a friend or a family member. [48] (final), contact local\nauthorities if you feel you are in danger. Again, chatting with others can be an\nenjoyable and [49] (education) activity if you use care when [50] (do) so.",
       "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
       "optionsPool": [],
       "tasks": [
@@ -1672,7 +2144,7 @@
               "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
               "baseWord": "learner",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1685,8 +2157,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 60,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第60页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 70,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第70页。"
                 }
               ]
             },
@@ -1695,7 +2175,7 @@
               "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
               "baseWord": "able",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1708,8 +2188,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 60,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第60页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 70,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第70页。"
                 }
               ]
             },
@@ -1718,7 +2206,7 @@
               "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
               "baseWord": "culture",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1731,8 +2219,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 60,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第60页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 70,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第70页。"
                 }
               ]
             },
@@ -1741,7 +2237,7 @@
               "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
               "baseWord": "give",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1754,8 +2250,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 60,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第60页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 70,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第70页。"
                 }
               ]
             },
@@ -1764,7 +2268,7 @@
               "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
               "baseWord": "real",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1777,8 +2281,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 60,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第60页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 70,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第70页。"
                 }
               ]
             },
@@ -1787,7 +2299,7 @@
               "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
               "baseWord": "include",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1800,8 +2312,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 60,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第60页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 71,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第71页。"
                 }
               ]
             },
@@ -1810,7 +2330,7 @@
               "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
               "baseWord": "care",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1823,8 +2343,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 61,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第61页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 71,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第71页。"
                 }
               ]
             },
@@ -1833,7 +2361,7 @@
               "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
               "baseWord": "final",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1846,8 +2374,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 61,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第61页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 71,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第71页。"
                 }
               ]
             },
@@ -1856,7 +2392,7 @@
               "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
               "baseWord": "education",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1869,8 +2405,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 61,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第61页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 71,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第71页。"
                 }
               ]
             },
@@ -1879,7 +2423,7 @@
               "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
               "baseWord": "do",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1892,8 +2436,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 61,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第61页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 71,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第71页。"
                 }
               ]
             }
@@ -1905,8 +2457,8 @@
       "type": "essay",
       "title": "第七部分：短文写作（第51题，30分）",
       "sortOrder": 7,
-      "scorePerQuestion": 30.0,
-      "passage": "请根据所提供材料中的要求完成一篇 100 词左右的英文写作任务。 将你的答案写\n在\n答題卡相应的位置上。\n51. 某英文报社正在举办 “I Like Playing Sports ”的征文活\n动。写一篇英文短文应征。内容包括以下两个方面：\n·你经常做什么体育运动？\n·体育运动对你有哪些好处？",
+      "scorePerQuestion": 30,
+      "passage": "请根据所提供材料中的要求完成一篇 100 词左右的英文写作任务。将你的答案写在答题卡相应的位置上。\n51. 某英文报社正在举办“I Like Playing Sports”的征文活动。写一篇英文短文应征。内容包括以下两个方面：\n• 你经常做什么体育运动？\n• 体育运动对你有哪些好处？",
       "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
       "optionsPool": [],
       "tasks": [
@@ -1917,22 +2469,31 @@
             {
               "questionNumber": 51,
               "stem": "短文写作",
-              "scoreValue": 30.0,
-              "verified": false,
+              "scoreValue": 30,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
                   "standardAnswer": "略",
-                  "explanation": "短文写作属于主观题，需结合题目要点书写。",
+                  "explanation": "**参考范文**\n\nI Like Playing Sports\n\nI like playing sports, my favorite sport is running. Running has so many advantages.\n\nFirstly, running is good for me to build my body. It makes my heart beat faster and makes me stronger. Everyone hopes to live healthy in the world. Secondly, running can make me happy, and makes me sleep better at night. Thirdly, running also helps me lose my weight, so I can get rid of the extra fat in my body. Lastly, I can make many friends when running, it enriches my social life.\n\nIn a word, running is important, helpful and absolutely necessary to me. I will keep running.\n\n**参考译文**\n\n我喜欢运动，我最喜欢的运动是跑步。跑步有很多好处。\n\n首先，跑步对我的身体有好处，它使我的心跳更快，使我更强壮。每个人都希望健康地生活在世界上。其次，跑步可以让我快乐，让我晚上睡得更好。第三，跑步也帮助我减肥，所以我可以摆脱掉身体里多余的脂肪。最后，我可以在跑步的时候交很多朋友，它丰富了我的社交生活。\n\n总之，跑步对我来说很重要，很有帮助，也是绝对必要的。我将继续跑步。",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
-                  "disputed": false
+                  "disputed": false,
+                  "revisionNotes": "2026-09-12 对照答案解析第71页补录参考范文及译文，并清理 OCR 断词和标点。"
                 }
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2015年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 61,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原题文章、题干或选项第61页。"
+                },
+                {
+                  "sourceFileName": "2013.10-2015.10自考英语二真题试卷+答案解析.pdf",
+                  "pageNumber": 71,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案解析第71页。"
                 }
               ]
             }

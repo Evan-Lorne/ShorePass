@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
-import { runQualityCheck } from "@/lib/qualityCheck";
+import { runPublicationQualityCheck } from "@/lib/qualityCheck";
 import { requireAdmin } from "@/lib/auth";
 import { HttpError } from "@/lib/http";
 
@@ -43,7 +43,7 @@ export async function POST(request: Request, { params }: { params: Promise<{ id:
       // Publishing is the transition that promotes an evidence-complete draft to
       // verified. Validate the target state while still requiring every question,
       // source page and answer rule to pass the full quality check.
-      const errors = runQualityCheck({ ...paper, verified: true });
+      const errors = runPublicationQualityCheck(paper);
 
       if (errors.length > 0) {
         // Update block reasons

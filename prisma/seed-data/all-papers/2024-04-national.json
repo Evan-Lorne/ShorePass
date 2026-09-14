@@ -8,23 +8,18 @@
   "paperType": "exam",
   "totalScore": 100,
   "suggestedMinutes": 150,
-  "verified": false,
-  "status": "draft",
-  "publishBlocked": true,
-  "blockReasons": [
-    {
-      "code": "ocr_unverified",
-      "description": "全量批量导入草稿，待逐题人工核对"
-    }
-  ],
-  "sourceFile": "2024年04月真题.md",
+  "verified": true,
+  "status": "verified",
+  "publishBlocked": false,
+  "blockReasons": [],
+  "sourceFile": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
   "sections": [
     {
       "type": "reading_judgment",
       "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
       "sortOrder": 1,
-      "scorePerQuestion": 1.0,
-      "passage": "Do You Love Your Dog More Than Humans?**\n\nElizabeth Anderson once had a dog named Grace. She and her husband cared for Grace and tried to keep her out of trouble. They took her on vacations and enjoyed her company around the house. When Grace died at age 14, they were deeply upset. Because Grace was a dog, \"I was unable to talk to anyone about this great grief,\" says Anderson.\n\n\"But it's common to feel that way after the loss of a dog,\" says Stanley Coren, a professor of psychology. \"Our relationship with dogs is simple. Some might call it true love.\"\n\nThe bond between people and their dogs is a lot like love. In one recent study, when the dogs and their owners just looked at each other, they both had a higher level of the hormone (荷尔蒙) associated with love. \"It is very natural to form a bond between dogs and humans,\" says Takefumi Kikusui, author of the study. \"But we found the same can't be said for humans and wolves.\"\n\n\"Dogs are man's best friend,\" says Coren. \"We've trained them to be that way. We invented the dog to fit in our lives. For 14,000 years, we've been creating an animal which understands our communications and we understand its communications. They have a bond with us.\" For example, if a person points to something in a distance, a dog will look in the direction of the finger, just like a human. But what about a wolf? \"It would simply look at the finger,\" Coren says.\n\nFor Anderson, dogs are more lovable than humans. She says, \"They try their best to please us. They want to do whatever we want to do. Their love is not limited. They are good at all the things we enjoy in a relationship.\"\n\n### 题目",
+      "scorePerQuestion": 1,
+      "passage": "Do You Love Your Dog More Than Humans?\n\nElizabeth Anderson once had a dog named Grace. She and her husband cared for Grace and tried to keep her out of trouble. They took her on vacations and enjoyed her company around the house. When Grace died at age 14, they were deeply upset. Because Grace was a dog, \"I was unable to talk to anyone about this great grief,\" says Anderson.\n\n\"But it's common to feel that way after the loss of a dog,\" says Stanley Coren, a professor of psychology. \"Our relationship with dogs is simple. Some might call it true love.\"\n\nThe bond between people and their dogs is a lot like love. In one recent study, when the dogs and their owners just looked at each other, they both had a higher level of the hormone (荷尔蒙) associated with love. \"It is very natural to form a bond between dogs and humans,\" says Takefumi Kikusui, author of the study. \"But we found the same can't be said for humans and wolves.\"\n\n\"Dogs are man's best friend,\" says Coren. \"We've trained them to be that way. We invented the dog to fit in our lives. For 14,000 years, we've been creating an animal which understands our communications and we understand its communications. They have a bond with us.\" For example, if a person points to something in a distance, a dog will look in the direction of the finger, just like a human. But what about a wolf? \"It would simply look at the finger,\" Coren says.\n\nFor Anderson, dogs are more lovable than humans. She says, \"They try their best to please us. They want to do whatever we want to do. Their love is not limited. They are good at all the things we enjoy in a relationship.\"",
       "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
       "optionsPool": [],
       "tasks": [
@@ -34,9 +29,9 @@
           "questions": [
             {
               "questionNumber": 1,
-              "stem": "Grace became a member of Anderson's family at 14.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Grace became a member of Anderson's family at 14.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -62,16 +57,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 2,
-              "stem": "Anderson enjoyed her time with Grace.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Anderson enjoyed her time with Grace.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -97,16 +100,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 3,
-              "stem": "Grace died in an accident.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Grace died in an accident.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -132,16 +143,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 4,
-              "stem": "Coren does not understand people's grief over the loss of their dogs.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Coren does not understand people's grief over the loss of their dogs.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -167,16 +186,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 5,
-              "stem": "The bond between humans and dogs can be compared to love.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "The bond between humans and dogs can be compared to love.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -202,16 +229,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 6,
-              "stem": "Dogs have the hormone associated with love.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Dogs have the hormone associated with love.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -237,16 +272,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 7,
-              "stem": "Kikusui knows why wolves are different from dogs.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Kikusui knows why wolves are different from dogs.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -272,16 +315,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 8,
-              "stem": "Man started to train dogs 14,000 years ago.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Man started to train dogs 14,000 years ago.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -307,16 +358,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 9,
-              "stem": "A wolf understands human communications.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "A wolf understands human communications.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -342,16 +401,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 10,
-              "stem": "Anderson finds humans more lovable than dogs.\n- A. True\n- B. False\n- C. Not Given",
-              "scoreValue": 1.0,
-              "verified": false,
+              "stem": "Anderson finds humans more lovable than dogs.",
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -377,8 +444,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -390,8 +465,8 @@
       "type": "reading_comprehension",
       "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
       "sortOrder": 2,
-      "scorePerQuestion": 2.0,
-      "passage": "### 短文原文\n**Marta Garcia: Inspired by Technology**\n\nMarta Garcia is a high school senior. In the past years she has been working on a variety of projects. The projects are part of her work with Techbridge, a nonprofit organization. Techbridge was set up in 2000 to increase the number of women in science, technology, engineering and math (STEM). It offers a range of after-school activities for students.\n\nTechbridge focuses on learning by doing. It attracts Marta's interest. \"When I was a kid,\" says Marta, \"I wasn't into English. I was really into technology and math. My older sister was in Techbridge. She encouraged me to join. It was something for me to do after school. I found it pretty fun.\"\n\nMarta has created a complex music-making machine. Her latest project is a digital piano, which shows how far her STEM skills have advanced. Marta's instructors have been following her progress closely. \"I've seen her master STEM skills,\" says Techbridge CEO Linda Kekelis. \"She's very confident to face challenges. She isn't afraid of temporary setbacks.\"\n\nMarta plans to attend Smith College this fall. She is still drawn to math and technology. But she does not want to be limited to one particular course of study.\n\n\"I'm not sure what I want to do after college graduation,\" says Marta. \"I know a STEM career is an option.\" The future will be filled with jobs that require STEM skills. So her love of technology and her experience with Techbridge will serve her well.\n\n### 题目",
+      "scorePerQuestion": 2,
+      "passage": "Marta Garcia: Inspired by Technology\n\nMarta Garcia is a high school senior. In the past years she has been working on a variety of projects. The projects are part of her work with Techbridge, a nonprofit organization. Techbridge was set up in 2000 to increase the number of women in science, technology, engineering and math (STEM). It offers a range of after-school activities for students.\n\nTechbridge focuses on learning by doing. It attracts Marta's interest. \"When I was a kid,\" says Marta, \"I wasn't into English. I was really into technology and math. My older sister was in Techbridge. She encouraged me to join. It was something for me to do after school. I found it pretty fun.\"\n\nMarta has created a complex music-making machine. Her latest project is a digital piano, which shows how far her STEM skills have advanced. Marta's instructors have been following her progress closely. \"I've seen her master STEM skills,\" says Techbridge CEO Linda Kekelis. \"She's very confident to face challenges. She isn't afraid of temporary setbacks.\"\n\nMarta plans to attend Smith College this fall. She is still drawn to math and technology. But she does not want to be limited to one particular course of study.\n\n\"I'm not sure what I want to do after college graduation,\" says Marta. \"I know a STEM career is an option.\" The future will be filled with jobs that require STEM skills. So her love of technology and her experience with Techbridge will serve her well.",
       "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
       "optionsPool": [],
       "tasks": [
@@ -401,9 +476,9 @@
           "questions": [
             {
               "questionNumber": 11,
-              "stem": "Techbridge was set up to __________.\n- A. train women teachers\n- B. offer jobs for students\n- C. teach STEM at school\n- D. help girls learn STEM",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "Techbridge was set up to __________.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -433,16 +508,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 12,
-              "stem": "Marta Garcia works with Techbridge to __________.\n- A. develop her interest\n- B. finish her education\n- C. improve her English\n- D. please her older sister",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "Marta Garcia works with Techbridge to __________.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -472,16 +555,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 13,
-              "stem": "Linda Kekelis is impressed by Marta Garcia's __________.\n- A. knowledge\n- B. interests\n- C. confidence\n- D. instructions",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "Linda Kekelis is impressed by Marta Garcia's __________.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -511,16 +602,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 14,
-              "stem": "The word \"setbacks\" (Para. 3) most probably means \"__________\".\n- A. advances\n- B. difficulties\n- C. activities\n- D. projects",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "The word \"setbacks\" (Para. 3) most probably means \"__________\".",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -550,16 +649,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 15,
-              "stem": "Marta Garcia's experience with Techbridge will __________.\n- A. help her finish university\n- B. benefit her in the future\n- C. limit her to a STEM job\n- D. let her take fewer courses",
-              "scoreValue": 2.0,
-              "verified": false,
+              "stem": "Marta Garcia's experience with Techbridge will __________.",
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -589,8 +696,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -602,8 +717,8 @@
       "type": "summary_completion",
       "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
       "sortOrder": 3,
-      "scorePerQuestion": 1.0,
-      "passage": "阅读下面短文，请完成短文后的2项测试任务：（1）从第16～20题后所给的6个选项中为第❶～❺段每段选择1个正确的小标题；（2）从第21～25题后所给的6个选项中选择5个正确选项，分别完成每个句子。在答题纸相应位置上将答案选项涂黑。\n\n### 短文原文\n**How to Create a Five-Year Career Plan**\n\n❶ More and more people choose to make a five-year career plan. They think that the plan can help them to learn where they would like to go in the future. In fact, with a five-year plan, you can document the progress you have already made in your chosen career. You can also learn where you are likely to be heading in the future.\n\n❷ The initial step is to think about an end goal. This can help you to gain focus on your career. When you are setting your end goal, make sure that you do not choose a job purely based on its salary. Though salaries for the job may be high now, demand often changes over time.\n\n❸ The next step is to get an adviser. An adviser is generally a person who has achieved success in the career that you wish to take. Ideally, an adviser can give you sound career advice. Make sure that you choose your adviser carefully as they may provide you with great insight.\n\n❹ Next, you will need to think about the abilities that you will need to fulfill your career plan. Assess your current work experience and past education; figure out any specific skills or knowledge you already have; identify any gaps that you will need to fill in order to meet your end goal; and list any opportunities that you can take to improve the skills or knowledge that you have identified.\n\n❺ Finally, you will need to identify the jobs that you would like to take. If you feel that you already have the required skills and knowledge, apply for them. Even if you fail to get one, you will gain some invaluable knowledge from the interview.",
+      "scorePerQuestion": 1,
+      "passage": "阅读下面短文，请完成短文后的2项测试任务：（1）从第16～20题后所给的6个选项中为第❶～❺段每段选择1个正确的小标题；（2）从第21～25题后所给的6个选项中选择5个正确选项，分别完成每个句子。在答题纸相应位置上将答案选项涂黑。\n\nHow to Create a Five-Year Career Plan\n\n❶ More and more people choose to make a five-year career plan. They think that the plan can help them to learn where they would like to go in the future. In fact, with a five-year plan, you can document the progress you have already made in your chosen career. You can also learn where you are likely to be heading in the future.\n\n❷ The initial step is to think about an end goal. This can help you to gain focus on your career. When you are setting your end goal, make sure that you do not choose a job purely based on its salary. Though salaries for the job may be high now, demand often changes over time.\n\n❸ The next step is to get an adviser. An adviser is generally a person who has achieved success in the career that you wish to take. Ideally, an adviser can give you sound career advice. Make sure that you choose your adviser carefully as they may provide you with great insight.\n\n❹ Next, you will need to think about the abilities that you will need to fulfill your career plan. Assess your current work experience and past education; figure out any specific skills or knowledge you already have; identify any gaps that you will need to fill in order to meet your end goal; and list any opportunities that you can take to improve the skills or knowledge that you have identified.\n\n❺ Finally, you will need to identify the jobs that you would like to take. If you feel that you already have the required skills and knowledge, apply for them. Even if you fail to get one, you will gain some invaluable knowledge from the interview.",
       "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
       "optionsPool": [],
       "tasks": [
@@ -614,8 +729,8 @@
             {
               "questionNumber": 16,
               "stem": "Paragraph ❶:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -653,16 +768,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 17,
               "stem": "Paragraph ❷:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -700,16 +823,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 18,
               "stem": "Paragraph ❸:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -747,16 +878,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 19,
               "stem": "Paragraph ❹:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -794,16 +933,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 20,
               "stem": "Paragraph ❺:",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -841,8 +988,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -855,8 +1010,8 @@
             {
               "questionNumber": 21,
               "stem": "A career plan can give you __________.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -894,16 +1049,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 22,
               "stem": "When you choose a job, you should not focus on __________.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -941,16 +1104,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 23,
               "stem": "To gain career guidance, you should try __________.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -988,16 +1159,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 24,
               "stem": "To fulfill a career plan, you should __________.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1035,16 +1214,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 25,
               "stem": "A job interview can __________.",
-              "scoreValue": 1.0,
-              "verified": false,
+              "scoreValue": 1,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1082,8 +1269,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1095,8 +1290,8 @@
       "type": "sentence_fill",
       "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
       "sortOrder": 4,
-      "scorePerQuestion": 2.0,
-      "passage": "### 短文原文\n**What Does Happiness Mean?**\n\nHappiness in life differs for all of us. __[26] Very often we are happy, but we just don't realize it. If you think about what actually makes you happy, you might find you have those things already around you.\n\nYour happiness depends entirely on you. __[27] It is something inside you that you have to find and work towards. You can take positive action and make changes to your life or yourself in order to achieve happiness.\n\n__[28] The first step for you to do so is to look at your feelings and ask yourself questions such as \"if I could be enjoying something in my life, what would it be?\" and \"what makes me feel satisfied in my life right now?\" Once you understand what your idea of happiness is, you can build on what you have now or focus on changing your life to what you would like it to be.\n\nThe important thing to do is to examine your feelings by way of the answers you give to your questions. __[29] You should also focus on the good or bad feelings you get from your questions and answers.\n\nHappiness is something that is already right there inside you. You just have to realize what it is and bring it out to start enjoying life. It can be found in family life, work, relationships, nature or a pet, to name just a few. __[30] The point is where to look. You should look in the right direction, that is, your inner self.\n\n### 备选句子\n\n**标准答案**:\n26: F\n27: A\n28: D\n29: B\n30: E",
+      "scorePerQuestion": 2,
+      "passage": "What Does Happiness Mean?\n\nHappiness in life differs for all of us. [26] Very often we are happy, but we just don't realize it. If you think about what actually makes you happy, you might find you have those things already around you.\n\nYour happiness depends entirely on you. [27] It is something inside you that you have to find and work towards. You can take positive action and make changes to your life or yourself in order to achieve happiness.\n\n[28] The first step for you to do so is to look at your feelings and ask yourself questions such as \"if I could be enjoying something in my life, what would it be?\" and \"what makes me feel satisfied in my life right now?\" Once you understand what your idea of happiness is, you can build on what you have now or focus on changing your life to what you would like it to be.\n\nThe important thing to do is to examine your feelings by way of the answers you give to your questions. [29] You should also focus on the good or bad feelings you get from your questions and answers.\n\nHappiness is something that is already right there inside you. You just have to realize what it is and bring it out to start enjoying life. It can be found in family life, work, relationships, nature or a pet, to name just a few. [30] The point is where to look. You should look in the right direction, that is, your inner self.",
       "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
       "optionsPool": [
         {
@@ -1132,8 +1327,8 @@
             {
               "questionNumber": 26,
               "stem": "填入原文第 [26] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1171,16 +1366,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 27,
               "stem": "填入原文第 [27] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1218,16 +1421,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 28,
               "stem": "填入原文第 [28] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1265,16 +1476,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 29,
               "stem": "填入原文第 [29] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1312,16 +1531,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 30,
               "stem": "填入原文第 [30] 空的最佳选项。",
-              "scoreValue": 2.0,
-              "verified": false,
+              "scoreValue": 2,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1359,8 +1586,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1373,7 +1608,7 @@
       "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
       "sortOrder": 5,
       "scorePerQuestion": 1.5,
-      "passage": "**Tips for Improving Your Body Image**\n\nSome people think that they need to change how they look or act to feel good about themselves. But actually all you need to [31] is change the way you see your body and how you think about yourself.\n\nThe first thing to do is [32] that your body is your own. If you're very worried about your weight or size, [33] with your doctor to verify that things are OK. But it's no one's business but your own what your body is like. Ultimately, you have to be happy with yourself.\n\n[34], identify which aspects of your appearance you can [35] change and which you can't. Everyone has things about themselves that they can't change and need to accept, like their height, for example, or their shoe size.\n\nIf there are [36] about yourself that you want to change and can change (such as how fit you are), do this by setting [37] for yourself. For example, if you want to get fit, [38] make a plan to exercise every day and eat [39] foods. Then keep track of your [40] until you reach your goal. Meeting a challenge you set for yourself is a great way to boost self-esteem!",
+      "passage": "Tips for Improving Your Body Image\n\nSome people think that they need to change how they look or act to feel good about themselves. But actually all you need to [31] is change the way you see your body and how you think about yourself.\n\nThe first thing to do is [32] that your body is your own. If you're very worried about your weight or size, [33] with your doctor to verify that things are OK. But it's no one's business but your own what your body is like. Ultimately, you have to be happy with yourself.\n\n[34], identify which aspects of your appearance you can [35] change and which you can't. Everyone has things about themselves that they can't change and need to accept, like their height, for example, or their shoe size.\n\nIf there are [36] about yourself that you want to change and can change (such as how fit you are), do this by setting [37] for yourself. For example, if you want to get fit, [38] make a plan to exercise every day and eat [39] foods. Then keep track of your [40] until you reach your goal. Meeting a challenge you set for yourself is a great way to boost self-esteem!",
       "instructions": "从备选词汇池中选择最佳单词填入空白处。",
       "optionsPool": [
         {
@@ -1434,7 +1669,7 @@
               "questionNumber": 31,
               "stem": "填入原文第 [31] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1447,8 +1682,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1456,7 +1699,7 @@
               "questionNumber": 32,
               "stem": "填入原文第 [32] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1469,8 +1712,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1478,7 +1729,7 @@
               "questionNumber": 33,
               "stem": "填入原文第 [33] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1491,8 +1742,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1500,7 +1759,7 @@
               "questionNumber": 34,
               "stem": "填入原文第 [34] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1513,8 +1772,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1522,7 +1789,7 @@
               "questionNumber": 35,
               "stem": "填入原文第 [35] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1535,8 +1802,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1544,7 +1819,7 @@
               "questionNumber": 36,
               "stem": "填入原文第 [36] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1557,8 +1832,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1566,7 +1849,7 @@
               "questionNumber": 37,
               "stem": "填入原文第 [37] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1579,8 +1862,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1588,7 +1879,7 @@
               "questionNumber": 38,
               "stem": "填入原文第 [38] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1601,8 +1892,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1610,7 +1909,7 @@
               "questionNumber": 39,
               "stem": "填入原文第 [39] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1623,8 +1922,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1632,7 +1939,7 @@
               "questionNumber": 40,
               "stem": "填入原文第 [40] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1645,8 +1952,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1659,7 +1974,7 @@
       "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
       "sortOrder": 6,
       "scorePerQuestion": 1.5,
-      "passage": "### 短文原文\n**Does Watching TV Relieve Stress?**\n\nAfter a tough day, you may _possibly_ (possible) turn on the TV. Getting __[41] (lose) in your favorite show seems like an __[42] (effect) way to relax. But it may make things worse.\n\nIt is __[43] (general) believed that watching TV can __[44] (able) people to relax. It provides a temporary escape from stresses. However, the same can't be __[45] (say) for those who are busy and __[46] (tire). Those people can feel guilty about __[47] (spend) so much time in front of the TV. They tend to see it as a form of procrastination (拖延). In other __[48] (word), they are avoiding other important things out of __[49] (lazy). They feel they are giving in to TV. That feeling __[50] (keep) them from relaxing.",
+      "passage": "Does Watching TV Relieve Stress?\n\nAfter a tough day, you may _possibly_ (possible) turn on the TV. Getting [41] (lose) in your favorite show seems like an [42] (effect) way to relax. But it may make things worse.\n\nIt is [43] (general) believed that watching TV can [44] (able) people to relax. It provides a temporary escape from stresses. However, the same can't be [45] (say) for those who are busy and [46] (tire). Those people can feel guilty about [47] (spend) so much time in front of the TV. They tend to see it as a form of procrastination (拖延). In other [48] (word), they are avoiding other important things out of [49] (lazy). They feel they are giving in to TV. That feeling [50] (keep) them from relaxing.",
       "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
       "optionsPool": [],
       "tasks": [
@@ -1672,7 +1987,7 @@
               "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
               "baseWord": "lose",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1685,8 +2000,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1695,7 +2018,7 @@
               "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
               "baseWord": "effect",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1708,8 +2031,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1718,7 +2049,7 @@
               "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
               "baseWord": "general",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1731,8 +2062,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1741,7 +2080,7 @@
               "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
               "baseWord": "able",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1754,8 +2093,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1764,7 +2111,7 @@
               "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
               "baseWord": "say",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1777,8 +2124,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1787,7 +2142,7 @@
               "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
               "baseWord": "tire",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1800,8 +2155,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1810,7 +2173,7 @@
               "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
               "baseWord": "spend",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1823,8 +2186,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1833,7 +2204,7 @@
               "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
               "baseWord": "word",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1846,8 +2217,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1856,7 +2235,7 @@
               "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
               "baseWord": "lazy",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1869,8 +2248,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1879,7 +2266,7 @@
               "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
               "baseWord": "keep",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1892,8 +2279,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1905,8 +2300,8 @@
       "type": "essay",
       "title": "第七部分：短文写作（第51题，30分）",
       "sortOrder": 7,
-      "scorePerQuestion": 30.0,
-      "passage": "请根据所提供材料中的要求完成一篇100词左右的英文写作任务。将你的答案写在答题纸相应的位置上。\n\n### 题目\n**51.**\n某英文报社正在举办题为“Online Shopping”的征文活动。请你根据下述写作要点提交一篇英文短文应征。\n- 你所了解的网上购物情况\n- 你对网上购物的看法",
+      "scorePerQuestion": 30,
+      "passage": "请根据所提供材料中的要求完成一篇100词左右的英文写作任务。将你的答案写在答题纸相应的位置上。\n\n51.\n某英文报社正在举办题为“Online Shopping”的征文活动。请你根据下述写作要点提交一篇英文短文应征。\n- 你所了解的网上购物情况\n- 你对网上购物的看法",
       "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
       "optionsPool": [],
       "tasks": [
@@ -1917,13 +2312,14 @@
             {
               "questionNumber": 51,
               "stem": "短文写作",
-              "scoreValue": 30.0,
-              "verified": false,
+              "scoreValue": 30,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
                   "standardAnswer": "略",
-                  "explanation": "**标准答案**:\n参考范文：略",
+                  "explanation": "**参考范文**：略。",
+                  "revisionNotes": "2026-09-12 视觉核验：原答案及评分参考第9页注明参考范文略。",
                   "acceptableAnswers": [],
                   "caseSensitive": false,
                   "disputed": false
@@ -1931,8 +2327,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2024年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2024年04月00015英语二（现代码13000英语专升本）全国卷及答案.pdf",
+                  "pageNumber": 9,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-12 视觉核验：答案及评分参考第 9 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }

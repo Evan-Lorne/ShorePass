@@ -8,23 +8,18 @@
   "paperType": "exam",
   "totalScore": 100,
   "suggestedMinutes": 150,
-  "verified": false,
-  "status": "draft",
-  "publishBlocked": true,
-  "blockReasons": [
-    {
-      "code": "ocr_unverified",
-      "description": "全量批量导入草稿，待逐题人工核对"
-    }
-  ],
-  "sourceFile": "2025年04月真题.md",
+  "verified": true,
+  "status": "verified",
+  "publishBlocked": false,
+  "blockReasons": [],
+  "sourceFile": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
   "sections": [
     {
       "type": "reading_judgment",
       "title": "第一部分：阅读判断（第1～10题，每题1分，共10分）",
       "sortOrder": 1,
       "scorePerQuestion": 1.0,
-      "passage": "下面的短文列出了10个句子，请根据短文的内容对每个句子作出判断：如果该句提供的是正确信息，选择A；如果该句提供的是错误信息，选择B；如果该句的信息文中没有提及，选择C。\n\n### 短文原文\n**The History of Coffee Houses**\n\nToday, the idea of a coffee house usually brings to mind a cozy (惬意的) place that serves delicious coffee. So how did the coffee house get started?\nThe first record of a public place serving coffee dates back to 1475. Kiva Han was the first coffee shop, located in Istanbul, Türkiye. Coffee was a very important item during that period. It was even legal in Türkiye for a woman to divorce her husband if he could not supply her with enough coffee.\nThe idea of adding cream and sugar to coffee came into fashion in Europe around 1529, when the first coffee house in Europe was established. Vienna was invaded by the Turkish army. They left many bags of coffee beans behind when they fled the city. An Austrian who had lived in Türkiye was the only person who recognized the value in the beans. He opened a coffee house and introduced the idea of filtering (过滤) coffee, as well as softening coffee with milk and sugar.\nCoffee establishments continued to spread, with the first one opening up in Britain in 1652. And it was in an English coffee house that the word \"tips\" was first used. A jar with a sign reading \"To Insure Prompt Service\" sat on the counter. You put a coin in the jar to be served quickly.\nThe British called their coffee houses \"penny universities,\" because that was the price for the coffee and the social upper-class of businessmen were found there. From there, the idea spread further through Europe and eventually to America. The role of the American coffee houses was the same as that in England: hotspots for the business community.\nAnd who could forget the most popular coffee house chain of all, Starbucks? They opened their first store in 1971, in Seattle, and have taken the world by storm with over 8,000 locations.\n\n### 题目",
+      "passage": "下面的短文列出了10个句子，请根据短文的内容对每个句子作出判断：如果该句提供的是正确信息，选择A；如果该句提供的是错误信息，选择B；如果该句的信息文中没有提及，选择C。\n\nThe History of Coffee Houses\n\nToday, the idea of a coffee house usually brings to mind a cozy (惬意的) place that serves delicious coffee. So how did the coffee house get started?\nThe first record of a public place serving coffee dates back to 1475. Kiva Han was the first coffee shop, located in Istanbul, Türkiye. Coffee was a very important item during that period. It was even legal in Türkiye for a woman to divorce her husband if he could not supply her with enough coffee.\nThe idea of adding cream and sugar to coffee came into fashion in Europe around 1529, when the first coffee house in Europe was established. Vienna was invaded by the Turkish army. They left many bags of coffee beans behind when they fled the city. An Austrian who had lived in Türkiye was the only person who recognized the value in the beans. He opened a coffee house and introduced the idea of filtering (过滤) coffee, as well as softening coffee with milk and sugar.\nCoffee establishments continued to spread, with the first one opening up in Britain in 1652. And it was in an English coffee house that the word \"tips\" was first used. A jar with a sign reading \"To Insure Prompt Service\" sat on the counter. You put a coin in the jar to be served quickly.\nThe British called their coffee houses \"penny universities,\" because that was the price for the coffee and the social upper-class of businessmen were found there. From there, the idea spread further through Europe and eventually to America. The role of the American coffee houses was the same as that in England: hotspots for the business community.\nAnd who could forget the most popular coffee house chain of all, Starbucks? They opened their first store in 1971, in Seattle, and have taken the world by storm with over 8,000 locations.",
       "instructions": "判断句子正误：A. 正确，B. 错误，C. 未提及。",
       "optionsPool": [],
       "tasks": [
@@ -34,9 +29,9 @@
           "questions": [
             {
               "questionNumber": 1,
-              "stem": "Kiva Han was the world's oldest coffee house.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Kiva Han was the world's oldest coffee house.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -62,16 +57,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 2,
-              "stem": "Turkish men often bought coffee as a gift for the marriage proposal.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Turkish men often bought coffee as a gift for the marriage proposal.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -97,16 +100,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 3,
-              "stem": "It was in Europe that people started to add cream to coffee.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "It was in Europe that people started to add cream to coffee.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -132,16 +143,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 4,
-              "stem": "The Turkish people enjoyed having their coffee black.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "The Turkish people enjoyed having their coffee black.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -167,16 +186,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 5,
-              "stem": "Coffee beans were first brought to Europe as a gift from Türkiye.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Coffee beans were first brought to Europe as a gift from Türkiye.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -202,16 +229,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 6,
-              "stem": "Before 1529, there were many coffee houses in Europe.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Before 1529, there were many coffee houses in Europe.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -237,16 +272,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 7,
-              "stem": "The British started tipping in order to get served more quickly.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "The British started tipping in order to get served more quickly.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -272,16 +315,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 8,
-              "stem": "Many coffee houses were opened in British universities.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Many coffee houses were opened in British universities.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -307,16 +358,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 9,
-              "stem": "American businessmen often met at coffee houses.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "American businessmen often met at coffee houses.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -342,16 +401,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 10,
-              "stem": "Starbucks opened its first coffee house in 1652.\n- A. True\n- B. False\n- C. Not Given",
+              "stem": "Starbucks opened its first coffee house in 1652.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -377,8 +444,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -391,7 +466,7 @@
       "title": "第二部分：阅读选择（第11～15题，每题2分，共10分）",
       "sortOrder": 2,
       "scorePerQuestion": 2.0,
-      "passage": "### 短文原文\n**The Spread of Cats**\n\nToday's house cats all come from a single type of wildcat. Researchers believe that it was originally from the Near East, in a region from modern-day Türkiye down to Lebanon. Around 10,000 years ago, farmers began storing grain. The grain attracted mice. Cats could help out with that.\nThe same type of cats also ruled in Ancient Egypt. They left their traces in statues and paintings. Researchers wondered how these two separate lines led to today's worldwide success of cats. Unlike other archaeologists (考古学家), Eva-Maria Geigl studied DNA instead of bones.\nCombining the genetic information with other records, the researchers figured out the cats' paths. After cats befriended (亲近) the Near East farmers, they began to appear on farms in other places. One example is a 9,500-year-old cat buried in a human grave on the island of Cyprus. There were no wild cats on the island. They must have come from somewhere else. Humans must have brought them on a boat.\nA second wave of cats began living with humans in Egypt 2,500 years ago. The new study shows that during Roman times, these Egyptian cats also began expanding through the Mediterranean (地中海). They mixed with the Near East cats and then went farther. They went through Europe and into Southwest Asia.\nWhen the Viking age began, the expansion of Egyptian cat families exploded. It was likely due to the popularity of using ship cats to kill rats. \"Rats on ships not only eat and spoil the food, they also destroy the ropes, so rats could be a disaster for sailors,\" says Geigl. \"Cats prevent these types of disasters.\"\n\n### 题目",
+      "passage": "The Spread of Cats\n\nToday's house cats all come from a single type of wildcat. Researchers believe that it was originally from the Near East, in a region from modern-day Türkiye down to Lebanon. Around 10,000 years ago, farmers began storing grain. The grain attracted mice. Cats could help out with that.\nThe same type of cats also ruled in Ancient Egypt. They left their traces in statues and paintings. Researchers wondered how these two separate lines led to today's worldwide success of cats. Unlike other archaeologists (考古学家), Eva-Maria Geigl studied DNA instead of bones.\nCombining the genetic information with other records, the researchers figured out the cats' paths. After cats befriended (亲近) the Near East farmers, they began to appear on farms in other places. One example is a 9,500-year-old cat buried in a human grave on the island of Cyprus. There were no wild cats on the island. They must have come from somewhere else. Humans must have brought them on a boat.\nA second wave of cats began living with humans in Egypt 2,500 years ago. The new study shows that during Roman times, these Egyptian cats also began expanding through the Mediterranean (地中海). They mixed with the Near East cats and then went farther. They went through Europe and into Southwest Asia.\nWhen the Viking age began, the expansion of Egyptian cat families exploded. It was likely due to the popularity of using ship cats to kill rats. \"Rats on ships not only eat and spoil the food, they also destroy the ropes, so rats could be a disaster for sailors,\" says Geigl. \"Cats prevent these types of disasters.\"",
       "instructions": "阅读短文，选择最佳选项（A、B、C、D）。",
       "optionsPool": [],
       "tasks": [
@@ -401,9 +476,9 @@
           "questions": [
             {
               "questionNumber": 11,
-              "stem": "The first cats were believed to come from ________.\n- A. Egypt\n- B. the Far East\n- C. the Near East\n- D. East Asia",
+              "stem": "The first cats were believed to come from ________.",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -433,16 +508,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 12,
-              "stem": "How does Geigl study the spread of cats?\n- A. By following their traces.\n- B. By analyzing their statues.\n- C. By examining their bones.\n- D. By testing their DNA.",
+              "stem": "How does Geigl study the spread of cats?",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -472,16 +555,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 3,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 3 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 13,
-              "stem": "The cat found in the Cyprus grave was probably ________.\n- A. born on the island\n- B. brought to the island\n- C. the world's first wild cat\n- D. the world's first pet cat",
+              "stem": "The cat found in the Cyprus grave was probably ________.",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -511,16 +602,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 14,
-              "stem": "The cats in Southwest Asia were originally from ________.\n- A. Egypt\n- B. Cyprus\n- C. Europe\n- D. the Mediterranean",
+              "stem": "The cats in Southwest Asia were originally from ________.",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -550,16 +649,24 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
             {
               "questionNumber": 15,
-              "stem": "Who contributed most to the spread of cats during the Viking age?\n- A. Researchers.\n- B. Painters.\n- C. Farmers.\n- D. Sailors.",
+              "stem": "Who contributed most to the spread of cats during the Viking age?",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -589,8 +696,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 4,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 4 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -603,7 +718,7 @@
       "title": "第三部分：概括段落大意和补全句子（第16～25题，每题1分，共10分）",
       "sortOrder": 3,
       "scorePerQuestion": 1.0,
-      "passage": "阅读下面短文，请完成短文后的2项测试任务：(1)从第16~20题后所给的6个选项中为第❶~❺段每段选择1个正确的小标题；(2)从第21~25题后所给的6个选项中选择5个正确选项，分别完成每个句子。\n\n### 短文原文\n**The Pony (小马) Express**\n\n❶ In 1848, gold was found in California. Thousands of people rushed there. But the train line to California wasn't finished until 1869. It took a long time to ride a horse from California to Missouri. What would you do if you wanted to send a message? Well, you could use the Pony Express.\n❷ In 1860 and 1861, the Pony Express was the fastest way to get news to and from the West. The road was around 2,000 miles long. It took most people weeks or months to ride that far. The Pony Express could make it in just 10 days. Those speeds were unheard of then. How did they do it? Well, they had a good system.\n❸ The Pony Express had 184 stations along the road. The stations were about 10 miles apart. This is about how far a horse could run before tired. The rider would switch to a new horse at each station. Every 75-100 miles, the rider would get to a home station, where riders would rest. Before resting, he would give his mail bag to a new rider. The mail never stopped moving, while the horses and riders rested.\n❹ It was tough to ride for the Pony Express. Each rider had to weigh less than 125 pounds. Speed was the key. Most riders were teenage boys. They rode up to 100 miles a day. The ride could be dangerous. Attacks by local people were common. But in its running time, the Pony Express lost only one mail bag.\n❺ The Pony Express filled an important role for a time, but it did not last. The Civil War started in 1861. Things got worse when the first telegraph line to California was finished later that year. People could send messages by telegraph instantly. Soon the Pony Express closed. But the story of the brave riders lives on.",
+      "passage": "阅读下面短文，请完成短文后的2项测试任务：(1)从第16~20题后所给的6个选项中为第❶~❺段每段选择1个正确的小标题；(2)从第21~25题后所给的6个选项中选择5个正确选项，分别完成每个句子。\n\nThe Pony (小马) Express\n\n❶ In 1848, gold was found in California. Thousands of people rushed there. But the train line to California wasn't finished until 1869. It took a long time to ride a horse from California to Missouri. What would you do if you wanted to send a message? Well, you could use the Pony Express.\n❷ In 1860 and 1861, the Pony Express was the fastest way to get news to and from the West. The road was around 2,000 miles long. It took most people weeks or months to ride that far. The Pony Express could make it in just 10 days. Those speeds were unheard of then. How did they do it? Well, they had a good system.\n❸ The Pony Express had 184 stations along the road. The stations were about 10 miles apart. This is about how far a horse could run before tired. The rider would switch to a new horse at each station. Every 75-100 miles, the rider would get to a home station, where riders would rest. Before resting, he would give his mail bag to a new rider. The mail never stopped moving, while the horses and riders rested.\n❹ It was tough to ride for the Pony Express. Each rider had to weigh less than 125 pounds. Speed was the key. Most riders were teenage boys. They rode up to 100 miles a day. The ride could be dangerous. Attacks by local people were common. But in its running time, the Pony Express lost only one mail bag.\n❺ The Pony Express filled an important role for a time, but it did not last. The Civil War started in 1861. Things got worse when the first telegraph line to California was finished later that year. People could send messages by telegraph instantly. Soon the Pony Express closed. But the story of the brave riders lives on.",
       "instructions": "Task 1: 为每段选择合适的小标题；Task 2: 完成句子。",
       "optionsPool": [],
       "tasks": [
@@ -615,7 +730,7 @@
               "questionNumber": 16,
               "stem": "Paragraph ❶:",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -653,8 +768,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -662,7 +785,7 @@
               "questionNumber": 17,
               "stem": "Paragraph ❷:",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -700,8 +823,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -709,7 +840,7 @@
               "questionNumber": 18,
               "stem": "Paragraph ❸:",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -747,8 +878,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -756,7 +895,7 @@
               "questionNumber": 19,
               "stem": "Paragraph ❹:",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -794,8 +933,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -803,7 +950,7 @@
               "questionNumber": 20,
               "stem": "Paragraph ❺:",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -841,8 +988,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -856,7 +1011,7 @@
               "questionNumber": 21,
               "stem": "People rushed to California ________.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -894,8 +1049,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -903,7 +1066,7 @@
               "questionNumber": 22,
               "stem": "To ride 2,000 miles took the Pony Express ________.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -941,8 +1104,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -950,7 +1121,7 @@
               "questionNumber": 23,
               "stem": "There were adequate stations to ________.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -988,8 +1159,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -997,7 +1176,7 @@
               "questionNumber": 24,
               "stem": "Most riders had to ________.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1035,8 +1214,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1044,7 +1231,7 @@
               "questionNumber": 25,
               "stem": "The telegraph appeared ________.",
               "scoreValue": 1.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1082,8 +1269,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 5,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 5 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1096,7 +1291,7 @@
       "title": "第四部分：填句补文（第26～30题，每题2分，共10分）",
       "sortOrder": 4,
       "scorePerQuestion": 2.0,
-      "passage": "### 短文原文\n**Work is a Blessing**\n\nI grew up in Lakeland, LA, one of 12 children. We all lived on my parents' farm. We grew cotton, corn and had a large garden, but it didn't bring in much cash. __[26] We milked 65 cows at 5 in the morning and again at 2 in the afternoon, seven days a week.\nOne Saturday before daylight, I remember complaining to my father and grandfather about having to milk those cows. My father said, \"You know, boy, to work is a blessing.\" __[27] However, it took many years before it sank in.\nGoing to college was a rare privilege for a kid from Lakeland. __[28] So I joined the ROTC program to help pay for college. And what started out as an obligation to the Army became a way of life that I stayed committed to for 37 years, three months and three days.\nIn the late 1980s, during a visit to Bangladesh, I saw a woman with a baby on her back, breaking bricks with a hammer. I asked a Bangladesh military officer why they weren't using a machine, which would have been a lot easier. __[29] Breaking those bricks meant she could earn enough money to feed herself and her baby that day. And as bad as that woman's job was, it was enough to keep a small family alive. __[30]\n\n### 备选句子池\n\n### 题目\n**26.**\n**标准答案**: F\n\n**27.**\n**标准答案**: D\n\n**28.**\n**标准答案**: B\n\n**29.**\n**标准答案**: C\n\n**30.**\n**标准答案**: E",
+      "passage": "Work is a Blessing\n\nI grew up in Lakeland, LA, one of 12 children. We all lived on my parents' farm. We grew cotton, corn and had a large garden, but it didn't bring in much cash. [26] We milked 65 cows at 5 in the morning and again at 2 in the afternoon, seven days a week.\nOne Saturday before daylight, I remember complaining to my father and grandfather about having to milk those cows. My father said, \"You know, boy, to work is a blessing.\" [27] However, it took many years before it sank in.\nGoing to college was a rare privilege for a kid from Lakeland. [28] So I joined the ROTC program to help pay for college. And what started out as an obligation to the Army became a way of life that I stayed committed to for 37 years, three months and three days.\nIn the late 1980s, during a visit to Bangladesh, I saw a woman with a baby on her back, breaking bricks with a hammer. I asked a Bangladesh military officer why they weren't using a machine, which would have been a lot easier. [29] Breaking those bricks meant she could earn enough money to feed herself and her baby that day. And as bad as that woman's job was, it was enough to keep a small family alive. [30]",
       "instructions": "从短文后所给各选项中，选择合适句子放回原文位置。",
       "optionsPool": [
         {
@@ -1133,7 +1328,7 @@
               "questionNumber": 26,
               "stem": "填入原文第 [26] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1171,8 +1366,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1180,7 +1383,7 @@
               "questionNumber": 27,
               "stem": "填入原文第 [27] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1218,8 +1421,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1227,7 +1438,7 @@
               "questionNumber": 28,
               "stem": "填入原文第 [28] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1265,8 +1476,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1274,7 +1493,7 @@
               "questionNumber": 29,
               "stem": "填入原文第 [29] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1312,8 +1531,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1321,7 +1548,7 @@
               "questionNumber": 30,
               "stem": "填入原文第 [30] 空的最佳选项。",
               "scoreValue": 2.0,
-              "verified": false,
+              "verified": true,
               "options": [
                 {
                   "key": "A",
@@ -1359,8 +1586,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 6,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 6 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1373,7 +1608,7 @@
       "title": "第五部分：填词补文（第31～40题，每题1.5分，共15分）",
       "sortOrder": 5,
       "scorePerQuestion": 1.5,
-      "passage": "**The Impact of Artificial Intelligence (人工智能) on Jobs**\n\nAs you grew up, there's a good chance you heard the saying \"go to a good school, get a good job, and make lots of money.\" On the surface, that seems like [31] advice. After all, college graduates, on [32], earn almost $1 million more in their lifetime than those with [33] a high school education.\nPerhaps you were encouraged to earn a professional degree to [34] a high-paying job like a doctor, dentist, lawyer or something [35]. This also seems like great advice. A professional degree holder [36] earns more than $2 million more in their lifetime than the average college graduate. But that was then, not now.\nThanks to rapid [37] in artificial intelligence, jobs are falling to machines. And it's not just blue-collar jobs that are being taken [38] by automation (自动化). It's white-collar professions as well.\nThe safe, high paying jobs of the past are starting to look much less secure. If you're currently in one of the professions of finance, [39] or law, or going to school to get into these fields, you should [40] twice before continuing.",
+      "passage": "The Impact of Artificial Intelligence (人工智能) on Jobs\n\nAs you grew up, there's a good chance you heard the saying \"go to a good school, get a good job, and make lots of money.\" On the surface, that seems like [31] advice. After all, college graduates, on [32], earn almost $1 million more in their lifetime than those with [33] a high school education.\nPerhaps you were encouraged to earn a professional degree to [34] a high-paying job like a doctor, dentist, lawyer or something [35]. This also seems like great advice. A professional degree holder [36] earns more than $2 million more in their lifetime than the average college graduate. But that was then, not now.\nThanks to rapid [37] in artificial intelligence, jobs are falling to machines. And it's not just blue-collar jobs that are being taken [38] by automation (自动化). It's white-collar professions as well.\nThe safe, high paying jobs of the past are starting to look much less secure. If you're currently in one of the professions of finance, [39] or law, or going to school to get into these fields, you should [40] twice before continuing.",
       "instructions": "从备选词汇池中选择最佳单词填入空白处。",
       "optionsPool": [
         {
@@ -1434,7 +1669,7 @@
               "questionNumber": 31,
               "stem": "填入原文第 [31] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1447,8 +1682,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1456,7 +1699,7 @@
               "questionNumber": 32,
               "stem": "填入原文第 [32] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1469,8 +1712,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1478,7 +1729,7 @@
               "questionNumber": 33,
               "stem": "填入原文第 [33] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1491,8 +1742,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1500,7 +1759,7 @@
               "questionNumber": 34,
               "stem": "填入原文第 [34] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1513,8 +1772,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1522,7 +1789,7 @@
               "questionNumber": 35,
               "stem": "填入原文第 [35] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1535,8 +1802,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1544,7 +1819,7 @@
               "questionNumber": 36,
               "stem": "填入原文第 [36] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1557,8 +1832,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1566,7 +1849,7 @@
               "questionNumber": 37,
               "stem": "填入原文第 [37] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1579,8 +1862,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1588,7 +1879,7 @@
               "questionNumber": 38,
               "stem": "填入原文第 [38] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1601,8 +1892,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1610,7 +1909,7 @@
               "questionNumber": 39,
               "stem": "填入原文第 [39] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1623,8 +1922,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1632,7 +1939,7 @@
               "questionNumber": 40,
               "stem": "填入原文第 [40] 空的最佳选项。",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1645,8 +1952,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 7,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 7 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1659,7 +1974,7 @@
       "title": "第六部分：完形补文（第41～50题，每题1.5分，共15分）",
       "sortOrder": 6,
       "scorePerQuestion": 1.5,
-      "passage": "### 短文原文\n**Dutch King's Secret Life**\n\nNext time you fly, the pilot *might* (may) be a king. Dutch King Willem-Alexander has __[41] (secret) been flying planes twice a month for twenty-one __[42] (year). His passengers were __[43] (aware) of this. The 50-year-old king __[44] (get) his military pilot's license with the Dutch Air Force in his twenties. He loved flying and __[45] (become) a commercial pilot. The king is now __[46] (train) to fly Boeing 737 because he wants to upgrade his skills.\nThe king said flying could relieve his pressure. He explained: \"You can't take your problems from the ground into the skies. You can leave them aside __[47] (complete) and concentrate on something else. That is the most __[48] (relax) part of flying.\" He said it was easy to keep his secret. Few people __[49] (know) he was their pilot. He always welcomed passengers on behalf of the captain and the crew. So far he has never __[50] (tell) passengers his name.\n\n### 题目\n**41.** (secret)",
+      "passage": "Dutch King's Secret Life\n\nNext time you fly, the pilot *might* (may) be a king. Dutch King Willem-Alexander has [41] (secret) been flying planes twice a month for twenty-one [42] (year). His passengers were [43] (aware) of this. The 50-year-old king [44] (get) his military pilot's license with the Dutch Air Force in his twenties. He loved flying and [45] (become) a commercial pilot. The king is now [46] (train) to fly Boeing 737 because he wants to upgrade his skills.\nThe king said flying could relieve his pressure. He explained: \"You can't take your problems from the ground into the skies. You can leave them aside [47] (complete) and concentrate on something else. That is the most [48] (relax) part of flying.\" He said it was easy to keep his secret. Few people [49] (know) he was their pilot. He always welcomed passengers on behalf of the captain and the crew. So far he has never [50] (tell) passengers his name.",
       "instructions": "使用括号内所给单词的正确形式填入文中空白处。",
       "optionsPool": [],
       "tasks": [
@@ -1672,7 +1987,7 @@
               "stem": "填入原文第 [41] 空，使用括号内单词的正确形式。",
               "baseWord": "secret",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1685,8 +2000,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1695,7 +2018,7 @@
               "stem": "填入原文第 [42] 空，使用括号内单词的正确形式。",
               "baseWord": "year",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1708,8 +2031,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1718,7 +2049,7 @@
               "stem": "填入原文第 [43] 空，使用括号内单词的正确形式。",
               "baseWord": "aware",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1731,8 +2062,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 1,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 1 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1741,7 +2080,7 @@
               "stem": "填入原文第 [44] 空，使用括号内单词的正确形式。",
               "baseWord": "get",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1754,8 +2093,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1764,7 +2111,7 @@
               "stem": "填入原文第 [45] 空，使用括号内单词的正确形式。",
               "baseWord": "become",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1777,8 +2124,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1787,7 +2142,7 @@
               "stem": "填入原文第 [46] 空，使用括号内单词的正确形式。",
               "baseWord": "train",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1800,8 +2155,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1810,7 +2173,7 @@
               "stem": "填入原文第 [47] 空，使用括号内单词的正确形式。",
               "baseWord": "complete",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1823,8 +2186,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1833,7 +2204,7 @@
               "stem": "填入原文第 [48] 空，使用括号内单词的正确形式。",
               "baseWord": "relax",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1846,8 +2217,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1856,7 +2235,7 @@
               "stem": "填入原文第 [49] 空，使用括号内单词的正确形式。",
               "baseWord": "know",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1869,8 +2248,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             },
@@ -1879,7 +2266,7 @@
               "stem": "填入原文第 [50] 空，使用括号内单词的正确形式。",
               "baseWord": "tell",
               "scoreValue": 1.5,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1892,8 +2279,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
@@ -1906,7 +2301,7 @@
       "title": "第七部分：短文写作（第51题，30分）",
       "sortOrder": 7,
       "scorePerQuestion": 30.0,
-      "passage": "**51.**\n某英文报社正在举办题为“No Smoking in Public Places”的征文活动。请你根据下述写作要点提交一篇英文短文应征。\n- 公共场所吸烟有什么危害\n- 你能为公共场所禁烟做些什么",
+      "passage": "51.\n某英文报社正在举办题为“No Smoking in Public Places”的征文活动。请你根据下述写作要点提交一篇英文短文应征。\n- 公共场所吸烟有什么危害\n- 你能为公共场所禁烟做些什么",
       "instructions": "根据题目要求完成一篇100词左右的英文短文写作。",
       "optionsPool": [],
       "tasks": [
@@ -1918,7 +2313,7 @@
               "questionNumber": 51,
               "stem": "短文写作",
               "scoreValue": 30.0,
-              "verified": false,
+              "verified": true,
               "options": [],
               "answerRules": [
                 {
@@ -1931,8 +2326,16 @@
               ],
               "sourceReferences": [
                 {
-                  "sourceFileName": "2025年04月真题.md",
-                  "extractionMethod": "ocr"
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷.pdf",
+                  "pageNumber": 8,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：原试题第 8 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
+                },
+                {
+                  "sourceFileName": "2025年4月13000英语专升本（原代码00015）全国卷答案.pdf",
+                  "pageNumber": 2,
+                  "extractionMethod": "manual",
+                  "correctionNotes": "2026-09-11 视觉核验：参考答案第 2 页。；2026-09-12 仅基于已导入正文的语义/格式复核（未复查原件）：本轮统一空号/补充括号原词/修复可确定的格式残留；来源页码沿用旧记录。"
                 }
               ]
             }
